@@ -1,0 +1,13 @@
+lsi:         false
+name: Academie d'Espee
+description: Kingdom of Atlantia
+url: http://academie-de-espee.github.io
+pygments:    true
+markdown: kramdown
+excerpt_separator: <!-- more -->
+permalink:   pretty
+paginate:    5
+paginate_path: "/blog/page:num"
+exclude:
+  - README.txt
+  - Rakefile
