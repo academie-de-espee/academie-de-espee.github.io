@@ -1,0 +1,3 @@
+<TD>Get Doug's <A HREF="#DL"
+  onClick="window.open(&quot;pgp/dl.htm&quot;,&quot;DL&quot;,&quot;width=600,height=500,scrollbars&quot;)">public PGP key</A>
+</TD>
