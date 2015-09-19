@@ -9,10 +9,10 @@ title: Humor
 * [Sportly Graces](ten-commandments) - By Lord Kirk Dragomani
 * [Are You a Compulsive Fencer?](compulsive)
 * [Limerick Story](limerick) - By Master Robin of Gilwell
-* [The Dread Pirate Seamus](seamus.htm) - Lady Ysabeau de Taurion
-* [Dictionary of Funny Fencing Phrases](dict.htm)
-* [Top 20 Reasons Why...](top20.htm)
-* [Top 10 Reasons Why Rapier Is Not A Sport](top10.htm)
+* [The Dread Pirate Seamus](seamus) - Lady Ysabeau de Taurion
+* [Dictionary of Funny Fencing Phrases](dictionary-of-fencing-phrases)
+* [Top 20 Reasons Why...](top-20)
+* [Top 10 Reasons Why Rapier Is Not A Sport](top-ten-reasons)
 * [Dead Cadet Sketch](dead-cadet.htm)
 * [A Treatise Concerning Leg Wounds...](treatise.htm) - by Don Aubrey de Baudricourt and Lord Joachim van den Has
 * [ABC's of Fencing](abc.htm) - by Lady Caitlin Deirdre of Errelyn
