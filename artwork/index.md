@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Art
+title: Various Artwork of the Academie
 ---
 
 * [Closeup of the Provost Scroll](scroll)
