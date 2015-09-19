@@ -14,10 +14,8 @@ title: Humor
 * [Top 20 Reasons Why...](top-20)
 * [Top 10 Reasons Why Rapier Is Not A Sport](top-ten-reasons)
 * [Dead Cadet Sketch](dead-cadet.htm)
-* [A Treatise Concerning Leg Wounds...](treatise.htm) - by Don Aubrey de Baudricourt and Lord Joachim van den Has
-* [ABC's of Fencing](abc.htm) - by Lady Caitlin Deirdre of Errelyn
-* [Why Fencing Is Better Than Sex](better_than_sex.htm)
-* [I do not want this schlager sword](caitlin2.htm) - Lady Caitlin Deirdre of Errelyn
-* [Wear Armor - a lesson for fighting](armor.htm)
+* [Why Fencing Is Better Than Sex](better-than-sex)
+* [I do not want this schlager sword](schlager-sword) - Lady Caitlin Deirdre of Errelyn
+* [Wear Armor - a lesson for fighting](wear-armor)
 * [Drink Water - a lesson for Pennsic](water.htm)
 * [London Monster (Templar Knights History)](templar.htm)

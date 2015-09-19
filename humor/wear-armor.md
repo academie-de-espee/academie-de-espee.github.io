@@ -1,38 +1,10 @@
-<!-- This document was created with Notepad :) -->
+---
+layout: default
+title: Wear Armor
+---
 
-<HTML>
-<HEAD>
-  <TITLE>Academie d'Espee - Wear Armor</TITLE>
-</HEAD>
+*Sung to [Wear Sunscreen](https://www.youtube.com/watch?v=sTJ7AzBIJoI)*
 
-<BODY BACKGROUND="images/stonebak.gif">
-<CENTER>
-<H1>Wear Armor</H1>
-
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-  <BR>
-
-<TABLE WIDTH=80% BORDER=0>
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE COLSPAN=2>
-  Anyone that listened to "popular radio" a few years ago probably
-  heard the pseudo-rap song titled "Wear Sunscreen".  A friend of mine
-  from An Tir sent this out and I thought I would share it with you.  I
-  don't have any author listed for it, so use at your own risk.
-  <BR><BR>
-  Aedan
-  <BR><BR>
-  </TD>
-</TR>
-</TABLE>
-
-<TABLE WIDTH=80% BORDER=0>
-
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  <CENTER><H2>Wear Armour </H2></CENTER>
- 
 If I could offer you only one tip for the future, armour would be it. The 
 long-term benefits of armour have been proven by Dukes, whereas the 
 rest of my advice has no basis more reliable than my own meandering 
@@ -127,41 +99,3 @@ past from the disposal, wiping it off, painting over the ugly parts and
 recycling it for more than it's worth.. 
   <BR><BR>
 But trust me on the armour...
-  </TD>
-</TR>
-
-</TABLE>
-
-<TABLE BORDER=0>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>
-  <BR>
-        <A HREF="index.htm"> <IMG SRC="images/rpbtnbl2.gif" WIDTH=65 HEIGHT=65 BORDER=0 ALT="Rapier Button"></A> 
-      </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>
-  Return to the Academie d'Espee
-  </TD>
-</TR>
-</TABLE>
-
-<BR>
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-
-<BR>
-This page is theoretically maintained by <a href="mailto:bmc@shmoo.com">Brian de Moray, Provost</A><BR>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-var m = "and was last updated on " + document.lastModified;
-var p = m.length-8;
-document.writeln("<center>");
-document.write(m.substring(p, 0));
-document.writeln("</center>");
-// End -->
-</SCRIPT>
-
-</CENTER>
-
-</BODY>
-
-</HTML>
