@@ -1,42 +1,39 @@
 /* default CSS */
 
 body {
-    background: #151314;
-    color: #FFFFFF;
+    color: #151314;
+    background: #FFFFFF;
     margin: 10px;
-    padding: 0px;
-    text-align: center;
 
-    /* 
-    margin: 20px 0; 
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    text-align: center;
-    font: normal 0.8em sans-serif;
-    */
+    /* padding: 0px; */
+    /* text-align: center;*/
+
+    /* margin: 20px 0;  */
+    /* font-family: Helvetica, Arial, sans-serif; */
+    /* font-size: 16px; */
+    /* text-align: center; */
+    /* font: normal 1.1em sans-serif; */
 }
 
 a {
-    color: #FFF;
-    text-decoration: none; 
+    color: #666;
 }
 
 
 a:hover {
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 h1, h2, h3, h4 {
     margin-bottom: 10px;
-    color: #999;
+    color: #0000CC;
 }
 
 p {
     margin-top: 10px;
 }
 
-pre, code
-{
+pre, code {
     color: #bbb;
     margin-bottom: 1em;
 }
@@ -116,7 +113,7 @@ img {
 #header h1 a:hover,
 #header h2 a:hover
 {
-    color: #fff;
+/*    color: #fff; */
     text-decoration: none;
 }
 
@@ -147,7 +144,7 @@ img {
 }
 
 #header ul li a {
-    color: #999;
+    color: #0000CC;
     text-decoration: none;
 }
 
@@ -155,7 +152,7 @@ img {
 #header ul li.active a,
 #header li a
 {
-    color: #fff;
+    /* color: #fff; */
     text-decoration: none;
 }
 
@@ -221,20 +218,21 @@ h3.excerpt a {
 }
 
 #footer a {
-    color: #000;
-    text-decoration: none;
+/*    color: #000;
+    text-decoration: none; */
 }
 
 #footer a:hover
 {
-    color: #000;
+/*    color: #000;
     text-decoration: none;
+*/
 }
 
 /* active element */
 #footer ul li.active a {
-    color: #000;
-    text-decoration: none;
+    /* color: #000; */
+    /* text-decoration: none; */
 }
 
 img[alt="scroll"] {
