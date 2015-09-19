@@ -10,3 +10,4 @@ In the spring of 2009, a growing discussion came to a head and newer, less wordy
 * [Scholar's Oath](scholar)
 * [Oath of Fealty](fealty)
 * [Scroll Text for a Provost](scroll-text)
+* [Relevant Atlantian Treaties](treaties)
