@@ -1,0 +1,238 @@
+/* default CSS */
+
+body {
+    background: #151314;
+    color: #FFFFFF;
+    margin: 10px;
+    padding: 0px;
+    text-align: center;
+
+    /* 
+    margin: 20px 0; 
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    font: normal 0.8em sans-serif;
+    */
+}
+
+a {
+    color: #FFF;
+    text-decoration: none; 
+}
+
+
+a:hover {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4 {
+    margin-bottom: 10px;
+    color: #999;
+}
+
+p {
+    margin-top: 10px;
+}
+
+pre, code
+{
+    color: #bbb;
+    margin-bottom: 1em;
+}
+
+a.read-more {
+    font-style: italic;
+}
+
+img {
+    border: none;
+}
+
+.thumbnails img, img.thumbnails {
+    max-width: 100px;
+    max-width: 100px;
+    padding: 5px;
+    float: left;
+}
+
+.margins {
+    text-align: left;
+    margin: 0 auto;
+    min-width: 700px;
+    max-width: 1000px;
+}
+
+.hlist {
+    margin: 0px;
+    list-style-type: none;
+}
+
+.hlist ul {
+    list-style-type: none;
+    display: inline;
+}
+
+.hlist ul li {
+    list-style-type: none;
+    display: inline;
+}
+
+
+/* but header should be block */
+#header .hlist ul {
+    display: block;
+}
+
+#header {
+    margin: 20px 0px;
+    list-style-type: none;
+    text-align: center;
+}
+
+#header h1,
+#header h2,
+#header h3
+{
+    margin: 0px;
+}
+
+#header h3 {
+    font-size: 110%;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+#header h1 a,
+#header h2 a,
+#header h3 a
+{
+    color: #888;
+    text-decoration: none;
+}
+
+#header h1 a:hover,
+#header h2 a:hover
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+#header form {
+    margin-top: 15px;
+    float: right;
+    width: 25%;
+}
+
+#header ul {
+    margin-top: 0px;
+    padding: 5px 0px 5px 0px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    #888 solid;
+}
+
+#header ul
+#header ul li,
+#header ul li a
+{
+    color: #000;
+    padding: 5px;
+}
+
+#header ul li {
+    display: inline;
+}
+
+#header ul li a {
+    color: #999;
+    text-decoration: none;
+}
+
+#header ul li a:hover,
+#header ul li.active a,
+#header li a
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+.post, .excerpt {
+    line-height: 20px;
+}
+
+h3.excerpt {
+    font-weight: bold;
+    font-size: 100%;
+    border-top: 1px solid #888;
+    border-bottom: 1px #888 solid;
+}
+
+h3.excerpt a {
+    text-decoration: none;
+}
+
+
+.paging {
+    margin: 20px 0px;
+}
+
+.paging .newer {
+    float: right;
+    width: 25%;
+}
+
+.paging .older {
+    float: left;
+    width: 25%;
+}
+
+
+.clear {
+    clear: both;
+    height: 0px;
+    line-height: 0px;
+}
+
+.excerpt { }
+
+.meta {
+    display: block;
+    color: #666666;
+    padding: 5px;
+}
+
+.final {
+    margin-top: 15px;
+}
+
+.note {
+    display: block;
+    padding: 5px;
+}
+
+#footer {
+    border-top: 1px solid #ddd;
+    padding-top: 5px;
+    margin: 12px auto;
+    text-align: center;
+}
+
+#footer a {
+    color: #000;
+    text-decoration: none;
+}
+
+#footer a:hover
+{
+    color: #000;
+    text-decoration: none;
+}
+
+/* active element */
+#footer ul li.active a {
+    color: #000;
+    text-decoration: none;
+}

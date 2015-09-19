@@ -1,0 +1,48 @@
+---
+# -*- html -*- mode
+nav:
+  - text: Index
+    href: /
+  - text: Code
+    href: https://github.com/academie-de-espee/academie-de-espee.github.io
+---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>Lunge Technology : {{ page.title }} </title>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta name="language" content="en" />
+        <link rel="stylesheet" type="text/css" href="/css/default.css" />
+        <link rel="stylesheet" type="text/css" href="/css/syntax.css" />
+        <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml">
+        <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    </head>
+
+    <body>
+        <div class="margins">
+            <div id="header">
+                <center><img src="/images/scroll-s.gif" alt="Academie de Espee" width=690></center>
+                <div class="clear"></div>
+
+                <div id="nav">
+                    <div class="hlist">
+                        <ul>
+                        {% for t in page.nav %}
+                            <li> <a href="{{ t.href }}">{{ t.text }}</a> </li>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div id="main">
+            {{ content }}
+            </div>
+
+            <div id="footer">
+            <!-- Copyright &copy; {{ site.time | date:"%Y" }} Aedan Aylwyn, Brian Caswell.  All Rights Reserved. -->
+            </div>
+        </div>
+    </body>
+</html>
