@@ -9,12 +9,12 @@ and hope to inspire those that share our art to share our passion as well.
 
 ### Atlantian Melee Tournament - Pennsic XXV
 
-* [The Pledge of the Rapiers](poem.htm)
+* [The Pledge of the Rapiers](poem)
 
 ### Tournament of the Rapier Champions - Pennsic XXV
 
-* [Sestina of the Rapier Challenge](poem3.htm)
+* [Sestina of the Rapier Challenge](poem3)
 
 ### Atlantian Melee Tournament - Pennsic XXVI
 
-* [The Pledge of the Rapiers](poem2.htm)
+* [The Pledge of the Rapiers](poem2)
