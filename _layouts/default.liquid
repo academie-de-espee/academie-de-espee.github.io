@@ -3,8 +3,20 @@
 nav:
   - text: Index
     href: /
-  - text: Code
-    href: https://github.com/academie-de-espee/academie-de-espee.github.io
+  - text: Sacred Oaths
+    href: /oaths
+  - text: Articles
+    href: /articles
+  - text: Pageantry
+    href: /pennsic
+  - text: Articles from other Kingdoms
+    href: /other-articles
+  - text: Humor
+    href: /humor
+  - text: Art
+    href: /art
+  - text: Links
+    href: /links
 ---
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -30,8 +42,11 @@ nav:
                 <div id="nav">
                     <div class="hlist">
                         <ul>
-                        {% for t in page.nav %}
+                            {% for t in page.nav %}
                             <li> <a href="{{ t.href }}">{{ t.text }}</a> </li>
+                            {% if forloop.rindex > 1 %}
+                                |
+                            {% endif %}
                         {% endfor %}
                         </ul>
                     </div>

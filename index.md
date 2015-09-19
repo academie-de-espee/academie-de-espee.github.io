@@ -12,18 +12,5 @@ The Academie d'Espee exists to promote the practice and enjoyment of period styl
 * [Free Scholars](http://freescholars.atlantia.sca.org/)
 * Scholars (TBD)
 
-[Guidelines for Consideration](/guidelines.htm)
-
-## Resources
-
-* [Articles from the Academie](articles)
-* [Sacred Oaths](oaths)
-* [Pennsic Tourney Pageantry](pennsic)
-* [Atlantian Laws, Treaties and Rules](/west.htm)
-* [Articles from other Kingdoms](other-articles)
-* [Lighter reading](/lounge.htm)
-* [Art related to the Academie](/gallery.htm)
-* [External Links](/links.htm)
-
 ## Other sites of Interest
 * [Rapier Marshal's Site](http://rapier.atlantia.sca.org/)
