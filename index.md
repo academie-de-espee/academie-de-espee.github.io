@@ -16,7 +16,7 @@ The Academie d'Espee exists to promote the practice and enjoyment of period styl
 
 ## Resources
 
-* [Articles from the Academie](/north.htm)
+* [Articles from the Academie](articles)
 * [Sacred Oaths](/south.htm)
 * [Pennsic Tourney Pageantry](/east.htm)
 * [Atlantian Laws, Treaties and Rules](/west.htm)
