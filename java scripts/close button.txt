@@ -1,4 +1,0 @@
-<form>
-    <p align="center"><a name="ML"><input type="button"
-    value="Close" onclick="window.close();"></a></p>
-</form>
