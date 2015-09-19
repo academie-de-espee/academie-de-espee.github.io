@@ -1,32 +1,10 @@
-<!-- This document was created with Notepad -->
+---
+layout: default
+title: Ushering a Prize
+---
 
-<HTML>
-<HEAD>
-  <TITLE>Academie d'Espee - Ushering a Prize</TITLE>
-</HEAD>
+Unto the Duellists of Atlantia, and especially her noble Rapier Marshalls, an open letter from Baron Alan Gravesend and Master Geoffrey Gamble.
 
-<BODY BACKGROUND="images/stonebak.gif">
-<CENTER>
-<H1>
-Ushering a Prize
-</H1>
-
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-  <BR>
-
-<TABLE WIDTH=95% BORDER=0>
-
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  <H3>
-  Unto the Duellists of Atlantia, and especially her noble Rapier
-  Marshalls, an open letter from Baron Alan Gravesend and Master Geoffrey Gamble.
-  </H3>   </TD>
-</TR>
-
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
 During the list and feast of Transylvania Travesty, we held some
 sober divers discussions on the proper way to fight an individual
 who is playing for his/her prize as a scholar (authorized
@@ -40,15 +18,15 @@ in rank; to this end we suggest some ideas and tools which might be
 used in an authorization bout.  These are not techniques that should
 all be used in any one bout, but rather an assortment of tricks to
 be used as appropriate.
-<BR><BR> 
-<I> Excerpt from "ye Olde Guilde of Duellists and Mayhem Hatcherie" bylaws...  c. 1593 5/8 
-<BR><BR>
-"That hee be notte a wylde fightter, like to injur
-or maim hys opponent; a rude brawler who doth enter nobl combatte as it
-were an affray of the gutter or who  cannot so control himself, hys temper
-or his weapons thatte they wyl not be an  hazard in the fite.  For such
-cannot be allowed into the ranks of the Scholers." </I> 
-<BR><BR>
+
+*Excerpt from "ye Olde Guilde of Duellists and Mayhem Hatcherie" bylaws...  c. 1593 5/8*
+
+> "That hee be notte a wylde fightter, like to injur
+> or maim hys opponent; a rude brawler who doth enter nobl combatte as it
+> were an affray of the gutter or who  cannot so control himself, hys temper
+> or his weapons thatte they wyl not be an  hazard in the fite.  For such
+> cannot be allowed into the ranks of the Scholers."
+
 We think it of value that the usher will, during the course of
 the bout, attempt to encourage or even provoke unsafe behavior.  It is
 unsafe for a fighter to make wild blade movements of a striking nature,
@@ -69,22 +47,22 @@ more) holds be called under the following circumstances:  the first, a hold
 out of the blue, just to see the response; the second, a hold carefully
 timed to fall in the middle of a hard action, to see how quickly it
 registers, and how the scholar responds.
-<BR><BR>
+
 We believe that the scholar who fails any of the above challenges is probably
 (well, in some cases certainly) not ready to authorize.  In many cases it
 will not be necessary to be so provocative in the course of playing the prize
 -- the scholar's faults will be evident:  but if they are not so clear, by all
 means, it is the duty of the usher to bring them out.
-<BR><BR> 
-<I>
-Excerpt from "ye Olde Guilde of Duellists and Mayhem Hatcherie" bylaws...  c. 1593 
-<BR><BR>
-"Ye shall make shor that the scholer be a capable fighter withal, and bee not like
-to bring the hoots & guffaws of the populess uppon this noble Guild, being a great
-clumsy booby who cuts down trees with his blade in going from prime to second,  or
-one whose every thrust would peen a rivit at a singl shotte, nor yett a diffident,
-languorous fighter who careth not if hee win nor loose, so long as he looketh well..." </I>
-<BR><BR> 
+
+*Excerpt from "ye Olde Guilde of Duellists and Mayhem Hatcherie" bylaws...  c. 1593*
+
+> Ye shall make shor that the scholer be a capable fighter withal, and bee not like
+> to bring the hoots & guffaws of the populess uppon this noble Guild, being a great
+> clumsy booby who cuts down trees with his blade in going from prime to second,  or
+> one whose every thrust would peen a rivit at a singl shotte, nor yett a diffident,
+> languorous fighter who careth not if hee win nor loose, so long as he looketh well..."
+
+
 At a minimum, the free scholar should try a variety of attacks, coming from all lines,
 to see that the scholar has a defense for each line.  Through the course of the prize,
 the scholar should be faced with an increasing challenge, beginning exclusively with
@@ -104,7 +82,7 @@ but should also give some idea of their attitude towards "iffy" shots.  The free
 scholar should also make an effort to vary his/her style during the fight, using
 different guards and stances, and the scholar should be encouraged to fight in
 something more period than modern strip fencing style.
-<BR><BR>
+
 These are a few ideas and tools that can be used in fighting authorization bouts, and
 we hope you find them helpful.  It should be clear that the above techniques are not
 ones that every authorized duellist in the kingdom can be expected to employ effectively
@@ -116,48 +94,10 @@ met through the appointment of field marshalls for this purpose, as outlined in 
 Atlantian Marshalls Handbook.  We hope that it will not be necessary to do this.  On
 the other hand, fighters too often use an authorization bout as a warm up before a
 tourney or melee.  This is a disservice to the scholar, and to the other duellists of the kingdom.
-<BR><BR>
+
 We have all heard of kingdoms who reject scholars on the basis of vaguely stated "lack of style,"
 and we have all seen authorizations that were purely pro forma; let us give Atlantian Duello
 something in between -- a true test, on rational grounds, of a scholar's safety and skill.  There
 is a great difference between adding another name to the list of authorized duellists and making
 a free scholar.  It is the responsibility of every free scholar playing the prize to see that the
 new free scholar he/she makes will be a joy to watch and a true challenge to fight.
-</TD>
-</TR>
-
-</TABLE>
-
-<TABLE BORDER=0>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>
-  <BR>
-        <A HREF="index.htm"> <IMG SRC="images/rpbtnbl2.gif" WIDTH=65 HEIGHT=65 BORDER=0 ALT="Rapier Button"></A> 
-      </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>
-  Return to the Academie d'Espee
-  </TD>
-</TR>
-</TABLE>
-
-<BR>
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-
-<BR>
-This page is theoretically maintained by <a href="mailto:bmc@shmoo.com">Brian de Moray, Provost</A><BR>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-var m = "and was last updated on " + document.lastModified;
-var p = m.length-8;
-document.writeln("<center>");
-document.write(m.substring(p, 0));
-document.writeln("</center>");
-// End -->
-</SCRIPT>
-
-</CENTER>
-
-</BODY>
-
-</HTML>

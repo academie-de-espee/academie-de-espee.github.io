@@ -1,36 +1,20 @@
-<!-- This document was created with Notepad -->
+---
+layout: default
+title: The Art Of Eloquence
+---
 
-<HTML>
-<HEAD>
-  <TITLE>Academie d'Espee - The Art Of Eloquence</TITLE>
-</HEAD>
-
-<BODY BACKGROUND="images/stonebak.gif">
-<CENTER>
-<H1>
-The Art Of Eloquence
-</H1>
-
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-  <BR>
-
-<TABLE WIDTH=95% BORDER=0>
-
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
 Speaking in a period tongue is difficult at best, and even the best of
 us cannot keep it up for very long.  I am not refering to talking in a
 foreign language, but speaking forsoothly.  Actually it is a foreign
 language in many ways.  It certainly doesn't roll off my tongue easily.
-But I can perhaps suggest some ways to learn to sound medieval.  
-<BR><BR>
+But I can perhaps suggest some ways to learn to sound medieval.
+
 My best recommendation is to read period books, even if its just to get
 an idea of how people spoke.
-<A HREF="http://the-tech.mit.edu/Shakespeare/works.html">Shakespeare</A>
+[Shakespeare](http://the-tech.mit.edu/Shakespeare/works.html)
 is an excellent source.  The
-<A HREF="http://darkwing.uoregon.edu/~rbear/courtier/courtier.html">
-"Book of the Courtier" by Castiglione</A> is also excellent reading.  One of
+["Book of the Courtier" by Castiglione](http://darkwing.uoregon.edu/~rbear/courtier/courtier.html)
+is also excellent reading.  One of
 the first things I noticed was that the use of metaphor and analogy
 abounds in these writings.  "Thy smile uplifts as the dawn of a summer
 day."  You tended to elaborate on topics by making comparisons to other
@@ -41,76 +25,27 @@ is still a deep rooted part of the culture.  The South is also known for
 metaphors in its speech.  "He's holding on like a tick on a coon dog's
 tail."  This sort of speech pattern immediately denotes someone born
 below the Mason-Dixon line.
-<BR><BR>
+
 Speaking in metaphor is not as difficult as it may sound.  It mainly
 requires you to think about what you are about to say (something we
 should all do anyway and a lot of arguements can be avoided) before you
 say it.  Most verbs and adjectives can bring to mind an animal or object
 that personifies that word.  Below is a brief list of some words that
 easily lend themselves to metaphor.
-<BR><BR>
 
-<CENTER>
-<TABLE WIDTH=60% BORDER=1>
+| crafty, cunning | Sly as a fox's smile |
+| witty, quick | Sharp as an embroider's needle |
+| delicate | Fragile as a robin's egg |
+| smooth, supple | Silken hose match not the feel of thy garb |
+| bright, cheerful | Thy smile is finer than a songbird's tune |
+| loud, piercing | No angel's trumpet can match that herald's voice |
 
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  crafty, cunning
-  </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  Sly as a fox's smile
-  </TD>
-</TR>
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  witty, quick
-  </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  Sharp as an embroider's needle
-  </TD>
-</TR>
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  delicate
-  </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  Fragile as a robin's egg
-  </TD>
-</TR>
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  smooth, supple
-  </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  Silken hose match not the feel of thy garb
-  </TD>
-</TR>
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  bright, cheerful
-  </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  Thy smile is finer than a songbird's tune
-  </TD>
-</TR>
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  loud, piercing
-  </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  No angel's trumpet can match that herald's voice.
-  </TD>
-</TR>
-
-</TABLE> </CENTER>
-
-<BR><BR>
 It takes practice, but try occasionally to throw a compliment using a
 metaphor or simile.  When admiring someone's new dress, sword, chair,
 think of a metaphor, and then use it.  You will find it adds a flavor to
 your speech that others enjoy and helps bring the feel of the Middle
 Ages to life.
-<BR><BR>
+
 There is another trick I use to aid in my speech as well as my actions.
  In the Book of the Courtier by Castiligone, proper courtiers should
 appear refined, and have a noble bearing.  In this he said that all your
@@ -119,8 +54,8 @@ been a true challenge.  The trick I have discovered to appear graceful
 is to be deliberate.  If you walk, or talk as if you have a purpose, it
 lends to grace.  This is not to imply that someone should be pompous.
 That is acting as if you are important.  The trick is to act as if the
-person or persons you are interacting with are important.  
-<BR><BR>
+person or persons you are interacting with are important.
+
 The best example I can use is when I flirt.  I freely admit I am a
 tremendous flirt.  But when I flirt with a lady, my intention is to make
 them feel as if they are the most beautiful creature that ever walked
@@ -130,49 +65,12 @@ their hand, I focus on their eyes and slowly, deliberately take their
 hand to place a gentle kiss.  This focusing of my attention to one
 person should carry over to even brief interactions like during dancing
 Hole in the Wall.
-<BR><BR>
+
 Speaking and behaving eloquently is not easy and requires practice.  It
 is also difficult to keep up for any length of time.  The rewards are
 worth ever bit of effort it takes. Whatever your personna, the most
 noble people I know are the ones who make grace a part of their every
 action.
-<BR><BR>
+
 Lord Kirk Dragomani<BR>
 Provost, Ad'E
-  </TD>
-</TR>
-
-</TABLE> 
-<TABLE BORDER=0>
-<TR>
-  <TD ALIGN=RIGHT VALIGH=MIDDLE WIDTH=50%>
-  <BR>
-        <A HREF="index.htm"> <IMG SRC="images/rpbtnbl2.gif" WIDTH=65 HEIGHT=65 BORDER=0 ALT="Rapier Button"></A> 
-      </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>
-  Return to the Academie d'Espee
-  </TD>
-</TR>
-</TABLE>
-
-<BR>
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-
-<BR>
-This page is theoretically maintained by <a href="mailto:bmc@shmoo.com">Brian de Moray, Provost</A><BR>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-var m = "and was last updated on " + document.lastModified;
-var p = m.length-8;
-document.writeln("<center>");
-document.write(m.substring(p, 0));
-document.writeln("</center>");
-// End -->
-</SCRIPT>
-
-</CENTER>
-
-</BODY>
-
-</HTML>

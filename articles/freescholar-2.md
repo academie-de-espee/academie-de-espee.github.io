@@ -1,26 +1,10 @@
-<!-- This document was created with Notepad -->
+---
+layout: default
+title: The Free Scholar - A Not So Comprehensive Look
+---
 
-<HTML>
-<HEAD>
-  <TITLE>Academie d'Espee - The Free Scholar: A Not So Comprehensive Look</TITLE>
-</HEAD>
+## (or What the heck is a Free Scholar?)
 
-<BODY BACKGROUND="images/stonebak.gif">
-<CENTER>
-<H1>
-The Free Scholar: A Not So Comprehensive Look<BR>
-or<BR>
-What the heck is a Free Scholar?
-</H1>
-
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-  <BR>
-
-<TABLE WIDTH=95% BORDER=0>
-
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
 In the Academie d' Espee, there are Scholars, Free Scholars and Provosts. A
 Scholar is an authorized fencer who is identified by a blue scarf worn on
 the shoulder or arm.  A Provost is a member of the Companions of the White
@@ -37,7 +21,6 @@ Atlantian Free Scholar is essentially someone who has demonstrated to the
 Provosts that they have benefited Atlantian Rapier and will be suitable to
 the task.  Basically being a Free Scholar is having a job because it is a job.
 Hopefully a fun job.  
-<BR><BR>
 
 The Provosts need individuals to help them in their task of serving Atlantia,
 mainly through Rapier.  We want people who are going to get things done.
@@ -47,11 +30,8 @@ herald, do research, make nifty things and train or teach others.  Now, that
 does not even begin to cover all of the things to be done, but it is a start.
 In essence, we need those who will actively support the Kingdom and the Rapier
 Community.
-<BR><BR>
 
-(Author's note: Baron Alan Gravesend really hates the term "Rapier Community".
-I would <B><I><U>never</U></I></B> condone the usage of such a word in his presence.)
-<BR><BR>
+(Author's note: Baron Alan Gravesend really hates the term "Rapier Community".  I would *never* condone the usage of such a word in his presence.)
 
 You can ask any three Provosts , "What do you look for in a Free Scholar?"
 and I bet that you will get three different answers.  There's a surprise.  For
@@ -59,13 +39,11 @@ the most part we are looking for good and true subjects of the Crown who are
 dedicated to Rapier fighting.  The potential Free Scholar should be reasonably
 period in dress and persona.  We don't care if you want to do early Egyptian
 off the field, just do it right.  After all, the Egyptians didn't have Rapier.
-<BR><BR>
 
 (Author's note: When I started in the SCA, I had a Japanese persona.  While on
 the field, I wore clothes appropriate to late period Europe.  Off the field, I
 wore 1450's Japanese clothes.  I made no strange persona story to explain why
 a 1450's bushi would be fighting with weapons from the 1590's and made no excuses.)
-<BR><BR>
 
 Free Scholars do not have to be the best fighters, but should be competent in the
 major forms.  Nor do they have to be the best instructors, but would be willing
@@ -76,7 +54,6 @@ means a guarantee that they will become a Provost.  By the same token, to become
 a Provost, you do not have to be a Free Scholar first.  That yellow scarf on your
 arm will not make you rich, get you dates, or in any way make life easier.  If
 anything, it will make life harder.  It is a job, pure and simple.
-<BR><BR>
 
 Let us assume for a moment that a Provost wants to make a Scholar into a Free
 Scholar (and that the Scholar wishes to become a Free Scholar).  What now?
@@ -94,57 +71,21 @@ The primary can be any Provost and does not have to be the new Free Scholar
 to be's principal instructor.  The primary's only official task is to set up
 the prize.  (note: we call them primaries because if anything goes wrong
 they are the ones primarily responsible.) 
-<BR><BR>
 
-<CENTER>Things that the Primary Sponsor <U><I>should</I></U> do:</CENTER>
-<BR><BR>
+### Things that the Primary Sponsor *should* do:
 
-1.  Secure two other Provosts as sponsors.
-<BR><BR>
+1. Secure two other Provosts as sponsors.
+1. Let the Headmaster of Free Scholars (that's me) know when and where the Prize is to happen.
+1. Let everybody else know.
+1. Arrange for the candidate to display their fencing prowess.  As the most public and visible portion of the Prize, it should be should be sufficiently showy and fun.  Traditionally this is done by having the potential Free Scholar fence all of the other Free Scholars and anyone else who wishes to test their mettle, as time permits.  Announce what is happening and involve the populace.  This should not be done while a list is in progress, nor should it interfere with the running of the event in any way.  Be sure to inform the Marshall in charge of the event, the Autocrat and the MOL.  Especially if there isn't going to be any other fencing at the event.
+1. The scarving itself.  Here are some general guidelines.  Gather the fencers and anyone who wishes to witness this blessed event.  (family, households, home groups, etc.) The primary explains what is occurring and why the candidate will make a good Free Scholar.  The Primary could then take this opportunity to admonish the candidate and impress upon the candidate the duty that they are about to undertake.  The other two (or more) sponsors are identified and they then confirm that they are in agreement that the candidate should be made a Free Scholar.  The scarf is then exchanged and the Oath is read and the candidate swears to uphold it.  Now personally, I like having the two other sponsors exchange the scarf.  One Provost would remove the blue scarf and the other would then pin the yellow scarf on.  This has a nice symmetry to it and involves the other two sponsors, but the primary could have someone else pin the scarf on (e.g. significant other, head of household, you get the idea).
 
-2.  Let the Headmaster of Free Scholars (that's me) know when and where
-the Prize is to happen.
-<BR><BR>
-
-3.  Let everybody else know.
-<BR><BR>
-
-4.  Arrange for the candidate to display their fencing prowess.  As the
-most public and visible portion of the Prize, it should be should be
-sufficiently showy and fun.  Traditionally this is done by having the
-potential Free Scholar fence all of the other Free Scholars and anyone
-else who wishes to test their mettle, as time permits.  Announce what is
-happening and involve the populace.  This should not be done while a
-list is in progress, nor should it interfere with the running of the
-event in any way.  Be sure to inform the Marshall in charge of the event,
-the Autocrat and the MOL.  Especially if there isn't going to be any
-other fencing at the event.
-<BR><BR>
-
-5.  The scarving itself.  Here are some general guidelines.  Gather the
-fencers and anyone who wishes to witness this blessed event.  (family,
-households, home groups, etc.) The primary explains what is occurring
-and why the candidate will make a good Free Scholar.  The Primary could
-then take this opportunity to admonish the candidate and impress upon
-the candidate the duty that they are about to undertake.  The other two
-(or more) sponsors are identified and they then confirm that they are in
-agreement that the candidate should be made a Free Scholar.  The scarf
-is then exchanged and the Oath is read and the candidate swears to uphold
-it.  Now personally, I like having the two other sponsors exchange the
-scarf.  One Provost would remove the blue scarf and the other would then
-pin the yellow scarf on.  This has a nice symmetry to it and involves the
-other two sponsors, but the primary could have someone else pin the scarf
-on (e.g. significant other, head of household, you get the idea).
-<BR><BR>
-
-The Oath of the Free Scholar is an affirmation and a promise that the
-Free Scholar will continue in their support of Atlantian Rapier.  As
-such it is sworn to all of the Academie; Scholars, Free Scholars and
-Provosts.  If you take the time to read the oath, you will find that
-the Free Scholar is swearing to continue to do all of the things that
-made them a candidate in the first place.  
-<BR><BR>
-
+The Oath of the Free Scholar is an affirmation and a promise that the Free
+Scholar will continue in their support of Atlantian Rapier.  As such it is
+sworn to all of the Academie; Scholars, Free Scholars and Provosts.  If you
+take the time to read the oath, you will find that the Free Scholar is swearing
+to continue to do all of the things that made them a candidate in the first
+place.
 
 What about the Provost-Free Scholar relationship?  To be quite honest,
 it is easier to define in terms of what it is not.  It is not the
@@ -160,7 +101,6 @@ Provosts and Free Scholars develop close relationships?  Of course they
 will.  This is not a bad thing.  We are not in the business of legislating
 personal relationships.  As each of the Free Scholars and Provosts are
 different, so also will the relationships between them be different.  
-<BR><BR>
 
 Who am I to be writing this? I am Gerlach Wiesengrund, Provost Ad'E,
 Headmaster of Free Scholars.  The Headmaster's job is to be a trouble
@@ -171,54 +111,10 @@ they may continue to support Atlantian Rapier.  My other job is to let
 the Scholars who wish to become Free Scholars do not get overlooked and
 know what is necessary for them to become Free Scholars.  (So far, It's
 been pretty easy.)
-<BR><BR>
 
 Is all of this set in stone?  Of course not.  I suspect that the Free
 Scholars will have quite a bit to say on how they wish to define
 themselves.  This is a good thing.  If you wish further information or
 have questions to ask, please contact me.
-<BR><BR>
 
-<A HREF="mailto:jhdavis-at-cstone.net">
-Baron Gerlach Wiesengrund
-</A><BR>
-Provost, Ad'E<BR>
-Headmaster of Free Scholars<BR>
-
-  </TD>
-</TR>
-
-</TABLE> 
-<TABLE BORDER=0>
-<TR>
-  <TD ALIGN=RIGHT VALIGH=MIDDLE WIDTH=50%>
-  <BR>
-        <A HREF="index.htm"> <IMG SRC="images/rpbtnbl2.gif" WIDTH=65 HEIGHT=65 BORDER=0 ALT="Rapier Button"></A> 
-      </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>
-  Return to the Academie d'Espee
-  </TD>
-</TR>
-</TABLE>
-
-<BR>
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-
-<BR>
-This page is theoretically maintained by <a href="mailto:bmc@shmoo.com">Brian de Moray, Provost</A><BR>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-var m = "and was last updated on " + document.lastModified;
-var p = m.length-8;
-document.writeln("<center>");
-document.write(m.substring(p, 0));
-document.writeln("</center>");
-// End -->
-</SCRIPT>
-
-</CENTER>
-
-</BODY>
-
-</HTML>
+[Baron Gerlach Wiesengrund, Provost](mailto:jhdavis-at-cstone.net)

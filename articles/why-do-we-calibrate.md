@@ -1,24 +1,8 @@
-<!-- This document was created with Notepad -->
+---
+layout: default
+title: Why Do We Calibrate?
+--- 
 
-<HTML>
-<HEAD>
-  <TITLE>Academie d'Espee - Why Do We Calibrate?</TITLE>
-</HEAD>
-
-<BODY BACKGROUND="images/stonebak.gif">
-<CENTER>
-<H1>
-Why Do We Calibrate?
-</H1>
-
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-  <BR>
-
-<TABLE WIDTH=95% BORDER=0>
-
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
 There is often a misunderstanding as to why light weapons fighters need
 to calibrate before each match.  The purpose is not to show your
 opponent what you consider a "killing" blow.  A killing blow is
@@ -26,7 +10,7 @@ officially defined as a 2" bend in a standard #5 foil blade.  This has
 been documented by far more competent souls than I as the force required
 to penetrate the human body.  The real purpose is for each fighter to
 feel their opponent's weapon when it has a 2" bend delivered at speed.
-<BR><BR>
+
 Foil blades vary in strength depending on the manufacturer and the age
 of the blade.  Calibrating gives you the feel of your opponent's blade.
 If your opponent's blade is weak, you now know to call the blows
@@ -36,7 +20,7 @@ deliver a killing blow with a blade that has all the spring of a wet
 noodle, but don't get too upset if people don't call your shots because
 they can't feel them.  HOWEVER, this is no excuse to ignore a shot
 because it felt light when you know your opponent has a weak blade.  
-<BR><BR>
+
 I have also heard, "You'll have to hit harder, my armor is thick
 there." I quote from the Rapier Combat Rules:  "Any protection or
 article of clothing that prevents a fighter from properly calling a blow
@@ -45,7 +29,7 @@ leather you cannot feel a blow, Then give serious thought to upgrading
 your armor to a better material and fewer layers.  In swashing, rhino
 hides are far more visible than in heavy weapons. Everyone can see that
 blade bend.
-<BR><BR>
+
 When you calibrate, a short thrust to the chest, arm, and mask are
 usually sufficient. A draw cut to the neck or the underside of the arm
 (where the brachial artery is) is good practice.  The thrusts should be
@@ -54,43 +38,6 @@ strikes you, concentrate on how it feels, and remember how strong their
 blade is.  Proper calling of blows is always difficult, they will make
 or ruin a reputation quicker than anything else, so this is why we
 calibrate.
-<BR><BR>
+
 Lord Kirk Dragomani<BR>
 Provost, Ad'E
-  </TD>
-</TR>
-
-</TABLE> 
-<TABLE BORDER=0>
-<TR>
-  <TD ALIGN=RIGHT VALIGH=MIDDLE WIDTH=50%>
-  <BR>
-        <A HREF="index.htm"> <IMG SRC="images/rpbtnbl2.gif" WIDTH=65 HEIGHT=65 BORDER=0 ALT="Rapier Button"></A> 
-      </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>
-  Return to the Academie d'Espee
-  </TD>
-</TR>
-</TABLE>
-
-<BR>
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-
-<BR>
-This page is theoretically maintained by <a href="mailto:bmc@shmoo.com">Brian de Moray, Provost</A><BR>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-var m = "and was last updated on " + document.lastModified;
-var p = m.length-8;
-document.writeln("<center>");
-document.write(m.substring(p, 0));
-document.writeln("</center>");
-// End -->
-</SCRIPT>
-
-</CENTER>
-
-</BODY>
-
-</HTML>

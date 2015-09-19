@@ -1,33 +1,17 @@
-<!-- This document was created with Notepad -->
+---
+layout: default
+title: To Be A Scholar
+---
 
-<HTML>
-<HEAD>
-  <TITLE>Academie d'Espee - To Be A Scholar</TITLE>
-</HEAD>
-
-<BODY BACKGROUND="images/stonebak.gif">
-<CENTER>
-<H1>
-To Be A Scholar
-</H1>
-
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-  <BR>
-
-<TABLE WIDTH=95% BORDER=0>
-
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
 The Academie d'Espee, Atlantia's guild for rapier, is broken up into three tiers. What some might call the highest
 tier is comprised of members of the Companions of the Order of the White Scarf of Atlantia, commonly known as
 Provosts (Preboste, by the bye, is the Spanish word for Provost). We are known by wearing a white scarf with a blue
-stripe and a unicornate seahorse known as Spike on the left shoulder. One becomes a <B>Provost</B> through direct
+stripe and a unicornate seahorse known as Spike on the left shoulder. One becomes a *Provost* through direct
 Crown recognition; i.e., the King & Queen award you a white scarf.  Next comes the group of individuals known as
-Free Scholars. They are known by a yellow scarf worn on the left shoulder. One becomes a <B>Free Scholar</B> through the
+Free Scholars. They are known by a yellow scarf worn on the left shoulder. One becomes a *Free Scholar* through the
 agreement and sponsorship of three Provosts. The largest group of individuals within the Academie d'Espee are called
-<B>Scholars</B>. They are known by wearing a blue scarf worn about the left shoulder. 
-<BR><BR>
+*Scholars*. They are known by wearing a blue scarf worn about the left shoulder.
+
 How does one become a Scholar? Well, you have to fulfill three requirements. One, you must successfully play your prize,
 or as it is commonly called, authorize. You can authorize either in the epee forms or in schlager to be a Scholar. Anyone,
 at any official SCA event where authorizations are being held, can fulfill this requirement. This requirement is actually
@@ -46,28 +30,28 @@ lucky, the Queen, Princess, or your local Baroness might attach it. Sometimes sc
 who held it to another they hold in high esteem. Those scarves sometimes develop quite a lineage. Wearing your scarf
 is important, because you should be proud that you've earned the right to wear it. Likewise, treat your scarf with
 respect, because if you show disrespect to your scarf you're showing disrespect to the Academie d'Espee. 
-<BR><BR>
+
 A side note; once you become a scholar, you (along with everybody else in the Academie d'Espee) are allowed to wear
 and display the badge of the Academie d'Espee. Heraldically, this is; Or, two rapiers crossed in saltire sable between
 four roses azure. In plain language, that means two black crossed rapiers (handles at the bottom). In each space of
 the crossed rapiers there's a blue rose. The background is gold. You can see a picture of the badge on the
-<A HREF="pic13.htm">Academie d'Espee website</A>. You can put this on anything you like; a tabard, painted on your
-mask mesh, on your rapier hood, on your cloak, on your buckler, anywhere! 
-<BR><BR>
+[Academie d'Espee website](/artwork). You can put this on anything you like; a tabard, painted on your
+mask mesh, on your rapier hood, on your cloak, on your buckler, anywhere!
+
 Who can be a Scholar? ANYONE. Nobleman, peasants, knights, their squires, Spaniards, pirates, gypsies, heavy fighters,
 archers, people who throw chickens, people who catch chickens, peers, non-peers, near peers, Dukes, Viscountesses,
 people who move in from other Kingdoms, people who have lived here all their lives, people outside the kingdom who
 happen to think that Atlantia is really cool, big people, little people, bald people, hairy people, fat, thin, skinny,
 even the French; ANYONE can become a Scholar of the Academie d'Espee. The Academie d'Espee by its nature is an
-inclusive group, and the strength of that inclusion lies in diversity. 
-<BR><BR>
+inclusive group, and the strength of that inclusion lies in diversity.
+
 And all those big muckety-mucks with yellow and white scarves? Never forget that they were Scholars once too, and
 all of them have fond memories of those times. Don't ever refer to yourself as a "lowly" Scholar, because everyone
 who is in the Academie is or was a Scholar, and deuced proud of it. Scholars are the foundation of the Academie d'Espee;
 without them, there wouldn't BE any yellow or white scarves. My opinion might be biased, but it's my thought that
 the Academie d'Espee is the finest set of rapier fighters in the Knowne World, and Scholars are at its heart. Be
 proud of being a Scholar. 
-<BR><BR>
+
 Why should you be a Scholar? Because by joining the Academie d'Espee, you will be joining one of the best groups
 of people around. Membership in the Academie forges a common bond with the other members, a bond that can lead to
 great friendships both on the field and off. You join in that great group of rapier fighters which is recognized
@@ -76,43 +60,5 @@ knowledge and diversity of its members. However, the Academie d'Espee is an opti
 a member. You don't even have to be a member of the Academie d'Espee to fight rapier; but if you do decide to
 join, we welcome you with open arms. 
 
-<BR><BR>
 By Baron Alejandro Mateo Ramirez y Mendoza<BR>
-Preboste de la Academie d' Espee
-  </TD>
-</TR>
-
-</TABLE> 
-<TABLE BORDER=0>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>
-  <BR>
-        <A HREF="index.htm"> <IMG SRC="images/rpbtnbl2.gif" WIDTH=65 HEIGHT=65 BORDER=0 ALT="Rapier Button"></A> 
-      </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>
-  Return to the Academie d'Espee
-  </TD>
-</TR>
-</TABLE>
-
-<BR>
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-
-<BR>
-This page is theoretically maintained by <a href="mailto:bmc@shmoo.com">Brian de Moray, Provost</A><BR>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-var m = "and was last updated on " + document.lastModified;
-var p = m.length-8;
-document.writeln("<center>");
-document.write(m.substring(p, 0));
-document.writeln("</center>");
-// End -->
-</SCRIPT>
-
-</CENTER>
-
-</BODY>
-
-</HTML>
+Preboste de la Academie d'Espee

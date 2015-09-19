@@ -19,6 +19,13 @@ a {
     color: #666;
 }
 
+td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
 
 a:hover {
     /* text-decoration: none; */
