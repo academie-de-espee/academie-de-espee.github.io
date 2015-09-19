@@ -9,8 +9,8 @@ many topics are covered.  I hope that you enjoy them and find that which aids
 you in your pursuit of our art.  Kindly drop a note to the author, giving your
 opinions and feedback.
 
-* [The Academie d'Espee, Order of the White Scarf of Atlantia - A complete history](history.htm) - Master Aedan Aylwyn, Provost
-* [The Atlantian Rapier Guild Structure](guild.htm) - Master Aedan Aylwyn, Provost
+* [The Academie d'Espee, Order of the White Scarf of Atlantia - A complete history](history) - Master Aedan Aylwyn, Provost
+* [The Atlantian Rapier Guild Structure](guild) - Master Aedan Aylwyn, Provost
 * [Measures for Consideration to the Academie](guildlines.htm)
 * [The Free Scholar: A Not So Comprehensive Look](fs-artcl2.htm)-  Baron Gerlach Wiesengrund, Provost
 * [The Role Of The Free Scholar](fs-artcl.htm) - Lord Liam a'Welwyn, Free Scholar
