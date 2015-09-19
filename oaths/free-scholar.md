@@ -3,8 +3,6 @@ layout: default
 title: Free Scholar's Oath
 ---
 
-## New Version
-
 Henceforth, you will hold to these conditions of our Order, which have been made known to you here, in the presence of your fellow Free Scholars.
 
 You shall be a loyal subject to our Sovereigns, King ________ and Queen _______, Monarchs of Atlantia, and to their successors. You will serve them and theirs against all nations to the best of your ability.

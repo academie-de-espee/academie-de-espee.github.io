@@ -3,8 +3,6 @@ layout: default
 title: Provost's Oath
 ---
 
-## New Version
-
 Henceforth, you will hold to these conditions of our Order, which have been made known to you here, in the presence of your fellow Provosts.  You shall be a loyal subject to our Sovereigns, King ________ and Queen _______, Monarchs of Atlantia, and to their successors. You will serve them and theirs against all nations to the best of your ability.  You shall be a true Provost, teaching others to uphold our traditions, to love truth and knowledge, and to hate falsehood and ignorance, as you and other Provosts do. You shall teach only those who have proven themselves worthy of the responsibility that comes with this knowledge; as such, you shall not teach any suspect person, as a murderer, a thief, a common drunkard, or those who be common quarrelers.
 
 When called upon to render judgment on any prize, game, or bout, you shall promptly speak the truth of what you have witnessed as it appears to you, setting aside all bias.  You shall lend your strength to any Provost or Free Scholar should they be wronged, and if you know of any Provost who has fallen victim to circumstance, you shall put them into remembrance at all prizes and games as you would have others do for you.

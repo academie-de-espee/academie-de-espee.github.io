@@ -3,8 +3,6 @@ layout: default
 title: Scholar's Oath
 ---
 
-## New Version
-
 Henceforth, you will hold to these conditions of our Order, which have been made known to you here, in the presence of your fellow Scholars.  You shall be a loyal subject to our Sovereigns, King ________ and Queen _______, Monarchs of Atlantia, and to their successors. You will serve them and theirs against all nations to the best of your ability.
 
 You shall be a true Scholar, teaching others to uphold our traditions, to love truth and knowledge, and to hate falsehood and ignorance, as you and other Scholars do.  You shall always be merciful to any who are true subjects of Atlantia, and should you have the upper hand over them, you shall not kill them should you be able to preserve yourself without further bloodshed.
