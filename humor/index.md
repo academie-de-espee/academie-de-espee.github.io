@@ -17,5 +17,5 @@ title: Humor
 * [Why Fencing Is Better Than Sex](better-than-sex)
 * [I do not want this schlager sword](schlager-sword) - Lady Caitlin Deirdre of Errelyn
 * [Wear Armor - a lesson for fighting](wear-armor)
-* [Drink Water - a lesson for Pennsic](water.htm)
-* [London Monster (Templar Knights History)](templar.htm)
+* [Drink Water - a lesson for Pennsic](drink-water)
+* [London Monster (Templar Knights History)](templar)
