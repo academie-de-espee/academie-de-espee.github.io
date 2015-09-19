@@ -11,7 +11,7 @@ opinions and feedback.
 
 * [The Academie d'Espee, Order of the White Scarf of Atlantia - A complete history](history) - Master Aedan Aylwyn, Provost
 * [The Atlantian Rapier Guild Structure](guild) - Master Aedan Aylwyn, Provost
-* [Measures for Consideration to the Academie](guildlines.htm)
+* [Measures for Consideration to the Academie](guidelines.htm)
 * [The Free Scholar: A Not So Comprehensive Look](fs-artcl2.htm)-  Baron Gerlach Wiesengrund, Provost
 * [The Role Of The Free Scholar](fs-artcl.htm) - Lord Liam a'Welwyn, Free Scholar
 * [A Letter On Ushering Prizes](usher.htm) - Master Alan Gravesend, Provost and Master Geoffrey Gamble, Provost
