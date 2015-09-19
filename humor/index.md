@@ -3,12 +3,12 @@ layout: default
 title: Humor
 ---
 
-* [Don Tivar's Top 10 Rules](tivar.htm)
-* [Fencing Rules](suess.htm) - By Antoine, Christian, Claire and Dr. S.
-* [Cadet Rules](cadet.htm)
-* [Sportly Graces](10cmdmnts.htm) - By Lord Kirk Dragomani
-* [Are You a Compulsive Fencer?](compulsive.htm)
-* [Limerick Story](limerick.htm) - By Master Robin of Gilwell
+* [Don Tivar's Top 10 Rules](tivar) - by Don Tivar Moondragon
+* [Fencing Rules](suess) - By Antoine, Christian, Claire and Dr. S.
+* [Cadet Rules](cadet-rules)
+* [Sportly Graces](ten-commandments) - By Lord Kirk Dragomani
+* [Are You a Compulsive Fencer?](compulsive)
+* [Limerick Story](limerick) - By Master Robin of Gilwell
 * [The Dread Pirate Seamus](seamus.htm) - Lady Ysabeau de Taurion
 * [Dictionary of Funny Fencing Phrases](dict.htm)
 * [Top 20 Reasons Why...](top20.htm)

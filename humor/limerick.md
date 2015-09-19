@@ -1,108 +1,54 @@
-<!-- This document was created with Notepad -->
+---
+layout: default
+title: Limerick Story
+---
 
-<HTML>
-<HEAD>
-  <TITLE>Academie d'Espee - Limerick Story</TITLE>
-</HEAD>
+*By Master Robin of Gilwell*
 
-<BODY BACKGROUND="images/stonebak.gif">
-<CENTER>
-<H1>
-Limerick Story
-</H1>
-
-<I>by
-<A HREF="mailto:rudi3964-at-utdallas.edu">Robin of Gilwell</A>
-</I> <BR><BR>
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-  <BR>
-
-<TABLE WIDTH=90% BORDER=0>
-<TR>
-  <TD ALIGN=CENTER VALIGN=MIDDLE>
 There was something his love life was needing,<BR>
 Which he tried to discover by reading.<BR>
 	The results weren't too classy,<BR>
 	For the book was di Grassi --<BR>
 With his shoulder he's now always leading.<BR>
-<BR>
+
 Was it really all that much a crime?<BR>
 The five principles he thought divine.<BR>
 	So he leads with a thrust<BR>
 	(As the book says he must)<BR>
 And his actions are all done in time.<BR>
-<BR>
+
 So we should not cheer or abuse him<BR>
 Says the lady who likes to amuse him.<BR>
 	For she loves the cute twist<BR>
 	Of the cloak 'round his wrist<BR>
 (But the Florentine chapters confuse him).<BR>
-<BR>
+
 This Italian lad loved what he learned,<BR>
 So to Silver's slim volume he turned.<BR>
 	But it said that his tool<BR>
 	Was too long, as a rule.<BR>
 (George Silver -- that's one book he burned!)<BR>
-<BR>
+
 He plied his new skills with great flair,<BR>
 So he thought it distinctly unfair<BR>
 	That she gave hm the bird,<BR>
 	For it seems she preferred<BR>
 The new French skills of old Sainct-Didier.<BR>
-<BR>
+
 Then she had a most interesting notion --<BR>
 To a Spaniard she gave her devotion,<BR>
 	For his moves were precise,<BR>
 	And his footwork was nice,<BR>
 And she loves all the circular motion.<BR>
-<BR>
+
 Then to London she went on her way<BR>
 And they held a great challenge that day.<BR>
 	There were stars in her eyes<BR>
 	As the men played the Prize,<BR>
 For the lady was prizing the play.<BR>
-<BR>
+
 So take heed of this lesson, young nipper,<BR>
 And use points, not this new-fangled zipper.<BR>
 	Let your research be right<BR>
 	For the ladies' delight,<BR>
 And let's go win one for Agripper!<BR>
-  </TD>
-</TR>
-</TABLE>
-
-
-<TABLE BORDER=0>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>
-  <BR>
-        <A HREF="index.htm"> <IMG SRC="images/rpbtnbl2.gif" WIDTH=65 HEIGHT=65 BORDER=0 ALT="Rapier Button"></A> 
-      </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>
-  Return to the Academie d'Espee
-  </TD>
-</TR>
-</TABLE>
-
-<BR>
-  <IMG SRC="images/gr_ban28.gif" WIDTH=95% HEIGHT=28 BORDER=0 ALT="Knotwork Seperator"> 
-  <BR>
-
-<BR>
-This page is theoretically maintained by <a href="mailto:bmc@shmoo.com">Brian de Moray, Provost</A><BR>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-var m = "and was last updated on " + document.lastModified;
-var p = m.length-8;
-document.writeln("<center>");
-document.write(m.substring(p, 0));
-document.writeln("</center>");
-// End -->
-</SCRIPT>
-
-</CENTER>
-
-</BODY>
-
-</HTML>
