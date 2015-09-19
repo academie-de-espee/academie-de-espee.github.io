@@ -3,6 +3,7 @@ layout: default
 title: Art
 ---
 
+* [Closeup of the Provost Scroll](scroll)
 * [Arms of the Kingdom of Atlantia](pic1.htm)
 * [Arms of the Barony of Caer Mear](pic2.htm)
 * [The Atlantian White Scarf](pic3.htm)
