@@ -9,13 +9,15 @@ title: Humor
 * [Sportly Graces](ten-commandments) - By Lord Kirk Dragomani
 * [Are You a Compulsive Fencer?](compulsive)
 * [Limerick Story](limerick) - By Master Robin of Gilwell
-* [The Dread Pirate Seamus](seamus) - Lady Ysabeau de Taurion
+* [The Dread Pirate Seamus](seamus) - by Lady Ysabeau de Taurion
 * [Dictionary of Funny Fencing Phrases](dictionary-of-fencing-phrases)
 * [Top 20 Reasons Why...](top-20)
 * [Top 10 Reasons Why Rapier Is Not A Sport](top-ten-reasons)
 * [Dead Cadet Sketch](dead-cadet.htm)
 * [Why Fencing Is Better Than Sex](better-than-sex)
-* [I do not want this schlager sword](schlager-sword) - Lady Caitlin Deirdre of Errelyn
+* [I do not want this schlager sword](schlager-sword) - by Lady Caitlin Deirdre of Errelyn
 * [Wear Armor - a lesson for fighting](wear-armor)
 * [Drink Water - a lesson for Pennsic](drink-water)
 * [London Monster (Templar Knights History)](templar)
+* [The Next Morning](/images/Don_Scaly_and_the_Herald.jpg) - by J'zel of Ansteorra
+* [Dainty vs. Daring](/images/Dainty_Daring.jpg) - by J'zel of Ansteorra
