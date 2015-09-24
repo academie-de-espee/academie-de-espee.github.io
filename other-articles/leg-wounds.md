@@ -1,46 +1,31 @@
-<!-- This document was created with Notepad -->
+---
+layout: default
+title: A Treatise Concerning Leg Wounds
+---
 
-<HTML>
-<HEAD>
-  <TITLE>Academie d'Espee - A Treatise Concerning Leg Wounds</TITLE>
-</HEAD>
+## and the Foolishness of the Concept of Continuing Combat after Receipt of the Same
 
-<BODY>
-<CENTER>
-<H1>
-A Treatise Concerning Leg Wounds<BR> and <BR> the Foolishness of the Concept of
-Continuing Combat after Receipt of the Same
-</H1>
+*[Don Aubrey de Baudricourt](mailto:Aubrey666@aol.com) and Lord Joachim van den Has*
 
-<I>by <A HREF="mailto:Aubrey666@aol.com">Don Aubrey de Baudricourt</A> and Lord Joachim van den Has</I>
 
-<BR><BR>
+> Against studpidity the gods themselves contend in vain.
+>
+> *--Anacreon, 8th century B.C.*
 
-<TABLE WIDTH=90% BORDER=0>
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
-  <I>
-  Against studpidity the gods themselves contend in vain.<BR>
-  --Anacreon, 8th century B.C.
-  <BR><BR>
-  At first, all that I could think of was how much it hurt.
-  Later, after the adrenaline, all that I could think about was how much it hurt.<BR>
-  --Duellist #1, 24 June, 1997
-  </I>
-  <BR><BR>
-<B>I.  Introduction:  In Which is Described the Leg Wound Controversy now
-being discussed within the rapier community of the SCA and a Disclaimer Concerning
-the Wisdom of Such Actions as Are Described Later is Presented</B>
-<BR><BR>
-<I>
-A combatant receiving such a valid blow to the leg or foot will be considered grounded.
-By definition a grounded opponent cannot move from the spot in which he selects to place
-himself before continuing combat....  A grounded fighter must decide if he will
-fight from the sitting or kneeling position.<BR>
---Ansteorran Rapier Combat Rules
-</I>
-<BR><BR>
-        One of the liveliest and most divisive points of contention now plaguing
+> At first, all that I could think of was how much it hurt.  Later, after the adrenaline, all that I could think about was how much it hurt.
+>
+> *--Duellist #1, 24 June, 1997*
+
+<B> I. Introduction: In Which is Described the Leg Wound Controversy now being discussed within the rapier community of the SCA and a Disclaimer Concerning the Wisdom of Such Actions as Are Described Later is Presented </B>
+
+> A combatant receiving such a valid blow to the leg or foot will be considered grounded.
+> By definition a grounded opponent cannot move from the spot in which he selects to place
+> himself before continuing combat....  A grounded fighter must decide if he will
+> fight from the sitting or kneeling position.
+>
+> *--Ansteorran Rapier Combat Rules*
+
+One of the liveliest and most divisive points of contention now plaguing
 the rapier community is the controversy surrounding the actual effects of
 wounds to the legs and the proper conduct on the list field once one has
 received such a wound.  This seemingly straightforward subject has given
@@ -55,8 +40,8 @@ he be able to do so?  Would his honor demand that he do so?  Would the honor
 of his opponent allow him to do so?  And, finally, just how ridiculous is
 the concept of continuing the fight from the ground after receiving such a
 wound?
-<BR><BR>
-        Current convention in the SCA, at least as defined by the Ansteorran rapier
+
+Current convention in the SCA, at least as defined by the Ansteorran rapier
 combat rules, is that a thrust or draw cut of sufficient length to the leg
 in regular rapier combat causes loss of use of the leg.  By the rules of
 most kingdoms in which rapier combat is conducted, the fighter can elect to
@@ -72,8 +57,8 @@ paper is being written to address only those points dealing with pain and
 the ability to continue on after having portions of a three foot long
 sharpened steel implement plunged into your leg or dragged across a part of
 your leg or thigh.
-<BR><BR>
-        Heretofore we have attempted to answer the questions in the first paragraph
+
+Heretofore we have attempted to answer the questions in the first paragraph
 based solely upon a great deal of indirect evidence and conjecture.
 Descriptive historical accounts, dry anatomy books, experiences of being cut
 with household utensils or small bladed weapons that were once prevalent
@@ -86,9 +71,9 @@ sources are still indirect and lacking in the personal aspects of
 experience.  No words on a page or theories expounded on the side of a list
 field can replace actual experience with the real thing.  We now have more
 information from which to form an informed opinion.
-<BR><BR>
-                Thanks to an innovation known as <I>"Really Duelling with Real Rapiers"</I>
-or <I>"Virtual Duelling"</I>, we are now no longer dependent upon the limited
+
+Thanks to an innovation known as *"Really Duelling with Real Rapiers"*
+or *"Virtual Duelling"*, we are now no longer dependent upon the limited
 information of the past.  Instead, with the aid of this truly amazing
 technological breakthrough in the area of entertainment and sensory
 perception, we can now tap directly into the real life experiences of folks
@@ -109,8 +94,8 @@ wasted, the participants have agreed to put their experiences at our
 disposal in order to offer important insight into the mechanics of
 delivering tip cuts and thrusts to the legs and the advisability or even
 possibility of continuing to fight after receiving such a wound.
-<BR><BR>
-        Despite the jovial tone taken throughout much of this paper, the events
+
+Despite the jovial tone taken throughout much of this paper, the events
 related actually did take place and the participants were very lucky that
 nothing more serious took place (i.e. death or permanent maiming or injury).
 The writers <B>DO NOT</B> encourage others to emulate the two duellists or their
@@ -126,7 +111,6 @@ duelling guinea pigs but do not join them.  (Actually, you won't get the
 chance to join them as they were heard to say as they hobbled from the
 combat area "I'm never doing that again.  Not ever.")  Their friends believe
 them.
-<BR><BR>
 
 <B>II.  Wherein are Described the Weapons and Armour used in this Famous
 encounter and an accounting of the Duel Itself,  as well as yet another
@@ -231,17 +215,16 @@ not the case with internal puncture wounds...<BR>
 They're not really supposed to stick each other like that, are they?<BR>
 --Obnoxious Red Bearded Man, June 24, 1997
 </I>
-<BR><BR>
 
-        On the seventh pass the two combatants became locked  corps-a-corps in a
+On the seventh pass the two combatants became locked  corps-a-corps in a
 lower parry to the right of Duellist #2 that bound both blades.  Duellist #2
 then pivoted to an off-line position off his lead foot and his opponent
 followed suit with his lead leg.  In doing so Duellist #1 impaled his right
 leg upon his opponent's point to the depth of about two centimeters at a
 point an inch above and to the right of the knee.  This brought the fight to
 a complete stop for reasons that shall be explained shortly.
-<BR><BR>
-        To Duellist #2, the sensation of the blow as felt through the hilt of the
+
+To Duellist #2, the sensation of the blow as felt through the hilt of the
 rapier was little more than what would be registered with a good schlager
 strike or, more accurately, a slap with the weapon.  This was, in part,  due
 to the fact that he was not in the process of delivering a blow but, rather,
@@ -254,8 +237,8 @@ sheer shock effect of the wound. Duellist #2 did notice a disorientation and
 state of confusion about Duellist #1's behavior at this time in that
 Duellist #1 did not respond to verbal instructions to move his hand from the
 wound so that it might be inspected.
-<BR><BR>
-        But the effect of the wound upon Duellist #1, who has had previous
+
+But the effect of the wound upon Duellist #1, who has had previous
 expeience with wounds by bladed weapons (but not of this type) was telling.
 The leg folded beneath him immediately, forcing him to a seated position.
 So far this tracks with what is commonly done in SCA rapier and heavy rapier
@@ -266,8 +249,8 @@ considerable period of time, as noted above.  Once recovered from that,
 however, the wounded duellist attested to the fact that the pain was such
 that he would not have been able to mount any kind of coherent defense,
 despite the fact that he was then "wired" with adrenaline.
-<BR><BR>
-        Duellist #1, unable to place weight upon the leg at all, was quickly taken
+
+Duellist #1, unable to place weight upon the leg at all, was quickly taken
 to a back room where the wound was inspected and first aid performed by
 Deullist #2 and members of the supporting cast.  It was at this time that
 Duellist #2 noticed that his wound had left a bloody patch and, as time
@@ -279,8 +262,8 @@ extensor hallucis longus.  It bled very little (in fact, less than did the
 tip cut inflicted in the earlier pass), filling with blood but never
 bleeding  beyond that point.   All in all, while spectacular in appearance,
 it was little more than a flesh wound.
-<BR><BR>
-        In an interview enroute to medical treatment Duellist #1 rated the pain of
+
+In an interview enroute to medical treatment Duellist #1 rated the pain of
 the wound as a "5" on a sliding scale of 1 to 10.  In describing the
 experience he said that he could actually feel both the impact and the force
 of the weapon as it slid into the leg.  His estimation of the depth of the
@@ -289,35 +272,34 @@ other sensations relating to the wound (i.e. dizziness or light-headedness)
 once the initial shock wore off.   He also had lost the ability to bend or
 otherwise manipulate the central region of the leg, though he could move the
 toes and pivot the foot on the ankle.
-<BR><BR>
-        Once at the clinic, after the rather sticky task of describing the accident
+
+Once at the clinic, after the rather sticky task of describing the accident
 and explaining our novel form of dress, the medical staff quickly cleansed
 and dressed the Greater Wound.  The physician confirmed that the blade had
 missed striking anything of note and that the wound would heal in about a
 week. The Greater Wound required six stitches and Duellist #1 was up and
 about the next day, albeit with the use of a cane and was fighting again
 within two weeks.
-<BR><BR>
+
 
 <B>IV.  Conclusion:  Wherein is Stated:  "Boys and girls, don't do this at
 home.  We are trained professionals... and even we didn't get it right."</B>
-<BR><BR>
 
 <I>
 I have always thought that fighting from  the ground after getting "legged" is rather stupid.<BR>
 --Duellist #2, 25 June, 1997
-<BR><BR>
+
 I see your point.  The next time that I see someone fighting from the ground I will
 tell them just how clueless they are.<BR>
 --Duellist #1, 25 June, 1997
-<BR><BR>
+
 I can't believe that you two were stupid enough to do that.  No, wait a minute.
 Yes, I actually can believe it.<BR>
 --Duellist #2's Girlfirend, 25 June 1997
 </I>
-<BR><BR>
 
-        What conclusions can be reached from the folly of our two friends?  A
+
+What conclusions can be reached from the folly of our two friends?  A
 number of lessons have sprung from this experience, not the least of which
 was a resolve by the participants to never embark upon such a foolish course
 of action again.  The two duellists, hooted at, mocked and laughed at by
@@ -325,14 +307,14 @@ their friends and much embarrassed, have stated to the authors an
 unwillingness to restage the fight so that a larger party of observers might
 be present and benefit from the experience..  "No, this is a party that is
 not coming to an Academy or Queen's near you!"
-<BR><BR>
-        From a more practical point of view in regards to rapier combat, the
+
+From a more practical point of view in regards to rapier combat, the
 experience has much value to offer.  As the only documented duel with actual
 rapiers, at least in Ansteorra (we are normally smarter than this; see
 disclaimers earlier in this paper) that has resulted in documented wounds,
 this situation offers several valuable pearls of knowledge.
-<BR><BR>
-        First, both duelists were more than a little amazed at the lack of force or
+
+First, both duelists were more than a little amazed at the lack of force or
 pressure that it took to penetrate with the sword into the flesh and cause a
 disabling wound.   Seeing the Machine is one thing.  Stabbing and tip
 cutting an actual person is quite another.  Neither the tip cut nor the
@@ -351,8 +333,8 @@ reflection, Duellist #2 believes that the "thump" he felt through the hilt
 of the weapon was his point impacting on one of the leg bones of Duellist
 #1, such was the lack of resistance the blade met and the ease with which it
 penetrated.
-<BR><BR>
-        Secondly, the concept of two fighters being in complete control of a fight,
+
+Secondly, the concept of two fighters being in complete control of a fight,
 no matter their experience level, needs to be revisited.  Both duellists had
 shown remarkable control during previous duels that evening and, yet, the
 duel ended with injuries.  Two individuals who are in complete control over
@@ -366,8 +348,8 @@ individual moved onto the point ever so slightly.  This made what would have
 been a flick of the point delivered onto the cloth a rent into the flesh.
 The thrusting wound was also moved into by the wounded party.  The moral of
 the story from this angle seems to be that no one truly controls the fight.
-<BR><BR>
-        Thirdly, the disparity in the effects of the wounds was also suprising.
+
+Thirdly, the disparity in the effects of the wounds was also suprising.
 True, the puncture wound was three times as deep as the tip cut.  But it was
 far more than three times as effective.  The tip cut did not deter the
 wounded fighter one whit in continuing the fight while the thrust to the leg
@@ -379,8 +361,8 @@ effect it would have to penetrate deeply enough that it becomes a puncture.
 This may require a review of the rules in regards to tip cuts and other
 related types of wounds as they pertain to heavy rapier or at least the way
 that we call them and acknowedge the effects of such wounds..
-<BR><BR>
-        But the most important finding concerning this ghastly little experiment
+
+But the most important finding concerning this ghastly little experiment
 dealt with the pain of a thrust to the leg and its sapping of one's will and
 ability to continue fighting.  An admittedly shallow puncture wound that
 touched no vital areas and caused no significant permanent muscle or tendon
@@ -392,8 +374,8 @@ admitted was coursing through his system within seconds of the wound.  The
 pain of the wound was not lessened in any way by a change from a standing to
 a sitting or to a prone position.  The pain was ever present and it
 terminated the fight.
-<BR><BR>
-        With all of this in mind, should we not review the rules governing leg
+
+With all of this in mind, should we not review the rules governing leg
 wounds and the continuing of a fight once one has been so wounded?  Putting
 all matters of honor and properness aside for the moment, does not the sheer
 physical inability of a young fighter of considerable skill, endurance and
@@ -408,93 +390,29 @@ dearly bought experience, to be little more than a way for someone at a
 disadvantage to continue fighting with hopes to gain that all -mportant win.
 It is time to eschew such practices and move towards a more realistic
 portrayal of the results of what we do.
-<BR><BR>
-<CENTER><B>The End</B></CENTER>
-  </TD>
-</TR>
-</TABLE>
 
-  <BR>
-  <BR>
-  <B><U>The Cast</U></B>
-<TABLE BORDER=0 WIDTH=90%>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Duellist #1: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Unnamed Idiot</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Duellist #2: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Complete A. Utter Fool</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Duellist #3: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Unwounded Fuzzy-Headed Man</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Duellist #4: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Unwounded Woman/Boy</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Clinic Receptionist: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Barbara Smith</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Nurse: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Herself</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Doctor: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Dr. Harry "Lightneedle" Lee</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Store Manager: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Herself</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Duellist #1's Girlfriend: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Wisely Anonymous</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Duellist #2's Girlfriend: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Too Smart to Be There</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Obnoxious Red-Bearded Man: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Himself</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Director: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Ernesto Maldanaldo</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Producer: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>North Dallas Dueling Society</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Special Effects: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Wounds-Are-Us, Inc.</TD>
-</TR>
-<TR>
-  <TD ALIGN=RIGHT VALIGN=MIDDLE WIDTH=50%>Costuming: </TD>
-  <TD ALIGN=LEFT VALIGN=MIDDLE WIDTH=50%>Joe Rummel, Neil Santos, Francis Lucas, Don Sims & Ernesto Maldanaldo</TD>
-</TR>
-</TABLE>
+The End
 
-<TABLE WIDTH=90% BORDER=0>
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
+### The Cast
+
+* Duellist #1: Unnamed Idiot
+* Duellist #2: Complete A. Utter Fool
+* Duellist #3: Unwounded Fuzzy-Headed Man
+* Duellist #4: Unwounded Woman/Boy
+* Clinic Receptionist: Barbara Smith
+* Nurse: Herself
+* Doctor: Dr. Harry "Lightneedle" Lee
+* Store Manager: Herself
+* Duellist #1's Girlfriend: Wisely Anonymous
+* Duellist #2's Girlfriend: Too Smart to Be There
+* Obnoxious Red-Bearded Man: Himself
+* Director: Ernesto Maldanaldo
+* Producer: North Dallas Dueling Society
+* Special Effects: Wounds-Are-Us, Inc.
+* Costuming: Joe Rummel, Neil Santos, Francis Lucas, Don Sims & Ernesto Maldanaldo
+
 This paper was shot on location in North Dallas, Richardson and at the A.M./P.M. Clinic.
-<BR><BR>
-Any resemblence between the events and people described herein and any real
-personage or event is purely truthful.
-<BR><BR>
+
+Any resemblence between the events and people described herein and any real personage or event is purely truthful.
+
 No real cadets were harmed in the making of this paper.
-  </TD>
-</TR>
-</TABLE>
-
-</CENTER>
-
-</BODY>
-
-</HTML>
