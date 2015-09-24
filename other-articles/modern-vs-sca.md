@@ -1,23 +1,10 @@
-<!-- This document was created with Notepad :) -->
+---
+layout: default
+title: Modern vs SCA fencing
+---
 
-<HTML>
-<HEAD>
-  <TITLE>Academie d'Espee - Modern vs SCA fencing</TITLE>
-</HEAD>
+*by [Lady Caitlin Deirdre of Errelyn](mailto:des414@yahoo.com) - Rhydderich Hael, Aethelmearc.*
 
-<BODY>
-<CENTER>
-<H1>Modern vs SCA fencing</H1>
-
-<I>by <A HREF="mailto:des414-at-yahoo.com">Lady Caitlin Deirdre of Errelyn</A>
-<BR>
-Rhydderich Hael, Aethelmearc.  
-</I>
-
-<TABLE WIDTH=80% BORDER=0>
-
-<TR>
-  <TD ALIGN=LEFT VALIGN=MIDDLE>
 I've heard rumors that in civilized countries, they teach fencing in the
 public school system.   English or French 10 year olds learn to fence about
 the same time we learn to play basketball.  Sadly, the U.S. school system is
@@ -35,7 +22,7 @@ other forms.  It will help you understand mind-sets and techniques of your
 future opponents.  You will be able to appear intelligent in conversations
 with both sorts of fencers.  And, most importantly, I went through the
 bother of writing this whole article - the least you can do is read it.
-<BR><BR>
+
 Modern fencing is also called "collegiate" fencing, Olympic fencing, and
 strip fencing.  This last term is not analogous to "strip poker" (shame on
 you), but refers to the strip (also called a piste) that fencers use.  It is
@@ -51,8 +38,8 @@ position.  Every modern fencer I've seen has spent years training his/her
 left hand to not move and it takes quite an effort to wake it up again.  For
 left-handed fencers, the rule applies to the right hand, but the theory
 generally applies.  (On the bright side, fencers trained in the modern style
-do usually have excellent footwork.)  
-<BR><BR>
+do usually have excellent footwork.)
+
 There are 3 weapon forms in modern:  foil, saber and epee (which is also
 useful to know for crossword puzzles).   All forms are fought for points, as
 opposed to mock-death.  In this system, stabbing a person's big toe is
@@ -69,7 +56,7 @@ generally segregated by gender, although it's usually open in practices.
 SCA fencing is co-ed, which, frankly, I think both genders prefer.  I know
 I'd get rather bored with fencing the same few lady fencers for the rest of
 my life - there just aren't enough of us.
-<BR><BR>
+
 Foil is considered the equivalent of a practice weapon.  It is thin, light
 and allows limited target area.  When fencing modern foil, you are only
 allowed to hit the torso - no arms, legs or head.  Virtually all beginner
@@ -85,7 +72,7 @@ safer than thinking my opponent IS dead and having him explain later that I
 only had the shoulder.)  Foil fencers are only allowed to use thrusts, and
 there are depressing rules about "right of way" that I'll complain about
 later.
-<BR><BR>
+
 The sabre (also spelled "saber") is based on the old cavalry sabers.  The
 blade is more of a wedge and generally has a bell that extends over the
 fingers.  As one might guess, this is because the fingers and hand are valid
@@ -93,10 +80,10 @@ targets in saber fencing.  Their target is from the waist up, arms and head
 included.  Sabre is more like SCA fencing in that it allows cuts in addition
 to thrusts.  Sabre cuts, however, are generally light tip flicks that don't
 transfer well into SCA-style draw cuts (which should be 6-8" inches of
-pulling in Æthelmearc).  Sabre blades are not allowed in the SCA in any
+pulling in Aethelmearc).  Sabre blades are not allowed in the SCA in any
 kingdom.  Foil and epee blades are generally allowed - individual kingdoms
 vary.
-<BR><BR>
+
 Epee is the closest that modern gets to the old-style duels.  The blade is
 thicker and heavier.  Legal target area includes the entire body and many an
 epee fencer snipes at your big toe to get a point.  Epee fencing only counts
@@ -114,7 +101,7 @@ before you attacked your opponent, you should say yours was late and doesn't
 count".  With adrenalin and the high speed of blades whirling about, it's
 more common than you might think to not realize you are dead for a few extra
 seconds.
-<BR><BR>
+
 All three forms come in two basic variations:  electric and non-electric
 (also known as "dry").  Which one you use generally depends on which one
 your club uses - electric is clearly more expensive, since you need all
@@ -131,12 +118,12 @@ not ignore them or wear armor that interferes with their ability to feel
 those blows.  Modern fencing is considered a sport of honor - you salute
 your opponent before a match and shake his hand afterwards.  But decisions
 about the actual scoring are all made by outside observers.
-<BR><BR>
+
 In SCA fencing, there are 5 basic fencing forms, regardless of the blade
 used (foil, epee or schlager).  The forms are:  single sword, sword and
 rigid parry object (such as a small buckler), sword and non-rigid parry
 object (such as a cloak), sword and dagger, and two swords (also known as a
-"case of rapier").  In Æthelmearc, you must pass a qualification test in
+"case of rapier").  In Aethelmearc, you must pass a qualification test in
 each separately, with a different 6th qualification in schlager.  Some
 kingdoms do not test each form separately and some use schlager as the only
 blade (Ealdomere, for example).  FYI, some kingdoms allow "Del Tins" which
@@ -146,7 +133,7 @@ a clear difference between the edge and the flat of the blade.  It is the
 closest we come to recreating rapiers actually used in period, in terms of
 weight and maneuverability.  I imagine theirs had sharp bits, though, and we
 try to avoid those in the SCA.
-<BR><BR>
+
 SCA fencing is also called "fencing in the round" because you can move
 sideways or circle with your opponent.  Closing distance with your opponent
 until you can see her freckles is called "corps-a-corps" in modern and is
@@ -155,12 +142,12 @@ skill, especially for shorter fencers who might be at a disadvantage when
 kept at full distance by a 6' fighter.  In contrast, a running attack at
 your opponent (called a "fleche") is forbidden in the SCA, and considered
 valid in modern.
-<BR><BR>
+
 As mentioned earlier, it is the two fencers who decide what hits happened,
 where and when.  There should always be a marshal watching the bout, but her
 main job is to keep the action safe for the fencers and the non-combatants.
 Marshals watch for broken blades, armor that might have fallen off, and
-five-year olds deciding to run into the list.  In Æthelmearc, it is a
+five-year olds deciding to run into the list.  In Aethelmearc, it is a
 requirement at all practices and tourneys to get your weapons and your armor
 inspected each and every time.  The only serious problem that happens in
 either sort of fencing is a blade breaking and hitting the opponent.  We
@@ -172,16 +159,6 @@ opponent with one or been hit myself, which is in large part due to the
 preventative and monitoring work by the marshals.  I don't have the actual
 statistics, but it has been said that it is safer to fence at an SCA
 practice than it is to drive your car to that practice.
-<BR><BR>
+
 After all, we want to kill our opponents, but we don't want to hurt them.
 Then they wouldn't be around to try to kill us next week :-).
-  </TD>
-</TR>
-
-</TABLE>
-
-</CENTER>
-
-</BODY>
-
-</HTML>

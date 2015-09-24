@@ -12,5 +12,5 @@ Here are numerous papers and articles written by gentles from outside of the fai
 * [An Article on Duels - #4](on_duels4.htm) - By Lionardo Acquistapace, Barony of Axemoor, Meridies
 * [An Article on Duels - #5](on_duels5.htm) - By Lionardo Acquistapace, Barony of Axemoor, Meridies
 * [An Article on Duels - #6](on_duels6.htm) - By Lionardo Acquistapace, Barony of Axemoor, Meridies
-* [Modern vs SCA fencing](caitlin1.htm) - By Lady Caitlin Deirdre of Errelyn
+* [Modern vs SCA fencing](modern-vs-sca) - By Lady Caitlin Deirdre of Errelyn
 * [Realistic Blow Calling](blowcall.htm) - By Iolo FitzOwen and Christian Richard Dupre, Ansteorra
