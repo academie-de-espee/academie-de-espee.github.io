@@ -3,9 +3,9 @@ layout: default
 title: Links
 ---
 
-* [Texts of the Ancient Masters](links1.htm)
-* [Information on the Elizabethan Period](links6.htm)
-* [Rapier Rules for the Known World](links3.htm)
-* [Merchants of Interest](links4.htm)
-* [Valuable Sources of Rapier Information](links4.htm)
-* [Other Places To Visit](links5.htm)
+* [Texts of the Ancient Masters](ancient-masters)
+* [Valuable Sources of Rapier Information](rapier-information)
+* [Rapier Rules for the Known World](rules)
+* [Merchants of Interest](merchants)
+* [Information on the Elizabethan Period](elizabethan)
+* [Other Places To Visit](other-places)
