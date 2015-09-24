@@ -8,22 +8,19 @@ title: A Treatise Concerning Leg Wounds
 *[Don Aubrey de Baudricourt](mailto:Aubrey666@aol.com) and Lord Joachim van den Has*
 
 
-> Against studpidity the gods themselves contend in vain.
+> *Against studpidity the gods themselves contend in vain.*
 >
-> *--Anacreon, 8th century B.C.*
+> --Anacreon, 8th century B.C.
 
-> At first, all that I could think of was how much it hurt.  Later, after the adrenaline, all that I could think about was how much it hurt.
+> *At first, all that I could think of was how much it hurt.  Later, after the adrenaline, all that I could think about was how much it hurt.*
 >
-> *--Duellist #1, 24 June, 1997*
+> --Duellist #1, 24 June, 1997
 
 <B> I. Introduction: In Which is Described the Leg Wound Controversy now being discussed within the rapier community of the SCA and a Disclaimer Concerning the Wisdom of Such Actions as Are Described Later is Presented </B>
 
-> A combatant receiving such a valid blow to the leg or foot will be considered grounded.
-> By definition a grounded opponent cannot move from the spot in which he selects to place
-> himself before continuing combat....  A grounded fighter must decide if he will
-> fight from the sitting or kneeling position.
+> *A combatant receiving such a valid blow to the leg or foot will be considered grounded.  By definition a grounded opponent cannot move from the spot in which he selects to place himself before continuing combat....  A grounded fighter must decide if he will fight from the sitting or kneeling position.*
 >
-> *--Ansteorran Rapier Combat Rules*
+> --Ansteorran Rapier Combat Rules
 
 One of the liveliest and most divisive points of contention now plaguing
 the rapier community is the controversy surrounding the actual effects of
@@ -116,25 +113,20 @@ them.
 encounter and an accounting of the Duel Itself,  as well as yet another
 disclaimer that seeks to separate these Goings-on and others like them from
 those of the SCA</B>
-<BR><BR>
-<I>
-The word rapier today is ususally taken to refer to
-a type of sword with a long, narrow, straight blade
-designed purley for thrusting or, at the most,, only
-of limited use for cuting.<BR>
---A.V.B. Norman, The Rapier and Small Sword, 1460-1820, 1980
-<BR><BR>
-But if blowes come from the knees downwardes, they
-of force must be encountered with the sword, and
-alwais with the false, or backe edge thereof...&
-therewithall the enimies legge must be cutt...<BR>
---Di Grassi, His True Arte of Defence, 1594
-<BR><BR>
-What happened?  I guess that I missed the bloody parry!  Stupid question.<BR>
---Duellist #1, 24 June 1997
-</I>
-<BR><BR>
-        The duel in question was fought under the auspices of the North Dallas
+
+> *The word rapier today is ususally taken to refer to a type of sword with a long, narrow, straight blade designed purley for thrusting or, at the most,, only of limited use for cuting.*
+>
+> --A.V.B. Norman, The Rapier and Small Sword, 1460-1820, 1980
+
+> *But if blowes come from the knees downwardes, they of force must be encountered with the sword, and alwais with the false, or backe edge thereof...& therewithall the enimies legge must be cutt...*
+>
+> --Di Grassi, His True Arte of Defence, 1594
+
+> *What happened?  I guess that I missed the bloody parry!  Stupid question.*
+>
+> --Duellist #1, 24 June 1997
+
+The duel in question was fought under the auspices of the North Dallas
 Dueling Society, an organization that is dedicated to the recreation of
 period combat in period styles and, thusly, is in no way connected to the
 SCA nor bound by its laws, customs or traditions, nor does it place any
@@ -147,8 +139,8 @@ weight, balance and length.  Prior to the last combat, matters had
 progressed without difficulty, the fights being conducted at such a range
 that even at full extention, no harm could be done.  Considerable control
 had been exhibited by all combatants during the early fights.
-<BR><BR>
-        Both combatants in the duel that has provided the information upon which
+
+Both combatants in the duel that has provided the information upon which
 this treatise concerning leg wounds and their effects is based were equipped
 with pointed but unedged or lightly edged rapiers of 36 inch or greater
 length.  The rapier used by Duellist #1 had an elaborately grooved cup hilt
@@ -157,8 +149,8 @@ edge.  Such a weapon was prevalent in the mid-17th century.  The other
 rapier was a swept-hilt weapon possessing loop guards, back guards, side
 guards, knuckle bow and quillons of such a type as was used in circa 1575.
 The blade terminated in a point and possessed one slightly sharpened front edge.
-<BR><BR>
-        Duellists #2 was protected by various pieces of body armor, to include a
+
+Duellists #2 was protected by various pieces of body armor, to include a
 zigschagge helmet with perforrated steel face, steel gorget, steel back and
 breast plate, cup, and a buff coat with pants, shirt, lower thigh-high boots
 and leather gloves.  This was standard for a cavalry officer of early- to
@@ -167,16 +159,16 @@ doublet, pants, shirt, gloves, cup, and knee-high boots of circa 1640.  Both
 had years of experience in sword fighting with lighter unedged and unpointed
 weapons and had, from time to time also fought with untipped and pointed
 weapons.
-<BR><BR>
-        The two conducted several passes in which minor "cuts" were inflicted to
+
+The two conducted several passes in which minor "cuts" were inflicted to
 the lower shin area by the sliding of the blades across the pant legs or
 boots.  These were "called" through the material of the pants or the boots
 with little trouble.   These "wounds" were inflicted with the edge of the
 weapon and resulted in no damage to material or wound to the body.  In the
 fifth pass one duelist inflicted a thrusting "wound" to the other"s gloved
 hand that, while not penetrating the leather, was felt through the glove.
-<BR><BR>
-        The sixth pass saw Duellist #1 inflict an actual wound, fondly called the
+
+The sixth pass saw Duellist #1 inflict an actual wound, fondly called the
 Lesser Wound, in the form of a tip cut to the left center of the right thigh
 of Duellist #2.  This ragged wound was inflicted exclusively by the tip of
 the weapon penetrating to the depth of half an inch and then being dragged
@@ -186,8 +178,8 @@ called incapacitating when inflicted upon an arm or leg and fatal or
 debilitating when inflicted upon the body.  Given the lack of effect upon
 the recipient of this particular tip cut, it is time to re-evaluate how we
 call such wounds and simulate their effects.
-<BR><BR>
-        The recipient of this particular tip cut later attested that there was
+
+The recipient of this particular tip cut later attested that there was
 little pain involved, feeling more like the scratch of a cat, the tear by a
 thorn or a quick burning sensation than a true wound .  In fact, the wounded
 man stated that he did not truly notice it until some time later.  Upon
@@ -200,21 +192,15 @@ the tip cut caused no loss in Duellist #2's ability or will to fight, much
 less incapacitation.  The duel continued until the seventh pass, resulting
 in the wound upon which this article is truly built.
 
-<BR><BR>
-<B>III. The Greater Wound is described and both the manner in which it was
-delivered and received and Its Effects are detailed for the reader</B>
-<BR><BR>
-<I>
-Provided that no arteries or tendons are severed
-and the muscle and bone remain intact, the
-human body is capable of taking severed
-lacerations and still keep going.  This is apperently
-not the case with internal puncture wounds...<BR>
----John Clements, Renaissance Swordsmanship, 1997
-<BR><BR>
-They're not really supposed to stick each other like that, are they?<BR>
---Obnoxious Red Bearded Man, June 24, 1997
-</I>
+<B>III. The Greater Wound is described and both the manner in which it was delivered and received and Its Effects are detailed for the reader</B>
+
+> *Provided that no arteries or tendons are severed and the muscle and bone remain intact, the human body is capable of taking severed lacerations and still keep going.  This is apperently not the case with internal puncture wounds...*
+>
+> ---John Clements, Renaissance Swordsmanship, 1997
+
+> *They're not really supposed to stick each other like that, are they?*
+>
+> --Obnoxious Red Bearded Man, June 24, 1997
 
 On the seventh pass the two combatants became locked  corps-a-corps in a
 lower parry to the right of Duellist #2 that bound both blades.  Duellist #2
@@ -285,19 +271,17 @@ within two weeks.
 <B>IV.  Conclusion:  Wherein is Stated:  "Boys and girls, don't do this at
 home.  We are trained professionals... and even we didn't get it right."</B>
 
-<I>
-I have always thought that fighting from  the ground after getting "legged" is rather stupid.<BR>
---Duellist #2, 25 June, 1997
+> *I have always thought that fighting from  the ground after getting "legged" is rather stupid.*
+>
+> --Duellist #2, 25 June, 1997
 
-I see your point.  The next time that I see someone fighting from the ground I will
-tell them just how clueless they are.<BR>
---Duellist #1, 25 June, 1997
+> *I see your point.  The next time that I see someone fighting from the ground I will tell them just how clueless they are.*
+>
+> --Duellist #1, 25 June, 1997
 
-I can't believe that you two were stupid enough to do that.  No, wait a minute.
-Yes, I actually can believe it.<BR>
---Duellist #2's Girlfirend, 25 June 1997
-</I>
-
+> *I can't believe that you two were stupid enough to do that.  No, wait a minute.  Yes, I actually can believe it.*
+>
+> --Duellist #2's Girlfirend, 25 June 1997
 
 What conclusions can be reached from the folly of our two friends?  A
 number of lessons have sprung from this experience, not the least of which
