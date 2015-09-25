@@ -17,14 +17,13 @@ roster:
 <tr>
     <th> Name </th>
     <th> Date </th>
-    <th> event </th>
+    <th> Event </th>
     <th> Sponsors </th>
 </tr>
 </thead>
 <tbody>
 {% for item in page.roster %}
 <tr>
-    <td> {{ forloop.index }} </td>
     <td> {{ item.name }}</td>
     <td> {{ item.award_date }} </td>
     <td> {{ item.event }} </td>
