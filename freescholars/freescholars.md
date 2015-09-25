@@ -15,7 +15,6 @@ roster:
 <table class="pure-table pure-table-bordered">
 <thead>
 <tr>
-    <th> # </th>
     <th> Name </th>
     <th> Date </th>
     <th> event </th>
