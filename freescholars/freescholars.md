@@ -32,3 +32,5 @@ roster:
 {% endfor %}
 </tbody>
 </table>
+
+Are you a freescholar?  Should your name be listed above?  Email [Lord Linhart Von Marburg](mailto:rmauler@gmail.com) or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
