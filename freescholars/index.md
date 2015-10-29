@@ -2,14 +2,43 @@
 layout: default
 title: Roster
 roster:
-  - name: sca name
-    location: home barony
-    award_date: date made a free scholar
-    form: favorite weapon form
-    event: event you were made a free scholar
-    sponsors: your provost sponsors
-    prize_date: date you played your prize
-    prize_event: event you played your prize
+   - name: Linhart Von Marburg
+     location: Lochmere
+     award_date:
+     form:
+     event:
+     sponsors:
+     prize_date:
+     prize_event:
+   - name: Torse Hartman
+     location: 
+     award_date:
+     form:
+     event:
+     sponsors:
+     prize_date:
+     prize_event:
+   - name: Angeline Falconis
+     location: Lochmere
+     award_date:
+     form:
+     event:
+     sponsors:
+     prize_date:
+     prize_event:
+   - name: Gilig von Baden
+   - Aedh Ua Ruaic
+   - Gawin Kappler
+   - Jean Maurice le Marinier
+   - Ella de Lille
+   - Symone de la Rochelle
+   - William Cameron
+   - Turvon Kuznetsov
+   - Alyna of the Ilex
+   - Constanza de Talavera
+   - Kenji Yoshimoto
+   - Alyce Blood
+   - Etain of Sutherland
 ---
 
 <table class="pure-table pure-table-bordered">
@@ -19,6 +48,7 @@ roster:
     <th> Date </th>
     <th> Event </th>
     <th> Sponsors </th>
+    <th> Favorite Form </th>
 </tr>
 </thead>
 <tbody>
@@ -28,6 +58,7 @@ roster:
     <td> {{ item.award_date }} </td>
     <td> {{ item.event }} </td>
     <td> {{ item.sponsors }} </td>
+    <td> {{ item.form }} </td>
 </tr>
 {% endfor %}
 </tbody>
