@@ -9,7 +9,7 @@ The Academie d'Espee exists to promote the practice and enjoyment of period styl
 * [Masters](http://op.atlantia.sca.org/op_award.php?award_id=902)
 * [Provosts](http://op.atlantia.sca.org/op_award.php?award_id=20)
 * [Free Scholars](freescholars)
-* Scholars (TBD)
+* [Scholars](scholars) (TBD)
 
 ## Other sites of Interest
 * [Rapier Marshal's Site](http://rapier.atlantia.sca.org/)
