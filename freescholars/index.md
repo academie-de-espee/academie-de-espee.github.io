@@ -2,49 +2,57 @@
 layout: default
 title: Roster
 roster:
+   - name: Marguerite de Lyon
+     location: Lochmere
+     date: 10/04/2015
+     form: Sword and Buckler
+     event: Rapier Schola in Aethelmearc
+     sponsors: Master Alessandro, Master Connor, and Lady Caitilin
    - name: Linhart Von Marburg
      location: Lochmere
-     award_date:
+     date: 11/22/2014
      form:
-     event:
-     sponsors:
-     prize_date:
-     prize_event:
+     event: Holiday Faire
+     sponsors: Master Giacomo, Lord Celric, and Lord Arghylle
    - name: Torse Hartman
-     location: 
-     award_date:
+     location:
+     date:
      form:
      event:
      sponsors:
-     prize_date:
-     prize_event:
    - name: Angeline Falconis
      location: Lochmere
-     award_date:
+     date:
      form:
      event:
      sponsors:
-     prize_date:
-     prize_event:
+   - name: Sanada Terasu
+     location: Sudentorre
+     date: 11/22/2014
+     form:
+     event: Holiday Faire
+     sponsors: Master Dante, Lord Benjamin, and Lord Brian
+   - name: Colin McNab
    - name: Gilig von Baden
-   - Aedh Ua Ruaic
-   - Gawin Kappler
-   - Jean Maurice le Marinier
-   - Ella de Lille
-   - Symone de la Rochelle
-   - William Cameron
-   - Turvon Kuznetsov
-   - Alyna of the Ilex
-   - Constanza de Talavera
-   - Kenji Yoshimoto
-   - Alyce Blood
-   - Etain of Sutherland
+   - name: Aedh Ua Ruaic
+   - name: Gawin Kappler
+   - name: Jean Maurice le Marinier
+   - name: Ella de Lille
+   - name: Symone de la Rochelle
+   - name: William Cameron
+   - name: Turvon Kuznetsov
+   - name: Alyna of the Ilex
+   - name: Constanza de Talavera
+   - name: Kenji Yoshimoto
+   - name: Alyce Blood
+   - name: Etain of Sutherland
 ---
 
 <table class="pure-table pure-table-bordered">
 <thead>
 <tr>
     <th> Name </th>
+    <th> Location </th>
     <th> Date </th>
     <th> Event </th>
     <th> Sponsors </th>
@@ -52,10 +60,12 @@ roster:
 </tr>
 </thead>
 <tbody>
-{% for item in page.roster %}
+{% assign sorted = page.roster | sort:"name" %}
+{% for item in sorted %}
 <tr>
     <td> {{ item.name }}</td>
-    <td> {{ item.award_date }} </td>
+    <td> {{ item.location }} </td>
+    <td> {{ item.date }} </td>
     <td> {{ item.event }} </td>
     <td> {{ item.sponsors }} </td>
     <td> {{ item.form }} </td>
