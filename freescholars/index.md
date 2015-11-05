@@ -44,7 +44,9 @@ roster:
    - name: Alyna of the Ilex
    - name: Constanza de Talavera
    - name: Kenji Yoshimoto
+     location: Bright Hills
    - name: Alyce Blood
+     location: Bright Hills
    - name: Etain of Sutherland
 ---
 
@@ -56,7 +58,6 @@ roster:
     <th> Date </th>
     <th> Event </th>
     <th> Sponsors </th>
-    <th> Favorite Form </th>
 </tr>
 </thead>
 <tbody>
@@ -68,7 +69,6 @@ roster:
     <td> {{ item.date }} </td>
     <td> {{ item.event }} </td>
     <td> {{ item.sponsors }} </td>
-    <td> {{ item.form }} </td>
 </tr>
 {% endfor %}
 </tbody>
