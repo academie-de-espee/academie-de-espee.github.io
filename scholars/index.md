@@ -3,8 +3,8 @@ layout: default
 title: Roster of Scholars
 roster:
    - name: What your name listed?
-     location: Lochmere
-     form: 
+     location: Where are you from?
+     form: What is your favorite form?
 ---
 
 <table class="pure-table pure-table-bordered">
