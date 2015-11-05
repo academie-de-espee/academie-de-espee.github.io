@@ -11,7 +11,7 @@ But I can perhaps suggest some ways to learn to sound medieval.
 
 My best recommendation is to read period books, even if its just to get
 an idea of how people spoke.
-[Shakespeare](http://the-tech.mit.edu/Shakespeare/works.html)
+[Shakespeare](http://shakespeare.mit.edu/)
 is an excellent source.  The
 ["Book of the Courtier" by Castiglione](http://darkwing.uoregon.edu/~rbear/courtier/courtier.html)
 is also excellent reading.  One of
