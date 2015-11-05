@@ -15,7 +15,7 @@ roster:
      event: Holiday Faire
      sponsors: Master Giacomo, Lord Celric, and Lord Arghylle
    - name: Torse Hartman
-     location:
+     location: Hawkwood
      date:
      form:
      event:
@@ -35,21 +35,51 @@ roster:
    - name: Colin McNab
    - name: Gilig von Baden
    - name: Aedh Ua Ruaic
+     location: Kappellenberg
+     date:
+     form:
+     event:
+     sponsors:
    - name: Gawin Kappler
+     location: Calontir
+     date:
+     form:
+     event:
+     sponsors:
    - name: Jean Maurice le Marinier
    - name: Ella de Lille
    - name: Symone de la Rochelle
    - name: Turvon Kuznetsov
    - name: Alyna of the Ilex
    - name: Constanza de Talavera
+     location: 
+     date:
+     form:
+     event:
+     sponsors: Percival Aldridge, ?, ?
    - name: Kenji Yoshimoto
      location: Bright Hills
    - name: Etain of Sutherland
+     location: Nottinghill Coill
+     date:
+     form:
+     event:
+     sponsors:
    - name: Alyce / Alexander Blood
      location: Bright Hills
    - name: Angharad Melys
    - name: Anna / Adrian Collins
+     location: Isenfir
+     date:
+     form:
+     event:
+     sponsors:
    - name: Bastian de la Salle
+     location: Nottinghill Coill
+     date:
+     form:
+     event:
+     sponsors:
    - name: Beatrice LaGrave
    - name: Bledri Ap Llew
    - name: Briana of Skye
@@ -60,9 +90,29 @@ roster:
    - name: Duncan MacLaren
    - name: Fredrick von Heinrich
    - name: Galen of Black Diamond
+     location: Buckston-on-Eno 
+     date:
+     form:
+     event:
+     sponsors:
    - name: Gaston du Valmont
+     location: Elvegast
+     date:
+     form:
+     event:
+     sponsors:
    - name: Gavin Briare
+     location: 
+     date:
+     form:
+     event:
+     sponsors: Katherine Maunsel, ?, ?
    - name: Giovan Donato
+     location: Buckston-on-Eno
+     date:
+     form:
+     event:
+     sponsors:
    - name: Iacopo Attaviano da Vizzi
    - name: Jack Wright
    - name: Jehan-Franc de Blauvac
@@ -70,6 +120,11 @@ roster:
    - name: Lucien de la Rochelle
    - name: Margaret Cameron
    - name: Marion le Red
+     location: Elvegast?
+     date:
+     form:
+     event:
+     sponsors:
    - name: Matilda Grille (Tilly)
    - name: Orlando de Olivares Y Salazar
    - name: Penelope Blood
@@ -77,6 +132,11 @@ roster:
    - name: Thorbrandr Olafsson
    - name: Thorgrimr inn Kyrri
    - name: William Cameron
+     location: Caer Mear 
+     date:
+     form:
+     event:
+     sponsors:
    - name: Ylsa Broussard
 ---
 
