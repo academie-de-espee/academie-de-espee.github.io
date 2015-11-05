@@ -39,15 +39,45 @@ roster:
    - name: Jean Maurice le Marinier
    - name: Ella de Lille
    - name: Symone de la Rochelle
-   - name: William Cameron
    - name: Turvon Kuznetsov
    - name: Alyna of the Ilex
    - name: Constanza de Talavera
    - name: Kenji Yoshimoto
      location: Bright Hills
-   - name: Alyce Blood
-     location: Bright Hills
    - name: Etain of Sutherland
+   - name: Alyce / Alexander Blood
+     location: Bright Hills
+   - name: Angharad Melys
+   - name: Anna / Adrian Collins
+   - name: Bastian de la Salle
+   - name: Beatrice LaGrave
+   - name: Bledri Ap Llew
+   - name: Briana of Skye
+   - name: Calledon of Halbourne
+   - name: Corun MacAnndra
+   - name: Donovan Morgan
+   - name: Duarte Negin de los Angeles y Blanco
+   - name: Duncan MacLaren
+   - name: Fredrick von Heinrich
+   - name: Galen of Black Diamond
+   - name: Gaston du Valmont
+   - name: Gavin Briare
+   - name: Giovan Donato
+   - name: Iacopo Attaviano da Vizzi
+   - name: Jack Wright
+   - name: Jehan-Franc de Blauvac
+   - name: Kostantin Volkovitch (Kostka)
+   - name: Lucien de la Rochelle
+   - name: Margaret Cameron
+   - name: Marion le Red
+   - name: Matilda Grille (Tilly)
+   - name: Orlando de Olivares Y Salazar
+   - name: Penelope Blood
+   - name: Séamus Ó Maoil Riain
+   - name: Thorbrandr Olafsson
+   - name: Thorgrimr inn Kyrri
+   - name: William Cameron
+   - name: Ylsa Broussard
 ---
 
 <table class="pure-table pure-table-bordered">
