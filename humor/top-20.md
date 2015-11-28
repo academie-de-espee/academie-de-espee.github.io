@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Top 20 Reasons Why...
 ---
 

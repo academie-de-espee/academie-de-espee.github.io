@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Free Scholar's Oath
 ---
 

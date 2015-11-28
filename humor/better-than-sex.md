@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Why Fencing Is Better Than Sex
 ---
 

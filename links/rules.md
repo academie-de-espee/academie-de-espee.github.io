@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Links - Rapier Rules for the Known World
 ---
 

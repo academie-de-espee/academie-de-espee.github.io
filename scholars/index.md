@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Roster of Scholars
 roster:
    - name: What your name listed?

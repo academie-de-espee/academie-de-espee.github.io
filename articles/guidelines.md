@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Guidelines for Consideration
 ---
 

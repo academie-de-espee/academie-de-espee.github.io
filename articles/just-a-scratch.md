@@ -1,5 +1,4 @@
 ---
-layout: default
 title: It's just a scratch
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Are You a Compulsive Fencer?
 ---
 

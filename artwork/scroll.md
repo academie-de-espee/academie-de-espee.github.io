@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 ![scroll](/images/scroll.gif)

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Modern vs SCA fencing
 ---
 

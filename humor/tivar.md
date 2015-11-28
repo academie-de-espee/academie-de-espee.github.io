@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Tivar's Top 10 Rules
 ---
 

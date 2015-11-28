@@ -1,5 +1,4 @@
 ---
-layout: default
 title: The Role of the Free Scholar
 ---
 

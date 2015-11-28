@@ -1,5 +1,4 @@
 ---
-layout: default
 title: How To Sharpen Other Knives And Not Lose Your Own Edge
 ---
 

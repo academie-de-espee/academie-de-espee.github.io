@@ -1,5 +1,4 @@
 ---
-layout: default
 title: London Monster - Templar Knights History
 ---
 

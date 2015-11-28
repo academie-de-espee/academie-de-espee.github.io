@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Pledge of the Rapiers - Pennsic XXVI
 ---
 

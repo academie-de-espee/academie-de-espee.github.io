@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Why Do We Calibrate?
 --- 
 

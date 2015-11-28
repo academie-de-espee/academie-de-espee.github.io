@@ -1,5 +1,4 @@
 ---
-layout: default
 title: The Free Scholar - A Not So Comprehensive Look
 ---
 

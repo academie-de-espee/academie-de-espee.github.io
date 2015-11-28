@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Links - The Elizabethan Period
 ---
 

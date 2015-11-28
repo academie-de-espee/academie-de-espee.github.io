@@ -1,5 +1,4 @@
 ---
-layout: default
 title: A Brief History of the Academie d'Espee
 ---
 

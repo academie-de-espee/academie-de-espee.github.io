@@ -1,5 +1,4 @@
 ---
-layout: default
 title: I do not want this schlager sword
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Dictionary of Funny Fencing Phrases
 ---
 

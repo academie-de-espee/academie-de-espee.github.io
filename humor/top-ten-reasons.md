@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Top 10 reasons Why Rapier Is Not A Sport
 ---
 

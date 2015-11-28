@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Scroll Text for a Provost
 ---
 

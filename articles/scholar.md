@@ -1,5 +1,4 @@
 ---
-layout: default
 title: To Be A Scholar
 ---
 

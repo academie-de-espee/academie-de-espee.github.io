@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Sacred Oaths of the Academie
 ---
 

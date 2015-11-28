@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Sestina of the Rapier Challenge - Pennsic XXV
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Learning To Call Blows
 ---
 

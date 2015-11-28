@@ -1,5 +1,4 @@
 ---
-layout: default
 title: A Treatise Concerning Leg Wounds
 ---
 

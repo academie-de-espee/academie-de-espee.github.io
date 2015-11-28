@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Various Artwork of the Academie
 ---
 
