@@ -1,6 +1,8 @@
 lsi:         false
 name: Academie d'Espee
 description: Kingdom of Atlantia
+sass:
+    style: :compressed
 url: http://academie-de-espee.github.io
 highlighter: pygments
 markdown: kramdown
