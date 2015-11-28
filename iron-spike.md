@@ -6,6 +6,10 @@ At Atlantia's 30 Year Celebration, in AS 46, the Free Scholars of the Academie s
 
 The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Buchanan, and a book provided by Lady Letia Thistelthueyt.  All challenges for the Iron Spike are recorded in the accompanying book.
 
+{{ assign total = 0 }}
+{{ assign defended = 0 }}
+{{ assign holders = 0 }}
+
 ## Current Holder
 
 {% assign latest = site.data.ironspike | last %}
@@ -30,8 +34,6 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
 </tr>
 </thead>
 <tbody>
-{{ assign total = 0 }}
-{{ assign defended = 0 }}
 {% for item in site.data.ironspike %}
 {% capture defended %}{{ defended | plus: item.defended }}{% endcapture %}
 {% capture total %}{{ total | plus: item.defended | plus: 1}}{% endcapture %}
@@ -91,6 +93,7 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
     {% endfor %}
     {% if current_value != -1 %}
         <td> {{ current_value }} </td> <td> {{ gained }} </td> </tr>
+        {% capture holders %}{{ holders | plus: 1 }}{% endcapture %}
     {% endif %}
 {% endfor %}
 </table>
@@ -98,22 +101,21 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
 </div>
 </div>
 
-<h3> Overall Totals </h3>
+<h3> Totals </h3>
 <table class="pure-table pure-table-bordered">
 <thead>
 <tr>
-    <th> Total Defended </th>
-    <th> Total Challenges </th>
+    <th> Type </th>
+    <th> Count </th>
 </tr>
 </thead>
 <tbody>
-<tr>
-    <td> {{ defended }} </td>
-    <td> {{ total }} </td>
-</tr>
+<tr> <td> Holders </td> <td> {{ holders }} </td> </tr>
+<tr> <td> Defended </td> <td> {{ defended }} </td> </tr>
+<tr> <td> Challenges </td> <td> {{ total }} </td> </tr>
 </tbody>
 </table>
 
-Have you had the honor of holding the Iron Spike?  Should your name be listed above?  Email [Lord Brian de Moray](mailto:bmc@shmoo.com) or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
+Have you had the honor of holding the Iron Spike?  Should your name be listed above?  Email [Brian de Moray](mailto:bmc@shmoo.com) or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
 
 <script src="/js/sorttable.js"></script>
