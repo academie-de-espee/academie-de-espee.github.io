@@ -1,4 +1,4 @@
-- name: Armand Schermitore
+- name: Armand of Caer Mear
   defended: 1
 - name: Arghylle Buchanan
   defended: 1
@@ -12,7 +12,7 @@
   defended: 1
 - name: Aedan Aylwyn
   defended: 1
-- name: Caitilín Inghean Fheichín
+- name: Caitilin Inghean Fheichin
   defended: 1
 - name: Linhart Von Marburg
   defended: 0
@@ -20,7 +20,7 @@
   defended: 2
 - name: Colin McNab
   defended: 0
-- name: Wistric Often
+- name: Wistric Oftun
   defended: 4
 - name: Brian de Moray
   defended: 8
@@ -52,14 +52,13 @@
   defended: 0
 - name: Draco Pendragon
   defended: 2
-- name: Terasu Sanada
+- name: Sanada Terasu
   defended: 2
 - name: Simone De Venezia
   defended: 1
 - name: Feodosiia Alekseeva zhena
   defended: 0
-- name: Terasu Sanada
+- name: Sanada Terasu
   defended: 1
 - name: Brian de Moray
   defended: 0
-  current: True

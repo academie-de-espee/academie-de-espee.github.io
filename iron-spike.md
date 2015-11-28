@@ -8,7 +8,12 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
 
 ## Current Holder
 
-{{ site.data.ironspike | last | map: "name" }}
+{% assign latest = site.data.ironspike | last %}
+{% assign name = latest.name %}
+{% if site.data.provosts[name] != null %} {% assign person = site.data.provosts[name] %} {% elsif site.data.freescholars[name] != null %} {% assign person = site.data.freescholars[name] %} {% else %} {% assign person = site.data.people[name] %} {% endif %}
+{% if person.op_id != null %} <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}"> {% endif %}
+{{ person.title }} {{ name }}
+{% if person.op_id != null %} </a> {% endif %}
 
 <div class="pure-g">
 
@@ -30,9 +35,16 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
 {% for item in site.data.ironspike %}
 {% capture defended %}{{ defended | plus: item.defended }}{% endcapture %}
 {% capture total %}{{ total | plus: item.defended | plus: 1}}{% endcapture %}
+
+{% if site.data.provosts[item.name] != null %} {% assign person = site.data.provosts[item.name] %} {% elsif site.data.freescholars[item.name] != null %} {% assign person = site.data.freescholars[item.name] %} {% else %} {% assign person = site.data.people[item.name] %} {% endif %}
+
 <tr>
     <td> {{ forloop.index }} </td>
-    <td> {{ item.name }} </td>
+    <td>
+    {% if person.op_id != null %} <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}"> {% endif %}
+    {{ person.title }} {{ item.name }}
+    {% if person.op_id != null %} </a> {% endif %}
+    </td>
     <td> {{ item.defended }} </td>
 </tr>
 {% endfor %}
@@ -61,8 +73,13 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
     {% if names contains current %}
         {% assign current_value = 0 %}
         {% assign gained = 0 %}
+{% if site.data.provosts[name] != null %} {% assign person = site.data.provosts[name] %} {% elsif site.data.freescholars[name] != null %} {% assign person = site.data.freescholars[name] %} {% else %} {% assign person = site.data.people[name] %} {% endif %}
         <tr>
-            <td> {{ name }} </td>
+            <td>
+            {% if person.op_id != null %} <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}"> {% endif %}
+            {{ person.title }} {{ name }}
+            {% if person.op_id != null %} </a> {% endif %}
+            </td>
     {% endif %}
     {% for item in site.data.ironspike %}
         {% if name == item.name and current_value != -1 %}

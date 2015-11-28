@@ -8,15 +8,28 @@ title: Roster
     <th> # </th>
     <th> Name </th>
     <th> Date </th>
-    <th> event </th>
+    <th> Event </th>
     <th> Monarch </th>
 </tr>
 </thead>
 <tbody>
-{% for item in site.data.provosts %}
+{% for entry in site.data.provosts %}
 <tr>
+    {% assign name = entry[0] %}
+    {% assign item = entry[1] %}
     <td> {{ forloop.index }} </td>
-    <td> {{ item.name }}</td>
+    <td>
+
+    {% if item.op_id != null %}
+    <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}">
+    {% endif %}
+
+    {{ item.title }} {{ name }}
+
+    {% if item.op_id != null %}
+    </a>
+    {% endif %}
+
     <td> {{ item.award_date }} </td>
     <td> {{ item.event }} </td>
     <td> {{ item.monarchs }} </td>

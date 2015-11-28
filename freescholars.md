@@ -14,10 +14,16 @@ title: Roster
 </thead>
 <tbody>
 
-{% assign sorted = site.data.freescholars | sort:"name" %}
-{% for item in sorted | sort:"name" %}
+{% assign sorted = site.data.freescholars | sort %}
+{% for entry in sorted %}
+{% assign name = entry[0] %}
+{% assign item = entry[1] %}
 <tr>
-    <td> {{ item.name }}</td>
+    <td>
+    {% if item.op_id != null %} <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}"> {% endif %}
+        {{ name }}
+    {% if item.op_id != null %} </a> {% endif %}
+    </td>
     <td> {{ item.location }} </td>
     <td> {{ item.date }} </td>
     <td> {{ item.event }} </td>

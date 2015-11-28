@@ -1,214 +1,219 @@
-- name: Marguerite de Lyon
+Marguerite de Lyon:
   location: Lochmere
   date: 10/04/2015
   form: Sword and Buckler
   event: Rapier Schola in Aethelmearc
   sponsors: Master Alessandro, Master Connor, and Lady Caitilin
-- name: Linhart Von Marburg
+Linhart Von Marburg:
   location: Lochmere
   date: 11/22/2014
   form:
   event: Holiday Faire
   sponsors: Master Giacomo, Lord Celric, and Lord Arghylle
-- name: Torse Hartman
+Torse Hartman:
+  op_id: 7587
   location: Hawkwood
   date: 4/26/2014
   form:
   event: Hawkwood Baronial Birthday
   sponsors: Lord Greylond, Lord Raphael, and Lord Matheu
-- name: Angeline Falconis
+Angeline Falconis:
   location: Lochmere
   date: 2014
   form:
   event: Gulf Wars
   sponsors: Duke Ragnar, Master Richard, and Lady Caitilin
-- name: Sanada Terasu
+Sanada Terasu:
+  op_id: 7086
+  title: Lord
   location: Sudentorre
   date: 11/22/2014
   form:
   event: Holiday Faire
   sponsors: Master Dante, Lord Benjamin, and Lord Brian
-- name: Colin McNab
+Colin McNab:
+  op_id: 782
+  title: Lord
   location: Storvik
   date: 09/13/2014
   form: 
   event: Battle on the Bay
   sponsors: Master Alan, Master Connor, and Lord Celric
-- name: Gilig von Baden
+Gilig von Baden:
   location: Shire of Roxbury Mill
-- name: Aedh Ua Ruaic
+Aedh Ua Ruaic:
   location: Kappellenberg
   date: 5/25/13
   form:
   event: Ruby Joust
   sponsors: Maestro Dante, Master Wistric, and Master Connor
-- name: Gawin Kappler
+Gawin Kappler:
   location: Calontir
   date: 5/11/13
   form:
   event: A Day by the Black Sea
   sponsors: Maestro Dante, Master Wistric, and Lord Raphael
-- name: Jean Maurice le Marinier
+Jean Maurice le Marinier:
   location: Marinus
   date: 2012
   form: 
   event: Coronation
   sponsors: Master Jean Claude, Master Llwyd, and Lord Celric
-- name: Ella de Lille
+Ella de Lille:
   location: Meridies
   date: 2010
   form:
   event: Defending the Gate
   sponsors: Maestro Dante, Master Flaithri, and Lord Melchior
-- name: Symone de la Rochelle
+Symone de la Rochelle:
   location:
   date: 2010
   form:
   event: Chalice of the Sun God
   sponsors: Master Alan, Maestro Giacomo, and Lord Melchior
-- name: Turvon Kuznetsov
-- name: Alyna of the Ilex
-- name: Constanza de Talavera
+Turvon Kuznetsov:
+Alyna of the Ilex:
+Constanza de Talavera:
   location: 
   date:
   form:
   event:
   sponsors: Percival Aldridge, ?, ?
-- name: Kenji Yoshimoto
+Kenji Yoshimoto:
   location: Lochmere
-- name: Etain of Sutherland
+Etain of Sutherland:
   location: Nottinghill Coill
   date:
   form:
   event:
   sponsors:
-- name: Alyce / Alexander Blood
+Alyce / Alexander Blood:
   location: Bright Hills
-- name: Angharad Melys
-- name: Anna / Adrian Collins
+Angharad Melys:
+Anna / Adrian Collins:
   location: Isenfir
   date:
   form:
   event:
   sponsors:
-- name: Bastian de la Salle
+Bastian de la Salle:
   location: Nottinghill Coill
   date:
   form:
   event:
   sponsors:
-- name: Beatrice LaGrave
-- name: Bledri Ap Llew
-- name: Briana of Skye
-- name: Calledon of Halbourne
-- name: Corun MacAnndra
-- name: Donovan Morgan
-- name: Duarte Negin de los Angeles y Blanco
-- name: Duncan MacLaren
-- name: Fredrick von Heinrich
-- name: Galen of Black Diamond
+Beatrice LaGrave:
+Bledri Ap Llew:
+Briana of Skye:
+Calledon of Halbourne:
+Corun MacAnndra:
+Donovan Morgan:
+Duarte Negin de los Angeles y Blanco:
+Duncan MacLaren:
+Fredrick von Heinrich:
+Galen of Black Diamond:
   location: Buckston-on-Eno 
   date:
   form:
   event:
   sponsors:
-- name: Gaston du Valmont
+Gaston du Valmont:
   location: Elvegast
   date:
   form:
   event:
   sponsors:
-- name: Gavin Briare
+Gavin Briare:
   location: 
   date:
   form:
   event:
   sponsors: Katherine Maunsel, ?, ?
-- name: Giovan Donato
+Giovan Donato:
   location: Buckston-on-Eno
   date:
   form:
   event:
   sponsors:
-- name: Iacopo Attaviano da Vizzi
-- name: Jack Wright
-- name: Jehan-Franc de Blauvac
-- name: Kostantin Volkovitch (Kostka)
-- name: Lucien de la Rochelle
+Iacopo Attaviano da Vizzi:
+Jack Wright:
+Jehan-Franc de Blauvac:
+Kostantin Volkovitch (Kostka):
+Lucien de la Rochelle:
   location:
   date: 2010
   form:
   event: War of the Wings
   sponsors: Lord Kirk, Lord Elphin, and Lord Melchior
-- name: Margaret Cameron
-- name: Marion le Red
+Margaret Cameron:
+Marion le Red:
   location: Elvegast?
   date:
   form:
   event:
   sponsors:
-- name: Matilda Grille (Tilly)
-- name: Orlando de Olivares Y Salazar
-- name: Penelope Blood
-- name: Séamus Ó Maoil Riain
-- name: Thorbrandr Olafsson
-- name: Thorgrimr inn Kyrri
-- name: William Cameron
+Matilda Grille (Tilly):
+Orlando de Olivares Y Salazar:
+Penelope Blood:
+Séamus Ó Maoil Riain:
+Thorbrandr Olafsson:
+Thorgrimr inn Kyrri:
+William Cameron:
   location: Caer Mear 
   date:
   form:
   event:
   sponsors:
-- name: Ylsa Broussard
-- name: Aldemere McRafe
+Ylsa Broussard:
+Aldemere McRafe:
   location: Black Diamond
   date: 11/19/2011
   form:
   event: Holiday Faire
   sponsors: Lord Celric, Lord Dominyk, and Lord Raphael
-- name: Tassin
+Tassin:
   location: 
   date: 5/26/13
   form:
   event: Ruby Joust
   sponsors: Maestro Dante, Master Wistric, and Lord Raphael
-- name: Maximillian Bruder
+Maximillian Bruder:
   location: Hawkwood
   date: 2013
   form:
   event: War of the Wings
   sponsors:
-- name: Michael Wymarc
+Michael Wymarc:
   location: Black Diamond
   date: 2012
   form: 
   event: Holiday Faire
   sponsors: Master Wistric, Lord Celric, And Lord Raphael
-- name: Marius Belisarius
+Marius Belisarius:
   location: Hawkwood
   date: 2012
   form: 
   event: War of the Wings
   sponsors: Lord Raphael, Lord Greylond, and Sir Christian
-- name: William Gilchrist Ross
+William Gilchrist Ross:
   location:
   date: 2012
-  form: 
+  form:
   event: Night Under the Town
-  sponsors: Mistriss Ceridwen, Master Connor, and Lord Geoffrey 
-- name: Sinclair Hawkins
+  sponsors: Mistriss Ceridwen, Master Connor, and Lord Geoffrey
+Sinclair Hawkins:
   location:
   date:
   form: 
   event: Coronation
   sponsors: Duke Ragnar, Maestro Giacomo, and Lord Raphael
-- name: Felipe de Pamplona
+Felipe de Pamplona:
   location:
   date: 2011
   form: 
   event: Ymir
   sponsors: Sir Christian, Lord Elphin and Lord Raphael
-- name: Jusef
+Jusef:
   location: Black Diamond
   date: 2010
   form: 
