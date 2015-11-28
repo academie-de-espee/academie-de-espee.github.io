@@ -30,7 +30,7 @@ title: Roster
     </a>
     {% endif %}
 
-    <td> {{ item.award_date }} </td>
+    <td> {{ item.date }} </td>
     <td> {{ item.event }} </td>
     <td> {{ item.monarchs }} </td>
 </tr>

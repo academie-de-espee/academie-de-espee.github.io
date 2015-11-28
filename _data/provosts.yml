@@ -1,473 +1,354 @@
 Geoffrey Gamble:
-  op_id: 1367
   title: Master
-  location: Shire of Isenfir
-  award_date: 02/20/1993
-  form: Rapier and Dagger
-  event: Ponte Alto Baronial Birthday
-  monarchs: Steffan and Twila
-  prize_date: 09/27/1997
-  prize_event: Academie of the Rapier
+  op_id: 1367
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
 Niall McKennett:
   title: Master
-  location: Barony of Ponte Alto
-  form: Rapier and Buckler
-  award_date: 02/20/1993
-  event: Ponte Alto Baronial Birthday
-  monarchs: Steffan and Twila
-Giacomo Vincènti:
+  op_id: 2378
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
+Giacomo Vincenti:
   title: Master
-  location: Barony of Bright Hills
-  form: Single Rapier or Single Dagger
-  award_date: 02/20/1993
-  event: Ponte Alto Baronial Birthday
-  monarchs: Steffan and Twila
-  prize_date: 09/27/1997
-  prize_event: Academie of the Rapier
-Nathanial Sharpe:
+  op_id: 1330
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
+Nathaniel Sharpe:
   title: Lord
-  location: Barony of Bright Hills
-  form: Rapier and Dagger
-  award_date: 02/20/1993
-  event: Ponte Alto Baronial Birthday
-  monarchs: Steffan and Twila
-  prize_date: 09/27/1997
-  prize_event: Academie of the Rapier
+  op_id: 2372
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
 Ceridwen ferch Owain:
   title: Mistress
-  location: Barony of Dun Carraig
-  form: Rapier and Dagger
-  award_date: 04/24/1993
-  event: Forest of Arden
-  monarchs: Steffan and Twila
-  prize_date: 09/27/1997
-  prize_event: Academie of the Rapier
+  op_id: 719
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
 Robin MacMorran:
   title: Baron
-  form: Rapier and Scabbard
-  award_date: 4/24/1993
-  event: Forest of Arden
-  monarchs: Steffan and Twila
+  op_id: 2682
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
 Padraig Brian Muadhan:
   title: Lord
-  form: Rapier and Dagger
-  award_date: 8/19/1993
-  event: Pennsic
-  monarchs: Cuan I and Arianwen
+  op_id: 2459
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
 Gerlach Wiesengrund:
   title: Baron
-  location: Shire of Isenfir
-  awarded: 9/1993
-  form: Case of Rapier
-  event: Dun Carraig's Baronial Investiture
-  monarchs: Kane and Muirgen
-  prize_date: 9/1993
-  prize_event: (first Provost prize ever played)
-Alan Gravesend:
+  op_id: 1328
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
+Alan of Gravesend:
   title: Master
-  location: Shire of Roxsbury Mill
-  award_date: 2/1994
-  form: Case of Rapiers
-  event: Bright Hill's Baronial Investiture
-  monarchs: Kane and Muirgen
-  prize_date: 5/1994
-  prize_event: Emerald Joust
-Duncan Gregor Macgregor:
-  title: Lord
-  location: Barony of Sacred Stone
-  award_date: 10/1994
-  form: Single Rapier
-  event: Academie of the Rapier
-  monarchs: Thorbrandr and Eorann
-  prize_date: October/1994
-  prize_event: Academie of the Rapier
-Robert Beddingfield:
+  op_id: 89
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
+Duncan Gregor MacGregor:
+  title: Baron
+  op_id: 987
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
+Robert Bedingfield:
   title: Master
-  location: Barony of Lochmere
-  award_date: 1/5/1995
-  form: Single Rapier
-  event: Kingdom 12th Night
-  monarchs: Thorbrandr and Eorann
-  prize_date: 5/1995
-  prize_event: Emerald Joust
+  op_id: 2652
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
 Aedan Aylwyn:
-  op_id: 26
   title: Master
-  location: Barony of Caer Mear
-  award_date: 9/9/1995
-  form: Rapier and Dagger or Rapier and Cloak
-  event: Coronation
-  monarchs: Cuan and Bridget
-  prize_date: 11/1995
-  prize_event: Pointless War
-Vyvyan Brousard:
+  op_id: 26
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
+Vyvyan Broussard:
   title: Lord
-  location: Barony of Sacred Stone
-  award_date: 9/16/1995
-  form: Rapier and Dagger
-  event: Emperor's Choice
-  monarchs: Cuan and Bridget
-  prize_date: November/1995
-  prize_event: Atlantian University
-Phillip Bell:
+  op_id: 3158
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
+Philip Bell:
+  title: Baron
+  op_id: 2496
+  date: 4/20/1996
+  event: Coronation of Galmr and Katharina
+  monarchs: Galmr and Katharina
+Jacques Abaran:
   title: Lord
-  location: Crown Lands of Atlantia
-  award_date: 3/2/1996
-  form: Rapier and Buckler / Rapier and Philosphy
-  event: Southern Region War Practice
-  monarchs: Cuan and Bridget
-  prize_date: 3/2/1996
-  prize_event: Southern Region War Practice
-Monsier J. Abaran:
-  location: Canton of Falcon Cree
-  award_date: 2/15/1997
-  form: Rapier and Dagger
+  op_id: 1617
+  date: 2/15/1997
   event: Tourney of Ymir
   monarchs: Logan and Arielle
-  prize_date: 2/15/1997
-  prize_event: Tourney of Ymir
-Isobel Guildingwater of Ditchingham:
+Isobel Gildingwater of Ditchingham:
   title: Mistress
-  location: Barony of Lochmere
-  award_date: 9/27/1997
-  form: Single Rapier
+  op_id: 1601
+  date: 9/27/1997
   event: Academie of the Rapier
   monarchs: Logan and Arielle
-  prize_date: 18 October/1997
-  prize_event: Kingdom Crusades
 Kirk Dragomani:
   title: Lord
-  location: Barony of Nottinghill Coill
-  award_date: 11/13/1999
-  form: Rapier and Cloak
+  op_id: 1903
+  date: 11/13/1999
   event: Known World Academy of the Rapier
   monarchs: Amalric and Caia
-  prize_date: 11/13/1999
-  prize_event: Known World Acadamy of the Rapier
-Gregor Dow MacGregor:
+Gregor Dow McGregor:
   title: Lord
-  location: Barony of Forgotten Sea, Calontir
-  award_date: 3/25/2000
-  form: Rapier and Cloak
-  event: Running of the Bulls
+  op_id: 1386
+  date: 3/25/2000
+  event: Running of the Bulls and Baronial Investiture
   monarchs: Amalric and Caia
-  prize_date: 3/25/2000
-  prize_event: Running of the Bulls
-Richard Ffauxes:
-  title: Lord
-  location: Barony of Bright Hills
-  award_date: 4/15/2000
-  form: Rapier and Scabbard
-  event: Night on the Town
-  monarchs: Ragnarr and Kyneburgh
-  prize_date: 4/15/2000
-  prize_event: Night on the Town
+Richard ffaukes:
+  title: Master
+  op_id: 2619
+  date: 4/15/2000
+  event: Night on the Town V & Investiture
+  monarchs: Ragnarr and Kyneburh
 Daemon Broussard:
   title: Sir
-  location: Shire of Cathanar
-  award_date: 5/26/2000
-  form: Rapier
+  op_id: 844
+  date: 5/27/2000
   event: Sapphire Joust
-  monarchs: Ragnarr and Kyneburgh
-  prize_date: 5/26/2000
-  prize_event: Sapphire Joust
+  monarchs: Ragnarr and Kyneburh
 Katherine Maunsel:
-  title: Lady
-  location: Barony of Windmaster's Hill
-  award_date: 1/13/2001
-  form: Rapier
-  event: Kingdom 12th Night
+  title: Lord
+  op_id: 1830
+  date: 1/13/2001
+  event: Atlantian Twelfth Night Masqued Ball
   monarchs: Anton and Emer
 Percival Aldridge:
   title: Lord
-  location: Barony of Windmaster's Hill
-  award_date: 1/13/2001
-  form: Rapier and Dagger
-  event: Kingdom 12th Night
+  op_id: 2481
+  date: 1/13/2001
+  event: Atlantian Twelfth Night Masqued Ball
   monarchs: Anton and Emer
-Gunther Drakenburg:
+Gunther von Drachenburg:
   title: Lord
-  location: Canton of St. Georges
-  award_date: 9/8/2001
-  form: Rapier and Scabbard
-  event: Coronation
-  monarchs: Havordh and Mary-Grace
-  prize_date: 15 June/2002
-  prize_event: Highland Forde River Melees
+  op_id: 1416
+  date: 9/8/2001
+  event: Coronation of Galmr and Aryanna
+  monarchs: Havordth and Mary Grace
 Roland de Mounteney:
   title: Sir
-  location: Shire of Roxbury Mill
-  award_date: 8/14/2002
-  form: Case of Schlager
-  event: Pennsic
+  op_id: 2701
+  date: 8/14/2002
+  event: Pennsic War XXXI
   monarchs: Logan and Isabel
-  prize_date: 11 - 12 August/2002
-  prize_event: Pennsic
-Alejandro Mateo Ramirez y Mendoza:
+Iskender Bey al-Istanbuli:
   title: Baron
-  location: Barony of Windmaster's Hill
-  award_date: 9/7/2002
-  form: Rapier and Dagger
-  event: Coronation
+  op_id: 115
+  date: 9/7/2002
+  event: Royal Hunt (Coronation of Cuan and Padraigin)
   monarchs: Logan and Isabel
-  prize_date: 9/7/2002
-  prize_event: Coronation
-Connor Levingstoune:
+Connor Levingestoune:
   title: Master
-  location: Barony of Lochmere
-  award_date: 2/8/2003
-  form: Double Dagger
-  event: Tourney of Ymir
-  monarchs: Cuan and  Padraigin
-  prize_date: 8/2003
-  prize_event: Pennsic
+  op_id: 793
+  date: 2/15/2003
+  event: Ymir
+  monarchs: Cuan and Padraigin
 Marcellus Capoziello da Napoli:
-  title: Baron
-  location: Barony of Ponte Alto
-  award_date: 2/22/2003
-  form: Rapier and Dagger, Rapier and Buckler
-  event: Performer's Revel
-  monarchs: Cuan and  Padraigin
+  title: Master
+  op_id: 2102
+  date: 2/22/2003
+  event: Performer's Symposium
+  monarchs: Cuan and Padraigin
 William Welwyn:
   title: Baron
-  location: Barony of Nottinghill Coill
-  award_date: 9/4/2004
-  event: Coronation
+  op_id: 3208
+  date: 9/4/2004
+  event: Coronation of Janos and Rachel
   monarchs: Janos and Rachel
-  prize_date: 9/4/2004
-  prize_event: Coronation
 Rosalind Delamere:
-  title: Dame
-  location: Barony of Windmasters' Hill
-  award_date: 2/12/2005
-  form: Rapier and dagger
+  title: Mistress
+  op_id: 2712
+  date: 2/12/2005
   event: Tourney of Ymir
   monarchs: Janos and Rachel
-  prize_date: 2/12/2005
-  prize_event: Tourney of Ymir
 Christopher MacConing:
   title: Master
-  location: Barony of Windmasters' Hill
-  award_date: 2/12/2005
-  form: Rapier and Dagger, Case of Rapier
+  op_id: 748
+  date: 2/12/2005
   event: Tourney of Ymir
   monarchs: Janos and Rachel
 Kynnyth Pyke:
   title: Master
-  location: Barony of Lochmere
-  award_date: 6/11/2005
-  form: Rapier and dagger
+  op_id: 842
+  date: 6/11/2005
   event: Highland River Melees
   monarchs: Robert and Denise
-  prize_date: Not yet held
-Christian von Nuremburg:
+Christian von Nurnberg:
   title: Sir
-  location: Barony of Sacred Stone
-  award_date: 1/13/2007
-  form: Sword and dagger, single sword
-  event: Kingdom 12th Night
+  op_id: 737
+  date: 1/13/2007
+  event: Kingdom Twelfth Night
   monarchs: Ragnarr and Anneke
-  prize_date: 1/13/2007
-  prize_event: Kingdom 12th Night
-Melchior der Grauwulf:
+Melchior zum grauen Wolf:
   title: Lord
-  location: Canton of St. George
-  award_date: 2/11/2007
-  form: Sword and dagger, single sword
+  op_id: 2215
+  date: 2/10/2007
   event: Tourney of Ymir
   monarchs: Ragnarr and Anneke
-  prize_date: 2/11/2007
-  prize_event: Tourney of Ymir
 Jean Claude de Calais:
   title: Master
-  location: Barony of Tir-y-don
-  award_date: 03/24/2007
-  form: Single rapier, rapier and buckler
-  event: Tir-y-Don Investiture
+  op_id: 1661
+  date: 3/24/2007
+  event: Tir-y-Don Baronial Birthday and Investiture
   monarchs: Ragnarr and Anneke
-  prize_date: 03/24/2007
-  prize_event: Tir-y-Don Investiture
 Llwyd Aldrydd:
   title: Master
-  location: Barony of Tir-y-don
-  award_date: 5/26/2007
-  form: Rapier and buckler
-  event: Sapphire Joust
+  op_id: 1993
+  date: 5/26/2007
+  event: Sapphire Joust VII
   monarchs: Valharic and Arielle
-  prize_date: 5/26/2007
-  prize_event: Sapphire Joust
 Elphin ap Daffyd:
   title: Lord
-  location: Canton of Cyddlain Downs
-  award_date: 8/25/2007
-  form: Two Handed Long Sword
+  op_id: 3589
+  date: 8/25/2007
   event: Sacred Stone Baronial Birthday
   monarchs: Valharic and Arielle
-  prize_date: 8/25/2007
-  prize_event: Sacred Stone Baronial Birthday
 Rufus Pigboy:
   title: Baron
-  location: Barony of Sacred Stone
-  award_date: 1/12/2008
-  event: Kingdom Twelth Night
+  op_id: 2749
+  date: 1/12/2008
+  event: Kingdom Twelfth Night
   monarchs: Logan and Rowan
-Duke Ragnarr Blackhammer:
-  award_date: 1/12/2008
-  event: Kingdom Twelth Night
+Ragnarr Blackhammer:
+  title: Duke
+  op_id: 2543
+  date: 1/12/2008
+  event: Kingdom Twelfth Night
   monarchs: Logan and Rowan
-Flaithri O'Cearnaigh:
+Flaithri O Cearnaigh:
   title: Master
-  location: Barony of Stierbach
-  award_date: 03/22/2008
-  form: Sword and dagger
-  event: Defending The Gate / Baronial Investiture
+  op_id: 4002
+  date: 3/22/2008
+  event: Defending the Gate/Stierbach Investiture
   monarchs: Logan and Rowan
-  prize_date: 8/6/2008
-  prize_event: Pennsic
 Dante di Pietro:
-  title: Signor
-  location: Canton of Sudentorre
-  form: Anything historically accurate
-  event: Pennsic
+  title: Master
+  op_id: 880
+  date: 8/5/2008
+  event: Pennsic War XXXVII
   monarchs: Sinclair and Kari
-  prize_date: 9/20/2008
-  prize_event: Journey to the Crusades
 Greylond Crow:
+  title: Lord
   op_id: 1394
-  title: Lord
-  location: Barony of Hawkwood
-  form: Single Sword
-  event: Pennsic
+  date: 8/6/2008
+  event: Pennsic War XXXVII
   monarchs: Sinclair and Kari
-Celric d'Ravelle:
+Celric of Marinus:
+  title: Lord
   op_id: 715
-  title: Lord
-  location: Barony of Caer Mear
-  form: Single Sword
-  event: Tourney of Ymir
+  date: 2/14/2009
+  event: Tourney of Ymir 2009
   monarchs: Jason and Gerhild
-  prize_date: 2/14/2009
-  prize_event: Tourney of Ymir
-Geoffrey ap Clywd:
+Geoffrey Clwyd:
   title: Lord
-  location: Barony of Ponte Alto
-  form: Rapier and Dagger
-  event: Spring Coronation
-  monarchs: Jason and Gerhild
-  prize_date: 4/11/2009
-  prize_event: Spring Coronation
+  op_id: 1312
+  date: 4/11/2009
+  event: Coronation of Logan and Esa
+  monarchs: Logan and Esa
 Dominyk Wolferam:
   title: Lord
-  location: Barony of Ponte Alto
-  award_date: 5/23/2009
-  form: Rapier and cane
-  event: Sapphire Joust
+  op_id: 953
+  date: 5/23/2009
+  event: Sapphire Joust X
   monarchs: Logan and Esa
-  prize_event: Pennsic
-Stephan Bridewell:
+Stephen Bridewell:
   title: Lord
-  location: Barony of Bright Hills
-  award_date: 6/13/2009
+  op_id: 2895
+  date: 6/13/2009
   event: The Golden Rose Tournament
   monarchs: Logan and Esa
-Belphoebe de Givet:
+Bell Phoebe de Givet:
   title: Mistress
-  location: Barony of Ponte Alto
-  award_date: 11/22/2009
-  form: Single rapier, single dagger
+  op_id: 478
+  date: 11/21/2009
   event: Holiday Faire
   monarchs: Vladimir and Kalisa
-  prize_date: 11/22/2009
-  prize_event: Holiday Faire
 Vortigern Faber:
   title: Master
-  location: Barony of Nottinghill Coill
-  award_date: 8/12/2010
-  form: Longsword
-  event: Pennsic
+  op_id: 3155
+  date: 8/12/2010
+  event: Pennsic War XXXIX
   monarchs: Jason and Gerhild
 Raphael de la Rosa:
   title: Lord
-  location: Barony of Sacred Stone
-  award_date: 10/9/2010
-  form: Rapier and dagger
-  event: War of the Wings
+  op_id: 2562
+  date: 10/8/2010
+  event: War of the Wings V
   monarchs: Bryan and Brianna
-  prize_date: 10/9/2010
-  prize_event: War of the Wings
 Wistric Oftun:
   title: Master
-  location: Barony of Windmaster's Hill
-  award_date: 9/3/2011
-  form: Case of Rapiers
-  event: Atlantian 30 Year Celebration
+  op_id: 3789
+  date: 9/3/2011
+  event: Atlantia's 30 Year Celebration
   monarchs: Michael and Seonaid
-  prize_date: 9/3/2011
-  prize_event: Atlantian 30 Year Celebration
 Arghylle Buchanan:
   title: Lord
-  location: Barony of Lochmere
-  award_date: 4/14/2012
-  form: Rapier and dagger
-  event: Coronation of Brian and Briana
+  op_id: 358
+  date: 4/14/2012
+  event: Spring Coronation
   monarchs: Cuan and Padraigin
-  prize_date: 4/14/2012
-  prize_event: Coronation of Brian and Briana
 Caitilin Inghean Fheichin:
   title: Lady
-  location: Barony of Lochmere
-  award_date: 8/8/2012
-  form: Rapier and dagger
-  event: Pennsic
-  monarchs: Brian and Briana
-  prize_date: 5/25/2013
-  prize_event: Ruby Joust
+  op_id: 7049
+  date: 8/8/2012
+  event: Pennsic War XLI
+  monarchs: Bryan and Brianna
 Matheu Herrero de Cadiz:
   title: Lord
-  location: Barony of Caer Mear
-  award_date: 4/6/2013
-  form: Single Sword
+  op_id: 4343
+  date: 4/6/2013
   event: Atlantian Spring Coronation
-  monarchs: Vladimir and Kalisa
-  prize_date: 5/25/2013
-  prize_event: Ruby Joust
-Brian de Moray:
-  location: Barony of Lochmere
-  award_date: 7/31/2013
-  form: Single Sword
-  event: Pennsic
-  monarchs: Amos and Ysabella
-  op_id: 3334
+  monarchs: Vladimir and Kalisa 
+Brian de Morray:
   title: Lord
+  op_id: 3334
+  date: 7/31/2013
+  event: Pennsic War
+  monarchs: Amos and Ysabella
 Benjamin Lilje:
   title: Lord
-  event: Defending the Gate
-  award_date: 3/29/2014
+  op_id: 3781
+  date: 3/29/2014
+  event: Defending the Gate XIII
   monarchs: Ragnarr and Lynette
 Alric the Mad:
-  op_id: 3296
   title: Lord
-  event: War of the Wings
-  award_date: 10/18/2014
+  op_id: 3296
+  date: 10/18/2014
+  event: War of the Wings IX
   monarchs: Michael and Seonaid
 Ilaria de Gandia:
   title: Lady
+  op_id: 4109
+  date: 11/22/2014
   event: Holiday Faire
-  award_date: 11/22/2014
   monarchs: Michael and Seonaid
 Letia Thistelthueyt:
   title: Lady
+  op_id: 3725
+  date: 2/28/2015
   event: Tournament of Ymir
-  award_date: 2/28/2015
   monarchs: Michael and Seonaid
 Ysane de la Selle:
   title: Lady
+  op_id: 3250
+  date: 3/18/2015
   event: Gulf Wars
-  award_date: 3/18/2015
   monarchs: Michael and Seonaid
 Armand of Caer Mear:
-  event: Gulf Wars
-  award_date: 3/20/2015
-  monarchs: Michael and Seonaid
   title: Lord
   op_id: 3802
+  date: 3/20/2015
+  event: Gulf Wars
+  monarchs: Michael and Seonaid
