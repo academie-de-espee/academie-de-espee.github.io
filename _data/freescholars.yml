@@ -50,6 +50,8 @@ Aedh Ua Ruaic:
   event: Ruby Joust
   sponsors: Maestro Dante, Master Wistric, and Master Connor
 Gawin Kappler:
+  op_id: 7366
+  title: Lord
   location: Calontir
   date: 5/11/13
   form:
@@ -174,7 +176,9 @@ Aldemere McRafe:
   event: Holiday Faire
   sponsors: Lord Celric, Lord Dominyk, and Lord Raphael
 Tassin Navetier:
-  location: 
+  op_id: 7462
+  title: Lord
+  location:
   date: 5/26/13
   form:
   event: Ruby Joust
