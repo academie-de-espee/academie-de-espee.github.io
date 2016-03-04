@@ -68,7 +68,7 @@ By **Dominyk Wolferam**
 *Robert*:  Mrfl<br>
 *Isobel*:  Now we have got to stop this! Every meeting you make bets on Roberts neck ruff, it's ridiculous!<br>
 *Llwyd*:  You're just bitter because you had 15 minutes.<br>
-*Isobel: Not true.....I had 14*: 45....but that's not the point!!<br>
+*Isobel*: Not true.....I had 14: 45....but that's not the point!!<br>
 
 *Chris*: [sighs] Meeting adjourned<br>
 *Aedan*: [pulls out laptop and starts cruising Youtube]<br>

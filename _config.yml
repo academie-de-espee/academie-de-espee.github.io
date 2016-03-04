@@ -4,7 +4,7 @@ description: Kingdom of Atlantia
 sass:
     style: :compressed
 url: http://www.academiedespee.com/
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 excerpt_separator: <!-- more -->
 permalink:   pretty
