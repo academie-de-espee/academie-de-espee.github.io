@@ -2,7 +2,8 @@
 title: Humor
 ---
 
-* [A provost's meeting](provost-meeting) - by Dominyk Wolferam)
+* [A provost's meeting](provost-meeting) - by Dominyk Wolferam
+* [Dragoons: A parody](dragoons) - By Dominyk Wolferam
 * [Don Tivar's Top 10 Rules](tivar) - by Don Tivar Moondragon
 * [Fencing Rules](suess) - By Antoine, Christian, Claire and Dr. S.
 * [Cadet Rules](cadet-rules)
