@@ -1,5 +1,5 @@
 ---
-title: The Dragoons: A Parody
+title: The Dragoons - A Parody
 ---
 
 By **Dominyk Wolferam**
