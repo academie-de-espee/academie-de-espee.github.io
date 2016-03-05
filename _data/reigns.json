@@ -1,0 +1,353 @@
+[
+    {}, 
+    {
+        "king": "Michael of Bedford", 
+        "queen": "Carissa of Burgundy", 
+        "year": "May 2, 1981 (AS 16)"
+    }, 
+    {
+        "king": "Bertrand de Flammepoing", 
+        "queen": "Anya de Calais", 
+        "year": "September 19, 1981 (AS 16)"
+    }, 
+    {
+        "king": "Gyrth Oldcastle of Ravenspur", 
+        "queen": "Melisande de Belvoir", 
+        "year": "April 3, 1982 (AS 16)"
+    }, 
+    {
+        "king": "Jahn of Outman", 
+        "queen": "Tuiren de Lisle", 
+        "year": "October 9, 1982 (AS 17)"
+    }, 
+    {
+        "king": "Michael of Bedford", 
+        "queen": "Carissa of Burgundy", 
+        "year": "March 26, 1983 (AS 17)"
+    }, 
+    {
+        "king": "Olaf Askoldssonn", 
+        "queen": "Aislinn Schattenwald", 
+        "year": "October 1, 1983 (AS 18)"
+    }, 
+    {
+        "king": "Richard FitzGilbert", 
+        "queen": "Anne FitzGilbert", 
+        "year": "April 7, 1984 (AS 18)"
+    }, 
+    {
+        "king": "Knarlic Wulfherson", 
+        "queen": "Alexis Ruthin of Wessex", 
+        "year": "October 20, 1984 (AS 19)"
+    }, 
+    {
+        "king": "Richard FitzGilbert", 
+        "queen": "Anne FitzGilbert", 
+        "year": "April 27, 1985 (AS 19)"
+    }, 
+    {
+        "king": "Olaf Askoldssonn", 
+        "queen": "Aislinn Schattenwald", 
+        "year": "October 12, 1985 (AS 20)"
+    }, 
+    {
+        "king": "Badouin MacKenzie of Balfour", 
+        "queen": "Caterina Leonora de Forza d'Agro", 
+        "year": "April 19, 1986 (AS 20)"
+    }, 
+    {
+        "king": "Klaus von Trollenberg", 
+        "queen": "Arianwen Cyffaith of Caerleon", 
+        "year": "October 18, 1986 (AS 21)"
+    }, 
+    {
+        "king": "Olaf Askoldssonn", 
+        "queen": "Judith von Gruenwald", 
+        "year": "April 4, 1987 (AS 21)"
+    }, 
+    {
+        "king": "Badouin MacKenzie of Balfour", 
+        "queen": "Caterina Leonora de Forza d'Agro", 
+        "year": "October 3, 1987 (AS 22)"
+    }, 
+    {
+        "king": "Dafydd ap Gwystl", 
+        "queen": "Elizabeth Beaufort", 
+        "year": "March 12, 1988 (AS 22)"
+    }, 
+    {
+        "king": "Barry McFadyen", 
+        "queen": "Marie-Simone de Barjavel 'la Fildena", 
+        "year": "September 24, 1988 (AS 23)"
+    }, 
+    {
+        "king": "Michael of Bedford", 
+        "queen": "Seonaid n\u00ed Fhionn", 
+        "year": "April 8, 1989 (AS 23)"
+    }, 
+    {
+        "king": "Barry McFadyen", 
+        "queen": "Marie-Simone de Barjavel 'la Fildena", 
+        "year": "September 9, 1989 (AS 24)"
+    }, 
+    {
+        "king": "Michael of Bedford", 
+        "queen": "Seonaid n\u00ed Fhionn", 
+        "year": "March 3, 1990 (AS 24)"
+    }, 
+    {
+        "king": "Olaf Askoldssonn", 
+        "queen": "Aislinn Schattenwald", 
+        "year": "September 8, 1990 (AS 25)"
+    }, 
+    {
+        "king": "Anton Tremayne", 
+        "queen": "Luned of Snowdon", 
+        "year": "April 6, 1991 (AS 25)"
+    }, 
+    {
+        "king": "Galmr Ingolfsson", 
+        "queen": "Katharina von Straubing", 
+        "year": "September 14, 1991 (AS 26)"
+    }, 
+    {
+        "king": "Michael of Bedford", 
+        "queen": "Seonaid n\u00ed Fhionn", 
+        "year": "March 7, 1992 (AS 26)"
+    }, 
+    {
+        "king": "Steffan Wulfshaven", 
+        "queen": "Twila of Wulfshaven", 
+        "year": "September 12, 1992 (AS 27)"
+    }, 
+    {
+        "king": "Cu\u00e1n MacDaige", 
+        "queen": "Aria de Ch\u00e2tillon", 
+        "year": "March 6, 1993 (AS 27)"
+    }, 
+    {
+        "king": "Black Kane O'Shannon", 
+        "queen": "Muirgen of Caer Ddu", 
+        "year": "September 4, 1993 (AS 28)"
+    }, 
+    {
+        "king": "Anton Tremayne", 
+        "queen": "Luned of Snowdon", 
+        "year": "March 5, 1994 (AS 28)"
+    }, 
+    {
+        "king": "Thorbrandr Olafsson", 
+        "queen": "E\u00f3rann O'Connor", 
+        "year": "September 10, 1994 (AS 29)"
+    }, 
+    {
+        "king": "Michael of Bedford", 
+        "queen": "Seonaid n\u00ed Fhionn", 
+        "year": "April 1, 1995 (AS 29)"
+    }, 
+    {
+        "king": "Cu\u00e1n MacDaige", 
+        "queen": "Brigit of Mercia", 
+        "year": "September 9, 1995 (AS 30)"
+    }, 
+    {
+        "king": "Galmr Ingolfsson", 
+        "queen": "Katharina von Straubing", 
+        "year": "April 20, 1996 (AS 30)"
+    }, 
+    {
+        "king": "Logan Ebon Woulfe", 
+        "queen": "Arielle the Golden", 
+        "year": "October 5, 1996 (AS 31)"
+    }, 
+    {
+        "king": "Cu\u00e1n MacDaige", 
+        "queen": "Bera Thorbjarnard\u00f3ttir", 
+        "year": "April 5, 1997 (AS 31)"
+    }, 
+    {
+        "king": "Logan Ebon Woulfe", 
+        "queen": "Arielle the Golden", 
+        "year": "September 13, 1997 (AS 32)"
+    }, 
+    {
+        "king": "Michael of Bedford", 
+        "queen": "Seonaid n\u00ed Fhionn", 
+        "year": "March 21, 1998 (AS 32)"
+    }, 
+    {
+        "king": "Anton Tremayne", 
+        "queen": "Luned of Snowdon", 
+        "year": "September 12, 1998 (AS 33)"
+    }, 
+    {
+        "king": "Stephan of Bellatrix", 
+        "queen": "Niobe Lais", 
+        "year": "March 20, 1999 (AS 33)"
+    }, 
+    {
+        "king": "Amalric Blackhart", 
+        "queen": "Caia Snowden", 
+        "year": "September 11, 1999 (AS 34)"
+    }, 
+    {
+        "king": "Ragnarr Blackhammer", 
+        "queen": "Kyneburh Boithuile", 
+        "year": "April 1, 2000 (AS 34)"
+    }, 
+    {
+        "king": "Anton Tremayne", 
+        "queen": "Emma ny Reyly", 
+        "year": "September 9, 2000 (AS 35)"
+    }, 
+    {
+        "king": "Havordh \u00c6ttarbani", 
+        "queen": "Mary Grace of Gatland", 
+        "year": "April 7, 2001 (AS 35)"
+    }, 
+    {
+        "king": "Galmr Ingolfsson", 
+        "queen": "Aryanna Hawkyns", 
+        "year": "September 8, 2001 (AS 36)"
+    }, 
+    {
+        "king": "Logan Ebon Woulfe", 
+        "queen": "Isabel Grimault", 
+        "year": "April 6, 2002 (AS 36)"
+    }, 
+    {
+        "king": "Cu\u00e1n MacDaige", 
+        "queen": "P\u00e1draig\u00edn \u00d3 hEachach", 
+        "year": "September 7, 2002 (AS 37)"
+    }, 
+    {
+        "king": "Logan Ebon Woulfe", 
+        "queen": "Isabel Grimault", 
+        "year": "April 5, 2003 (AS 37)"
+    }, 
+    {
+        "king": "Ragnarr Blackhammer", 
+        "queen": "Kyneburh Boithuile", 
+        "year": "September 6, 2003 (AS 38)"
+    }, 
+    {
+        "king": "Cu\u00e1n MacDaige", 
+        "queen": "P\u00e1draig\u00edn \u00d3 hEachach", 
+        "year": "April 3, 2004 (AS 38)"
+    }, 
+    {
+        "king": "J\u00e1nos of Cyddlain Downs", 
+        "queen": "Rachel Wallace", 
+        "year": "September 4, 2004 (AS 39)"
+    }, 
+    {
+        "king": "Robert de Rath", 
+        "queen": "Denise Duvalier", 
+        "year": "April 2, 2005 (AS 39)"
+    }, 
+    {
+        "king": "J\u00e1nos of Cyddlain Downs", 
+        "queen": "Rachel Wallace", 
+        "year": "September 3, 2005 (AS 40)"
+    }, 
+    {
+        "king": "Michael of Bedford", 
+        "queen": "Seonaid n\u00ed Fhionn", 
+        "year": "April 1, 2006 (AS 40)"
+    }, 
+    {
+        "king": "Ragnarr Blackhammer", 
+        "queen": "Anneke Raudhe", 
+        "year": "September 2, 2006 (AS 41)"
+    }, 
+    {
+        "king": "Lucius Aurelius Valharic", 
+        "queen": "Arielle the Golden", 
+        "year": "April 7, 2007 (AS 41)"
+    }, 
+    {
+        "king": "Logan Ebon Woulfe", 
+        "queen": "Rowan Berran McDowell", 
+        "year": "September 1, 2007 (AS 42)"
+    }, 
+    {
+        "king": "Randal Sinclair Hawkins", 
+        "queen": "Kari Kyst", 
+        "year": "April 5, 2008 (AS 42)"
+    }, 
+    {
+        "king": "Jason Kynslay", 
+        "queen": "Gerhild the Willful", 
+        "year": "September 13, 2008 (AS 43)"
+    }, 
+    {
+        "king": "Logan Ebon Woulfe", 
+        "queen": "Esa Kirkepatrike", 
+        "year": "April 11, 2009 (AS 43)"
+    }, 
+    {
+        "king": "Vladimir Ivanovich Aleksandrov", 
+        "queen": "Kalisa Aleksandrovna", 
+        "year": "August 29, 2009 (AS 44)"
+    }, 
+    {
+        "king": "Jason Kynslay", 
+        "queen": "Gerhild the Willful", 
+        "year": "April 10, 2010 (AS 44)"
+    }, 
+    {
+        "king": "Bryan of Sacred Stone", 
+        "queen": "Brianna O Duinn", 
+        "year": "October 2, 2010 (AS 45)"
+    }, 
+    {
+        "king": "Michael of Bedford", 
+        "queen": "Seonaid n\u00ed Fhionn", 
+        "year": "April 2, 2011 (AS 45)"
+    }, 
+    {
+        "king": "Cu\u00e1n MacDaige", 
+        "queen": "P\u00e1draig\u00edn \u00d3 hEachach", 
+        "year": "September 24, 2011 (AS 46)"
+    }, 
+    {
+        "king": "Bryan of Sacred Stone", 
+        "queen": "Brianna O Duinn", 
+        "year": "April 14, 2012 (AS 46)"
+    }, 
+    {
+        "king": "Vladimir Ivanovich Aleksandrov", 
+        "queen": "Kalisa Aleksandrovna", 
+        "year": "October 6, 2012 (AS 47)"
+    }, 
+    {
+        "king": "Amos the Pious", 
+        "queen": "Ysabella Cacemoine", 
+        "year": "April 6, 2013 (AS 47)"
+    }, 
+    {
+        "king": "Ragnarr Blackhammer", 
+        "queen": "Lynette Semere", 
+        "year": "October 5, 2013 (AS 48)"
+    }, 
+    {
+        "king": "Guillaume Tomas le Lou", 
+        "queen": "K\u00e1ra \u00d3l\u00e1fsd\u00f3ttir", 
+        "year": "April 5, 2014 (AS 48)"
+    }, 
+    {
+        "king": "Michael of Bedford", 
+        "queen": "Seonaid n\u00ed Fhionn", 
+        "year": "October 4, 2014 (AS 49)"
+    }, 
+    {
+        "king": "Logan Ebon Woulfe", 
+        "queen": "Esa Kirkepatrike", 
+        "year": "April 11, 2015 (AS 49)"
+    }, 
+    {
+        "king": "Christoph Krieger", 
+        "queen": "Adelhait Fuchs", 
+        "year": "October 10, 2015 (AS 50)"
+    }
+]
