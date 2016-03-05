@@ -9,7 +9,7 @@ Atlantian queens have had a rapier champion that supports and represents them on
 <tr>
     <th> Reign </th>
     <th> Date</th>
-    <th> King & Queen </th>
+    <th> Queen </th>
     <th> Champion(s) </th>
 </tr>
 </thead>
