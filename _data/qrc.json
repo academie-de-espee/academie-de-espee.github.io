@@ -1,6 +1,9 @@
 [
+    {"reign": 22, "opid": [1330]},
+    {"reign": 24, "opid": [1330]},
     {"reign": 26, "opid": [1328]},
     {"reign": 30, "opid": [89, 1328, 26]},
+    {"reign": 31, "opid": [1330]},
     {"reign": 32, "opid": [1330]},
     {"reign": 33, "opid": [89]},
     {"reign": 34, "opid": [26]},
