@@ -5,9 +5,9 @@ from bs4 import BeautifulSoup
 import json
 import yaml
 
-#text = requests.get('http://op.atlantia.sca.org/atlantian_op.php?printable=1').text
-with open('/tmp/atlantian_op.php', 'r') as fh:
-    text = fh.read()
+text = requests.get('http://op.atlantia.sca.org/atlantian_op.php').text
+#with open('/tmp/atlantian_op.php', 'r') as fh:
+#    text = fh.read()
 soup = BeautifulSoup(text)
 
 people = {}
@@ -22,9 +22,9 @@ for link in table.find_all('a'):
     people[op_id] = name
 
 
-#text = requests.get('http://op.atlantia.sca.org/roa.php?printable=1').text
-with open('/tmp/roa.php?printable=1', 'r') as fh:
-    text = fh.read()
+text = requests.get('http://op.atlantia.sca.org/roa.php?printable=1').text
+#with open('/tmp/roa.php?printable=1', 'r') as fh:
+#    text = fh.read()
 soup = BeautifulSoup(text)
 
 for link in soup.find_all('a'):
