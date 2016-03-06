@@ -39,7 +39,12 @@ for link in soup.find_all('a'):
 for op_id in people:
     name = people[op_id]
     if '[' in name and ']' in name:
+        title = name.split(' ')[0]
+        if title not in ['Lady', 'Lord', 'Master', 'Countess', 'Count', 'Baroness', 'Baron', 'Mistress', 'Duke', 'Viscountess', 'Viscount']:
+            title = ''
         name = name[name.index('[')+1:name.index(']')]
+        if not name.startswith(title):
+            name = '%s %s' % (title, name)
     people[op_id] = name
 
 with open('_data/op.json', 'w') as fh:

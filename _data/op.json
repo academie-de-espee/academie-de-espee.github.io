@@ -49,7 +49,7 @@
   ? !!int "25"
   : !!str "Lord \xC1ed F\xE1id",
   ? !!int "26"
-  : !!python/unicode "Aedan Aylwyn",
+  : !!python/unicode "Master Aedan Aylwyn",
   ? !!int "27"
   : !!str "\xC1ed\xE1n u\xED N\xE9ill",
   ? !!int "28"
@@ -613,7 +613,7 @@
   ? !!int "332"
   : !!python/unicode "Lord Antonio Fioretto",
   ? !!int "333"
-  : !!python/unicode "Anthonye Saker",
+  : !!python/unicode "Lord Anthonye Saker",
   ? !!int "334"
   : !!python/unicode "Lord Antonius Alvredus",
   ? !!int "335"
@@ -697,7 +697,7 @@
   ? !!int "379"
   : !!python/unicode "Armando Vincente Ramirez",
   ? !!int "380"
-  : !!python/unicode "Arnbiorn Bassi Dansson",
+  : !!python/unicode "Master Arnbiorn Bassi Dansson",
   ? !!int "381"
   : !!str "Arnfri\xF0r",
   ? !!int "382"
@@ -871,7 +871,7 @@
   ? !!int "476"
   : !!python/unicode "Baroness Belinda of Emeric - DECEASED 6/19/2014",
   ? !!int "478"
-  : !!python/unicode "Belphoebe de Givet",
+  : !!python/unicode "Mistress Belphoebe de Givet",
   ? !!int "479"
   : !!python/unicode "Belleza de la Rosa",
   ? !!int "480"
@@ -1059,7 +1059,7 @@
   ? !!int "579"
   : !!python/unicode "Lady Brig Kieran",
   ? !!int "580"
-  : !!python/unicode "Brigantia ni Realda",
+  : !!python/unicode "Lady Brigantia ni Realda",
   ? !!int "581"
   : !!python/unicode "Lady Brighid Aileen O'Hagan",
   ? !!int "582"
@@ -1273,7 +1273,7 @@
   ? !!int "698"
   : !!str "Lady Ceara n\xED N\xE9ill",
   ? !!int "699"
-  : !!python/unicode "Griele vanden Burgh",
+  : !!python/unicode "Baroness Griele vanden Burgh",
   ? !!int "700"
   : !!python/unicode "Mistress Cecilia Blythe",
   ? !!int "701"
@@ -1539,7 +1539,7 @@
   ? !!int "841"
   : !!python/unicode "Cynual Tarathalion",
   ? !!int "842"
-  : !!python/unicode "Kynnyth Pyke",
+  : !!python/unicode "Master Kynnyth Pyke",
   ? !!int "843"
   : !!python/unicode "Lord Cyriac Grymsdale",
   ? !!int "844"
@@ -1747,7 +1747,7 @@
   ? !!int "957"
   : !!python/unicode "Baron Donal MacAyre of Gorabh",
   ? !!int "958"
-  : !!python/unicode "Donal Mac Ruiseart",
+  : !!python/unicode "Master Donal Mac Ruiseart",
   ? !!int "959"
   : !!python/unicode "Lord Donal Makbrair",
   ? !!int "960"
@@ -1912,7 +1912,7 @@
   ? !!int "1040"
   : !!str "Lady Eithne Nic Dh\xF2mhnuill",
   ? !!int "1041"
-  : !!python/unicode "Chagan Khulan (Ekaterina Vladimirovna)",
+  : !!python/unicode "Mistress Chagan Khulan (Ekaterina Vladimirovna)",
   ? !!int "1042"
   : !!python/unicode "Mistress Elaina de Sinistre",
   ? !!int "1044"
@@ -2024,7 +2024,7 @@
   ? !!int "1103"
   : !!python/unicode "Lady Elizabeth of Misty Highlands",
   ? !!int "1104"
-  : !!python/unicode "Elizabeth of Rosewood \"Shrewlet\"",
+  : !!python/unicode "Baroness Elizabeth of Rosewood \"Shrewlet\"",
   ? !!int "1105"
   : !!python/unicode "Elizabeth Pennington",
   ? !!int "1107"
@@ -2066,7 +2066,7 @@
   ? !!int "1126"
   : !!python/unicode "Elspeth of Caer Mear",
   ? !!int "1127"
-  : !!python/unicode "Eluned Peregrine Hwylard",
+  : !!python/unicode "Lady Eluned Peregrine Hwylard",
   ? !!int "1128"
   : !!python/unicode "Elwyn Tenways",
   ? !!int "1129"
@@ -2084,7 +2084,7 @@
   ? !!int "1136"
   : !!python/unicode "Emma of Caer Gelin",
   ? !!int "1137"
-  : !!python/unicode "Typhaine du Loc",
+  : !!python/unicode "Mistress Typhaine du Loc",
   ? !!int "1138"
   : !!python/unicode "Brianna of Bright Hills",
   ? !!int "1139"
@@ -2152,7 +2152,7 @@
   ? !!int "1172"
   : !!str "Lady \xC9t\xE1in ingen D\xE1laig",
   ? !!int "1173"
-  : !!str "Eyd\xEDs Herjolfrsd\xF3ttir",
+  : !!str "Baroness Eyd\xEDs Herjolfrsd\xF3ttir",
   ? !!int "1174"
   : !!python/unicode "Lady Etain of Ballynagran",
   ? !!int "1175"
@@ -2170,7 +2170,7 @@
   ? !!int "1181"
   : !!python/unicode "Lord Etienne le Forgeron",
   ? !!int "1182"
-  : !!python/unicode "Enequy Erensaurlezelasgarria, Menditarra",
+  : !!python/unicode "Lord Enequy Erensaurlezelasgarria, Menditarra",
   ? !!int "1183"
   : !!python/unicode "Lady Eunice bas Yosef",
   ? !!int "1184"
@@ -2336,7 +2336,7 @@
   ? !!int "1266"
   : !!python/unicode "Galadriel of the Blue Mist",
   ? !!int "1267"
-  : !!str "Gaelan mac Cuinneg\xE1in",
+  : !!str "Lord Gaelan mac Cuinneg\xE1in",
   ? !!int "1268"
   : !!python/unicode "Lord Galen of Black Diamond",
   ? !!int "1270"
@@ -2664,7 +2664,7 @@
   ? !!int "1438"
   : !!str "Viscountess Gwenllian de la For\xEAt",
   ? !!int "1439"
-  : !!python/unicode "Gwenllian 'Makai' ferch Gwilim",
+  : !!python/unicode "Baroness Gwenllian 'Makai' ferch Gwilim",
   ? !!int "1440"
   : !!python/unicode "Mistress Gwenllian ferch Maredudd",
   ? !!int "1441"
@@ -2956,7 +2956,7 @@
   ? !!int "1600"
   : !!python/unicode "Sir Ismael ibn Murad al-ben Mohammed nasil Hakim",
   ? !!int "1601"
-  : !!python/unicode "Isobel Bedingfield (Gildingwater of Ditchingham)",
+  : !!python/unicode "Mistress Isobel Bedingfield (Gildingwater of Ditchingham)",
   ? !!int "1602"
   : !!python/unicode "Isobel of York",
   ? !!int "1603"
@@ -3043,7 +3043,7 @@
   ? !!int "1647"
   : !!python/unicode "Jared McDonald",
   ? !!int "1648"
-  : !!python/unicode "Jared the Bear",
+  : !!python/unicode "Lord Jared the Bear",
   ? !!int "1649"
   : !!python/unicode "Jarelle la Russe",
   ? !!int "1651"
@@ -3071,7 +3071,7 @@
   ? !!int "1663"
   : !!python/unicode "Jean Marc Briquet",
   ? !!int "1665"
-  : !!python/unicode "Jeanmaire Remes",
+  : !!python/unicode "Viscountess Jeanmaire Remes",
   ? !!int "1666"
   : !!python/unicode "Mistress Jeanne Tenneur de Bec",
   ? !!int "1667"
@@ -3335,7 +3335,7 @@
   ? !!int "1813"
   : !!python/unicode "Lady Katerina Sina Samovicha",
   ? !!int "1814"
-  : !!python/unicode "Inga Fostra inn Danska",
+  : !!python/unicode "Baroness Inga Fostra inn Danska",
   ? !!int "1815"
   : !!python/unicode "Kateryn of Bakestondoun",
   ? !!int "1816"
@@ -3517,7 +3517,7 @@
   ? !!int "1911"
   : !!python/unicode "Baron Kollack von Zweckel",
   ? !!int "1912"
-  : !!python/unicode "Jay Shaner",
+  : !!python/unicode "Master Jay Shaner",
   ? !!int "1913"
   : !!python/unicode "Konstanz von Bremen",
   ? !!int "1915"
@@ -3549,7 +3549,7 @@
   ? !!int "1931"
   : !!python/unicode "Lord Lachlann Gore",
   ? !!int "1932"
-  : !!python/unicode "Subetei of the brush",
+  : !!python/unicode "Lord Subetei of the brush",
   ? !!int "1933"
   : !!python/unicode "Count Laeghaire O Laverty",
   ? !!int "1934"
@@ -3619,7 +3619,7 @@
   ? !!int "1972"
   : !!python/unicode "Lord Liam MacIan of the Bloody Foreland",
   ? !!int "1974"
-  : !!python/unicode "Maestra Lidia de Ragusa",
+  : !!python/unicode "Mistress Maestra Lidia de Ragusa",
   ? !!int "1975"
   : !!python/unicode "Lady Liliana Michaella of Cinnamon Grove",
   ? !!int "1977"
@@ -3635,7 +3635,7 @@
   ? !!int "1982"
   : !!str "Lady Lisette la Bergi\xE8re",
   ? !!int "1983"
-  : !!python/unicode "Lisette la Roux",
+  : !!python/unicode "Lady Lisette la Roux",
   ? !!int "1984"
   : !!python/unicode "Listra of Hawkwood",
   ? !!int "1988"
@@ -3659,7 +3659,7 @@
   ? !!int "1998"
   : !!python/unicode "Lodovico della Fera",
   ? !!int "1999"
-  : !!python/unicode "Logan Ebonwoulfe",
+  : !!python/unicode "Duke Logan Ebonwoulfe",
   ? !!int "2000"
   : !!python/unicode "Logan the Treewise",
   ? !!int "2001"
@@ -3747,7 +3747,7 @@
   ? !!int "2044"
   : !!python/unicode "Mistress Maddalena Salutati",
   ? !!int "2045"
-  : !!python/unicode "Maddelena Jessamyn di Piemonte",
+  : !!python/unicode "Mistress Maddelena Jessamyn di Piemonte",
   ? !!int "2046"
   : !!python/unicode "Lady Madeleine d'Angers",
   ? !!int "2047"
@@ -3771,7 +3771,7 @@
   ? !!int "2057"
   : !!python/unicode "Mistress Magda z Stalburg",
   ? !!int "2058"
-  : !!python/unicode "Maymunah bint Da'ud al-Siqilliyah",
+  : !!python/unicode "Mistress Maymunah bint Da'ud al-Siqilliyah",
   ? !!int "2059"
   : !!python/unicode "Lady Magdalena Sanguigni",
   ? !!int "2060"
@@ -3839,7 +3839,7 @@
   ? !!int "2094"
   : !!python/unicode "Baron Manfred Gustsson - DECEASED 3/18/2004",
   ? !!int "2096"
-  : !!python/unicode "Manus MacDhai",
+  : !!python/unicode "Lord Manus MacDhai",
   ? !!int "2097"
   : !!python/unicode "Lord Manus O'Kean",
   ? !!int "2099"
@@ -3893,7 +3893,7 @@
   ? !!int "2126"
   : !!python/unicode "Mari de Adoni",
   ? !!int "2127"
-  : !!python/unicode "Maria Beatriz la Mora",
+  : !!python/unicode "Lady Maria Beatriz la Mora",
   ? !!int "2128"
   : !!python/unicode "Maria Francesca de Verona",
   ? !!int "2129"
@@ -4081,7 +4081,7 @@
   ? !!int "2235"
   : !!python/unicode "Merloren the Hermit",
   ? !!int "2237"
-  : !!python/unicode "Metylda the Cunning",
+  : !!python/unicode "Mistress Metylda the Cunning",
   ? !!int "2238"
   : !!python/unicode "Lord Meuric o'r glyn",
   ? !!int "2239"
@@ -4203,7 +4203,7 @@
   ? !!int "2302"
   : !!python/unicode "Moira of Guthrie",
   ? !!int "2303"
-  : !!python/unicode "Ester Pickering",
+  : !!python/unicode "Mistress Ester Pickering",
   ? !!int "2304"
   : !!str "Lady M\xF3r Fhionn",
   ? !!int "2305"
@@ -4211,7 +4211,7 @@
   ? !!int "2306"
   : !!python/unicode "Mistress Mordeyrn Tremayne",
   ? !!int "2307"
-  : !!python/unicode "Saarah al-Rummani",
+  : !!python/unicode "Lady Saarah al-Rummani",
   ? !!int "2308"
   : !!python/unicode "Lord Morgan ap Harry",
   ? !!int "2309"
@@ -4439,7 +4439,7 @@
   ? !!int "2435"
   : !!python/unicode "Mistress Oriana of Xylina",
   ? !!int "2436"
-  : !!python/unicode "Orlaith Carey",
+  : !!python/unicode "Lady Orlaith Carey",
   ? !!int "2437"
   : !!python/unicode "Orm of Elvegast",
   ? !!int "2438"
@@ -4551,7 +4551,7 @@
   ? !!int "2495"
   : !!python/unicode "Lord Philip ap Griffith",
   ? !!int "2496"
-  : !!python/unicode "Ghaltai Jida",
+  : !!python/unicode "Baron Ghaltai Jida",
   ? !!int "2497"
   : !!python/unicode "Lord Philip de Bouillon",
   ? !!int "2498"
@@ -4583,7 +4583,7 @@
   ? !!int "2512"
   : !!python/unicode "Lord Piero Antonio Volpe",
   ? !!int "2513"
-  : !!python/unicode "Solvarr Hammerson",
+  : !!python/unicode "Master Solvarr Hammerson",
   ? !!int "2514"
   : !!python/unicode "Pippin the Red",
   ? !!int "2518"
@@ -5167,7 +5167,7 @@
   ? !!int "2840"
   : !!python/unicode "Lady Signy Feilan Bjarnardottir",
   ? !!int "2841"
-  : !!str "Sigrid Br\xEDansdotter",
+  : !!str "Mistress Sigrid Br\xEDansdotter",
   ? !!int "2842"
   : !!python/unicode "Lady Sigrid Wilhelm",
   ? !!int "2843"
@@ -5191,7 +5191,7 @@
   ? !!int "2852"
   : !!str "Lady S\xEDne nic Aindr\xE9is",
   ? !!int "2853"
-  : !!python/unicode "Laelia S (( Iohanna filia Iacobi ))",
+  : !!python/unicode "Lady Laelia S (( Iohanna filia Iacobi ))",
   ? !!int "2854"
   : !!python/unicode "Lady Siobhan Eliot",
   ? !!int "2855"
@@ -5423,7 +5423,7 @@
   ? !!int "2978"
   : !!python/unicode "Baron Temur of the Kerait - DECEASED 1/28/2012",
   ? !!int "2979"
-  : !!python/unicode "Teofilia Karaszkiewicza",
+  : !!python/unicode "Lady Teofilia Karaszkiewicza",
   ? !!int "2982"
   : !!python/unicode "Tercelin Bryn Macfairen",
   ? !!int "2983"
@@ -5497,7 +5497,7 @@
   ? !!int "3019"
   : !!python/unicode "Thor Thor'nson",
   ? !!int "3020"
-  : !!str "Thjora Arnketilsd\xF3ttir",
+  : !!str "Mistress Thjora Arnketilsd\xF3ttir",
   ? !!int "3021"
   : !!python/unicode "Lord Thorarin Kodransson",
   ? !!int "3022"
@@ -5749,7 +5749,7 @@
   ? !!int "3154"
   : !!python/unicode "Lord Vorkul Bedwyr Xenoforst",
   ? !!int "3155"
-  : !!python/unicode "Vortigern",
+  : !!python/unicode "Master Vortigern",
   ? !!int "3156"
   : !!python/unicode "Vost of Tarnaxe",
   ? !!int "3157"
@@ -5783,7 +5783,7 @@
   ? !!int "3172"
   : !!python/unicode "Lord Wilhelm von Hochsitz and Schwyz",
   ? !!int "3173"
-  : !!python/unicode "Willow Faye Dunne",
+  : !!python/unicode "Baroness Willow Faye Dunne",
   ? !!int "3174"
   : !!python/unicode "William of Glencoe",
   ? !!int "3175"
@@ -5857,13 +5857,13 @@
   ? !!int "3211"
   : !!python/unicode "Mistress Winifred Corbet de Wynterwood",
   ? !!int "3213"
-  : !!python/unicode "Wulfgang Moennich von Luppin",
+  : !!python/unicode "Baron Wulfgang Moennich von Luppin",
   ? !!int "3214"
   : !!python/unicode "Baron Wolfgang the Gameman",
   ? !!int "3215"
   : !!python/unicode "Lord Wolfgang the Rhinelander",
   ? !!int "3216"
-  : !!python/unicode "Gwynwilf",
+  : !!python/unicode "Baroness Gwynwilf",
   ? !!int "3217"
   : !!str "Lord Wolfram der J\xE4ger",
   ? !!int "3218"
@@ -6045,7 +6045,7 @@
   ? !!int "3320"
   : !!python/unicode "Gareth of Ebonwoulfe",
   ? !!int "3321"
-  : !!str "Ulf\x92r Edmunderson",
+  : !!str "Lord Ulf\x92r Edmunderson",
   ? !!int "3322"
   : !!python/unicode "Watkyn of Kent",
   ? !!int "3323"
@@ -6217,7 +6217,7 @@
   ? !!int "3425"
   : !!python/unicode "Ekaterina ha Varanga",
   ? !!int "3426"
-  : !!python/unicode "Teleri the Well Prepared",
+  : !!python/unicode "Lady Teleri the Well Prepared",
   ? !!int "3430"
   : !!str "Lady Ysabella Louvi\xE8re d'Orl\xE9ans",
   ? !!int "3434"
@@ -6307,7 +6307,7 @@
   ? !!int "3495"
   : !!python/unicode "Cynan ap Maelgwn",
   ? !!int "3496"
-  : !!python/unicode "Hamish Macleod",
+  : !!python/unicode "Baron Hamish Macleod",
   ? !!int "3497"
   : !!python/unicode "Master Eadric the Potter",
   ? !!int "3498"
@@ -6441,7 +6441,7 @@
   ? !!int "3679"
   : !!str "Tom\xE1s Herrero de Toledo",
   ? !!int "3680"
-  : !!python/unicode "Murienne la Aloiere",
+  : !!python/unicode "Mistress Murienne la Aloiere",
   ? !!int "3681"
   : !!python/unicode "Baroness Nuala ingen Magnusa",
   ? !!int "3682"
@@ -6615,7 +6615,7 @@
   ? !!int "3794"
   : !!python/unicode "Bella Trentavasi",
   ? !!int "3795"
-  : !!python/unicode "Edward de Witt",
+  : !!python/unicode "Lord Edward de Witt",
   ? !!int "3796"
   : !!python/unicode "Scribonia Sabina Mus",
   ? !!int "3797"
@@ -6709,11 +6709,11 @@
   ? !!int "3864"
   : !!python/unicode "Baroness Catalina Riquel de Luna",
   ? !!int "3865"
-  : !!python/unicode "Callidore of Sacred Stone",
+  : !!python/unicode "Lord Callidore of Sacred Stone",
   ? !!int "3866"
   : !!python/unicode "Lady Deirdre O'Bardon",
   ? !!int "3867"
-  : !!python/unicode "Sindara Lind Rachael Fessel of the Falconshield",
+  : !!python/unicode "Lady Sindara Lind Rachael Fessel of the Falconshield",
   ? !!int "3868"
   : !!str "Lady Jacqueline de Cond\xE9",
   ? !!int "3869"
@@ -6873,7 +6873,7 @@
   ? !!int "4001"
   : !!python/unicode "Mistress Rhonwen verch Tuder",
   ? !!int "4002"
-  : !!python/unicode "Flaithri O'Cearnaigh",
+  : !!python/unicode "Master Flaithri O'Cearnaigh",
   ? !!int "4004"
   : !!python/unicode "Johannes von Mittenwald",
   ? !!int "4006"
@@ -7021,7 +7021,7 @@
   ? !!int "4118"
   : !!python/unicode "Aoifa Bain",
   ? !!int "4119"
-  : !!python/unicode "Kira Leonovna Zhemhadushina",
+  : !!python/unicode "Countess Kira Leonovna Zhemhadushina",
   ? !!int "4120"
   : !!python/unicode "Baron Maximillian von Halstern",
   ? !!int "4121"
@@ -7067,11 +7067,11 @@
   ? !!int "4145"
   : !!python/unicode "Iain mac Pharlain",
   ? !!int "4152"
-  : !!python/unicode "Mariana Caminante",
+  : !!python/unicode "Lady Mariana Caminante",
   ? !!int "4153"
   : !!python/unicode "Riya epsi Otal",
   ? !!int "4154"
-  : !!python/unicode "Marius Belisarius",
+  : !!python/unicode "Lord Marius Belisarius",
   ? !!int "4155"
   : !!python/unicode "Juliana DeBarowe",
   ? !!int "4156"
@@ -7105,7 +7105,7 @@
   ? !!int "4174"
   : !!python/unicode "Robyn A'Dearg",
   ? !!int "4175"
-  : !!python/unicode "Segehart von Leitmeritz",
+  : !!python/unicode "Lord Segehart von Leitmeritz",
   ? !!int "4176"
   : !!python/unicode "Alexandre Afonso de Almeida",
   ? !!int "4177"
@@ -7129,7 +7129,7 @@
   ? !!int "4186"
   : !!python/unicode "Sybill",
   ? !!int "4187"
-  : !!python/unicode "Serena De Almendara",
+  : !!python/unicode "Baroness Serena De Almendara",
   ? !!int "4188"
   : !!str "Una Freyvi\xF0ard\xF3ttir",
   ? !!int "4189"
@@ -7181,7 +7181,7 @@
   ? !!int "4223"
   : !!python/unicode "Lord Gregor Davidson",
   ? !!int "4224"
-  : !!str "Aine Rua Ingen N\xE9ll",
+  : !!str "Baroness Aine Rua Ingen N\xE9ll",
   ? !!int "4225"
   : !!str "Baron Br\xE9nainn MacShuibne",
   ? !!int "4226"
@@ -7223,7 +7223,7 @@
   ? !!int "4262"
   : !!python/unicode "Lady Katarzyna Witkowska",
   ? !!int "4263"
-  : !!python/unicode "Ariel Benne Dhubh",
+  : !!python/unicode "Baroness Ariel Benne Dhubh",
   ? !!int "4265"
   : !!python/unicode "Viscountess Marion Leoncina da Susa",
   ? !!int "4266"
@@ -7267,7 +7267,7 @@
   ? !!int "4289"
   : !!str "Mikj\xE1ll bogsveigr",
   ? !!int "4290"
-  : !!python/unicode "Gwenllian Ferch Griffyd",
+  : !!python/unicode "Lady Gwenllian Ferch Griffyd",
   ? !!int "4292"
   : !!python/unicode "Andreas Eirenikos",
   ? !!int "4293"
@@ -7335,7 +7335,7 @@
   ? !!int "4337"
   : !!python/unicode "Fergus Fletcher",
   ? !!int "4338"
-  : !!python/unicode "Merwenna de Rannowe",
+  : !!python/unicode "Mistress Merwenna de Rannowe",
   ? !!int "4339"
   : !!python/unicode "Lady Eva Brangwyn",
   ? !!int "4340"
@@ -7415,7 +7415,7 @@
   ? !!int "4388"
   : !!python/unicode "Lady Aziza al-Zarqa' bint Yusuf",
   ? !!int "4389"
-  : !!python/unicode "William of Nunn",
+  : !!python/unicode "Lord William of Nunn",
   ? !!int "4394"
   : !!python/unicode "Lord Filippo Clemente degli Esposti",
   ? !!int "4395"
@@ -7467,7 +7467,7 @@
   ? !!int "4422"
   : !!str "Lady Emeludt H\xE4nsler",
   ? !!int "4425"
-  : !!python/unicode "Roan de Haukrige",
+  : !!python/unicode "Lady Roan de Haukrige",
   ? !!int "4427"
   : !!python/unicode "Runa Haroldsdottir",
   ? !!int "4429"
@@ -7475,7 +7475,7 @@
   ? !!int "4430"
   : !!python/unicode "Magnus Swordbreaker",
   ? !!int "4431"
-  : !!python/unicode "Lucas von Aych",
+  : !!python/unicode "Lord Lucas von Aych",
   ? !!int "4433"
   : !!python/unicode "Lady Martine Picot",
   ? !!int "4434"
@@ -7489,7 +7489,7 @@
   ? !!int "4439"
   : !!python/unicode "Talorc Morbet",
   ? !!int "4440"
-  : !!python/unicode "Mungo Napier, The Archer of Mallard Lodge",
+  : !!python/unicode "Lord Mungo Napier, The Archer of Mallard Lodge",
   ? !!int "4443"
   : !!python/unicode "Al Altan",
   ? !!int "4444"
@@ -7569,15 +7569,15 @@
   ? !!int "6208"
   : !!python/unicode "Jason Redbeard",
   ? !!int "6211"
-  : !!str "Cian mac Ceallach\xC3\xA1in hU\xC3\xAD Dubhlaich",
+  : !!str "Lord Cian mac Ceallach\xC3\xA1in hU\xC3\xAD Dubhlaich",
   ? !!int "6213"
   : !!python/unicode "Lady Jamila bat Hayyim",
   ? !!int "6219"
   : !!python/unicode "Edric the Wanderer",
   ? !!int "6229"
-  : !!python/unicode "Sarah Sinclair Napier",
+  : !!python/unicode "Lady Sarah Sinclair Napier",
   ? !!int "6230"
-  : !!python/unicode "Kadlin Fjorleifardottir",
+  : !!python/unicode "Lady Kadlin Fjorleifardottir",
   ? !!int "6231"
   : !!str "Lady Arn\xF3ra in Rau\xF0a",
   ? !!int "6244"
@@ -7615,7 +7615,7 @@
   ? !!int "6335"
   : !!python/unicode "Benetessa",
   ? !!int "6341"
-  : !!python/unicode "Yenyega Velasconi de Santurce",
+  : !!python/unicode "Baroness Yenyega Velasconi de Santurce",
   ? !!int "6625"
   : !!python/unicode "Lady Maria Sagrario de Tacoronte",
   ? !!int "6634"
@@ -7945,7 +7945,7 @@
   ? !!int "7288"
   : !!python/unicode "Elizabet ingen Ada",
   ? !!int "7289"
-  : !!str "D\xFDrfinna Freyvi\xF0ard\xF3ttir",
+  : !!str "Lady D\xFDrfinna Freyvi\xF0ard\xF3ttir",
   ? !!int "7294"
   : !!python/unicode "Lord Eoin mac Giric",
   ? !!int "7297"
@@ -8005,7 +8005,7 @@
   ? !!int "7356"
   : !!python/unicode "Ingvarr Einarson",
   ? !!int "7357"
-  : !!python/unicode "Carlyle Jamesson",
+  : !!python/unicode "Lord Carlyle Jamesson",
   ? !!int "7358"
   : !!python/unicode "Fletcher ap Ivor",
   ? !!int "7360"
@@ -8047,7 +8047,7 @@
   ? !!int "7453"
   : !!python/unicode "Lady Heather Hrafnsdottir",
   ? !!int "7454"
-  : !!python/unicode "Benefse bint Zakariya'",
+  : !!python/unicode "Lady Benefse bint Zakariya'",
   ? !!int "7455"
   : !!python/unicode "Savage Black Wolf",
   ? !!int "7458"
@@ -8121,7 +8121,7 @@
   ? !!int "7549"
   : !!python/unicode "Martan mac Alasdair",
   ? !!int "7550"
-  : !!python/unicode "Sara van Eerde, Sara Nayl Bendare, Sanada Tatsuko",
+  : !!python/unicode "Lady Sara van Eerde, Sara Nayl Bendare, Sanada Tatsuko",
   ? !!int "7551"
   : !!python/unicode "Lady Theresa O Cahir",
   ? !!int "7552"
@@ -8137,7 +8137,7 @@
   ? !!int "7562"
   : !!python/unicode "Rosaleen Robertson",
   ? !!int "7565"
-  : !!python/unicode "Caradawc Mendwr",
+  : !!python/unicode "Lord Caradawc Mendwr",
   ? !!int "7566"
   : !!python/unicode "Lauretta Cwenhild",
   ? !!int "7567"
@@ -8183,7 +8183,7 @@
   ? !!int "7616"
   : !!python/unicode "Basilio Branquo",
   ? !!int "7617"
-  : !!python/unicode "Catherine Ambrose- merge empty",
+  : !!python/unicode "Lady Catherine Ambrose- merge empty",
   ? !!int "7620"
   : !!python/unicode "Lord Walter von Are",
   ? !!int "7622"
@@ -8215,7 +8215,7 @@
   ? !!int "7648"
   : !!python/unicode "Gwen verch Llywelyn",
   ? !!int "7649"
-  : !!python/unicode "Annegardj Sijurdsdottir",
+  : !!python/unicode "Lady Annegardj Sijurdsdottir",
   ? !!int "7651"
   : !!python/unicode "Sean Farrer",
   ? !!int "7652"
@@ -8343,7 +8343,7 @@
   ? !!int "7797"
   : !!str "Theodred \xE6t Rauenesdale",
   ? !!int "7798"
-  : !!python/unicode "Jora of Elvegast",
+  : !!python/unicode "Lady Jora of Elvegast",
   ? !!int "7799"
   : !!python/unicode "Siobhan inghean Eamoinn mhic Dhomhnaill",
   ? !!int "7802"
@@ -8435,7 +8435,7 @@
   ? !!int "7905"
   : !!python/unicode "Raphael of Wulfshaven",
   ? !!int "7906"
-  : !!python/unicode "Thorolf the Black",
+  : !!python/unicode "Lord Thorolf the Black",
   ? !!int "7907"
   : !!python/unicode "Viscountess Eliza O'Donegan",
   ? !!int "7909"
@@ -8525,7 +8525,7 @@
   ? !!int "8000"
   : !!python/unicode "Archer Bear Horseman of Rockbridge",
   ? !!int "8005"
-  : !!python/unicode "Grimkirk ap Greymoor",
+  : !!python/unicode "Lord Grimkirk ap Greymoor",
   ? !!int "8006"
   : !!python/unicode "Eoin Mac Eadhaird",
   ? !!int "8007"
