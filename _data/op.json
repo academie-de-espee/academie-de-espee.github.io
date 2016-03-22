@@ -901,7 +901,7 @@
   ? !!int "493"
   : !!python/unicode "Besina da Verona",
   ? !!int "494"
-  : !!python/unicode "Baroness Bessenyei Rozsa",
+  : !!python/unicode "Mistress Bessenyei Rozsa",
   ? !!int "496"
   : !!python/unicode "Beth of Sudentur",
   ? !!int "497"
@@ -1599,7 +1599,7 @@
   ? !!int "874"
   : !!python/unicode "Lady Iul'iana Krasnaia",
   ? !!int "875"
-  : !!python/unicode "Lady Daniela Schwartzhaupt",
+  : !!python/unicode "Baroness Daniela Schwartzhaupt",
   ? !!int "877"
   : !!python/unicode "Master Danr Bjornsson",
   ? !!int "878"
@@ -1790,7 +1790,7 @@
   ? !!int "978"
   : !!python/unicode "Baron Dressel of Seven Bends",
   ? !!int "979"
-  : !!python/unicode "Lord Drogo Rainulf de Dragonera",
+  : !!python/unicode "Baron Drogo Rainulf de Dragonera",
   ? !!int "981"
   : !!python/unicode "Baroness Aranwen Ddryw ferch Rhodri",
   ? !!int "982"
@@ -2184,7 +2184,7 @@
   ? !!int "1188"
   : !!python/unicode "Evelyn the Well Traveled",
   ? !!int "1189"
-  : !!python/unicode "Evelynne Merrymet",
+  : !!python/unicode "Evelyn Merry",
   ? !!int "1190"
   : !!python/unicode "Lady Evita Maria da Lombardia",
   ? !!int "1191"
@@ -5023,7 +5023,7 @@
   ? !!int "2760"
   : !!python/unicode "Sabine Thorhalls kona",
   ? !!int "2762"
-  : !!python/unicode "Lady Sajah bint Habushun ibn Ishandiyar al-Hajjaji",
+  : !!python/unicode "Baroness Sajah bint Habushun ibn Ishandiyar al-Hajjaji",
   ? !!int "2763"
   : !!python/unicode "Lord Philip Jeger",
   ? !!int "2764"
@@ -5739,7 +5739,7 @@
   ? !!int "3148"
   : !!python/unicode "Vladimir Thorvaldsson",
   ? !!int "3149"
-  : !!python/unicode "Baron Vladimir Vladimirovich Vladimirov",
+  : !!python/unicode "Master Vladimir Vladimirovich Vladimirov",
   ? !!int "3150"
   : !!python/unicode "Vladmir of Eztergom",
   ? !!int "3151"
@@ -5999,7 +5999,7 @@
   ? !!int "3294"
   : !!python/unicode "Saffiyya al Andalusiyya",
   ? !!int "3296"
-  : !!python/unicode "Lord Alric the Mad",
+  : !!python/unicode "Baron Alric the Mad",
   ? !!int "3297"
   : !!python/unicode "Lady Miriel Crawford",
   ? !!int "3298"
@@ -7111,7 +7111,7 @@
   ? !!int "4177"
   : !!python/unicode "Lady Isabella Cortes de Almeida",
   ? !!int "4178"
-  : !!python/unicode "Lady Margaret Wolseley",
+  : !!python/unicode "Mistress Margaret Wolseley",
   ? !!int "4179"
   : !!python/unicode "Viscount Cian Conor McQuaid",
   ? !!int "4180"
@@ -7259,7 +7259,7 @@
   ? !!int "4282"
   : !!python/unicode "Brianna of Arundel",
   ? !!int "4286"
-  : !!python/unicode "Lady Adina von der Heide",
+  : !!python/unicode "Baroness Adina von der Heide",
   ? !!int "4287"
   : !!python/unicode "Baroness Isabele de Torriden",
   ? !!int "4288"
@@ -7553,7 +7553,7 @@
   ? !!int "6178"
   : !!python/unicode "Amelia Ingin Torquil",
   ? !!int "6179"
-  : !!python/unicode "Lady Kateryne Ferneley",
+  : !!python/unicode "Mistress Kateryne Ferneley",
   ? !!int "6180"
   : !!python/unicode "Mateos of Yarnvid",
   ? !!int "6185"
@@ -7707,7 +7707,7 @@
   ? !!int "7046"
   : !!python/unicode "Grimkell Tannason",
   ? !!int "7049"
-  : !!python/unicode "Lady Caitilin Inghean Fheichin",
+  : !!python/unicode "Mistress Caitilin Inghean Fheichin",
   ? !!int "7053"
   : !!python/unicode "Lady Audrey Brant",
   ? !!int "7054"
@@ -7791,7 +7791,7 @@
   ? !!int "7131"
   : !!python/unicode "Lord Naran Numuchi",
   ? !!int "7132"
-  : !!str "Lady Cellach M\xF3r",
+  : !!str "Baroness Cellach M\xEF\xBF\xBDr",
   ? !!int "7134"
   : !!python/unicode "Elias Forsyth",
   ? !!int "7135"
@@ -8669,7 +8669,7 @@
   ? !!int "8191"
   : !!python/unicode "Julia of Caer Mear",
   ? !!int "8195"
-  : !!python/unicode "Maeve Funglass",
+  : !!python/unicode "Meabhdh Finglas",
   ? !!int "8197"
   : !!python/unicode "Wrade map Wyllys map Ulthor of Ce in Alba",
   ? !!int "8201"
@@ -8876,10 +8876,18 @@
   : !!python/unicode "Hiroaki Akiyama",
   ? !!int "8555"
   : !!python/unicode "Kazuhiko Akiyama",
+  ? !!int "8558"
+  : !!python/unicode "Xavier Leon Corazon",
+  ? !!int "8559"
+  : !!python/unicode "Catarina Leon Corazon",
   ? !!int "8562"
   : !!python/unicode "Michal Almond de Champagne",
+  ? !!int "8564"
+  : !!python/unicode "Felipe Leon Corazona",
   ? !!int "8565"
   : !!python/unicode "Gideon ap Stephen",
+  ? !!int "8569"
+  : !!python/unicode "Selene O'Cearbhuil of the Black Marsh",
   ? !!int "8571"
   : !!python/unicode "Thea de Nes",
   ? !!int "8579"
@@ -8938,4 +8946,6 @@
   : !!python/unicode "Rebecca of Middlegate",
   ? !!int "8742"
   : !!python/unicode "Johan Andersson",
+  ? !!int "8748"
+  : !!str "R\xF3n\xE1n Mac \xCDmair",
 }
