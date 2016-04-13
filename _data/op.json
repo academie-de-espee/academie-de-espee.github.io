@@ -2088,7 +2088,7 @@
   ? !!int "1138"
   : !!python/unicode "Brianna of Bright Hills",
   ? !!int "1139"
-  : !!python/unicode "Prince Dietrich von Stroheim",
+  : !!python/unicode "King Dietrich von Stroheim",
   ? !!int "1140"
   : !!python/unicode "Engelsvind von Nurenberg",
   ? !!int "1141"
@@ -2546,7 +2546,7 @@
   ? !!int "1376"
   : !!python/unicode "Lady Grace Whytteng",
   ? !!int "1377"
-  : !!str "Mistress Gra\xE7ia Esperan\xE7a de Sevilla",
+  : !!str "Mistress Gra\xEF\xBF\xBDia Esperan\xEF\xBF\xBDa de Sevilla",
   ? !!int "1378"
   : !!python/unicode "Graham filius Johannae",
   ? !!int "1379"
@@ -2556,7 +2556,7 @@
   ? !!int "1381"
   : !!python/unicode "Grayson Hayes",
   ? !!int "1382"
-  : !!python/unicode "Lady Greer Jonsdottir",
+  : !!python/unicode "Baroness Greer Jonsdottir",
   ? !!int "1384"
   : !!python/unicode "Lord Gregge the Archer",
   ? !!int "1385"
@@ -6589,7 +6589,7 @@
   ? !!int "3780"
   : !!python/unicode "Tangwystl verch Gruffydd ap Cynan",
   ? !!int "3781"
-  : !!python/unicode "Lord Benjamin Lilje",
+  : !!python/unicode "Master Benjamin Lilje",
   ? !!int "3782"
   : !!str "Lady A\xEDbinn ingen Lorcc\xE1in",
   ? !!int "3783"
@@ -6811,7 +6811,7 @@
   ? !!int "3941"
   : !!python/unicode "Lady Tangwystel vyrgh Gwethenek",
   ? !!int "3942"
-  : !!python/unicode "Lady Mariana Francisco",
+  : !!python/unicode "Mistress Mariana Francisco",
   ? !!int "3943"
   : !!python/unicode "Francesca cassi of Tir-y-Don",
   ? !!int "3961"
@@ -7187,7 +7187,7 @@
   ? !!int "4226"
   : !!python/unicode "Lady Seraphina Delfino",
   ? !!int "4227"
-  : !!python/unicode "King Christoph Krieger",
+  : !!python/unicode "Count Christoph Krieger",
   ? !!int "4229"
   : !!python/unicode "Lord Angus of Bedford",
   ? !!int "4231"
@@ -7465,9 +7465,9 @@
   ? !!int "4421"
   : !!python/unicode "Palfi Jozsa",
   ? !!int "4422"
-  : !!str "Lady Emeludt H\xE4nsler",
+  : !!python/unicode "Mistress Emeludt Hansler",
   ? !!int "4425"
-  : !!python/unicode "Lady Roan de Haukrige",
+  : !!python/unicode "Lady Rowan of Hawkridge",
   ? !!int "4427"
   : !!python/unicode "Runa Haroldsdottir",
   ? !!int "4429"
@@ -7616,6 +7616,8 @@
   : !!python/unicode "Benetessa",
   ? !!int "6341"
   : !!python/unicode "Baroness Yenyega Velasconi de Santurce",
+  ? !!int "6496"
+  : !!python/unicode "Muirinn Donn",
   ? !!int "6625"
   : !!python/unicode "Lady Maria Sagrario de Tacoronte",
   ? !!int "6634"
@@ -8125,7 +8127,7 @@
   ? !!int "7551"
   : !!python/unicode "Lady Theresa O Cahir",
   ? !!int "7552"
-  : !!python/unicode "Queen Adelhait Fuchs",
+  : !!python/unicode "Countess Adelhait Fuchs",
   ? !!int "7556"
   : !!str "Evja Vermundard\xF3ttir",
   ? !!int "7559"
@@ -8634,6 +8636,8 @@
   : !!str "Ragnveig Snorrad\xF3ttir",
   ? !!int "8144"
   : !!python/unicode "Ulfarr Refskegg",
+  ? !!int "8146"
+  : !!python/unicode "Sanada Toshiyasu",
   ? !!int "8147"
   : !!python/unicode "Amberle of Sudentorre",
   ? !!int "8152"
@@ -8866,6 +8870,8 @@
   : !!python/unicode "Nyvein Dyfnawal",
   ? !!int "8544"
   : !!python/unicode "Alicia Lindsey of Bright Hills",
+  ? !!int "8545"
+  : !!python/unicode "Freug the Herbalist",
   ? !!int "8547"
   : !!python/unicode "Cedric",
   ? !!int "8548"
@@ -8942,10 +8948,20 @@
   : !!python/unicode "Aine O'fearghail",
   ? !!int "8675"
   : !!python/unicode "Charimmos of Lakadaimonias",
+  ? !!int "8712"
+  : !!python/unicode "Alfdis Thorsdottir",
   ? !!int "8741"
   : !!python/unicode "Rebecca of Middlegate",
   ? !!int "8742"
   : !!python/unicode "Johan Andersson",
   ? !!int "8748"
   : !!str "R\xF3n\xE1n Mac \xCDmair",
+  ? !!int "8750"
+  : !!python/unicode "Ingrid Of Wolfhou",
+  ? !!int "8751"
+  : !!python/unicode "Marguerite De Lyon",
+  ? !!int "8753"
+  : !!python/unicode "Clare inghen Rhuadri",
+  ? !!int "8754"
+  : !!python/unicode "Francesca della Torre",
 }
