@@ -24,7 +24,7 @@ The trappings of the yellow scarf and title of "Provost" were used by the member
 
 ## Becoming White Scarves
 
-Approximately 3 years later, when Cuan II and Brigit I were stepping down and Galmr II and Katharina II were stepping up, Atlantia signed the [Treaty of the White Scarf](/oaths/treaty). At that time, the original Academie order was closed and all existing members were grandfathered into the new [Order of the White Scarf](http://op.atlantia.sca.org/op_award.php?award_id=20) with a matching change in scarf color.  There were 14 Provosts in the Order that were "bleached".  They were gifted with hand painted cotton "combat" scarves, made by Queen Brigit and with sewn silk "dress" scarves made by Princess Katerina.  Many of these scarves are still worn today.
+Approximately 3 years later, when Cuan II and Brigit I were stepping down and Galmr II and Katharina II were stepping up, Atlantia signed the [Treaty of the White Scarf](/oaths/treaties). At that time, the original Academie order was closed and all existing members were grandfathered into the new [Order of the White Scarf](http://op.atlantia.sca.org/op_award.php?award_id=20) with a matching change in scarf color.  There were 14 Provosts in the Order that were "bleached".  They were gifted with hand painted cotton "combat" scarves, made by Queen Brigit and with sewn silk "dress" scarves made by Princess Katerina.  Many of these scarves are still worn today.
 
 ## Settling into the new structure
 

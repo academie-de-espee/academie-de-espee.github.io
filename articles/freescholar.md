@@ -93,4 +93,4 @@ community.
 
 That's all I've got on the subject for now, but I'm sure other Free Scholars will have other ideas.  The best thing to do is ask.  Remember, we're here to try and help.
 
-[Lord Liam a'Welwyn, Free Scholar](mailto:william.morris-at-sc.edu)
+[Lord Liam a'Welwyn, Free Scholar](mailto:william.morris@sc.edu)

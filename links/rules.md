@@ -2,9 +2,10 @@
 title: Links - Rapier Rules for the Known World
 ---
 
-## Society
+## Our rules
 * [SCA Rapier Handbook](http://sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf)
 * [Appendix 5 - Current approved blades list](http://sca.org/officers/marshal/docs/rapier/bladetypes.pdf)
+* [Atlantia](http://rapier.atlantia.sca.org/rules/)
 
 ## Other Kingdoms
 * [Aethelmearc](http://www.aerapier.org/AE%20fencing%20policies%20-%20Sept%202008.pdf)
@@ -12,7 +13,6 @@ title: Links - Rapier Rules for the Known World
 * [An Tir](http://www.antir.sca.org/Pubs/Rapier/Rapier_Rules_2007.pdf)
 * [Artemesia](http://www.artemisia.sca.org/marshallate/marshal.htm#rapier)
 * [Atenveldt](http://www.atenveldt.org/LinkClick.aspx?fileticket=b%2b6TjLkaxKA%3d&tabid=82&mid=1396)
-* [Atlantia](http://rapier.atlantia.sca.org/rules.php)
 * [Caid](http://marshal.sca-caid.org/pubs/r-handbook-20070602.pdf)
 * Calontir
 * [Drachenwald](http://www.drachenwald.sca.org/files/marshal/fencing/DW_Fencerules_2007_V1.pdf)

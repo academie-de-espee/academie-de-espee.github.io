@@ -6,7 +6,6 @@ title: Links - Merchants
 * [Scottie Armory](http://www.rapiers.com/)
 * [Syke's Sutlery](http://www.sykesutler.com/)
 * [Tattershall Arms](http://www.tattershallarms.org/)
-* [Museum Replicas Limited](http://www.mindspring.com/~atlcut/mrl.html)
 * [Patri's Publications](http://www.transarc.com/afs/transarc.com/public/groff/html/sca/fencing/manuals/patri.html)
 * [New World Arbalest](http://www.crossbows.net/)
 * [Alchem Incorporated](http://www.alcheminc.com)

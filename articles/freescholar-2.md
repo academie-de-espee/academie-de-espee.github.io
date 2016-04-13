@@ -116,4 +116,4 @@ Scholars will have quite a bit to say on how they wish to define
 themselves.  This is a good thing.  If you wish further information or
 have questions to ask, please contact me.
 
-[Baron Gerlach Wiesengrund, Provost](mailto:jhdavis-at-cstone.net)
+[Baron Gerlach Wiesengrund, Provost](mailto:jhdavis@cstone.net)

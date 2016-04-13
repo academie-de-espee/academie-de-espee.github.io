@@ -2,7 +2,7 @@
 title: I do not want this schlager sword
 ---
 
-*by [Lady Caitlin Deirdre of Errelyn](mailto:des414-at-yahoo.com) Rhydderich Hael, Aethelmearc
+*by [Lady Caitlin Deirdre of Errelyn](mailto:des414@yahoo.com) Rhydderich Hael, Aethelmearc
 
 I do not want this schlager sword<BR>
 I do not want it, Lord Sanford<BR>
