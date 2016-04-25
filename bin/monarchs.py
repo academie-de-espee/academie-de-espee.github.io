@@ -20,8 +20,8 @@ for row in tr.findAll('tr'):
     reign = int(cells[0].text)
     reigns += [{
         'year': cells[1].text,
-        'king': cells[2].text,
-        'queen': cells[3].text
+        'King': cells[2].text,
+        'Queen': cells[3].text
     }]
 
 assert len(reigns) > 1

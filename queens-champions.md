@@ -1,28 +1,38 @@
 ---
-title: Queen's Champions
+title: Rapier Champions of Atlantia
 ---
 
-Atlantian queens have had a rapier champion that supports and represents them on the field of combat.  In an attempt to record our history, we've gathered information about past champions as best we can.  Have you been a champion for an Atlantian queen in the past?  Let us know.
+For many years, Atlantian royalty have looked to rapier champions to support and represent them on the field of combat.  In an attempt to record our history, we've gathered information about past champions as best we can.  Have you been a champion for an Atlantian king or queen in the past?  Let us know.
 
-<table class="pure-table pure-table-bordered sortable">
+{% for data in site.data.qrc %}
+{% assign sword_type = data[0] %}
+{% assign entries = data[1] %}
+
+{% for entry in entries %}
+{% assign reign_type = entry[0] %}
+{% assign champions = entry[1] %}
+
+## {{ reign_type }}'s {{ sword_type }} champions
+
+<table class="pure-table pure-table-bordered sortable" width="100%">
 <thead>
 <tr>
     <th> Reign </th>
     <th> Date</th>
-    <th> Queen </th>
+    <th> {{ reign_type }} </th>
     <th> Champion(s) </th>
 </tr>
 </thead>
 <tbody>
 
-{% for item in site.data.qrc %}
+{% for item in champions %} 
 
 {% if site.data.provosts[item.name] != null %} {% assign person = site.data.provosts[item.name] %} {% elsif site.data.freescholars[item.name] != null %} {% assign person = site.data.freescholars[item.name] %} {% else %} {% assign person = site.data.people[item.name] %} {% endif %}
 
 <tr>
     <td> {{ item.reign }} </td>
     <td> <a href='http://op.atlantia.sca.org/awards_by_reign.php?reign_id={{item.reign}}'>{{ site.data.reigns[item.reign]['year'] }}</a></td>
-    <td> {{ site.data.reigns[item.reign]['queen'] }} </td>
+    <td> {{ site.data.reigns[item.reign][reign_type] }} </td>
     <td>
     {% for i in item.opid %}
         <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{i}}">{{ site.data.op[i] }}</a>{% if forloop.last == false %}, {% endif %}
@@ -32,5 +42,8 @@ Atlantian queens have had a rapier champion that supports and represents them on
 {% endfor %}
 </tbody>
 </table>
+
+{% endfor %}
+{% endfor %}
 
 <script src="/js/sorttable.js"></script>
