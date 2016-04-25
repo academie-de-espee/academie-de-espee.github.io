@@ -1301,7 +1301,7 @@
   ? !!int "714"
   : !!python/unicode "Mistress Celia of Rosedale",
   ? !!int "715"
-  : !!python/unicode "Lord Celric of Marinus",
+  : !!python/unicode "Lord Celric d'Ravelle",
   ? !!int "716"
   : !!python/unicode "Mistress Celynen of Stow-on-the-Wold",
   ? !!int "717"
@@ -1926,7 +1926,7 @@
   ? !!int "1048"
   : !!python/unicode "Sir Eldon Ungol of the Phoenix",
   ? !!int "1049"
-  : !!str "Master Eldred \xC6lfwald",
+  : !!str "Master Eldred \xEF\xBF\xBDlfwald",
   ? !!int "1050"
   : !!python/unicode "Master Eldrid Tremayne",
   ? !!int "1051"
@@ -7411,7 +7411,7 @@
   ? !!int "4385"
   : !!python/unicode "Kristina of York",
   ? !!int "4386"
-  : !!python/unicode "Lady Brianna bint Isleif",
+  : !!python/unicode "Lady Birna Isleifsdottir",
   ? !!int "4388"
   : !!python/unicode "Lady Aziza al-Zarqa' bint Yusuf",
   ? !!int "4389"
@@ -7889,7 +7889,7 @@
   ? !!int "7228"
   : !!python/unicode "Elisabeth von Basel",
   ? !!int "7232"
-  : !!python/unicode "Aine ingen Comyn",
+  : !!python/unicode "Aine ingen Chuimin",
   ? !!int "7234"
   : !!python/unicode "Alyna of the Vale",
   ? !!int "7235"
@@ -7933,7 +7933,7 @@
   ? !!int "7277"
   : !!python/unicode "Lord Geoffrey de Cardeville",
   ? !!int "7278"
-  : !!python/unicode "Karl von Konigsberg",
+  : !!str "Karl Phillip von K\xC3\xB6nigsberg",
   ? !!int "7280"
   : !!python/unicode "Mary Poschet",
   ? !!int "7281"
@@ -8750,16 +8750,22 @@
   : !!python/unicode "Joiha Bugg",
   ? !!int "8309"
   : !!python/unicode "Aubelet Trapon",
+  ? !!int "8312"
+  : !!python/unicode "Marguerite De Lyon",
   ? !!int "8314"
   : !!python/unicode "Caitriona Beachadoir",
   ? !!int "8328"
   : !!python/unicode "Seamus Blair de Maxwell",
+  ? !!int "8329"
+  : !!python/unicode "Maire O Halowrane",
   ? !!int "8331"
   : !!python/unicode "Albree de Greene",
   ? !!int "8332"
   : !!python/unicode "Alasdair O Cuinn",
   ? !!int "8334"
   : !!python/unicode "Tereza Quinones de Toledo",
+  ? !!int "8335"
+  : !!python/unicode "Coenred aet Rauenesdale",
   ? !!int "8341"
   : !!str "\xC6sa gyl\xF0ir",
   ? !!int "8342"
@@ -8958,8 +8964,6 @@
   : !!str "R\xF3n\xE1n Mac \xCDmair",
   ? !!int "8750"
   : !!python/unicode "Ingrid Of Wolfhou",
-  ? !!int "8751"
-  : !!python/unicode "Marguerite De Lyon",
   ? !!int "8753"
   : !!python/unicode "Clare inghen Rhuadri",
   ? !!int "8754"
