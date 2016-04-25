@@ -1,22 +1,5 @@
 ---
 # -*- html -*- mode
-nav:
-  - text: Index
-    href: /
-  - text: Sacred Oaths
-    href: /oaths
-  - text: Queen's Champions
-    href: /queens-champions
-  - text: Iron Spike
-    href: /iron-spike
-  - text: Articles
-    href: /articles
-  - text: Humor
-    href: /humor
-  - text: Artwork
-    href: /artwork
-  - text: Links
-    href: /links
 ---
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -41,7 +24,7 @@ nav:
                 <div id="nav">
                     <div class="hlist">
                         <ul>
-                            {% for t in page.nav %}
+                            {% for t in site.nav %}
                             <li> <a href="{{ t.href }}">{{ t.text }}</a> </li>
                             {% if forloop.rindex > 1 %}
                                 |

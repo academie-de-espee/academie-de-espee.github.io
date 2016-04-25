@@ -14,3 +14,20 @@ exclude:
 defaults:
     - values:
         layout: default
+nav:
+  - text: Index
+    href: /
+  - text: Sacred Oaths
+    href: /oaths
+  - text: Rapier Champions
+    href: /queens-champions
+  - text: Iron Spike
+    href: /iron-spike
+  - text: Articles
+    href: /articles
+  - text: Humor
+    href: /humor
+  - text: Artwork
+    href: /artwork
+  - text: Links
+    href: /links
