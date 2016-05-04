@@ -161,6 +161,7 @@ Marion le Red:
 Matilda Grille (Tilly):
 Orlando de Olivares Y Salazar:
 Penelope Blood:
+  op_id: 2478
 Séamus Ó Maoil Riain:
 Thorbrandr Olafsson:
 Thorgrimr inn Kyrri:
@@ -186,6 +187,7 @@ Tassin Navetier:
   event: Ruby Joust
   sponsors: Maestro Dante, Master Wistric, and Lord Raphael
 Maximillian Bruder:
+  op_id: 7708
   location: Hawkwood
   date: 2013
   form:
@@ -210,6 +212,7 @@ William Gilchrist Ross:
   event: Night Under the Town
   sponsors: Mistriss Ceridwen, Master Connor, and Lord Geoffrey
 Sinclair Hawkins:
+  op_id: 2555
   location:
   date:
   form: 
