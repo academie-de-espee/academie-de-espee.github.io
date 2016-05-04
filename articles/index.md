@@ -2,26 +2,39 @@
 title: Articles
 ---
 
-Here are numerous papers and articles written by members of the Academie d'Espee.  Their scope is broad and many topics are covered.
+Here are numerous papers and articles written by members of the Academie d'Espee.  The scope of these articles is broad and many topics are covered.
+
+### Articles about the Academie
 
 * [The Academie d'Espee, Order of the White Scarf of Atlantia - A complete history](history) - Master Aedan Aylwyn, Provost
 * [The Atlantian Rapier Guild Structure](guild) - Master Aedan Aylwyn, Provost
 * [Measures for Consideration to the Academie](guidelines)
-* [The Free Scholar: A Not So Comprehensive Look](freescholar-2) -  Baron Gerlach Wiesengrund, Provost
+* [The Free Scholar: A Not So Comprehensive Look](freescholar-2) - Baron Gerlach Wiesengrund, Provost
 * [The Role Of The Free Scholar](freescholar) - Lord Liam a'Welwyn, Free Scholar
+* [To Be A Scholar](scholar) - Baron Alejandro Mateo Ramirez y Mendoza, Preboste
+
+### Articles about rapier
 * [A Letter On Ushering Prizes](usher) - Master Alan Gravesend, Provost and Master Geoffrey Gamble, Provost
-* [Concerning Melee Tactics](melee) - Master Alan Gravesend, Provost and THL Giacomo Vincente, Provost
 * [Learning To Call Blows](learning-blowcalling) - Lord Kirk Dragomani, Provost
 * [Why Do We Calibrate?](why-do-we-calibrate) - Lord Kirk Dragomani, Provost
-* [The Art of Eloquence](art-of-eloquence) - Lord Kirk Dragomani, Provost
 * [Light Weapons Is Not A Light Sport](light-weapons) - Lord Kirk Dragomani, Provost
 * [Hold!](hold) - Lord Kirk Dragomani, Provost
 * [Anatomy for Duelists or Does This Hurt?](anatomy-for-duelists) - Lord Kirk Dragomani, Provost
 * [It's Just A Scratch](just-a-scratch) - Lord Kirk Dragomani, Provost
-* [How To Sharpen Other Knives And Not Lose Your Own Edge](how-to-teach) - Lord Kirk Dragomani, Provost
-* [To Be A Scholar](scholar) - Baron Alejandro Mateo Ramirez y Mendoza, Preboste
 
-## Outside Articles
+### Articles related to rapier melee in Atlantia
+In order to prepare for war, the Atlantian Rapier Army uses a common set of tactics, drills, and commands to allow flexibility within units.
+
+* [Concerning Melee Tactics](melee-tactics) - Master Alan Gravesend, and Master Giacomo Vincente
+* [Melee Drills](melee-drills) - Lord Sanada Terasu, Sir Joscelin d'Outremer
+* [Melee Commands](melee-commands) - Master Caitilin Inghean Fheichin
+
+### Other articles
+* [The Art of Eloquence](art-of-eloquence) - Lord Kirk Dragomani, Provost
+* [How To Sharpen Other Knives And Not Lose Your Own Edge](how-to-teach) - Lord Kirk Dragomani, Provost
+
+### Outside Articles
+
 Here are numerous papers and articles written by gentles from outside of the fair Kingdom of Atlantia, gathered these articles from a number of different sources.  Most of these are not available elsewhere, others seem to be sporadic in their availability or ease of being found.
 
 * [A Treatise Concerning Leg Wounds](leg-wounds) - by Don Aubrey de Baudricourt and Lord Joachim van den Has

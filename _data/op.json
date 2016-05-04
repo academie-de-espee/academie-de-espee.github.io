@@ -2024,7 +2024,7 @@
   ? !!int "1103"
   : !!python/unicode "Lady Elizabeth of Misty Highlands",
   ? !!int "1104"
-  : !!python/unicode "Baroness Elizabeth of Rosewood \"Shrewlet\"",
+  : !!python/unicode "Baroness Elizabeth of Rosewood",
   ? !!int "1105"
   : !!python/unicode "Elizabeth Pennington",
   ? !!int "1107"
@@ -2140,7 +2140,7 @@
   ? !!int "1165"
   : !!python/unicode "Erlin Pathfinder",
   ? !!int "1167"
-  : !!python/unicode "Lord Eshton Spearcrafter",
+  : !!python/unicode "Baron Eshton Spearcrafter",
   ? !!int "1168"
   : !!python/unicode "Esmee Douglas",
   ? !!int "1169"
@@ -7540,6 +7540,8 @@
   : !!python/unicode "Sophia Greifenclau",
   ? !!int "5126"
   : !!python/unicode "DRYNNITH OF THE BLACK SILVER ROSE",
+  ? !!int "5396"
+  : !!str "Eoin Mac \xC9adbh\xE1ird",
   ? !!int "5727"
   : !!python/unicode "Rebekkah Samuel",
   ? !!int "5874"
@@ -7710,6 +7712,8 @@
   : !!python/unicode "Grimkell Tannason",
   ? !!int "7049"
   : !!python/unicode "Mistress Caitilin Inghean Fheichin",
+  ? !!int "7050"
+  : !!python/unicode "Aeron Harper",
   ? !!int "7053"
   : !!python/unicode "Lady Audrey Brant",
   ? !!int "7054"
@@ -7933,7 +7937,7 @@
   ? !!int "7277"
   : !!python/unicode "Lord Geoffrey de Cardeville",
   ? !!int "7278"
-  : !!str "Karl Phillip von K\xC3\xB6nigsberg",
+  : !!str "Karl Phillip von K\xF6nigsberg",
   ? !!int "7280"
   : !!python/unicode "Mary Poschet",
   ? !!int "7281"
@@ -8111,7 +8115,7 @@
   ? !!int "7538"
   : !!str "Lord Dagfinnr j\xE1rnauga",
   ? !!int "7540"
-  : !!python/unicode "Lord Niccolo Giovanni",
+  : !!python/unicode "Lord Klaus Jager",
   ? !!int "7542"
   : !!python/unicode "Lord Roland Wodeman",
   ? !!int "7543"
@@ -8528,8 +8532,6 @@
   : !!python/unicode "Archer Bear Horseman of Rockbridge",
   ? !!int "8005"
   : !!python/unicode "Lord Grimkirk ap Greymoor",
-  ? !!int "8006"
-  : !!python/unicode "Eoin Mac Eadhaird",
   ? !!int "8007"
   : !!str "\xDE\xF3ra Hrafnsd\xF3ttir",
   ? !!int "8009"
@@ -8711,7 +8713,7 @@
   ? !!int "8251"
   : !!python/unicode "Geoffrey d'Ayr of Montalban",
   ? !!int "8254"
-  : !!python/unicode "Ibrahim Al-Hakim",
+  : !!python/unicode "Ibrahim bin Ilyas bin Mustafa al-Haddad",
   ? !!int "8256"
   : !!python/unicode "Isabella of Kent",
   ? !!int "8270"

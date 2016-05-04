@@ -2,8 +2,6 @@
 title: Concerning Melee Tactics
 ---
 
-# Concerning Melee Tactics
-
 Unto the Rapier fighters of Atlantia do Lord Giacomo Vincenti and Lord Alan Gravesend send greetings and salutations.  We write to you concerning the techniques and tactics of the three man melee team.
 
 ## Team Basics
