@@ -5,7 +5,6 @@ title: Roster
 <table class="pure-table pure-table-bordered">
 <thead>
 <tr>
-    <th> # </th>
     <th> Name </th>
     <th> Date </th>
     <th> Event </th>
@@ -13,11 +12,14 @@ title: Roster
 </tr>
 </thead>
 <tbody>
-{% for entry in site.data.provosts %}
+{% assign sorted = site.data.provosts | sort %}
+{% for entry in sorted %}
+{% assign name = entry[0] %}
+{% assign item = entry[1] %}
+{% if item.provost == false %}
+{% continue %}
+{% endif %}
 <tr>
-    {% assign name = entry[0] %}
-    {% assign item = entry[1] %}
-    <td> {{ forloop.index }} </td>
     <td>
 
     {% if item.op_id != null %}

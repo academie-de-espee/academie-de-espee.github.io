@@ -274,6 +274,7 @@ Bell Phoebe de Givet:
   date: 11/21/2009
   event: Holiday Faire
   monarchs: Vladimir and Kalisa
+  provost: False
 Vortigern Faber:
   title: Master
   op_id: 3155
@@ -317,7 +318,7 @@ Brian de Moray:
   event: Pennsic War
   monarchs: Amos and Ysabella
 Benjamin Lilje:
-  title: Lord
+  title: Master
   op_id: 3781
   date: 3/29/2014
   event: Defending the Gate XIII
@@ -370,3 +371,9 @@ Sanada Terasu:
   date: 3/26/2016
   event: Defending the Gate
   monarchs: Christoph and Adelhait
+Alessandro Andretti:
+  title: Master
+  op_id: 7973
+  date: 7/31/2013
+  event: Pennsic War
+  monarchs: (Originally made in Ansteorra)
