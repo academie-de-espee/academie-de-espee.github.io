@@ -27,14 +27,6 @@ Angeline Falconis:
   form:
   event: Gulf Wars
   sponsors: Duke Ragnar, Master Richard, and Lady Caitilin
-Sanada Terasu:
-  op_id: 7086
-  title: Lord
-  location: Sudentorre
-  date: 11/22/2014
-  form:
-  event: Holiday Faire
-  sponsors: Master Dante, Lord Benjamin, and Lord Brian
 Colin McNab:
   op_id: 782
   title: Lord
@@ -186,13 +178,6 @@ Tassin Navetier:
   form:
   event: Ruby Joust
   sponsors: Maestro Dante, Master Wistric, and Lord Raphael
-Maximillian Bruder:
-  op_id: 7708
-  location: Hawkwood
-  date: 2013
-  form:
-  event: War of the Wings
-  sponsors:
 Michael Wymarc:
   location: Black Diamond
   date: 2012
