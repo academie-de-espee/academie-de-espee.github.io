@@ -84,6 +84,9 @@ Adenwald the Hazardous:
 Adina von der Heide:
   op_id: 4286
   title: Baroness
+Adriana Broussard:
+  op_id: 19
+  title: Baroness
 Adriana Michaels:
   op_id: 3800
   title: Lady
@@ -1494,15 +1497,6 @@ Bardulf Rauen:
 Barnabas of White Waters:
   op_id: 454
   title: Lord
-Baron Erwin Bloodaxe:
-  op_id: 3374
-  title: Baron
-Baron Hamish Macleod:
-  op_id: 3496
-  title: Baron
-Baroness Adriana Broussard:
-  op_id: 19
-  title: Baroness
 Barony of Black Diamond:
   op_id: 4064
 Barony of Caer Mear:
@@ -4021,6 +4015,9 @@ Erindahl maic Cennen:
   op_id: 1164
 Erlin Pathfinder:
   op_id: 1165
+Erwin Bloodaxe:
+  op_id: 3374
+  title: Baron
 Esa inghean Donnchaidh:
   op_id: 8164
   title: Lady
@@ -4652,6 +4649,9 @@ Gheile filia Aldwardi:
   op_id: 7287
 Ghijskijn Van den Vaerst:
   op_id: 4238
+"Giacomo Luciano Saviour Vinc\xE8nti di Firenze":
+  op_id: 1330
+  title: Master
 Gian Filippo da Cremona:
   op_id: 1331
 Gian of Askold:
@@ -5152,6 +5152,9 @@ Hamelin de Skine:
   op_id: 1467
 Hamilton of Baelfire Dunn:
   op_id: 7826
+Hamish Macleod:
+  op_id: 3496
+  title: Baron
 Hamish Steart of Appin:
   op_id: 1468
 Hamon MacPhersone:
@@ -6666,9 +6669,6 @@ Lachlann Gore:
   title: Lord
 Lachlann MacClean:
   op_id: 3906
-Lady Merwenna Maycock:
-  op_id: 4308
-  title: Lady
 Laeghaire O Laverty:
   op_id: 1933
   title: Count
@@ -7456,9 +7456,6 @@ Masagi:
 Masina de Corvaria:
   op_id: 3291
   title: Lady
-"Master Giacomo Luciano Saviour Vinc\xE8nti di Firenze":
-  op_id: 1330
-  title: Master
 Mateos of Yarnvid:
   op_id: 6180
 "Matheu Herrero de C\xE1diz":
@@ -7660,6 +7657,9 @@ Merit of Galyard's Bastion:
   op_id: 2234
 Merloren the Hermit:
   op_id: 2235
+Merwenna Maycock:
+  op_id: 4308
+  title: Lady
 Merwenna de Rannowe:
   op_id: 4338
   title: Mistress
