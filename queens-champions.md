@@ -25,7 +25,7 @@ For many years, Atlantian royalty have looked to rapier champions to support and
 </thead>
 <tbody>
 
-{% for item in champions %} 
+{% for item in champions %}
 
 {% if site.data.provosts[item.name] != null %} {% assign person = site.data.provosts[item.name] %} {% elsif site.data.freescholars[item.name] != null %} {% assign person = site.data.freescholars[item.name] %} {% else %} {% assign person = site.data.people[item.name] %} {% endif %}
 
@@ -35,7 +35,7 @@ For many years, Atlantian royalty have looked to rapier champions to support and
     <td> {{ site.data.reigns[item.reign][reign_type] }} </td>
     <td>
     {% for i in item.opid %}
-        <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{i}}">{{ site.data.op[i] }}</a>{% if forloop.last == false %}, {% endif %}
+        <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{i}}">{{ site.data.op[i].title }} {{ site.data.op[i].name }}</a>{% if forloop.last == false %}, {% endif %}
     {% endfor %}
     </td>
 </tr>

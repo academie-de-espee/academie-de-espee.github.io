@@ -14,7 +14,8 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
 
 {% assign latest = site.data.ironspike | last %}
 {% assign name = latest.name %}
-{% if site.data.provosts[name] != null %} {% assign person = site.data.provosts[name] %} {% else %} {% assign person = site.data.people[name] %} {% endif %}
+{% assign person = site.data.people[name] %}
+
 {% if person.op_id != null %} <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}"> {% endif %}
 {{ person.title }} {{ name }}
 {% if person.op_id != null %} </a> {% endif %}
@@ -38,7 +39,7 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
 {% capture defended %}{{ defended | plus: item.defended }}{% endcapture %}
 {% capture total %}{{ total | plus: item.defended | plus: 1}}{% endcapture %}
 
-{% if site.data.provosts[item.name] != null %} {% assign person = site.data.provosts[item.name] %} {% else %} {% assign person = site.data.people[item.name] %} {% endif %}
+{% assign person = site.data.people[item.name] %}
 
 <tr>
     <td> {{ forloop.index }} </td>
@@ -75,7 +76,7 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
     {% if names contains current %}
         {% assign current_value = 0 %}
         {% assign gained = 0 %}
-{% if site.data.provosts[name] != null %} {% assign person = site.data.provosts[name] %} {% elsif site.data.freescholars[name] != null %} {% assign person = site.data.freescholars[name] %} {% else %} {% assign person = site.data.people[name] %} {% endif %}
+        {% assign person = site.data.people[name] %}
         <tr>
             <td>
             {% if person.op_id != null %} <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}"> {% endif %}
