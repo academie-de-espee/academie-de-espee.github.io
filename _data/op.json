@@ -399,7 +399,7 @@
   ? !!int "216"
   : !!python/unicode "Lady Amber Lang",
   ? !!int "217"
-  : !!python/unicode "Lady Amber Roriksdatter",
+  : !!python/unicode "Lady Barbara of Bonei",
   ? !!int "218"
   : !!python/unicode "Lady Ambra Micheli",
   ? !!int "219"
@@ -1089,7 +1089,7 @@
   ? !!int "596"
   : !!python/unicode "Lady Bronwen McFinlay",
   ? !!int "597"
-  : !!python/unicode "Lady Bronwen O'Riordan",
+  : !!python/unicode "Lady Bronwen O'Riordan - DECEASED 6/13/2016",
   ? !!int "598"
   : !!python/unicode "Bronwyn Eventide",
   ? !!int "599"
@@ -1273,7 +1273,7 @@
   ? !!int "698"
   : !!python/unicode "Lady Isabelle Lafara",
   ? !!int "699"
-  : !!python/unicode "Baroness Griele vanden Burgh",
+  : !!python/unicode "Lady Griele vanden Burgh",
   ? !!int "700"
   : !!python/unicode "Mistress Cecilia Blythe",
   ? !!int "701"
@@ -1301,7 +1301,7 @@
   ? !!int "714"
   : !!python/unicode "Mistress Celia of Rosedale",
   ? !!int "715"
-  : !!python/unicode "Lord Celric d'Ravelle",
+  : !!python/unicode "Baron Celric d'Ravelle",
   ? !!int "716"
   : !!python/unicode "Mistress Celynen of Stow-on-the-Wold",
   ? !!int "717"
@@ -2990,7 +2990,7 @@
   ? !!int "1619"
   : !!python/unicode "Lady Jacquetta Edington of Yorkshire",
   ? !!int "1621"
-  : !!python/unicode "Lady Jael Grabow",
+  : !!python/unicode "Baroness Jael Grabow",
   ? !!int "1622"
   : !!python/unicode "Mistress Jaelle of Armida - DECEASED 3/1/2013",
   ? !!int "1623"
@@ -3733,7 +3733,7 @@
   ? !!int "2036"
   : !!python/unicode "Lady Lynn Chance of Kent",
   ? !!int "2037"
-  : !!python/unicode "Lord Leonardo Capriolo",
+  : !!python/unicode "Lord Lyon Filshenri",
   ? !!int "2038"
   : !!python/unicode "Lyra Blackpool",
   ? !!int "2039"
@@ -3919,7 +3919,7 @@
   ? !!int "2140"
   : !!python/unicode "Lady Marie of Doune",
   ? !!int "2141"
-  : !!str "Baroness Marie Th\xE9r\xE8se Normand",
+  : !!python/unicode "Baroness Marie Therese Normand",
   ? !!int "2142"
   : !!python/unicode "Duchess Marie-Simone de Barjavel 'la Fildena",
   ? !!int "2144"
@@ -4679,7 +4679,7 @@
   ? !!int "2568"
   : !!python/unicode "Raymond de Montfort",
   ? !!int "2569"
-  : !!python/unicode "Lord Raimund Lateiner",
+  : !!python/unicode "Baron Raimund Lateiner",
   ? !!int "2570"
   : !!python/unicode "Lord Raynold of Wharram",
   ? !!int "2571"
@@ -5105,7 +5105,7 @@
   ? !!int "2807"
   : !!python/unicode "Lady Seonaid a Lochbuie",
   ? !!int "2808"
-  : !!str "Duchess Seonaid n\xED Fhionn",
+  : !!str "Seonaid n\xEF\xBF\xBD Fhionn",
   ? !!int "2809"
   : !!python/unicode "Lady Seonaid of Nairn",
   ? !!int "2810"
@@ -6333,7 +6333,7 @@
   ? !!int "3511"
   : !!python/unicode "Lord Sebastiano Giovanni Gasparo - DECEASED 5/3/2007",
   ? !!int "3512"
-  : !!str "Lord Estienne de Cond\xE9",
+  : !!python/unicode "Lord Estienne de Conde",
   ? !!int "3514"
   : !!python/unicode "Lucrezia dei Bracchi",
   ? !!int "3517"
@@ -6355,7 +6355,7 @@
   ? !!int "3584"
   : !!python/unicode "Lord Brian Crawford",
   ? !!int "3589"
-  : !!python/unicode "Elphin ap Daffyd",
+  : !!python/unicode "Elphin ap Dafyd",
   ? !!int "3591"
   : !!python/unicode "Canton of Falconcree",
   ? !!int "3594"
@@ -6437,7 +6437,7 @@
   ? !!int "3677"
   : !!python/unicode "Elys Storm",
   ? !!int "3678"
-  : !!python/unicode "Lord Symon de Ipswich",
+  : !!python/unicode "Lord Simone de Venezia",
   ? !!int "3679"
   : !!str "Tom\xE1s Herrero de Toledo",
   ? !!int "3680"
@@ -6475,7 +6475,7 @@
   ? !!int "3699"
   : !!str "Lady R\xF3is O'Callaghan",
   ? !!int "3701"
-  : !!python/unicode "Baron Robert Thompson",
+  : !!python/unicode "Baron Robert Saunooke Thompson",
   ? !!int "3702"
   : !!python/unicode "Damian Cray",
   ? !!int "3705"
@@ -6971,7 +6971,7 @@
   ? !!int "4075"
   : !!python/unicode "Rebecca Lorenz",
   ? !!int "4076"
-  : !!python/unicode "Kawahasi No Tan",
+  : !!python/unicode "Kawahashi No Tan",
   ? !!int "4083"
   : !!python/unicode "Tim Arrowfinder",
   ? !!int "4084"
@@ -7007,7 +7007,7 @@
   ? !!int "4108"
   : !!str "Lady Mikl\xF3s Magdolna",
   ? !!int "4109"
-  : !!python/unicode "Lady Ilaria de Gandia",
+  : !!python/unicode "Baroness Ilaria de Gandia",
   ? !!int "4110"
   : !!python/unicode "Brendan Caiside",
   ? !!int "4113"
@@ -7299,7 +7299,7 @@
   ? !!int "4310"
   : !!python/unicode "Tegrinus de Rhina",
   ? !!int "4311"
-  : !!str "Lord Bjorn inn h\xEF\xBF\xBDvi",
+  : !!python/unicode "Lord Bjorn inn havi",
   ? !!int "4312"
   : !!str "Lady D\xFAnlaith ingen B\xE1ethgalaig",
   ? !!int "4313"
@@ -7552,6 +7552,8 @@
   : !!python/unicode "Will of Wiltshire",
   ? !!int "6000"
   : !!python/unicode "Lady Petronella Lockeheart",
+  ? !!int "6108"
+  : !!python/unicode "Leifr Skraveifr",
   ? !!int "6149"
   : !!python/unicode "Lord Seanne Alansyn",
   ? !!int "6178"
@@ -7591,7 +7593,7 @@
   ? !!int "6245"
   : !!python/unicode "Emelyn Grenville of Devon",
   ? !!int "6246"
-  : !!python/unicode "Juliana de Chanberrey",
+  : !!python/unicode "Juliana de Chamberey",
   ? !!int "6248"
   : !!python/unicode "Naila al-Zarqa'",
   ? !!int "6253"
@@ -7801,7 +7803,7 @@
   ? !!int "7131"
   : !!python/unicode "Lord Naran Numuchi",
   ? !!int "7132"
-  : !!str "Baroness Cellach M\xEF\xBF\xBDr",
+  : !!str "Baroness Cellach M\xF3r",
   ? !!int "7134"
   : !!python/unicode "Elias Forsyth",
   ? !!int "7135"
@@ -8079,7 +8081,7 @@
   ? !!int "7495"
   : !!python/unicode "Francis Bean",
   ? !!int "7497"
-  : !!python/unicode "Apollonia Francesca Maria di Ca",
+  : !!python/unicode "Apollonia Francesca di Capua",
   ? !!int "7503"
   : !!python/unicode "Devin of Storvik",
   ? !!int "7505"
@@ -8119,7 +8121,7 @@
   ? !!int "7537"
   : !!str "Lady Ailis inghean u\xED Bhriain",
   ? !!int "7538"
-  : !!str "Lord Dagfinnr j\xE1rnauga",
+  : !!python/unicode "Lord Dagfinnr jarnauga",
   ? !!int "7540"
   : !!python/unicode "Lord Klaus Jager",
   ? !!int "7542"
@@ -8421,7 +8423,7 @@
   ? !!int "7870"
   : !!python/unicode "Amelia of Hawkwood",
   ? !!int "7873"
-  : !!python/unicode "Seamus Tuilide",
+  : !!python/unicode "Lord Seamus Tuilide",
   ? !!int "7874"
   : !!python/unicode "Tyrvi Stefnisson",
   ? !!int "7875"
@@ -8462,6 +8464,8 @@
   : !!python/unicode "Lady Christina O'Cleary",
   ? !!int "7928"
   : !!python/unicode "Joie de Bedelle",
+  ? !!int "7929"
+  : !!python/unicode "Jeanette de la Mer",
   ? !!int "7932"
   : !!python/unicode "Simon Helpe",
   ? !!int "7933"
@@ -8681,7 +8685,7 @@
   ? !!int "8191"
   : !!python/unicode "Julia of Caer Mear",
   ? !!int "8195"
-  : !!python/unicode "Meabhdh Finglas",
+  : !!python/unicode "Sanada Akime",
   ? !!int "8197"
   : !!python/unicode "Wrade map Wyllys map Ulthor of Ce in Alba",
   ? !!int "8201"
@@ -8991,9 +8995,19 @@
   ? !!int "8764"
   : !!python/unicode "Thomas de Hawkworth",
   ? !!int "8766"
-  : !!python/unicode "Hugo von Guthenbach",
+  : !!python/unicode "Lord Hugo von Guthenbach",
   ? !!int "8770"
   : !!python/unicode "Vytautas Vilkas",
   ? !!int "8771"
   : !!python/unicode "Ginevra Fiammetta di Silvestri",
+  ? !!int "8792"
+  : !!python/unicode "Alherin of Preachain",
+  ? !!int "8793"
+  : !!python/unicode "Lotharius Oui Et Segimundus",
+  ? !!int "8794"
+  : !!python/unicode "Rosin Caomhaach",
+  ? !!int "8820"
+  : !!python/unicode "Cadwalader ap Ieuan",
+  ? !!int "8821"
+  : !!python/unicode "Eadyth Woderose",
 }
