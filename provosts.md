@@ -19,6 +19,7 @@ title: Roster
 {% if item.provost == false %}
 {% continue %}
 {% endif %}
+{% assign person = site.data.op[item.op_id] %}
 <tr>
     <td>
 
@@ -26,7 +27,7 @@ title: Roster
     <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}">
     {% endif %}
 
-    {{ item.title }} {{ name }}
+    {{ person.title }} {{ name }}
 
     {% if item.op_id != null %}
     </a>
