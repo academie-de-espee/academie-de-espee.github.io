@@ -1271,7 +1271,7 @@
   ? !!int "697"
   : !!python/unicode "Cearnach mac Eoghain",
   ? !!int "698"
-  : !!str "Lady Ceara n\xED N\xE9ill",
+  : !!python/unicode "Lady Isabelle Lafara",
   ? !!int "699"
   : !!python/unicode "Baroness Griele vanden Burgh",
   ? !!int "700"
@@ -2024,7 +2024,7 @@
   ? !!int "1103"
   : !!python/unicode "Lady Elizabeth of Misty Highlands",
   ? !!int "1104"
-  : !!python/unicode "Baroness Elizabeth of Rosewood",
+  : !!python/unicode "Mistress Elizabeth of Rosewood",
   ? !!int "1105"
   : !!python/unicode "Elizabeth Pennington",
   ? !!int "1107"
@@ -2816,7 +2816,7 @@
   ? !!int "1526"
   : !!python/unicode "Hugh Montaigu du Col",
   ? !!int "1528"
-  : !!python/unicode "Lord Hugh Wallace",
+  : !!python/unicode "Lord Hugh Wallace - DECEASED 5/12/2016",
   ? !!int "1529"
   : !!python/unicode "Lord Hugo van Halle",
   ? !!int "1530"
@@ -2892,7 +2892,7 @@
   ? !!int "1566"
   : !!python/unicode "Ingrid Magyarsdottir",
   ? !!int "1567"
-  : !!python/unicode "Lord Ingvar Erlingsson",
+  : !!python/unicode "Baron Ingvar Erlingsson",
   ? !!int "1568"
   : !!python/unicode "Mistress Ingvild Josefsdatter",
   ? !!int "1569"
@@ -3071,7 +3071,7 @@
   ? !!int "1663"
   : !!python/unicode "Jean Marc Briquet",
   ? !!int "1665"
-  : !!python/unicode "Viscountess Jeanmaire Remes",
+  : !!str "Viscountess Jeanmaire du Domr\xE9my",
   ? !!int "1666"
   : !!python/unicode "Mistress Jeanne Tenneur de Bec",
   ? !!int "1667"
@@ -5845,7 +5845,7 @@
   ? !!int "3205"
   : !!python/unicode "William the Wolf of Black Castle",
   ? !!int "3206"
-  : !!python/unicode "Count Guillaume Tomas le Lou",
+  : !!python/unicode "Prince Guillaume Tomas le Lou",
   ? !!int "3207"
   : !!python/unicode "William Tyberius of Withmire",
   ? !!int "3208"
@@ -6167,7 +6167,7 @@
   ? !!int "3388"
   : !!python/unicode "Lady Nem Inghean Dochartaigh",
   ? !!int "3389"
-  : !!str "Lord Randv\xE9r askma\xF0r",
+  : !!python/unicode "Lord Randver askmadr",
   ? !!int "3390"
   : !!python/unicode "Mor Inghean Ui Dochartaigh",
   ? !!int "3391"
@@ -7299,7 +7299,7 @@
   ? !!int "4310"
   : !!python/unicode "Tegrinus de Rhina",
   ? !!int "4311"
-  : !!str "Lord Bjorn inn h\xE1vi",
+  : !!str "Lord Bjorn inn h\xEF\xBF\xBDvi",
   ? !!int "4312"
   : !!str "Lady D\xFAnlaith ingen B\xE1ethgalaig",
   ? !!int "4313"
@@ -7489,7 +7489,7 @@
   ? !!int "4439"
   : !!python/unicode "Talorc Morbet",
   ? !!int "4440"
-  : !!python/unicode "Lord Mungo Napier, The Archer of Mallard Lodge",
+  : !!python/unicode "Lord Mungo Napier",
   ? !!int "4443"
   : !!python/unicode "Al Altan",
   ? !!int "4444"
@@ -7546,6 +7546,8 @@
   : !!python/unicode "Rebekkah Samuel",
   ? !!int "5874"
   : !!python/unicode "Sir Randall de Gloucester",
+  ? !!int "5908"
+  : !!python/unicode "Jason of Border Vale Keep",
   ? !!int "5921"
   : !!python/unicode "Will of Wiltshire",
   ? !!int "6000"
@@ -7582,6 +7584,8 @@
   : !!python/unicode "Lady Kadlin Fjorleifardottir",
   ? !!int "6231"
   : !!str "Lady Arn\xF3ra in Rau\xF0a",
+  ? !!int "6234"
+  : !!python/unicode "Angeline of the Grove",
   ? !!int "6244"
   : !!python/unicode "Lady Olivia Isabelle",
   ? !!int "6245"
@@ -7723,7 +7727,7 @@
   ? !!int "7060"
   : !!python/unicode "Almon Guiscard",
   ? !!int "7061"
-  : !!python/unicode "Baron Bor Markovitch",
+  : !!python/unicode "Lord Bor Markovitch",
   ? !!int "7065"
   : !!python/unicode "Orla of Nimenfeld",
   ? !!int "7066"
@@ -7937,7 +7941,7 @@
   ? !!int "7277"
   : !!python/unicode "Lord Geoffrey de Cardeville",
   ? !!int "7278"
-  : !!str "Karl Phillip von K\xF6nigsberg",
+  : !!python/unicode "Karl Philipp von Konigsberg",
   ? !!int "7280"
   : !!python/unicode "Mary Poschet",
   ? !!int "7281"
@@ -7958,6 +7962,8 @@
   : !!python/unicode "Rose of Tir-Y-Don",
   ? !!int "7298"
   : !!python/unicode "Hannah of Kingswood",
+  ? !!int "7299"
+  : !!python/unicode "Winifred merch Ifan",
   ? !!int "7300"
   : !!python/unicode "Lady Ysabell inghean Daibhidh",
   ? !!int "7305"
@@ -8189,7 +8195,7 @@
   ? !!int "7616"
   : !!python/unicode "Basilio Branquo",
   ? !!int "7617"
-  : !!python/unicode "Lady Catherine Ambrose- merge empty",
+  : !!python/unicode "Lady Catherine Ambrose",
   ? !!int "7620"
   : !!python/unicode "Lord Walter von Are",
   ? !!int "7622"
@@ -8345,11 +8351,11 @@
   ? !!int "7793"
   : !!python/unicode "Marcus de Rath of Seareach",
   ? !!int "7795"
-  : !!python/unicode "Edward de Meridies",
+  : !!python/unicode "Edward Godale",
   ? !!int "7797"
   : !!str "Theodred \xE6t Rauenesdale",
   ? !!int "7798"
-  : !!python/unicode "Lady Jora of Elvegast",
+  : !!str "Lady J\xF3ra \xED Holti",
   ? !!int "7799"
   : !!python/unicode "Siobhan inghean Eamoinn mhic Dhomhnaill",
   ? !!int "7802"
@@ -8706,6 +8712,8 @@
   : !!str "J\xE1nos Mih\xE1ly",
   ? !!int "8241"
   : !!python/unicode "Alfarinn Valison",
+  ? !!int "8242"
+  : !!python/unicode "Rhiannon of Raven's Cove",
   ? !!int "8243"
   : !!python/unicode "Ivan of House Hedgehog",
   ? !!int "8244"
@@ -8836,6 +8844,8 @@
   : !!python/unicode "Sven Randullsson",
   ? !!int "8476"
   : !!python/unicode "Floki Geirrekkson",
+  ? !!int "8478"
+  : !!python/unicode "Adaira inghean Makyswell",
   ? !!int "8482"
   : !!python/unicode "Allister Greenbrier",
   ? !!int "8483"
@@ -8865,7 +8875,9 @@
   ? !!int "8506"
   : !!python/unicode "William Hirst",
   ? !!int "8521"
-  : !!python/unicode "Eithne ingen Ronain",
+  : !!str "\xC9ithne ingen R\xF3n\xE1in",
+  ? !!int "8525"
+  : !!python/unicode "Caterina di Paulo",
   ? !!int "8538"
   : !!python/unicode "Ciosa di Tommasso",
   ? !!int "8539"
@@ -8946,6 +8958,8 @@
   : !!python/unicode "Esnede O Murrin",
   ? !!int "8662"
   : !!python/unicode "Jon Bjarnarson",
+  ? !!int "8664"
+  : !!python/unicode "Adeline de Bruyeres",
   ? !!int "8667"
   : !!python/unicode "Isabella Lavane Bouchier",
   ? !!int "8668"
@@ -8970,4 +8984,16 @@
   : !!python/unicode "Clare inghen Rhuadri",
   ? !!int "8754"
   : !!python/unicode "Francesca della Torre",
+  ? !!int "8760"
+  : !!python/unicode "Niklas of Spiaggia Levantina",
+  ? !!int "8761"
+  : !!python/unicode "Freydis sjona",
+  ? !!int "8764"
+  : !!python/unicode "Thomas de Hawkworth",
+  ? !!int "8766"
+  : !!python/unicode "Hugo von Guthenbach",
+  ? !!int "8770"
+  : !!python/unicode "Vytautas Vilkas",
+  ? !!int "8771"
+  : !!python/unicode "Ginevra Fiammetta di Silvestri",
 }
