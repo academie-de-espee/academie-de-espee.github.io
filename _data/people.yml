@@ -483,6 +483,10 @@ Alexandria Wright:
 Alexandria of Sacred Stone:
   op_id: 143
   title: Lady
+Alexandria of Stierbach:
+  op_id: 8853
+Alexina Mac Suibhhne:
+  op_id: 8845
 Alexis Nic Gunn:
   op_id: 146
 Alexis Ruthin of Wessex:
@@ -1239,6 +1243,8 @@ Arnbjorg Karlsdottir:
   op_id: 8018
 "Arnfri\xF0r":
   op_id: 381
+Arnoddr I Ongulsey:
+  op_id: 8834
 Arnvaldr Arnason:
   op_id: 8223
 "Arn\xF3ra hrafn \xD3l\xE1fsd\xF3ttir":
@@ -1900,7 +1906,7 @@ Brian de Lorne:
   title: Lord
 Brian de Morray:
   op_id: 3334
-  title: Lord
+  title: Master
 Brian du Bois Breton:
   op_id: 564
   title: Sir
@@ -1925,8 +1931,6 @@ Brianna of Arundel:
   op_id: 4282
 Brianna of Bright Hills:
   op_id: 1138
-Bridget Bystry:
-  op_id: 7939
 Bridget O'Shay:
   op_id: 575
 Brienna Llewellyn Lindsay:
@@ -1952,10 +1956,10 @@ Brighid inghean Ioain:
 "Brighid n\xED Shiride\xE1in":
   op_id: 582
   title: Baroness
+Brighid of Dragonsong:
+  op_id: 7939
 Brigid Cunningham:
   op_id: 7156
-Brigid Gyllfinnan:
-  op_id: 7732
 Brigid O'Hara:
   op_id: 3705
   title: Lady
@@ -1970,6 +1974,8 @@ Brigit Carruthers - DECEASED 10/28/2009:
   title: Lady
 Brigit Dair Eideand:
   op_id: 3757
+Brigit Griphyne:
+  op_id: 7732
 Brigit Kelly MacLean:
   op_id: 586
   title: Lady
@@ -2512,6 +2518,8 @@ Chlothar Bructerus:
   op_id: 8304
 Cholbert de Formage:
   op_id: 3857
+Chris of Stierbach:
+  op_id: 8808
 Christian Broussard:
   op_id: 732
 Christian Darmody:
@@ -2634,6 +2642,8 @@ Claire de Jopile:
   op_id: 764
 Clan Cambion:
   op_id: 3439
+Clara Brauer:
+  op_id: 8846
 Clare Baskervyle:
   op_id: 769
   title: Lady
@@ -2680,7 +2690,7 @@ Coenred aet Rauenesdale:
 Colin Gordon:
   op_id: 781
   title: Sir
-Colin McNab:
+Colin MacNab:
   op_id: 782
   title: Lord
 Colin Philippe de Lyon:
@@ -4266,6 +4276,8 @@ Fionna of Fearndun:
 Fionnuala the Bewildered:
   op_id: 1231
   title: Lady
+Fiore Al-Rumi:
+  op_id: 8838
 Flaithri O'Cearnaigh:
   op_id: 4002
   title: Master
@@ -5233,6 +5245,8 @@ Helena Isabelle de Soleure:
   title: Lady
 Helena Luccesse:
   op_id: 4061
+Helena de Berkeley:
+  op_id: 8854
 Helena de Flores:
   op_id: 1493
 Helmut Kruger:
@@ -5885,6 +5899,8 @@ Jeremie of Marinus:
   op_id: 1681
 Jeremy Zacherl:
   op_id: 7940
+Jeremy of Dragonsong:
+  op_id: 8848
 Jesse of Crannog Mor:
   op_id: 1683
 Jesse of Storvik:
@@ -6822,7 +6838,7 @@ Lisbet of Spinning Winds:
   title: Lady
 Lisette la Roux:
   op_id: 1983
-  title: Lady
+  title: Mistress
 Listra of Hawkwood:
   op_id: 1984
 Liusaidh MacLeoid:
@@ -9627,6 +9643,8 @@ Seretei Ghurban:
   title: Lady
 Sergei Dosev:
   op_id: 3761
+Sergei of Middleford:
+  op_id: 8835
 Sesilia in heppna:
   op_id: 2817
   title: Lady
@@ -10099,6 +10117,8 @@ Takenoshita Naro:
   title: Baron
 Takezo Yoshida:
   op_id: 2933
+Tala al-Zahra:
+  op_id: 8837
 Talan Gof:
   op_id: 7101
 Talan ap Rhys:
@@ -10871,6 +10891,9 @@ Vladimir Vladimirovich Vladimirov:
   title: Master
 Vladmir of Eztergom:
   op_id: 3150
+"Vlfbeorn \xC6lfweardes sunu":
+  op_id: 3101
+  title: Lord
 Volgaar Thorgulson the Bold:
   op_id: 3151
   title: Lord
@@ -11385,9 +11408,6 @@ Zuzanna Mrva:
   title: Lord
 "\xDAlfgeirr Hrafnsson":
   op_id: 7347
-  title: Lord
-"\xDAlfhe\xF0inn \xDEr\xE1insson":
-  op_id: 3101
   title: Lord
 "\xDAna Gous":
   op_id: 4165

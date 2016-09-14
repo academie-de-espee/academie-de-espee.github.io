@@ -1875,7 +1875,7 @@
   name: Colin Gordon
   title: Sir
 782:
-  name: Colin McNab
+  name: Colin MacNab
   title: Lord
 783:
   name: Colleen Mulryan
@@ -4767,7 +4767,7 @@
   title: Lady
 1983:
   name: Lisette la Roux
-  title: Lady
+  title: Mistress
 1984:
   name: Listra of Hawkwood
 1988:
@@ -7407,7 +7407,7 @@
 3100:
   name: Ulf the Feebleminded
 3101:
-  name: "\xDAlfhe\xF0inn \xDEr\xE1insson"
+  name: "Vlfbeorn \xC6lfweardes sunu"
   title: Lord
 3102:
   name: Ulfr inn Berserkr
@@ -7951,7 +7951,7 @@
   title: Lord
 3334:
   name: Brian de Morray
-  title: Lord
+  title: Master
 3335:
   name: "Erich von O\xDFenbrugge"
   title: Lord
@@ -10672,7 +10672,7 @@
 7721:
   name: Kisa Kedi
 7732:
-  name: Brigid Gyllfinnan
+  name: Brigit Griphyne
 7739:
   name: Cailin Ruffo
 7741:
@@ -10867,7 +10867,7 @@
 7936:
   name: Giles de Nablus
 7939:
-  name: Bridget Bystry
+  name: Brighid of Dragonsong
 7940:
   name: Jeremy Zacherl
 7941:
@@ -11411,7 +11411,27 @@
   name: Lotharius Oui Et Segimundus
 8794:
   name: Rosin Caomhaach
+8808:
+  name: Chris of Stierbach
 8820:
   name: Cadwalader ap Ieuan
 8821:
   name: Eadyth Woderose
+8834:
+  name: Arnoddr I Ongulsey
+8835:
+  name: Sergei of Middleford
+8837:
+  name: Tala al-Zahra
+8838:
+  name: Fiore Al-Rumi
+8845:
+  name: Alexina Mac Suibhhne
+8846:
+  name: Clara Brauer
+8848:
+  name: Jeremy of Dragonsong
+8853:
+  name: Alexandria of Stierbach
+8854:
+  name: Helena de Berkeley
