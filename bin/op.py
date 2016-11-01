@@ -1,12 +1,24 @@
 #!/usr/bin/python
 
+from multiprocessing.dummy import Pool
 import requests
 from bs4 import BeautifulSoup
 import json
 import yaml
 
+titles = ['Lady', 'Lord', 'Master', 'Countess', 'Count', 'Baroness', 'Baron', 'Mistress', 'Duke', 'Viscountess', 'Viscount', 'Sir', 'King', 'Queen', 'Prince', 'Princess']
+
+def get_title(op_id):
+    text = requests.get("http://op.atlantia.sca.org/op_ind.php?atlantian_id=%d" % op_id).text
+    soup = BeautifulSoup(text)
+    p = soup.find_all('p')[6]
+    name = p.text.strip().split('\n')[0]
+    for title in titles:
+        if name.startswith(title + ' '):
+            return op_id, title
+    return op_id, None
+
 def do_titles(data):
-    titles = ['Lady', 'Lord', 'Master', 'Countess', 'Count', 'Baroness', 'Baron', 'Mistress', 'Duke', 'Viscountess', 'Viscount', 'Sir']
     for x in data:
         name = data[x]['name']
 
@@ -23,6 +35,24 @@ def do_titles(data):
 
         data[x]['name'] = name
 
+    return data
+
+def missing_titles(data):
+    def alive_count(lst):
+        alive = map(lambda x : 1 if x.isAlive() else 0, lst)
+        return reduce(lambda a,b : a + b, alive)
+
+    missing = []
+    for x in data:
+        if 'title' not in data[x]:
+            missing.append(x)
+
+    pool = Pool(20)
+    results = pool.map(get_title, missing)
+    for op_id, response in results:
+        if response:
+            # print op_id, response
+            data[op_id]['title'] = response
     return data
 
 text = requests.get('http://op.atlantia.sca.org/atlantian_op.php').text
@@ -62,7 +92,6 @@ for link in soup.find_all('a'):
 
 people = do_titles(people)
 
-
 for op_id in people:
 
     name = people[op_id]['name']
@@ -73,6 +102,8 @@ for op_id in people:
     people[op_id]['name'] = name
 
 people = do_titles(people)
+
+people = missing_titles(people)
 
 by_name = {}
 for op_id in people:
