@@ -3,7 +3,7 @@ Marguerite de Lyon:
   date: 10/04/2015
   form: Sword and Buckler
   event: Rapier Schola in Aethelmearc
-  sponsors: Master Alessandro, Master Connor, and Lady Caitilin
+  sponsors: Master Alessandro, Master Connor, and Maestra Caitilin
 Linhart Von Marburg:
   op_id: 7979
   title: Lord
@@ -11,14 +11,14 @@ Linhart Von Marburg:
   date: 11/22/2014
   form:
   event: Holiday Faire
-  sponsors: Master Giacomo, Lord Celric, and Lord Arghylle
+  sponsors: Maestero Giacomo, Lord Celric, and Lord Arghylle
 Angeline Falconis:
   location: Lochmere
   op_id: 7922
   date: 2014
   form:
   event: Gulf Wars
-  sponsors: Duke Ragnar, Master Richard, and Lady Caitilin
+  sponsors: Duke Ragnar, Master Richard, and Maestra Caitilin
 Colin McNab:
   op_id: 782
   title: Lord
@@ -42,7 +42,7 @@ Gawin Kappler:
   date: 5/11/13
   form:
   event: A Day by the Black Sea
-  sponsors: Maestro Dante, Master Wistric, and Lord Raphael
+  sponsors: Maestro Dante, Master Wistric, and Master Raphael
 Jean Maurice le Marinier:
   location: Marinus
   date: 2012
@@ -161,7 +161,7 @@ Aldemere McRafe:
   date: 11/19/2011
   form:
   event: Holiday Faire
-  sponsors: Lord Celric, Lord Dominyk, and Lord Raphael
+  sponsors: Lord Celric, Master Dominyk, and Master Raphael
 Tassin Navetier:
   op_id: 7462
   title: Lord
@@ -169,19 +169,19 @@ Tassin Navetier:
   date: 5/26/13
   form:
   event: Ruby Joust
-  sponsors: Maestro Dante, Master Wistric, and Lord Raphael
+  sponsors: Maestro Dante, Master Wistric, and Master Raphael
 Michael Wymarc:
   location: Black Diamond
   date: 2012
   form: 
   event: Holiday Faire
-  sponsors: Master Wistric, Lord Celric, And Lord Raphael
+  sponsors: Master Wistric, Lord Celric, And Master Raphael
 Marius Belisarius:
   location: Hawkwood
   date: 2012
   form: 
   event: War of the Wings
-  sponsors: Lord Raphael, Lord Greylond, and Sir Christian
+  sponsors: Master Raphael, Lord Greylond, and Sir Christian
 William Gilchrist Ross:
   location:
   date: 2012
@@ -194,13 +194,13 @@ Sinclair Hawkins:
   date:
   form: 
   event: Coronation
-  sponsors: Duke Ragnar, Maestro Giacomo, and Lord Raphael
+  sponsors: Duke Ragnar, Maestro Giacomo, and Master Raphael
 Felipe de Pamplona:
   location:
   date: 2011
   form: 
   event: Ymir
-  sponsors: Sir Christian, Lord Elphin and Lord Raphael
+  sponsors: Sir Christian, Lord Elphin and Master Raphael
 Jusef:
   location: Black Diamond
   date: 2010
@@ -212,10 +212,25 @@ Joscelin d'Outremer:
   date: 4/23/2016
   form:
   event: Night on the Town
-  sponsors: Ladi Ilaria, Master Giacamo, Lord Brian
+  sponsors: Lady Ilaria, Maestero Giacamo, Master Brian
 Bumi:
   location: Stierbach
   date: 4/23/2016
   form:
   event: Night on the Town
   sponsors: Lord Armand, Master Connor, Master Alesandro
+Sanada Akime:
+  location: Stierbach
+  date: 11/19/2016
+  form: Single Rapier
+  event: Holiday Faire
+  sponsors: Lord Terasu, Master Brian, Maestra Caitilin
+  op_id: 8195
+Fernfael Kymro:
+  location: Storvik
+  date: 11/19/2016
+  title: Lord
+  form:
+  event: Holiday Faire
+  sponsors: Maestra Caitilin, Lord Terasu, Lord Celric
+  op_id: 8623
