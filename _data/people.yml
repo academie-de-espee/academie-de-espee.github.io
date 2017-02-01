@@ -44,7 +44,7 @@ Achbar ibn Ali:
 Achmed ibn Yousef:
   op_id: 8
   title: Lord
-Adaira inghean Makyswell:
+Adair of Makyswell:
   op_id: 8478
   title: Lady
 Adalric Karl:
@@ -62,7 +62,7 @@ Addison the Wanderer:
 Adelaide de Beaumont:
   op_id: 13
   title: Mistress
-Adele Lochlane:
+Adele Lachlan:
   op_id: 7026
   title: Lady
 Adelhait Fuchs:
@@ -77,9 +77,8 @@ Adelheid Silberschmidt:
 Adelicia of Cumbria:
   op_id: 15
   title: Countess
-Adeline de Bruyeres:
-  op_id: 8664
-  title: Lady
+Adelina MacLeod:
+  op_id: 7809
 Adeline of Burgundy:
   op_id: 7955
   title: Lady
@@ -113,7 +112,7 @@ Adriana du Chesne:
 Adriana la Bretonne:
   op_id: 21
   title: Mistress
-Adriana nic an Leagha:
+Adriana nic an Leagha - DECEASED 2/6/2012:
   op_id: 22
   title: Lady
 Adriana of Hawkwood:
@@ -245,7 +244,7 @@ Ailene O'Bryan:
 Aileua de Lissi:
   op_id: 3685
   title: Lady
-"Ailis inghean u\xED Bhriain":
+"Ailis inghean u\xEF\xBF\xBD Bhriain":
   op_id: 7537
   title: Lady
 Ailleann O'Meighan:
@@ -406,7 +405,7 @@ Albreda Welde:
 Albree de Greene:
   op_id: 8331
   title: Lady
-Aldemere McRafe:
+Aldemere Mac Rafe:
   op_id: 105
   title: Baron
 Alderet de Marjolet:
@@ -511,6 +510,9 @@ Alexander Mareschal:
 Alexander McBain:
   op_id: 133
   title: Lord
+Alexander de Burdegala:
+  op_id: 8985
+  title: Lord
 Alexander of Ayr:
   op_id: 7847
   title: Lord
@@ -556,9 +558,6 @@ Alexandria Wright:
 Alexandria of Sacred Stone:
   op_id: 143
   title: Lady
-Alexandria of Stierbach:
-  op_id: 8853
-  title: Lady
 Alexina Mac Suibhhne:
   op_id: 8845
 Alexis Nic Gunn:
@@ -569,9 +568,6 @@ Alexis Ruthin of Wessex:
   title: Countess
 Alfarinn Valison:
   op_id: 8241
-Alfdis Thorsdottir:
-  op_id: 8712
-  title: Lady
 "Alfredo el Buf\xF3n":
   op_id: 149
   title: Lord
@@ -590,8 +586,8 @@ Alianor atte Red Swanne:
 Alianora Munro:
   op_id: 154
   title: Mistress
-Alicia Lindsey of Bright Hills:
-  op_id: 8544
+Alicia Lindsay of Bright Hills:
+  op_id: 7690
   title: Lady
 Alicia de Mersey:
   op_id: 155
@@ -785,7 +781,7 @@ Alyson of Islay:
 Alysoun Jeuneterre:
   op_id: 208
   title: Mistress
-"Amalia K\xFCnne":
+Amalia Kunne:
   op_id: 210
   title: Baroness
 Amalie Walter:
@@ -796,7 +792,7 @@ Amalric Blackhart:
 Amanda O'Shay:
   op_id: 3397
   title: Lady
-Amanda of the Hedgehog:
+Amanda of House Hedgehog:
   op_id: 7070
   title: Lady
 Amathulla Luciano:
@@ -815,7 +811,7 @@ Ambra Micheli:
 Ambrosius Caliensis:
   op_id: 219
   title: Lord
-Amelia Ingin Torquil:
+Amelia ingen Torcaill:
   op_id: 6178
 Amelia of Hawkwood:
   op_id: 7870
@@ -976,9 +972,6 @@ Andronikos Psellos:
 "Andr\xE9 d'Aramon":
   op_id: 247
   title: Lord
-Aneka Siltanen:
-  op_id: 7506
-  title: Lady
 Angela of Lochmere:
   op_id: 3272
   title: Lady
@@ -1014,7 +1007,7 @@ Angharad Melys:
 Angharad ferch Rhys ap Rhodri:
   op_id: 267
   title: Lady
-Angharad of Morfa Caer:
+Angharad of Morfa Caer - DECEASED 6/12/2004:
   op_id: 270
   title: Lady
 Angharad verch Rhuawn - DECEASED:
@@ -1204,6 +1197,9 @@ Anneke Volund:
 Annice Argent:
   op_id: 8419
   title: Lady
+Annika Siltanen:
+  op_id: 7506
+  title: Lady
 Annoka the Huntress:
   op_id: 322
   title: Lady
@@ -1227,6 +1223,9 @@ Ansel Rowland Matthews:
   title: Baron
 Ansgar Otkelsson:
   op_id: 3605
+Anthoinette Genheimer:
+  op_id: 8986
+  title: Lady
 Anthony Ishmael Achmid ibn Abdollah:
   op_id: 326
   title: Lord
@@ -1506,9 +1505,6 @@ Ascelyn Mallery:
   title: Lady
 Asgeir Vigsterkr:
   op_id: 8891
-Asherah bint Badra:
-  op_id: 6916
-  title: Lady
 Asim al-Talib:
   op_id: 396
   title: Master
@@ -1535,12 +1531,13 @@ Astil Alysone Sandilands:
   title: Baron
 Astrid Thorvardsdatter:
   op_id: 405
-  title: Baroness
+  title: Mistress
 Astrid del Grenewode:
   op_id: 7605
   title: Lady
 Asul bint Hilala:
-  op_id: 7535
+  op_id: 6916
+  title: Lady
 Athalwolf Ironhand:
   op_id: 406
   title: Lord
@@ -1627,6 +1624,8 @@ Axel of Taavistia:
 Axum O'Neal:
   op_id: 4299
   title: Lord
+Aye der Dunkele Rotvogel:
+  op_id: 7394
 Ayesha de Warwick:
   op_id: 429
   title: Lady
@@ -1648,7 +1647,7 @@ Azelina of Exanceaster:
 Aziza al-Zarqa' bint Yusuf:
   op_id: 4388
   title: Lady
-Azza al-Shiraziyya:
+Azza al-Shirazi:
   op_id: 434
   title: Mistress
 Azzah al-Nadirah:
@@ -1789,7 +1788,7 @@ Beatrice von Staufen:
 Beatrix du Lac Noir:
   op_id: 473
   title: Lady
-Beatrix von Leipzig:
+Beatrix of Anglesey:
   op_id: 3317
   title: Lady
 Beatriz Aluares de la Oya:
@@ -2079,6 +2078,9 @@ Bran ap Phelip:
 Brandi of the Guardians:
   op_id: 539
   title: Lady
+Brandon D'Arindel:
+  op_id: 8988
+  title: Viscount
 Brandon McMorgan:
   op_id: 3288
   title: Lord
@@ -2174,7 +2176,7 @@ Brian de Barri:
 Brian de Lorne:
   op_id: 3760
   title: Lord
-Brian de Morray:
+Brian de Moray:
   op_id: 3334
   title: Master
 Brian du Bois Breton:
@@ -2253,6 +2255,7 @@ Brigit Dair Eideand:
   title: Lady
 Brigit Griphyne:
   op_id: 7732
+  title: Lady
 Brigit Kelly MacLean:
   op_id: 586
   title: Lady
@@ -2268,7 +2271,7 @@ Brigit Macha Ruath O'Braune:
 Brigit of Mercia:
   op_id: 589
   title: Countess
-Brion Praether:
+Brion Prather:
   op_id: 8670
   title: Lord
 Brion of Bellatrix:
@@ -2285,7 +2288,7 @@ Brock Bismark:
 Bronwen Castellanos de la Torre Brillante:
   op_id: 595
   title: Lady
-Bronwen McFinlay:
+Bronwen McFinlay - DECEASED:
   op_id: 596
   title: Lady
 Bronwen O'Riordan - DECEASED 6/13/2016:
@@ -2410,9 +2413,6 @@ Caela:
 Caelain Grantaich:
   op_id: 4260
   title: Lady
-Caelan of Falcon Cree:
-  op_id: 1868
-  title: Lord
 Caemfind ingen Chobthaig:
   op_id: 623
   title: Mistress
@@ -2443,7 +2443,7 @@ Cairistiona de Coueran:
 Cairistiona inghean Mhuireadhaigh:
   op_id: 3917
   title: Lady
-"Caiss\xE9ne Ingen Fh\xE1el\xE1in":
+"Caiss\xE9ne ingen Fh\xE1el\xE1in":
   op_id: 7505
   title: Lady
 Caiterina Nic Chonmeadha:
@@ -2550,6 +2550,8 @@ Caprus ua'Seaghdhe:
 Cara Marie of Carlisle:
   op_id: 655
   title: Countess
+Cara of Raven's Cove:
+  op_id: 8903
 Caradawc Mendwr:
   op_id: 7565
   title: Lord
@@ -3037,7 +3039,7 @@ Clare de Chesnei:
 Clare de Crecy:
   op_id: 771
   title: Mistress
-Clare inghen Rhuadri:
+Clare inghean Rhuadri:
   op_id: 8753
   title: Lady
 Clarice of Caer Gelynniog - DECEASED 1/24/2009:
@@ -3196,7 +3198,7 @@ Cormac of Hawkwood:
 "Cormacc ua R\xEDg\xE1in":
   op_id: 8103
   title: Lord
-Cormack Kynnith:
+Cormack Kynith:
   op_id: 8484
   title: Lord
 Cornelia Caeciliana:
@@ -3267,7 +3269,7 @@ Cussata de Courtenay:
   title: Lady
 "Cu\xE1n MacDaige":
   op_id: 831
-  title: Duke
+  title: Prince
 Cwenhild of Cydllan Downs:
   op_id: 836
   title: Baroness
@@ -3292,6 +3294,9 @@ Cynual Tarathalion:
   op_id: 841
 Cyriac Grymsdale:
   op_id: 843
+  title: Lord
+"C\xE1el\xE1n C\xF3caire":
+  op_id: 1868
   title: Lord
 "C\xE9line Jeanne de Hermain":
   op_id: 3689
@@ -3343,6 +3348,8 @@ Daire of Storvik:
 Dairenn ingen Chiaragain:
   op_id: 855
   title: Lady
+Dallasce Dewayne:
+  op_id: 8703
 Damian Cray:
   op_id: 3702
   title: Lord
@@ -3353,7 +3360,8 @@ Damian le Archer:
   op_id: 861
   title: Lord
 Damiana Morena:
-  op_id: 7613
+  op_id: 857
+  title: Lady
 Damianus Petrolino:
   op_id: 858
   title: Lord
@@ -3632,6 +3640,8 @@ Diana Rhys of Carmarthen:
 Diana of Caer Mear:
   op_id: 940
   title: Lady
+Diana of Windmasters' Hill:
+  op_id: 8507
 Diane of Salesberie Glen:
   op_id: 3370
   title: Lady
@@ -3849,8 +3859,6 @@ Duchess Ysabeau Cameron:
 Dugal MacTaveis:
   op_id: 984
   title: Lord
-Dughal Eoghan Legrand:
-  op_id: 7805
 Duibheasa Maeve of Strikkenwoode:
   op_id: 985
   title: Lady
@@ -4016,8 +4024,9 @@ Edric the Wanderer:
 Edvard Gayer:
   op_id: 1021
   title: Lord
-Edward Bedevere:
+Edward Belvadier:
   op_id: 8122
+  title: Lord
 Edward Bonagarde:
   op_id: 4363
 Edward Godale:
@@ -4641,9 +4650,6 @@ Estaban de Rizzo:
 Ester Pickering:
   op_id: 2303
   title: Mistress
-Estienne Le Mons d'Anjou:
-  op_id: 7339
-  title: Lord
 Estienne de Conde:
   op_id: 3512
   title: Lord
@@ -4674,6 +4680,9 @@ Ethan Adenwaldsson:
 Ethelfleda Kennaidh:
   op_id: 1178
   title: Lady
+Etienne Le Mons:
+  op_id: 7339
+  title: Lord
 Etienne des Nuages:
   op_id: 1179
   title: Lord
@@ -4816,9 +4825,6 @@ Fen of Needwood Forest:
   op_id: 7196
 Fenn the Wild:
   op_id: 1205
-Fennic du Blayz:
-  op_id: 1206
-  title: Lady
 Feodosiia Alekseeva zhena:
   op_id: 7545
   title: Lady
@@ -4850,15 +4856,14 @@ Ffolkes FitzWilliam:
 Ffrytha O Gaeaf Coeden:
   op_id: 1214
   title: Lady
+Fia De Almendara:
+  op_id: 7913
 Filippo Clemente degli Esposti:
   op_id: 4394
   title: Lord
 Findlaech MacAlasdair:
   op_id: 1215
   title: Master
-Finn Kirkpatrick:
-  op_id: 1216
-  title: Sir
 Finn Mac Iain:
   op_id: 1217
   title: Lord
@@ -4868,8 +4873,14 @@ Finn Marland O'Shannon:
 Finn O'Donovan:
   op_id: 1219
   title: Lord
+Finn de Kirkpatrick:
+  op_id: 1216
+  title: Sir
 Finn of Needwood:
   op_id: 7825
+Finnech inghean Labhrainn:
+  op_id: 1206
+  title: Lady
 Finnguala Steuarde:
   op_id: 1221
   title: Lord
@@ -4911,6 +4922,7 @@ Fionnuala the Bewildered:
   title: Lady
 Fiore Al-Rumi:
   op_id: 8838
+  title: Lady
 "Fjorleif in Rau\xF0a":
   op_id: 6230
   title: Lady
@@ -5064,6 +5076,8 @@ Gabriel Pharzuph:
 Gabriel Vladimir Zadorin:
   op_id: 4066
   title: Lord
+Gabriel de Acre:
+  op_id: 8890
 Gabriel of Dun Carraig:
   op_id: 3309
   title: Lord
@@ -5398,11 +5412,11 @@ Giles Green:
 Giles O' Culzean:
   op_id: 1341
   title: Lord
-Giles de Nablus:
-  op_id: 7936
-  title: Lord
 Giles of Griffin Hill:
   op_id: 1342
+  title: Lord
+Giles of Nablus:
+  op_id: 7936
   title: Lord
 Gilian Dillon:
   op_id: 1343
@@ -5693,7 +5707,7 @@ Guillaume de Bracy:
   title: Baron
 Guiseppe di Luciano:
   op_id: 8064
-Gunnar Bjorklandr:
+Gunnar Birkibeinn - DECEASED:
   op_id: 1412
   title: Lord
 Gunnora Grimm:
@@ -6036,6 +6050,9 @@ Helmut Kruger:
 Helmut der Schriebner:
   op_id: 1496
   title: Lord
+Heloise de Bruyeres:
+  op_id: 8664
+  title: Lady
 Helwynn Ivelchild:
   op_id: 1498
   title: Mistress
@@ -6092,6 +6109,9 @@ Hossein Ali Qomi:
   title: Baron
 House of the Two Tigers:
   op_id: 3413
+Hrefna i Lundi:
+  op_id: 8426
+  title: Lady
 Hreodbeorht MacBeath:
   op_id: 1517
   title: Lord
@@ -6154,7 +6174,7 @@ Hyrim de Guillon:
 Ia Anna Kazimova:
   op_id: 1533
   title: Baroness
-Iacopo Attaviano da Vizzi:
+Iacopo Attaviano da Vizzi - DECEASED 1/20/2016:
   op_id: 1534
   title: Baron
 Iain Bain Menzies:
@@ -6278,6 +6298,9 @@ Inga Fostra inn Danska:
 "Ingeborg \xED \xDEr\xE1ndheimi":
   op_id: 1565
   title: Lady
+Ingegerd Kastanrazi:
+  op_id: 8952
+  title: Baroness
 Ingrid Magyarsdottir:
   op_id: 1566
   title: Lady
@@ -6505,6 +6528,8 @@ Jack Wright:
 Jackson of Bright Hills:
   op_id: 3885
   title: Lord
+Jacob Leicester Field:
+  op_id: 8485
 Jacque le Fol:
   op_id: 4323
   title: Lord
@@ -6625,12 +6650,14 @@ Janna of Falcon Cree:
 Janyn Fletcher of Lancastreschire:
   op_id: 4406
   title: Lord
+Jarec Uglik:
+  op_id: 8924
 Jared McDonald:
   op_id: 1647
   title: Lord
 Jared the Bear:
   op_id: 1648
-  title: Lord
+  title: Sir
 Jarelle la Russe:
   op_id: 1649
   title: Lady
@@ -7008,6 +7035,9 @@ Juan Diego d'Espada:
 Juan Ramirez:
   op_id: 1752
   title: Lord
+Juan de Rojo:
+  op_id: 8906
+  title: Lord
 Judith Webbestre:
   op_id: 3359
   title: Lady
@@ -7064,6 +7094,7 @@ Juliana Sutherland:
   title: Lady
 Juliana ad aquam:
   op_id: 7862
+  title: Lady
 Juliana da Mestre:
   op_id: 8170
   title: Mistress
@@ -7464,6 +7495,7 @@ Ken of Hidden Mountain:
   title: Lord
 Kendall Wolfe:
   op_id: 7974
+  title: Lord
 Kendrick Wayfarer:
   op_id: 1875
   title: Lord
@@ -7549,12 +7581,12 @@ Kinoshita Yasuke:
 Kipp Silverlock:
   op_id: 4102
   title: Count
+Kira Lechuza:
+  op_id: 8560
+  title: Lady
 Kira Leonovna Zhemhadushina:
   op_id: 4119
   title: Countess
-Kira del Lechuza:
-  op_id: 8560
-  title: Lady
 Kira ni Dafydd:
   op_id: 1901
   title: Lady
@@ -7744,7 +7776,7 @@ Leif of the Marsh:
 "Leifr J\xF3hansson":
   op_id: 1954
   title: Lord
-Leifr Skraveifr:
+"Leifr skr\xE1veifa":
   op_id: 6108
   title: Lord
 Leinhard Germeyn:
@@ -7814,7 +7846,7 @@ Liliana Michaella of Cinnamon Grove:
 Lilit of Stierbach:
   op_id: 7042
   title: Lady
-Lilith of Marinus:
+Lilith A Kooks:
   op_id: 8656
   title: Lady
 Lilliane de L'Aleyzanne:
@@ -7928,11 +7960,11 @@ Loric of Lochmere:
 Lorraine McLean of Lockbye:
   op_id: 2010
   title: Lady
-Lothar:
-  op_id: 8542
-  title: Lord
 Lothar Lokinvaldrsson:
   op_id: 2011
+  title: Lord
+Lothar of Atlantia:
+  op_id: 8542
   title: Lord
 Lothar of Chesleigh:
   op_id: 2012
@@ -8115,7 +8147,7 @@ Madeleine d'Angers:
 "Maderun Landim\xF4r":
   op_id: 2047
   title: Baroness
-Madog hir:
+Madog Hir:
   op_id: 8420
   title: Lord
 Maegwynn O'Cearbhallain:
@@ -8190,6 +8222,8 @@ Magdelena Zaba:
 Magnus Baldwin:
   op_id: 2068
   title: Lord
+Magnus Chernyahimus:
+  op_id: 8407
 Magnus MacTagart:
   op_id: 3270
   title: Lord
@@ -8258,6 +8292,8 @@ Malcolm MacMalcolm:
 Malcolm MacRobert:
   op_id: 2088
   title: Sir
+Malcome mac Enri:
+  op_id: 8917
 Malfada d'Arbon:
   op_id: 2089
   title: Lady
@@ -8317,17 +8353,17 @@ Marcus Eukaryotic:
 Marcus O' Rothlain:
   op_id: 2106
   title: Lord
+Marcus Octavius:
+  op_id: 2108
+  title: Lord
 Marcus Vitellius Ursus:
   op_id: 3313
   title: Master
-Marcus de Rath of Seareach:
+Marcus de Rath:
   op_id: 7793
   title: Lord
 Marcus of Carolingia:
   op_id: 2107
-  title: Lord
-Marcus of Falconcree:
-  op_id: 2108
   title: Lord
 Marcus the Short:
   op_id: 2110
@@ -8497,14 +8533,14 @@ Marion Lang Boogschutter - DECEASED 2/4/2004:
 Marion Leoncina da Susa:
   op_id: 4265
   title: Viscountess
+Marion Nick Galen:
+  op_id: 2147
+  title: Lady
 Marion de Heriz:
   op_id: 8382
   title: Lady
 Marion le Red:
   op_id: 2146
-  title: Lady
-Marion nic Galen:
-  op_id: 2147
   title: Lady
 Mariss Ghijs:
   op_id: 2209
@@ -8517,6 +8553,8 @@ Marissa of Greydragon:
 Marius Belisarius:
   op_id: 4154
   title: Lord
+Marjorie inghean Riocaird:
+  op_id: 8949
 Mark Dene:
   op_id: 4346
   title: Lord
@@ -8729,6 +8767,8 @@ Megara di Alessandra:
 Meghan Elphinstone:
   op_id: 3279
   title: Lady
+Meghan MacIan of Loch Awe:
+  op_id: 8989
 Meghan MacLachlan:
   op_id: 2207
   title: Lady
@@ -9063,9 +9103,6 @@ Moira of Guthrie:
 Moire atte Blacksterre:
   op_id: 4167
   title: Lady
-Mor Inghean Ui Dochartaigh:
-  op_id: 3390
-  title: Lady
 Morag MacFael:
   op_id: 2305
   title: Lady
@@ -9137,7 +9174,7 @@ Morien Gwynne Bran:
   title: Lord
 Morien MacBain:
   op_id: 6292
-  title: Lord
+  title: Master
 Morimoto Koryu:
   op_id: 4125
   title: Master
@@ -9226,7 +9263,7 @@ Muriel MacArtur:
 Muriel of Aberdeen:
   op_id: 2349
   title: Baroness
-Murienne la Aloiere:
+Murienne la aloiere:
   op_id: 3680
   title: Mistress
 Murine Donn:
@@ -9262,6 +9299,9 @@ Myrra Fionnbhair of Argyll:
   title: Lord
 "M\xF3r Fhionn":
   op_id: 2304
+  title: Lady
+"M\xF3r ingen u\xED Dochartaich":
+  op_id: 3390
   title: Lady
 Nada E Z'da Meroslava:
   op_id: 4006
@@ -9701,6 +9741,8 @@ Patrick Ravensclaw:
 Patrick of Kells:
   op_id: 4398
   title: Lord
+Patris de Terra Lepori:
+  op_id: 8915
 Patruska Vozon d'Angoumois:
   op_id: 2474
   title: Lady
@@ -9721,6 +9763,8 @@ Penelope Blood:
   title: Lady
 Penelope Cambden:
   op_id: 2479
+Penelope of Foxedene:
+  op_id: 8183
 Penelope of the Drakkens:
   op_id: 2480
   title: Lady
@@ -9884,6 +9928,9 @@ Quinten O'Braun:
 Quinto Formaggio:
   op_id: 3874
   title: Lord
+Qulan Chaghan:
+  op_id: 8752
+  title: Lady
 Rabah az-Zafir:
   op_id: 2529
   title: Master
@@ -9901,6 +9948,8 @@ Rachel the Younger:
 Rae O'Rothain:
   op_id: 2535
   title: Lady
+Raedun Sigurdsdottir:
+  op_id: 8907
 Rafe MacHewen:
   op_id: 2536
 Rafn Myra:
@@ -10255,7 +10304,7 @@ Richard Wyn:
 Richard d'Andrade:
   op_id: 2617
   title: Baron
-Richard de Montbrai:
+Richard de Montbrai - DECEASED:
   op_id: 2618
   title: Sir
 Richard de Montsegur:
@@ -10437,7 +10486,7 @@ Robin Christophe Griffaud:
   title: Lord
 Robin Crosspatch:
   op_id: 2681
-Robin MacMorran:
+Robin MacMorran - DECEASED:
   op_id: 2682
   title: Baron
 Robin of Cannock:
@@ -10506,8 +10555,8 @@ Roibeard Mac Oscair:
   title: Lord
 Rois Gilbert:
   op_id: 7383
-Rois MacAden:
-  op_id: 8048
+Roland Gervais:
+  op_id: 7541
 Roland Manderly:
   op_id: 7160
   title: Lord
@@ -10546,9 +10595,6 @@ Rorik of Mountains Keep:
 Rory Blackhand:
   op_id: 2708
   title: Lord
-Rosaleen Robertson:
-  op_id: 7562
-  title: Lady
 Rosalie of Blackheath:
   op_id: 2709
   title: Lady
@@ -10584,6 +10630,9 @@ Rosatrude the Shrew:
   title: Mistress
 Rose Aeron of Aire Faucon:
   op_id: 2719
+  title: Lady
+Rose Eileen Robertson:
+  op_id: 7562
   title: Lady
 Rose Galen:
   op_id: 2720
@@ -10714,6 +10763,11 @@ Rumann mac Duib Sidhe:
 Runa Haroldsdottir:
   op_id: 4427
   title: Lady
+Runa of Serpent and Anvil:
+  op_id: 8904
+Runfridr Hofmansdottir:
+  op_id: 8079
+  title: Lady
 Rupert the Persistent - DECEASED 7/17/2004:
   op_id: 2752
   title: Lord
@@ -10744,6 +10798,8 @@ Ryryd ap Gwerstan:
 "R\xEDoghnach Sl\xE1ine n\xED Chonaill":
   op_id: 2643
   title: Lady
+"R\xF3is MacAden":
+  op_id: 8048
 "R\xF3is O'Callaghan":
   op_id: 3699
   title: Lady
@@ -10755,9 +10811,6 @@ Ryryd ap Gwerstan:
   title: Baron
 "R\xF3n\xE1n \xD3 Gobhann":
   op_id: 4372
-"R\xFAnfr\xED\xF0r Hofmansd\xF3ttir":
-  op_id: 8079
-  title: Lady
 "R\xFCdiger Lindun":
   op_id: 3506
   title: Lord
@@ -10826,6 +10879,9 @@ Samuel Calvert of Gidiehall:
 Sanada Akime:
   op_id: 8195
   title: Lady
+Sanada Aya:
+  op_id: 8853
+  title: Lady
 Sanada Katsumi:
   op_id: 7085
   title: Lady
@@ -10842,6 +10898,9 @@ Sanne Hitzen von Kleve:
   title: Lady
 Santiago Ruiz de Zaragoza:
   op_id: 3498
+  title: Lord
+Santiago Xavier:
+  op_id: 8501
   title: Lord
 Santiago de Arcos - DECEASED 8/31/2012:
   op_id: 2770
@@ -10864,7 +10923,7 @@ Sarah Elizabeth of Bellwood:
 Sarah Lynnette of Carlisle:
   op_id: 2773
   title: Baroness
-Sarah Sinclair Napier:
+Sarah Sinclair:
   op_id: 6229
   title: Lady
 Sarra Fina MacDonald:
@@ -10901,6 +10960,8 @@ Scholastica Joycors:
   op_id: 7697
 Schyler Middlebrook:
   op_id: 2782
+Sciath ingen meicCon:
+  op_id: 1985
 Scintillia of Darkwater:
   op_id: 8355
   title: Lady
@@ -10909,9 +10970,6 @@ Scribonia Sabina Mus:
   title: Lady
 Seaan Sabhaois:
   op_id: 2784
-Seamus Blair de Maxwell:
-  op_id: 8328
-  title: Lord
 Seamus Connachtach:
   op_id: 2785
   title: Lord
@@ -11053,6 +11111,7 @@ Sergei Dosev:
   title: Lord
 Sergei of Middleford:
   op_id: 8835
+  title: Lord
 Sesilia in heppna:
   op_id: 2817
   title: Lady
@@ -11150,7 +11209,7 @@ Signy Feilan Bjarnardottir:
   title: Lady
 Signy Heri:
   op_id: 7744
-  title: Lady
+  title: Princess
 "Sigrid Br\xEDansdotter":
   op_id: 2841
   title: Mistress
@@ -11542,6 +11601,9 @@ Symone de la Rochelle:
 "S\xE1ndor Vitez":
   op_id: 2768
   title: Lord
+"S\xE9amus Blaer de Maxwell":
+  op_id: 8328
+  title: Lord
 "S\xE9amus mac C\xE9in hU\xED Dhublaich":
   op_id: 7226
 "S\xE9amus \xD3 Cuile\xE1in":
@@ -11736,6 +11798,9 @@ Tasys Gerasimov:
 Tatiana Ivanovna:
   op_id: 2969
   title: Baroness
+Tatiana Woodcutters Wife:
+  op_id: 8905
+  title: Lady
 Teamhair Wyddeles:
   op_id: 2970
   title: Lady
@@ -11783,8 +11848,9 @@ Tereza Quinones de Toledo:
 Terwn of Gwynedd:
   op_id: 2983
   title: Lady
-Tess de Verona:
+Tessa da Verona:
   op_id: 8189
+  title: Lady
 Tessa de Spina:
   op_id: 3821
   title: Lady
@@ -11976,6 +12042,8 @@ Thorhall Halftroll:
   title: Lord
 Thorin von der Schwarzrose:
   op_id: 3031
+Thorkel Odinson:
+  op_id: 8711
 Thorolf the Black:
   op_id: 7906
   title: Lord
@@ -12099,7 +12167,7 @@ Tomas Tryggvarsson:
 Tomas de Luna:
   op_id: 8442
   title: Lord
-Tomas de Montraig:
+Tomas de Montroig:
   op_id: 3008
   title: Master
 Tommaso di Amalfi:
@@ -12147,6 +12215,7 @@ Torquil MacTaggart the Steadfast:
   title: Master
 Torse Hartman:
   op_id: 7587
+  title: Lord
 Torvald Bjornson:
   op_id: 8021
   title: Lord
@@ -12430,7 +12499,7 @@ Vilana:
 "Vincent D\x92orleans":
   op_id: 6839
   title: Lord
-Vincenzo D'Este:
+Vincenzo d'Este:
   op_id: 7259
   title: Lord
 Vincetta de Jarvain:
@@ -12463,6 +12532,8 @@ Vittorio Morosini:
   title: Lady
 Vivian of Glannaventia:
   op_id: 3142
+Vivianne La Fleur:
+  op_id: 8902
 Vlad Illiescu:
   op_id: 7935
 Vlademir:
@@ -12592,9 +12663,6 @@ Wilfred von Templehof:
 Wilhelm Borsbane:
   op_id: 3169
   title: Lord
-Wilhelm Leopard der Schwarze:
-  op_id: 3333
-  title: Lord
 Wilhelm Pfeffer:
   op_id: 4313
   title: Lord
@@ -12603,9 +12671,10 @@ Wilhelm Schlagenteufel:
   title: Lord
 Wilhelm der Munech:
   op_id: 8052
+Wilhelm der Schwarze Leopard:
+  op_id: 3333
+  title: Lord
 Wilhelm of Mountain's Keep:
-  op_id: 7953
-Wilhelm of Mountains Keep:
   op_id: 7706
   title: Lord
 Wilhelm of Stierbach:
@@ -12858,9 +12927,6 @@ Wystan Roland Sacheverell:
 Xavier Leon Corazon:
   op_id: 8558
   title: Lord
-Xavier Santiago:
-  op_id: 8501
-  title: Lord
 Xenophon Vaughn:
   op_id: 3236
   title: Sir
@@ -12995,18 +13061,23 @@ Zuzanna Mrva:
   title: Lord
 "\xC1engus \xD3 Fearghail":
   op_id: 44
-  title: Lady
+  title: Lord
 "\xC1geirr J\xF3n of Cathanar":
   op_id: 58
   title: Lord
 "\xC1ine inghean u\xED Fhathaigh":
   op_id: 4288
+"\xC1lfd\xEDs \xDE\xF3rsd\xF3ttir":
+  op_id: 8712
+  title: Lady
 "\xC1lfr\xFAn ketta":
   op_id: 4168
   title: Lady
 "\xC1lvaro Rodrigo de Le\xF3n":
   op_id: 191
   title: Baron
+"\xC1l\xE6ifr \xC1gautsson":
+  op_id: 7805
 "\xC1str\xED\xF0r Hoga":
   op_id: 7606
   title: Lady

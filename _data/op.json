@@ -59,7 +59,7 @@
   name: Adriana la Bretonne
   title: Mistress
 22:
-  name: Adriana nic an Leagha
+  name: Adriana nic an Leagha - DECEASED 2/6/2012
   title: Lady
 23:
   name: Adriana of Hawkwood
@@ -126,7 +126,7 @@
   title: Lord
 44:
   name: "\xC1engus \xD3 Fearghail"
-  title: Lady
+  title: Lord
 45:
   name: "A\xE9nor d'Anjou"
   title: Mistress
@@ -291,7 +291,7 @@
   name: Albrecht Ulfsson
   title: Lord
 105:
-  name: Aldemere McRafe
+  name: Aldemere Mac Rafe
   title: Baron
 106:
   name: Alderet de Marjolet
@@ -574,7 +574,7 @@
   name: Virag Qara Bay
   title: Mistress
 210:
-  name: "Amalia K\xFCnne"
+  name: Amalia Kunne
   title: Baroness
 211:
   name: Amalric Blackhart
@@ -732,7 +732,7 @@
   name: Angharad Melys
   title: Lady
 270:
-  name: Angharad of Morfa Caer
+  name: Angharad of Morfa Caer - DECEASED 6/12/2004
   title: Lady
 271:
   name: Angharad verch Rhuawn - DECEASED
@@ -1094,7 +1094,7 @@
   title: Baron
 405:
   name: Astrid Thorvardsdatter
-  title: Baroness
+  title: Mistress
 406:
   name: Athalwolf Ironhand
   title: Lord
@@ -1170,7 +1170,7 @@
   name: Azelina of Exanceaster
   title: Baroness
 434:
-  name: Azza al-Shiraziyya
+  name: Azza al-Shirazi
   title: Mistress
 435:
   name: Badouin MacKenzie of Balfour
@@ -1598,7 +1598,7 @@
   name: Bronwen Castellanos de la Torre Brillante
   title: Lady
 596:
-  name: Bronwen McFinlay
+  name: Bronwen McFinlay - DECEASED
   title: Lady
 597:
   name: Bronwen O'Riordan - DECEASED 6/13/2016
@@ -2227,7 +2227,7 @@
   title: Lady
 831:
   name: "Cu\xE1n MacDaige"
-  title: Duke
+  title: Prince
 832:
   name: Cuchlain of Emeroke
   title: Lord
@@ -3249,7 +3249,7 @@
 1205:
   name: Fenn the Wild
 1206:
-  name: Fennic du Blayz
+  name: Finnech inghean Labhrainn
   title: Lady
 1207:
   name: Fergus of Hanna
@@ -3275,7 +3275,7 @@
   name: Findlaech MacAlasdair
   title: Master
 1216:
-  name: Finn Kirkpatrick
+  name: Finn de Kirkpatrick
   title: Sir
 1217:
   name: Finn Mac Iain
@@ -3836,7 +3836,7 @@
   name: Guillaume de Bracy
   title: Baron
 1412:
-  name: Gunnar Bjorklandr
+  name: Gunnar Birkibeinn - DECEASED
   title: Lord
 1413:
   name: "G\xFCnter Weiss"
@@ -4152,7 +4152,7 @@
   name: Ia Anna Kazimova
   title: Baroness
 1534:
-  name: Iacopo Attaviano da Vizzi
+  name: Iacopo Attaviano da Vizzi - DECEASED 1/20/2016
   title: Baron
 1535:
   name: Iain Bain Menzies
@@ -4466,7 +4466,7 @@
   title: Lord
 1648:
   name: Jared the Bear
-  title: Lord
+  title: Sir
 1649:
   name: Jarelle la Russe
   title: Lady
@@ -5039,7 +5039,7 @@
   name: Keira Featherstone
   title: Lady
 1868:
-  name: Caelan of Falcon Cree
+  name: "C\xE1el\xE1n C\xF3caire"
   title: Lord
 1869:
   name: Kellia Waugh
@@ -5337,6 +5337,8 @@
 1984:
   name: Listra of Hawkwood
   title: Lady
+1985:
+  name: Sciath ingen meicCon
 1988:
   name: Liusaidh MacLeoid
 1989:
@@ -5660,7 +5662,7 @@
   name: Marcus of Carolingia
   title: Lord
 2108:
-  name: Marcus of Falconcree
+  name: Marcus Octavius
   title: Lord
 2110:
   name: Marcus the Short
@@ -5764,7 +5766,7 @@
   name: Marion le Red
   title: Lady
 2147:
-  name: Marion nic Galen
+  name: Marion Nick Galen
   title: Lady
 2150:
   name: Marissa of Greydragon
@@ -6981,7 +6983,7 @@
   name: Richard d'Andrade
   title: Baron
 2618:
-  name: Richard de Montbrai
+  name: Richard de Montbrai - DECEASED
   title: Sir
 2619:
   name: Richard ffaukes
@@ -7146,7 +7148,7 @@
 2681:
   name: Robin Crosspatch
 2682:
-  name: Robin MacMorran
+  name: Robin MacMorran - DECEASED
   title: Baron
 2683:
   name: Robin of Cannock
@@ -8019,7 +8021,7 @@
   name: Thomas le Voyageur
   title: Lord
 3008:
-  name: Tomas de Montraig
+  name: Tomas de Montroig
   title: Master
 3009:
   name: Thomas Lyon of Braemar
@@ -8842,7 +8844,7 @@
   name: Patricia of Trakai
   title: Lady
 3317:
-  name: Beatrix von Leipzig
+  name: Beatrix of Anglesey
   title: Lady
 3318:
   name: Kanamori no Tatsume
@@ -8884,10 +8886,10 @@
   name: Theodoric of Cyddlain Downs
   title: Lord
 3333:
-  name: Wilhelm Leopard der Schwarze
+  name: Wilhelm der Schwarze Leopard
   title: Lord
 3334:
-  name: Brian de Morray
+  name: Brian de Moray
   title: Master
 3335:
   name: "Erich von O\xDFenbrugge"
@@ -9040,7 +9042,7 @@
   name: Randver askmadr
   title: Lord
 3390:
-  name: Mor Inghean Ui Dochartaigh
+  name: "M\xF3r ingen u\xED Dochartaich"
   title: Lady
 3391:
   name: Genevieve D'Aubigne
@@ -9425,7 +9427,7 @@
   name: "Tom\xE1s Herrero de Toledo"
   title: Lord
 3680:
-  name: Murienne la Aloiere
+  name: Murienne la aloiere
   title: Mistress
 3681:
   name: Nuala ingen Magnusa
@@ -11048,13 +11050,13 @@
   name: Petronella Lockeheart
   title: Lady
 6108:
-  name: Leifr Skraveifr
+  name: "Leifr skr\xE1veifa"
   title: Lord
 6149:
   name: Seanne Alansyn
   title: Lord
 6178:
-  name: Amelia Ingin Torquil
+  name: Amelia ingen Torcaill
 6179:
   name: Kateryne Ferneley
   title: Mistress
@@ -11088,7 +11090,7 @@
   name: Edric the Wanderer
   title: Lord
 6229:
-  name: Sarah Sinclair Napier
+  name: Sarah Sinclair
   title: Lady
 6230:
   name: "Fjorleif in Rau\xF0a"
@@ -11128,7 +11130,7 @@
   name: Mirabella Walmesley of Grimsby
 6292:
   name: Morien MacBain
-  title: Lord
+  title: Master
 6310:
   name: Maven Whitlocke
   title: Lady
@@ -11188,7 +11190,7 @@
   name: Simon Grimstone
   title: Lord
 6916:
-  name: Asherah bint Badra
+  name: Asul bint Hilala
   title: Lady
 6917:
   name: Suzanne de Cloptunne
@@ -11229,7 +11231,7 @@
   name: Anna of Strousborg
   title: Lady
 7026:
-  name: Adele Lochlane
+  name: Adele Lachlan
   title: Lady
 7027:
   name: Eilionora inghean an Bhaird
@@ -11308,7 +11310,7 @@
   name: Tigernan Mear mac Riatai
   title: Lord
 7070:
-  name: Amanda of the Hedgehog
+  name: Amanda of House Hedgehog
   title: Lady
 7071:
   name: Genrys Hir
@@ -11557,7 +11559,7 @@
 7254:
   name: Caillech ingen Alaxander
 7259:
-  name: Vincenzo D'Este
+  name: Vincenzo d'Este
   title: Lord
 7264:
   name: Eilon bat Miriam
@@ -11667,7 +11669,7 @@
   name: Brendon O'Brien
   title: Lord
 7339:
-  name: Estienne Le Mons d'Anjou
+  name: Etienne Le Mons
   title: Lord
 7340:
   name: Jarvis Riley
@@ -11742,6 +11744,8 @@
 7387:
   name: Tadio de Venezia
   title: Lord
+7394:
+  name: Aye der Dunkele Rotvogel
 7414:
   name: Asa in svarta
 7433:
@@ -11788,10 +11792,10 @@
   name: Devin of Storvik
   title: Lady
 7505:
-  name: "Caiss\xE9ne Ingen Fh\xE1el\xE1in"
+  name: "Caiss\xE9ne ingen Fh\xE1el\xE1in"
   title: Lady
 7506:
-  name: Aneka Siltanen
+  name: Annika Siltanen
   title: Lady
 7507:
   name: Hannus Siltanen
@@ -11831,12 +11835,10 @@
 7534:
   name: Challys of Greenlion Bay
   title: Lady
-7535:
-  name: Asul bint Hilala
 7536:
   name: "Ormr Hj\xE1lm\xF3lfsson"
 7537:
-  name: "Ailis inghean u\xED Bhriain"
+  name: "Ailis inghean u\xEF\xBF\xBD Bhriain"
   title: Lady
 7538:
   name: Dagfinnr jarnauga
@@ -11844,6 +11846,8 @@
 7540:
   name: "Klaus J\xE4ger"
   title: Lord
+7541:
+  name: Roland Gervais
 7542:
   name: Roland Wodeman
   title: Lord
@@ -11878,7 +11882,7 @@
   name: Richard Goodeman
   title: Lord
 7562:
-  name: Rosaleen Robertson
+  name: Rose Eileen Robertson
   title: Lady
 7565:
   name: Caradawc Mendwr
@@ -11902,6 +11906,7 @@
   name: Oddr Onesocke
 7587:
   name: Torse Hartman
+  title: Lord
 7588:
   name: Cailin of Hawkwood
   title: Lord
@@ -11933,8 +11938,6 @@
   title: Lady
 7612:
   name: Claudia Justina
-7613:
-  name: Damiana Morena
 7614:
   name: Deryk Legard
 7616:
@@ -12020,6 +12023,9 @@
 7689:
   name: Elena Spycer
   title: Lady
+7690:
+  name: Alicia Lindsay of Bright Hills
+  title: Lady
 7691:
   name: Francisco de Espinosa
 7692:
@@ -12046,7 +12052,7 @@
   name: Duncan of Mountains Keep
   title: Lord
 7706:
-  name: Wilhelm of Mountains Keep
+  name: Wilhelm of Mountain's Keep
   title: Lord
 7708:
   name: Maxamilian Brudder
@@ -12071,6 +12077,7 @@
   title: Lady
 7732:
   name: Brigit Griphyne
+  title: Lady
 7739:
   name: Cailin Ruffo
 7741:
@@ -12081,7 +12088,7 @@
   title: Lord
 7744:
   name: Signy Heri
-  title: Lady
+  title: Princess
 7746:
   name: Emily of Highland Foorde
   title: Lady
@@ -12149,7 +12156,7 @@
   name: Kira of Steirbach
   title: Lady
 7793:
-  name: Marcus de Rath of Seareach
+  name: Marcus de Rath
   title: Lord
 7795:
   name: Edward Godale
@@ -12169,7 +12176,9 @@
   name: Onora Druinreich
   title: Lady
 7805:
-  name: Dughal Eoghan Legrand
+  name: "\xC1l\xE6ifr \xC1gautsson"
+7809:
+  name: Adelina MacLeod
 7811:
   name: Rob of Isenfir
 7814:
@@ -12224,6 +12233,7 @@
   name: Ignaz Walbach des Vosges
 7862:
   name: Juliana ad aquam
+  title: Lady
 7864:
   name: Lucina Romano
 7867:
@@ -12275,6 +12285,8 @@
 7909:
   name: Sofia Dolce di Meo Rinaldi
   title: Lady
+7913:
+  name: Fia De Almendara
 7919:
   name: Lucia Thaylur
 7921:
@@ -12301,7 +12313,7 @@
 7935:
   name: Vlad Illiescu
 7936:
-  name: Giles de Nablus
+  name: Giles of Nablus
   title: Lord
 7939:
   name: Brighid of Dragonsong
@@ -12320,8 +12332,6 @@
   name: Stephan of Churchton
 7951:
   name: Raven Groyne
-7953:
-  name: Wilhelm of Mountain's Keep
 7955:
   name: Adeline of Burgundy
   title: Lady
@@ -12356,6 +12366,7 @@
   title: Master
 7974:
   name: Kendall Wolfe
+  title: Lord
 7979:
   name: Linhart Von Marburg
   title: Lord
@@ -12439,7 +12450,7 @@
   name: Salih of Aksary
   title: Master
 8048:
-  name: Rois MacAden
+  name: "R\xF3is MacAden"
 8052:
   name: Wilhelm der Munech
 8053:
@@ -12459,7 +12470,7 @@
   name: David of Raven's Cove
   title: Lord
 8079:
-  name: "R\xFAnfr\xED\xF0r Hofmansd\xF3ttir"
+  name: Runfridr Hofmansdottir
   title: Lady
 8080:
   name: Nihani Al-nur
@@ -12517,7 +12528,8 @@
   name: Moira mac Kinkaid
   title: Lady
 8122:
-  name: Edward Bedevere
+  name: Edward Belvadier
+  title: Lord
 8128:
   name: Alys d'Avignon
   title: Lady
@@ -12572,6 +12584,8 @@
 8182:
   name: Veronica Pasamonte
   title: Lady
+8183:
+  name: Penelope of Foxedene
 8184:
   name: "\xC6sa \xDEorarinsdottir"
   title: Lady
@@ -12584,7 +12598,8 @@
   name: Eyja Feilan
   title: Lady
 8189:
-  name: Tess de Verona
+  name: Tessa da Verona
+  title: Lady
 8191:
   name: Julia of Caer Mear
   title: Lady
@@ -12706,7 +12721,7 @@
 8314:
   name: Caitriona Beachadoir
 8328:
-  name: Seamus Blair de Maxwell
+  name: "S\xE9amus Blaer de Maxwell"
   title: Lord
 8329:
   name: Maire O Halowrane
@@ -12775,6 +12790,8 @@
 8384:
   name: Daniel Blanqui ap Morgan
   title: Lord
+8407:
+  name: Magnus Chernyahimus
 8418:
   name: Sarah Bryghton
   title: Lady
@@ -12782,7 +12799,7 @@
   name: Annice Argent
   title: Lady
 8420:
-  name: Madog hir
+  name: Madog Hir
   title: Lord
 8421:
   name: Aerinndis In Eyverska
@@ -12795,6 +12812,9 @@
 8424:
   name: Aislinn Gildara Breemore
   title: Mistress
+8426:
+  name: Hrefna i Lundi
+  title: Lady
 8430:
   name: Maria Robertsdaughter
   title: Lady
@@ -12828,7 +12848,7 @@
   name: Floki Geirrekkson
   title: Lord
 8478:
-  name: Adaira inghean Makyswell
+  name: Adair of Makyswell
   title: Lady
 8482:
   name: Allister Greenbrier
@@ -12837,8 +12857,10 @@
   name: James of Carinthia
   title: Lord
 8484:
-  name: Cormack Kynnith
+  name: Cormack Kynith
   title: Lord
+8485:
+  name: Jacob Leicester Field
 8490:
   name: Alonzo Falcone
   title: Lord
@@ -12854,7 +12876,7 @@
   name: Alistair Ravenwood
   title: Lord
 8501:
-  name: Xavier Santiago
+  name: Santiago Xavier
   title: Lord
 8502:
   name: Cezilia of Macao
@@ -12869,6 +12891,8 @@
 8506:
   name: William Hirst
   title: Lord
+8507:
+  name: Diana of Windmasters' Hill
 8521:
   name: "\xC9ithne ingen R\xF3n\xE1in"
   title: Lady
@@ -12884,13 +12908,10 @@
   name: Eric
   title: Lord
 8542:
-  name: Lothar
+  name: Lothar of Atlantia
   title: Lord
 8543:
   name: Nyvein Dyfnawal
-  title: Lady
-8544:
-  name: Alicia Lindsey of Bright Hills
   title: Lady
 8545:
   name: Freug the Herbalist
@@ -12915,7 +12936,7 @@
   name: Catarina Leon Corazon
   title: Lady
 8560:
-  name: Kira del Lechuza
+  name: Kira Lechuza
   title: Lady
 8562:
   name: Michal Almond de Champagne
@@ -12983,7 +13004,7 @@
   name: Richard de Montsegur
   title: Lord
 8656:
-  name: Lilith of Marinus
+  name: Lilith A Kooks
   title: Lady
 8657:
   name: Esnede O Murrin
@@ -12992,7 +13013,7 @@
   name: Jon Bjarnarson
   title: Lord
 8664:
-  name: Adeline de Bruyeres
+  name: Heloise de Bruyeres
   title: Lady
 8667:
   name: Isabella Lavane Bouchier
@@ -13004,7 +13025,7 @@
   name: Amathullah Luciano
   title: Lady
 8670:
-  name: Brion Praether
+  name: Brion Prather
   title: Lord
 8673:
   name: Aine O'fearghail
@@ -13012,8 +13033,12 @@
 8675:
   name: Charimmos of Lakadaimonias
   title: Baron
+8703:
+  name: Dallasce Dewayne
+8711:
+  name: Thorkel Odinson
 8712:
-  name: Alfdis Thorsdottir
+  name: "\xC1lfd\xEDs \xDE\xF3rsd\xF3ttir"
   title: Lady
 8741:
   name: Rebecca of Middlegate
@@ -13027,8 +13052,11 @@
 8750:
   name: Ingrid Of Wolfhou
   title: Lady
+8752:
+  name: Qulan Chaghan
+  title: Lady
 8753:
-  name: Clare inghen Rhuadri
+  name: Clare inghean Rhuadri
   title: Lady
 8754:
   name: Francesca della Torre
@@ -13080,10 +13108,12 @@
   title: Lord
 8835:
   name: Sergei of Middleford
+  title: Lord
 8837:
   name: Tala al-Zahra
 8838:
   name: Fiore Al-Rumi
+  title: Lady
 8845:
   name: Alexina Mac Suibhhne
 8846:
@@ -13092,13 +13122,15 @@
 8848:
   name: Jeremy of Dragonsong
 8853:
-  name: Alexandria of Stierbach
+  name: Sanada Aya
   title: Lady
 8854:
   name: Helena de Berkeley
 8889:
   name: Tiberius Aufidius Crispus
   title: Lord
+8890:
+  name: Gabriel de Acre
 8891:
   name: Asgeir Vigsterkr
 8892:
@@ -13107,3 +13139,39 @@
   name: Wolfgang von Trier
 8894:
   name: Eberhardt of Mountains Keep
+8902:
+  name: Vivianne La Fleur
+8903:
+  name: Cara of Raven's Cove
+8904:
+  name: Runa of Serpent and Anvil
+8905:
+  name: Tatiana Woodcutters Wife
+  title: Lady
+8906:
+  name: Juan de Rojo
+  title: Lord
+8907:
+  name: Raedun Sigurdsdottir
+8915:
+  name: Patris de Terra Lepori
+8917:
+  name: Malcome mac Enri
+8924:
+  name: Jarec Uglik
+8949:
+  name: Marjorie inghean Riocaird
+8952:
+  name: Ingegerd Kastanrazi
+  title: Baroness
+8985:
+  name: Alexander de Burdegala
+  title: Lord
+8986:
+  name: Anthoinette Genheimer
+  title: Lady
+8988:
+  name: Brandon D'Arindel
+  title: Viscount
+8989:
+  name: Meghan MacIan of Loch Awe
