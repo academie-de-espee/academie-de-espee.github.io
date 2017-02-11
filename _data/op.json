@@ -292,7 +292,7 @@
   title: Lord
 105:
   name: Aldemere Mac Rafe
-  title: Baron
+  title: Master
 106:
   name: Alderet de Marjolet
   title: Lord
@@ -7122,7 +7122,7 @@
   name: Robert Runewald
   title: Lord
 2673:
-  name: Robert of the Misty Marsh by the Sea
+  name: Robert the banished
   title: Lord
 2674:
   name: Robert Blade
@@ -11792,7 +11792,7 @@
   name: Devin of Storvik
   title: Lady
 7505:
-  name: "Caiss\xE9ne ingen Fh\xE1el\xE1in"
+  name: Caissene ingen Fhaelain
   title: Lady
 7506:
   name: Annika Siltanen
@@ -11854,7 +11854,7 @@
 7543:
   name: Timothy Barfoot
 7544:
-  name: Einarr inn danski
+  name: Einarr inn Danski
   title: Lord
 7545:
   name: Feodosiia Alekseeva zhena
@@ -12763,6 +12763,9 @@
 8365:
   name: "Caoilfhionn inghean Sh\xE9arlais"
   title: Lady
+8367:
+  name: Colette Vitalis
+  title: Lady
 8372:
   name: Geneviefve d'Estelle
   title: Lady
@@ -12837,7 +12840,7 @@
   name: Kimura Aya
   title: Lady
 8450:
-  name: Douglas Wallace Morton
+  name: Morten
 8467:
   name: Kein MacEwan
   title: Duke
@@ -13033,6 +13036,9 @@
 8675:
   name: Charimmos of Lakadaimonias
   title: Baron
+8676:
+  name: Murin Dunn
+  title: Lady
 8703:
   name: Dallasce Dewayne
 8711:
@@ -13096,9 +13102,6 @@
   title: Lord
 8821:
   name: Eadyth Woderose
-  title: Lady
-8826:
-  name: Murine Donn
   title: Lady
 8833:
   name: Eachann de Barde

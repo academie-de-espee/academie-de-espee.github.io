@@ -407,7 +407,7 @@ Albree de Greene:
   title: Lady
 Aldemere Mac Rafe:
   op_id: 105
-  title: Baron
+  title: Master
 Alderet de Marjolet:
   op_id: 106
   title: Lord
@@ -2443,7 +2443,7 @@ Cairistiona de Coueran:
 Cairistiona inghean Mhuireadhaigh:
   op_id: 3917
   title: Lady
-"Caiss\xE9ne ingen Fh\xE1el\xE1in":
+Caissene ingen Fhaelain:
   op_id: 7505
   title: Lady
 Caiterina Nic Chonmeadha:
@@ -3070,6 +3070,9 @@ Coblaith of Del Riata:
 Coenred aet Rauenesdale:
   op_id: 8335
   title: Lord
+Colette Vitalis:
+  op_id: 8367
+  title: Lady
 Colin Gordon:
   op_id: 781
   title: Sir
@@ -3780,8 +3783,6 @@ Douglas Longshanks:
 Douglas Pigboy:
   op_id: 4033
   title: Lord
-Douglas Wallace Morton:
-  op_id: 8450
 Douglas le Escriueyn:
   op_id: 976
   title: Baron
@@ -4115,7 +4116,7 @@ Eilwen Cyflym:
   title: Lady
 Einar Haakonsson:
   op_id: 1037
-Einarr inn danski:
+Einarr inn Danski:
   op_id: 7544
   title: Lord
 Eirikr Fence Splitter:
@@ -9184,6 +9185,8 @@ Morina Felix:
 Morningstar of Bright Hills:
   op_id: 2327
   title: Lady
+Morten:
+  op_id: 8450
 Morvran Corbet de la Flamme:
   op_id: 2328
   title: Sir
@@ -9266,8 +9269,8 @@ Muriel of Aberdeen:
 Murienne la aloiere:
   op_id: 3680
   title: Mistress
-Murine Donn:
-  op_id: 8826
+Murin Dunn:
+  op_id: 8676
   title: Lady
 Mustafa al Jabal Tariqi:
   op_id: 2350
@@ -10460,9 +10463,6 @@ Robert of Marinus:
 Robert of Sacred Stone:
   op_id: 2669
   title: Lord
-Robert of the Misty Marsh by the Sea:
-  op_id: 2673
-  title: Lord
 Robert the Fool:
   op_id: 2675
   title: Lord
@@ -10471,6 +10471,9 @@ Robert the Forgotten of Foxmoor:
   title: Lord
 Robert the One-Eyed:
   op_id: 2677
+  title: Lord
+Robert the banished:
+  op_id: 2673
   title: Lord
 Roberto Ramirez:
   op_id: 3271
