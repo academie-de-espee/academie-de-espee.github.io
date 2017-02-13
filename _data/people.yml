@@ -6362,6 +6362,9 @@ Isabel d'Avignon:
 Isabel of Biconyll:
   op_id: 1580
   title: Baroness
+Isabela de Lovaine Bourchier:
+  op_id: 8667
+  title: Lady
 Isabele Sutherland:
   op_id: 1583
   title: Lady
@@ -6388,9 +6391,6 @@ Isabella Daughter Of Arabella:
   title: Lady
 Isabella Dolce Panettiere Bianchi della Luna:
   op_id: 7458
-  title: Lady
-Isabella Lavane Bouchier:
-  op_id: 8667
   title: Lady
 Isabella Mea Caterina d'Angelo:
   op_id: 4021

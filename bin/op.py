@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 from multiprocessing.dummy import Pool
 import requests
@@ -6,17 +6,24 @@ from bs4 import BeautifulSoup
 import json
 import yaml
 
-titles = ['Lady', 'Lord', 'Master', 'Countess', 'Count', 'Baroness', 'Baron', 'Mistress', 'Duke', 'Viscountess', 'Viscount', 'Sir', 'King', 'Queen', 'Prince', 'Princess']
+titles = [
+    'Lady', 'Lord', 'Master', 'Countess', 'Count', 'Baroness', 'Baron',
+    'Mistress', 'Duke', 'Viscountess', 'Viscount', 'Sir', 'King', 'Queen',
+    'Prince', 'Princess'
+]
+
 
 def get_title(op_id):
-    text = requests.get("http://op.atlantia.sca.org/op_ind.php?atlantian_id=%d" % op_id).text
-    soup = BeautifulSoup(text)
+    text = requests.get(
+        "http://op.atlantia.sca.org/op_ind.php?atlantian_id=%d" % op_id).text
+    soup = BeautifulSoup(text, "html.parser")
     p = soup.find_all('p')[6]
     name = p.text.strip().split('\n')[0]
     for title in titles:
         if name.startswith(title + ' '):
             return op_id, title
     return op_id, None
+
 
 def do_titles(data):
     for x in data:
@@ -37,10 +44,11 @@ def do_titles(data):
 
     return data
 
+
 def missing_titles(data):
     def alive_count(lst):
-        alive = map(lambda x : 1 if x.isAlive() else 0, lst)
-        return reduce(lambda a,b : a + b, alive)
+        alive = map(lambda x: 1 if x.isAlive() else 0, lst)
+        return reduce(lambda a, b: a + b, alive)
 
     missing = []
     for x in data:
@@ -55,10 +63,11 @@ def missing_titles(data):
             data[op_id]['title'] = response
     return data
 
+
 text = requests.get('http://op.atlantia.sca.org/atlantian_op.php').text
 #with open('/tmp/atlantian_op.php', 'r') as fh:
 #    text = fh.read()
-soup = BeautifulSoup(text)
+soup = BeautifulSoup(text, "html.parser")
 
 people = {}
 
@@ -67,7 +76,7 @@ for link in table.find_all('a'):
     href = link.get('href')
     if href.startswith('/op_award.php'):
         continue
-    op_id = int(href[href.rindex('=')+1:])
+    op_id = int(href[href.rindex('=') + 1:])
     name = link.text.strip()
     people[op_id] = {'name': name}
 
@@ -76,14 +85,14 @@ people = do_titles(people)
 text = requests.get('http://op.atlantia.sca.org/roa.php?printable=1').text
 #with open('/tmp/roa.php?printable=1', 'r') as fh:
 #    text = fh.read()
-soup = BeautifulSoup(text)
+soup = BeautifulSoup(text, "html.parser")
 
 for link in soup.find_all('a'):
     href = link.get('href')
     if href is None:
         continue
 
-    op_id = int(href[href.rindex('=')+1:])
+    op_id = int(href[href.rindex('=') + 1:])
     name = link.text.strip()
     if op_id not in people:
         people[op_id] = {'name': name}
@@ -97,7 +106,7 @@ for op_id in people:
     name = people[op_id]['name']
 
     if '[' in name and ']' in name:
-        name = name[name.index('[')+1:name.index(']')]
+        name = name[name.index('[') + 1:name.index(']')]
 
     people[op_id]['name'] = name
 
