@@ -2,34 +2,34 @@
 title: Atlantia's Ceremony for the Order of Defense
 ---
 
-# NOTES
+# Notes
 * “OD” is used to designate a member of the Order of Defense.
 * “Speaker” is used where other ceremonies might say “Worthy”. It was agreed that these don’t necessarily need to be Peers but rather people of importance to the candidate.
 * “Rose” is the Lady of the Rose speaking for and assisting the candidate.
 * “Candidate” is the person about to be recognized with the Order of Defense.
 * The spoken text is for suggested guidelines only and may be altered as each speaker desires.
 
-# VIGIL
+# Vigil
 * Crown leads candidate to vigil area.
 * Ceremonial purification with changing into white shirt/garb and washing hands.
 * Speaker says words during purification about the candidate as well as the importance of the purification.
 * Hospitality and vigil begin. People running vigil will work with candidate on preferences of visitor order, etc. Ditto for guards, tokens, type of hospitality, having a book to write in, etc.
 
-# DAY OF ELEVATION
-1. ELEVATION
+# Day of Elevation
+1. Elevation
     1. On battlefield is preferred but in court as necessary.
     1. Order called in and stands to the side.
     1. Candidate called in.
     1. Candidate walks in (with significant other if they choose) w/sword arch and banners.
     1. Selected Lady of the Rose follows carrying candidate’s personal weapon.
     1. Any additional speakers not already present follow the Rose.
-1. CROWN’S SPEECH
+1. Crown's Speech
     1. Queen speaks on importance of the OD and its place in Atlantia:
 
         Queen: The Order of Defense is historic in many ways, being the first new peerage in over four decades in our Society.  This peerage recognizes the highest level of prowess in rapier combat and true masters in the Art of Defense. As a member of this Order of Defense, you will be expected to raise your weapon only in defense of Atlantia and its subjects. You will be looked to as a teacher, a mentor and above all, an example of the best in rapier for Atlantia.  This is a heavy burden full of weighty expectations. Is it still your wish to be inducted into the Order of Defense?
 
     1. Candidate responds to the Queen.
-1. PRESENTATION OF REGALIA AND OTHER SPEAKERS
+1. Presentation of Regalia and other speakers
     1. Collar is presented by an OD.
 
         OD: A true Master has no need to be flashy or arrogant but instead identifies themselves simply so that they may be known to those in need of teaching and guidance. A band of simple white, this collar is not a banner to be seen across the field but rather a plain label indicating your mastery of steel weapons so that others may seek you out.
@@ -49,7 +49,7 @@ title: Atlantia's Ceremony for the Order of Defense
 
         Rose: With this weapon, you have defended your kingdom, its Crown and subjects over many years and with great skill. You have shown your ability to use it wisely and with courtesy, sparing those deserving gentles that you have vanquished. Your actions as you have held this weapon have proven time and again your mastery not only of the weapon itself but of when and how best to use it.
 
-# FEALTY
+# Fealty
 1. Sword of state is handed to Queen who stands it up. King puts his hands upon hers. Candidate puts one hand on TRM’s hands while other holds their collar and/or medallion.
 1. Candidate gives their fealty.
 1. Queen requests personal weapon from Rose.

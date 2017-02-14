@@ -30,6 +30,8 @@ In order to prepare for war, the Atlantian Rapier Army uses a common set of tact
 * [Melee Commands](melee-commands) - Master Caitilin Inghean Fheichin
 
 ### Other articles
+* [The first charges to the Master of Defense](mod-charges) - Their majesties Logan and Esa
+* [Atlantia's Master of Defense Ceremony](mod-ceremony) - A template for the ceremony for elivation to the Order of Defense
 * [The Art of Eloquence](art-of-eloquence) - Lord Kirk Dragomani, Provost
 * [How To Sharpen Other Knives And Not Lose Your Own Edge](how-to-teach) - Lord Kirk Dragomani, Provost
 
