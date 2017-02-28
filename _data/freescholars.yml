@@ -71,12 +71,6 @@ Constanza de Talavera:
   sponsors: Percival Aldridge, ?, ?
 Kenji Yoshimoto:
   location: Lochmere
-Etain of Sutherland:
-  location: Nottinghill Coill
-  date:
-  form:
-  event:
-  sponsors:
 Alyce / Alexander Blood:
   location: Bright Hills
 Angharad Melys:
@@ -137,7 +131,7 @@ Lucien de la Rochelle:
   sponsors: Lord Kirk, Lord Elphin, and Lord Melchior
 Margaret Cameron:
 Marion le Red:
-  location: Elvegast?
+  location: Elvegast
   date:
   form:
   event:
@@ -234,3 +228,9 @@ Fernfael Kymro:
   event: Holiday Faire
   sponsors: Maestra Caitilin, Lord Terasu, Lord Celric
   op_id: 8623
+Feodosiia Alekseeva zhena:
+  location: Sacred Stone
+  date: 2/25/2017
+  form:
+  event: Tourney of Ymir
+  sponsors: Master Raphael, Sir Christian, Baron Ghaltai 
