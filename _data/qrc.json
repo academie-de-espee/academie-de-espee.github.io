@@ -1,6 +1,6 @@
 {
-    'Rapier': {
-        'Queen': [
+    "Rapier": {
+        "Queen": [
         {"reign": 22, "opid": [1330]},
         {"reign": 24, "opid": [1330]},
         {"reign": 26, "opid": [1328]},
@@ -31,19 +31,21 @@
         {"reign": 70, "opid": [737]},
         {"reign": 71, "opid": [1330]},
         {"reign": 72, "opid": [953]},
+        {"reign": 72, "opid": [953]}
+        {"reign": 73, "opid": [8213]}
         ],
-        'King': [
+        "King": [
         {"reign": 52, "opid": [2763]},
         {"reign": 58, "opid": [26]},
         {"reign": 64, "opid": [4002]},
         {"reign": 65, "opid": [880]},
         {"reign": 66, "opid": [3250]},
-        {"reign": 68, "opid": [1330]},
-        ],
+        {"reign": 68, "opid": [1330]}
+        ]
     },
     "Cut & Thrust": {
         "King": [
-            {"reign": 71, "opid": [3334]},
+            {"reign": 71, "opid": [3334]}
         ]
     }
 }
