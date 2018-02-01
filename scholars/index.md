@@ -8,6 +8,7 @@ title: Roster of Scholars
     <th> Name </th>
     <th> Location </th>
     <th> Favorite Form </th>
+    <th> Miscellaneous </th>
 </tr>
 </thead>
 <tbody>
@@ -32,6 +33,7 @@ title: Roster of Scholars
     </td>
     <td> {{ item.location }} </td>
     <td> {{ item.form }} </td>
+    <td> {{ item.misc }} </td>
 </tr>
 {% endfor %}
 </tbody>
