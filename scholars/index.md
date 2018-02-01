@@ -30,7 +30,6 @@ title: Roster of Scholars
 
     {% if item.op_id != null %} </a> {% elsif person.op_id != null %} </a> {% endif %}
     </td>
-    <td> {{ item.name }}</td>
     <td> {{ item.location }} </td>
     <td> {{ item.form }} </td>
 </tr>
