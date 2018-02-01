@@ -4,6 +4,7 @@ Marguerite de Lyon:
   form: Sword and Buckler
   event: Rapier Schola in Aethelmearc
   sponsors: Master Alessandro, Master Connor, and Maestra Caitilin
+  op_id: 8312
 Linhart Von Marburg:
   op_id: 7979
   title: Lord
@@ -225,3 +226,19 @@ Feodosiia Alekseeva zhena:
   form:
   event: Tourney of Ymir
   sponsors: Master Raphael, Sir Christian, Baron Ghaltai 
+Anthonye Saker:
+  location: East Kingdom
+  date: 
+  title: 
+  form:
+  event: King's Assesment
+  sponsors: Master Marcellus, Sir Christian, Master Jean Claude
+  op_id:
+Humfrey Matthew Lovett:
+  location: East Kingdom
+  date: 1/28/17
+  title: 
+  form:
+  event: Ice Castles
+  sponsors: Master Raphael, Sir Christian, Lord Iskender
+  op_id: 1530
