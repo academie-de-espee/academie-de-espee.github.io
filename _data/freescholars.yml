@@ -4,6 +4,7 @@ Marguerite de Lyon:
   form: Sword and Buckler
   event: Rapier Schola in Aethelmearc
   sponsors: Master Alessandro, Master Connor, and Maestra Caitilin
+  misc: House Condotierri, cadet to Master Alessandro & Maestra Caitilin
   op_id: 8312
 Linhart Von Marburg:
   op_id: 7979
@@ -13,6 +14,7 @@ Linhart Von Marburg:
   form:
   event: Holiday Faire
   sponsors: Maestero Giacomo, Lord Celric, and Lord Arghylle
+  misc: cadet to Maestero Giacomo
 Angeline Falconis:
   location: Lochmere
   op_id: 7922
@@ -20,6 +22,7 @@ Angeline Falconis:
   form:
   event: Gulf Wars
   sponsors: Duke Ragnar, Master Richard, and Maestra Caitilin
+  misc: cadet to Master Tristan & Master Modius of Ansteorra
 Colin McNab:
   op_id: 782
   title: Lord
@@ -28,32 +31,38 @@ Colin McNab:
   form: 
   event: Battle on the Bay
   sponsors: Master Alan, Master Connor, and Lord Celric
+  misc: 
 Gilig von Baden:
   location: Shire of Roxbury Mill
+  misc: 
 Aedh Ua Ruaic:
   location: Kappellenberg
   date: 5/25/13
   form:
   event: Ruby Joust
   sponsors: Maestro Dante, Master Wistric, and Master Connor
+  misc: 
 Jean Maurice le Marinier:
   location: Marinus
   date: 2012
   form: 
   event: Coronation
   sponsors: Master Jean Claude, Master Llwyd, and Lord Celric
+  misc: 
 Ella de Lille:
   location: Meridies
   date: 2010
   form:
   event: Defending the Gate
   sponsors: Maestro Dante, Master Flaithri, and Lord Melchior
+  misc: 
 Symone de la Rochelle:
   location:
   date: 2010
   form:
   event: Chalice of the Sun God
   sponsors: Master Alan, Maestro Giacomo, and Lord Melchior
+  misc: 
 Turvon Kuznetsov:
 Alyna of the Ilex:
   location: Tir-y-don
@@ -61,6 +70,7 @@ Alyna of the Ilex:
   form:
   event: Tir-y-don Baronial Birthday
   sponsors: Lord Iskender, Lord Percival, Master Llwyd
+  misc: 
   op_id: 200
 Constanza de Talavera:
   location: 
@@ -68,23 +78,29 @@ Constanza de Talavera:
   form:
   event:
   sponsors: Lord Percival, ?, ?
+  misc: 
 Kenji Yoshimoto:
   location: Lochmere
+  misc: 
 Alyce / Alexander Blood:
   location: Bright Hills
+  misc: 
 Angharad Melys:
+  misc: 
 Anna / Adrian Collins:
   location: Isenfir
   date:
   form:
   event:
   sponsors:
+  misc: 
 Bastian de la Salle:
   location: Nottinghill Coill
   date:
   form:
   event:
   sponsors:
+  misc: 
 Beatrice LaGrave:
 Bledri Ap Llew:
 Briana of Skye:
@@ -100,24 +116,28 @@ Galen of Black Diamond:
   form:
   event:
   sponsors:
+  misc: 
 Gaston du Valmont:
   location: Elvegast
   date:
   form:
   event:
   sponsors:
+  misc: 
 Gavin Briare:
   location: 
   date:
   form:
   event:
   sponsors: Katherine Maunsel, ?, ?
+  misc: 
 Giovan Donato:
   location: Buckston-on-Eno
   date:
   form:
   event:
   sponsors:
+  misc: 
 Iacopo Attaviano da Vizzi:
 Jack Wright:
 Jehan-Franc de Blauvac:
@@ -128,6 +148,7 @@ Lucien de la Rochelle:
   form:
   event: War of the Wings
   sponsors: Lord Kirk, Lord Elphin, and Lord Melchior
+  misc: 
 Margaret Cameron:
 Marion le Red:
   location: Elvegast
@@ -135,9 +156,11 @@ Marion le Red:
   form:
   event:
   sponsors:
+  misc: 
 Matilda Grille (Tilly):
 Orlando de Olivares Y Salazar:
 Penelope Blood:
+  misc: 
   op_id: 2478
 Thorbrandr Olafsson:
 Thorgrimr inn Kyrri:
@@ -147,6 +170,7 @@ William Cameron:
   form:
   event:
   sponsors:
+  misc: 
 Ylsa Broussard:
 Aldemere McRafe:
   location: Black Diamond
@@ -154,6 +178,7 @@ Aldemere McRafe:
   form:
   event: Holiday Faire
   sponsors: Lord Celric, Master Dominyk, and Master Raphael
+  misc: 
 Tassin Navetier:
   op_id: 7462
   title: Lord
@@ -162,24 +187,28 @@ Tassin Navetier:
   form:
   event: Ruby Joust
   sponsors: Maestro Dante, Master Wistric, and Master Raphael
+  misc: 
 Michael Wymarc:
   location: Black Diamond
   date: 2012
   form: 
   event: Holiday Faire
   sponsors: Master Wistric, Lord Celric, And Master Raphael
+  misc: 
 Marius Belisarius:
   location: Hawkwood
   date: 2012
   form: 
   event: War of the Wings
   sponsors: Master Raphael, Lord Greylond, and Sir Christian
+  misc: 
 William Gilchrist Ross:
   location:
   date: 2012
   form:
   event: Night Under the Town
   sponsors: Mistriss Ceridwen, Master Connor, and Lord Geoffrey
+  misc: 
 Sinclair Hawkins:
   op_id: 2555
   location:
@@ -187,36 +216,42 @@ Sinclair Hawkins:
   form: 
   event: Coronation
   sponsors: Duke Ragnar, Maestro Giacomo, and Master Raphael
+  misc: 
 Felipe de Pamplona:
   location:
   date: 2011
   form: 
   event: Ymir
   sponsors: Sir Christian, Lord Elphin and Master Raphael
+  misc: 
 Jusef:
   location: Black Diamond
   date: 2010
   form: 
   event: Chalice of the Sun God
   sponsors: Mistriss Ceridwen, Master Marcellus, and Lord Geoffrey
+  misc: 
 Joscelin d'Outremer:
   location: Ponte Alto
   date: 4/23/2016
   form:
   event: Night on the Town
   sponsors: Lady Ilaria, Maestero Giacamo, Master Brian
+  misc: 
 Bumi:
   location: Stierbach
   date: 4/23/2016
   form:
   event: Night on the Town
-  sponsors: Lord Armand, Master Connor, Master Alesandro
+  sponsors: Lord Armand, Master Connor, Master Alessandro
+  misc: House Condottieri, Dragoon Guards
 Sanada Akime:
   location: Stierbach
   date: 11/19/2016
   form: Single Rapier
   event: Holiday Faire
   sponsors: Lord Terasu, Master Brian, Maestra Caitilin
+  misc: House Sanada
   op_id: 8195
 Fernfael Kymro:
   location: Storvik
@@ -225,6 +260,7 @@ Fernfael Kymro:
   form:
   event: Holiday Faire
   sponsors: Maestra Caitilin, Lord Terasu, Lord Celric
+  misc: Dragoon Guards
   op_id: 8623
 Feodosiia Alekseeva zhena:
   location: Sacred Stone
@@ -232,12 +268,14 @@ Feodosiia Alekseeva zhena:
   form:
   event: Tourney of Ymir
   sponsors: Master Raphael, Sir Christian, Baron Ghaltai 
+  misc: 
 Klaus Jager:
   location: Hawkwood
   date: 6/17/17
   form:
   event: Return to Crecy IV
   sponsors: Master Raphael, Lord Greylond, Lord Maximilian
+  misc: 
   op_id: 7540
 Anthonye Saker:
   location: East Kingdom
@@ -246,6 +284,7 @@ Anthonye Saker:
   form:
   event: King's Assesment
   sponsors: Master Marcellus, Sir Christian, Master Jean Claude
+  misc: 
   op_id:
 Humfrey Matthew Lovett:
   location: East Kingdom
@@ -254,4 +293,5 @@ Humfrey Matthew Lovett:
   form:
   event: Ice Castles
   sponsors: Master Raphael, Sir Christian, Lord Iskender
+  misc: student to Master Raphael
   op_id: 1530
