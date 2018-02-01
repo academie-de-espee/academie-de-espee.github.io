@@ -1,7 +1,7 @@
 Colette Vitalis:
   location: Storvik
   form: Sword and Dagger
-  misc: Ensign to Master Dominyk Wolferam
+  misc: Ensign to Master Dominyk
 Ayla Von Dahauua:
   location: Storvik
   form: Sword and Dagger
@@ -17,4 +17,20 @@ Alyce de Glaize:
 Rosamund of Newenham:
   location: Storvik
   form: Sword
+  misc:
+Adelaide of Roxbury Mill:
+  location: Roxbury Mill
+  form:
+  misc:
+Ishmael Balienier:
+  location: Roxbury Mill
+  form:
+  misc:
+Tibbie:
+  location: Storvik
+  form:
+  misc:
+Zahira:
+  location: Ponte Alto
+  form:
   misc:
