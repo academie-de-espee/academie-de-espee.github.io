@@ -10,6 +10,7 @@ title: Roster of Free Scholars
     <th> Date </th>
     <th> Event </th>
     <th> Sponsors </th>
+    <th> Miscellaneous </th>
 </tr>
 </thead>
 <tbody>
@@ -38,6 +39,7 @@ title: Roster of Free Scholars
     <td> {{ item.date }} </td>
     <td> {{ item.event }} </td>
     <td> {{ item.sponsors }} </td>
+    <td> {{ item.misc }} </td>
 </tr>
 {% endfor %}
 </tbody>
