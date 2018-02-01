@@ -12,7 +12,7 @@ Allister Greenbrier:
   misc: House Condottieri
 Alyce de Glaize:
   location: Lochmere
-  form: Sword
+  form:
   misc:
 Rosamund of Newenham:
   location: Storvik
@@ -65,4 +65,8 @@ Caillan Ruffio:
 Alexios Chrysoloras:
   location: Charlesbury Crossing
   form: Bolognese sidesword/Cut and Thrust
+  misc:
+Erasmus Severinus:
+  location: Highland Foorde
+  form: Single Sword
   misc:
