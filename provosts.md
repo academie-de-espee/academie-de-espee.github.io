@@ -1,5 +1,5 @@
 ---
-title: Roster
+title: Roster of Provosts
 ---
 
 <table class="pure-table pure-table-bordered">
