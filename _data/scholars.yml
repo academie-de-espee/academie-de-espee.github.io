@@ -2,15 +2,19 @@ Colette Vitalis:
   location: Storvik
   form: Sword and Dagger
   misc: Ensign to Master Dominyk Wolferam
-Ayla Von Dahauua
+Ayla Von Dahauua:
   location: Storvik
   form: Sword and Dagger
   misc:
-Allister Greenbrier
+Allister Greenbrier:
   location: Stierbach
   form: Sword and Stick
   misc: House Condottieri
-Alyce de Glaize
+Alyce de Glaize:
   location: Lochmere
+  form: Sword
+  misc:
+Rosamund of Newenham:
+  location: Storvik
   form: Sword
   misc:
