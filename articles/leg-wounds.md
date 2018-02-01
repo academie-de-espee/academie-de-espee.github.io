@@ -389,10 +389,10 @@ The End
 * Duellist #1's Girlfriend: Wisely Anonymous
 * Duellist #2's Girlfriend: Too Smart to Be There
 * Obnoxious Red-Bearded Man: Himself
-* Director: Ernesto Maldanaldo
+* Director: Ernesto Maldonado
 * Producer: North Dallas Dueling Society
 * Special Effects: Wounds-Are-Us, Inc.
-* Costuming: Joe Rummel, Neil Santos, Francis Lucas, Don Sims & Ernesto Maldanaldo
+* Costuming: Joe Rummel, Neil Santos, Francis Lucas, Don Sims & Ernesto Maldonado
 
 This paper was shot on location in North Dallas, Richardson and at the A.M./P.M. Clinic.
 

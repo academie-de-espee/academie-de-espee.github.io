@@ -4,6 +4,7 @@ Marguerite de Lyon:
   form: Sword and Buckler
   event: Rapier Schola in Aethelmearc
   sponsors: Master Alessandro, Master Connor, and Maestra Caitilin
+  op_id: 8312
 Linhart Von Marburg:
   op_id: 7979
   title: Lord
@@ -35,14 +36,6 @@ Aedh Ua Ruaic:
   form:
   event: Ruby Joust
   sponsors: Maestro Dante, Master Wistric, and Master Connor
-Gawin Kappler:
-  op_id: 7366
-  title: Lord
-  location: Calontir
-  date: 5/11/13
-  form:
-  event: A Day by the Black Sea
-  sponsors: Maestro Dante, Master Wistric, and Master Raphael
 Jean Maurice le Marinier:
   location: Marinus
   date: 2012
@@ -146,7 +139,6 @@ Matilda Grille (Tilly):
 Orlando de Olivares Y Salazar:
 Penelope Blood:
   op_id: 2478
-Séamus Ó Maoil Riain:
 Thorbrandr Olafsson:
 Thorgrimr inn Kyrri:
 William Cameron:
@@ -247,3 +239,19 @@ Klaus Jager:
   event: Return to Crecy IV
   sponsors: Master Raphael, Lord Greylond, Lord Maximilian
   op_id: 7540
+Anthonye Saker:
+  location: East Kingdom
+  date: 
+  title: 
+  form:
+  event: King's Assesment
+  sponsors: Master Marcellus, Sir Christian, Master Jean Claude
+  op_id:
+Humfrey Matthew Lovett:
+  location: East Kingdom
+  date: 1/28/17
+  title: 
+  form:
+  event: Ice Castles
+  sponsors: Master Raphael, Sir Christian, Lord Iskender
+  op_id: 1530
