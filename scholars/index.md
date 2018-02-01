@@ -1,9 +1,5 @@
 ---
 title: Roster of Scholars
-roster:
-   - name: What your name listed?
-     location: Where are you from?
-     form: What is your favorite form?
 ---
 
 <table class="pure-table pure-table-bordered">
@@ -15,8 +11,25 @@ roster:
 </tr>
 </thead>
 <tbody>
-{% for item in page.roster %}
+{% assign sorted = site.data.scholars | sort %}
+{% for entry in sorted %}
+{% assign name = entry[0] %}
+{% assign item = entry[1] %}
+   
+{% assign person = site.data.people[name] %}
 <tr>
+   <td>
+
+    {% if item.op_id != null %}
+        <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}">
+    {% elsif person.op_id != null %}
+        <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}">
+    {% endif %}
+
+    {{ name }}
+
+    {% if item.op_id != null %} </a> {% elsif person.op_id != null %} </a> {% endif %}
+    </td>
     <td> {{ item.name }}</td>
     <td> {{ item.location }} </td>
     <td> {{ item.form }} </td>
