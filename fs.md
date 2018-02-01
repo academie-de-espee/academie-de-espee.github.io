@@ -1,5 +1,5 @@
 ---
-title: Roster
+title: Roster of Free Scholars
 ---
 
 <table class="pure-table pure-table-bordered">
