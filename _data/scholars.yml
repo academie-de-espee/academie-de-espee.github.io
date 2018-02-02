@@ -12,7 +12,7 @@ Allister Greenbrier:
   misc: House Condottieri
 Alyce de Glaize:
   location: Lochmere
-  form: Sword
+  form: Sword and Dagger
   misc:
 Rosamund of Newenham:
   location: Storvik
@@ -41,4 +41,36 @@ Dyggvi Hrolfsson:
 Steffan Von Musbach:
   location: Caer Mear
   form: Sword and Dagger
+  misc:
+Caitilín inghean Uí Ruaidhrí:
+  location: Dun Carraig
+  form: Sword and Dagger
+  misc: 
+Nicolo Santorio:
+  location: Roxbury Mill
+  form: Sword and Targa
+  misc: 
+Roland Wodeman:
+  location: Hawkwood
+  form: Sword and Short Sword
+  misc:
+Arias Velarde de Santillana del Mar:
+  location: Stormwall
+  form: Sword and Dagger
+  misc:
+Caillan Ruffio:
+  location: Black Diamond
+  form: Sword and Dagger
+  misc:
+Alexios Chrysoloras:
+  location: Charlesbury Crossing
+  form: Bolognese sidesword/Cut and Thrust
+  misc:
+Erasmus Severinus:
+  location: Highland Foorde
+  form: Single Sword
+  misc:
+Jacob "Conrad" Muni:
+  location: Bright Hills
+  form:
   misc:
