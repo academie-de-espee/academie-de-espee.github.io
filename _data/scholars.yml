@@ -30,7 +30,7 @@ Tibbie Crosier:
   location: Storvik
   form: Cut & Thrust
   misc: authorized April 2008
-Zahira:
+Zahira Al-Rumi:
   location: Ponte Alto
   form:
   misc:
@@ -53,7 +53,7 @@ Nicolo Santorio:
 Roland Wodeman:
   location: Hawkwood
   form: Sword and Short Sword
-  misc:
+  misc: Corsairium
 Arias Velarde de Santillana del Mar:
   location: Stormwall
   form: Sword and Dagger
@@ -73,4 +73,12 @@ Erasmus Severinus:
 Jacob "Conrad" Muni:
   location: Bright Hills
   form:
+  misc:
+Francisco de la Torre:
+  location: Hawkwood
+  form: Sword and Rodela
+  misc: Sailing Master of the Siren's Song (Corsairium)
+Alonzo Falcone':
+  location: Black Diamond
+  form: Sword and All
   misc:
