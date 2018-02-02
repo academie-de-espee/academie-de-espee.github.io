@@ -1,16 +1,20 @@
-Aedan Aylwyn:
-Alan of Gravesend:
-Giacomo Luciano Savior Vincenti di Firenze:
-Dante di Pietro:
-Connor Levingestoune:
-Christopher MacConing:
-Alessandro Andretti:
-Flaithri O'Cearnaigh:
-Christian von Nurnberg:
-Raphael de la Rosa:
-Dominyk Wolferam:
-Caitilín Inghean Fheichín:
-Benjamin Lilje:
-Brian de Moray:
-   Relationships: FS Sponsors: Kynny, Marcellus, and Christian, Laurel: Isobel
-Charimmos of Lakadaimonias:
+Aedan Aylwyn: {}
+Alan of Gravesend: {}
+Giacomo Luciano Savior Vincenti di Firenze: {}
+Dante di Pietro: {}
+Connor Levingestoune: {}
+Christopher MacConing: {}
+Alessandro Andretti: {}
+Flaithri O'Cearnaigh: {}
+Christian von Nurnberg: {}
+Raphael de la Rosa: {}
+Dominyk Wolferam: {}
+Caitilín Inghean Fheichín: {}
+Benjamin Lilje: {}
+Brian de Moray: {
+    relationships: {
+        Free Scholar Sponsors: "Kynny, Marcellus, and Christian",
+        Laurel: "Isobel"
+        }
+}
+Charimmos of Lakadaimonias: {}
