@@ -8,13 +8,29 @@ Alessandro Andretti: {}
 Flaithri O'Cearnaigh: {}
 Christian von Nurnberg: {}
 Raphael de la Rosa: {}
-Dominyk Wolferam: {}
+Dominyk Wolferam: {
+       location: Atlantia
+       date: 3/16/2016
+       event: Gulf Wars
+       reign: Christoph I and Adelhait I
+       relationships: {
+         Free Scholar Sponsors: "Connor, Percy and Chris Cunning",
+         Student: "Armand",
+         Ensign: "Colette"
+         }
+         misc: Dragoon Guards
+}
 Caitilín Inghean Fheichín: {}
 Benjamin Lilje: {}
 Brian de Moray: {
+    location: Lochmere
+    date: 9/3/2016
+    event: Battle on the Bay
+    reign: Dietrich I and Thora I
     relationships: {
         Free Scholar Sponsors: "Kynny, Marcellus, and Christian",
         Laurel: "Isobel"
         }
+        misc: 
 }
 Charimmos of Lakadaimonias: {}
