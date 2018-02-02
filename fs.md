@@ -2,7 +2,7 @@
 title: Roster of Free Scholars
 ---
 
-<table class="pure-table pure-table-bordered">
+<table class="pure-table pure-table-bordered" width="100%">
 <thead>
 <tr>
     <th> Name </th>
