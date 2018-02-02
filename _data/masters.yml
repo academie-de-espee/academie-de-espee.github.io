@@ -16,9 +16,9 @@ Dominyk Wolferam: {
        relationships: {
          Free Scholar Sponsors: "Connor, Percy and Chris Cunning",
          Student: "Armand",
-         Ensign: "Colette"
+         Ensign: "Colette",
+         House: "Dragoon Guards"
          }
-         misc: Dragoon Guards
 }
 Caitilín Inghean Fheichín: {}
 Benjamin Lilje: {}
@@ -31,6 +31,5 @@ Brian de Moray: {
         Free Scholar Sponsors: "Kynny, Marcellus, and Christian",
         Laurel: "Isobel"
         }
-        misc: 
 }
 Charimmos of Lakadaimonias: {}
