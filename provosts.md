@@ -9,6 +9,8 @@ title: Roster of Provosts
     <th> Date </th>
     <th> Event </th>
     <th> Monarch </th>
+    <th> Free Scholar Sponsors </th>
+    <th> Miscellaneous </th>
 </tr>
 </thead>
 <tbody>
@@ -23,6 +25,8 @@ title: Roster of Provosts
     <td> {{ item.date }} </td>
     <td> {{ item.event }} </td>
     <td> {{ item.monarchs }} </td>
+    <td> {{ item.fssponsors }} </td>
+    <td> {{ item.misc }} </td>
 </tr>
 {% endfor %}
 </tbody>
