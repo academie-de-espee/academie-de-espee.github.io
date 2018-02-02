@@ -5,7 +5,7 @@ The Academie d'Espee exists to promote the practice and enjoyment of period styl
 
 ## Roster of Members
 
-* [Masters](http://op.atlantia.sca.org/op_award.php?award_id=902)
+* [Masters](masters)
 * [Provosts](provosts)
 * [Free Scholars](fs)
 * [Scholars](scholars)
