@@ -19,16 +19,22 @@ title: Roster of Masters
 {% assign name = entry[0] %}
 {% assign item = entry[1] %}
    
+{% assign byop = site.data.op[item.op_id] %}
 {% assign person = site.data.people[name] %}
 <tr>
   <td>
-  
+     
     {% if item.op_id != null %}
        <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}">
     {% elsif person.op_id != null %}
        <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}">
     {% endif %}
-
+    
+    {% if byop.title != null %} 
+    {{ byop.title }}
+    {% else %}
+    {{ person.title }}
+    {% endif %}
     {{ name }}
 
     {% if item.op_id != null %} </a> {% elsif person.op_id != null %} </a> {% endif %}

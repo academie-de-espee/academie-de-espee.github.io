@@ -5,7 +5,6 @@ Aedan Aylwyn: {
        event: Spring Crown,
        reign: Logan VII and Esa II,
        relationships: {
-              Free Scholar Sponsors: "???"
        }
 }
 Alan of Gravesend: {
@@ -15,7 +14,6 @@ Alan of Gravesend: {
        event: Spring Crown,
        reign: Logan VII and Esa II,
        relationships: {
-              Free Scholar Sponsors: "???",
               House: "Gardiner's Company"
        }
 }
@@ -26,7 +24,6 @@ Giacomo Luciano Savior Vincenti di Firenze: {
        event: Spring Crown,
        reign: Logan VII and Esa II,
        relationships: {
-              Free Scholar Sponsors: "???",
               House: "Gardiner's Company"
        }
 }
@@ -37,7 +34,6 @@ Dante di Pietro: {
        event: 6/20/2015,
        reign: Logan VII and Esa II,
        relationships: {
-              Free Scholar Sponsors: "???",
               Cadets: "Tassin Navier, Sanada Katsumi"
        }
 }
@@ -48,7 +44,6 @@ Connor Levingestoune: {
        event: Pennsic War,
        reign: Logan VII and Esa II,
        relationships: {
-              Free Scholar Sponsors: "???",
               Sponsored Free Scholars: "Nyvein Dyfnawal"
        }
 }
@@ -59,7 +54,6 @@ Christopher MacConing: {
        event: Pennsic War,
        reign: Logan VII and Esa II,
        relationships: {
-              Free Scholar Sponsors: "???",
               House: "Gardiner's Company"
        }
 }
@@ -93,7 +87,6 @@ Christian von Nurnberg: {
        event: Atlantian 12th Night,
        reign: Christoph I and Adelhait I,
        relationships: {
-              Free Scholar Sponsors: "???"
        }
 }
 Raphael de la Rosa: {
@@ -103,7 +96,6 @@ Raphael de la Rosa: {
        event: Atlantian 12th Night,
        reign: Christoph I and Adelhait I,
        relationships: {
-              Free Scholar Sponsors: "???",
               Cadets: "Dyggvi Hrolfson, Oddbjorg the Unshod, Humfrey Lovett"
        }
 }
@@ -140,7 +132,6 @@ Benjamin Lilje: {
        event: Defending the Gate,
        reign: Christoph I and Adelhait I,
        relationships: {
-              Free Scholar Sponsors: "???",
               House: "Dragoon Guards"
         }
 }
@@ -164,6 +155,5 @@ Charimmos of Lakadaimonias: {
        event: Pennsic War,
        reign: Cuan VII and Signy I,
        relationships: {
-              Former Cadets: "???"
        }
 }
