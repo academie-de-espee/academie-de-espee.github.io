@@ -1,14 +1,35 @@
-Aedan Aylwyn: {}
-Alan of Gravesend: {}
-Giacomo Luciano Savior Vincenti di Firenze: {}
-Dante di Pietro: {}
-Connor Levingestoune: {}
-Christopher MacConing: {}
-Alessandro Andretti: {}
-Flaithri O'Cearnaigh: {}
-Christian von Nurnberg: {}
-Raphael de la Rosa: {}
+Aedan Aylwyn: {
+    op_id: 26
+}
+Alan of Gravesend: {
+    op_id: 89
+}
+Giacomo Luciano Savior Vincenti di Firenze: {
+    op_id: 1330
+}
+Dante di Pietro: {
+    op_id: 880
+}
+Connor Levingestoune: {
+    op_id: 793
+}
+Christopher MacConing: {
+    op_id: 748
+}
+Alessandro Andretti: {
+    op_id: 7973
+}
+Flaithri O'Cearnaigh: {
+    op_id: 4002
+}
+Christian von Nurnberg: {
+    op_id: 737
+}
+Raphael de la Rosa: {
+    op_id: 2562
+    }
 Dominyk Wolferam: {
+       op_id: 953,
        location: Atlantia,
        date: 3/16/2016,
        event: Gulf Wars,
@@ -20,9 +41,14 @@ Dominyk Wolferam: {
          House: "Dragoon Guards"
          }
 }
-Caitilín Inghean Fheichín: {}
-Benjamin Lilje: {}
+Caitilín Inghean Fheichín: {
+    op_id: 7049
+}
+Benjamin Lilje: {
+    op_id: 3781
+}
 Brian de Moray: {
+    op_id: 3334,
     location: Lochmere,
     date: 9/3/2016,
     event: Battle on the Bay,
@@ -32,4 +58,6 @@ Brian de Moray: {
         Laurel: "Isobel"
         }
 }
-Charimmos of Lakadaimonias: {}
+Charimmos of Lakadaimonias: {
+    op_id: 8675
+}
