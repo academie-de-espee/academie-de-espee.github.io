@@ -319,6 +319,8 @@ Torse Hartman:
   date: 8/10/2016
   event: Pennsic War
   monarchs: Dietrich and Thora
+  fssponsors: Lord Greylond, Master Raphael, Lord Matheu
+  misc: House Condottieri
 Maxamilian Brudder:
   op_id: 7708
   date: 5/14/2016
@@ -329,3 +331,10 @@ Séamus Ó Maoil Riain:
   date: 2/11/2016
   event: Tournament of Love and Beauty
   monarchs: William and Alyna
+Cailin Cainindanna:
+  op_id:
+  date: 8/?/2017
+  event: Pennsic War
+  monarchs: Cuan and Signy
+  fssponsors: Lord Greylond, Master Raphael, Lady Letia
+  misc: House Condottieri
