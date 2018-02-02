@@ -43,7 +43,8 @@ Connor Levingestoune: {
        event: Pennsic War,
        reign: Logan VII and Esa II,
        relationships: {
-              Free Scholar Sponsors: "???"
+              Free Scholar Sponsors: "???",
+              Sponsored Free Scholars: "Nyvein Dyfnawal"
        }
 }
 Christopher MacConing: {
@@ -64,6 +65,7 @@ Alessandro Andretti: {
        relationships: {
               Cadetted to: "Master Aeron Harper",
               Cadet: "Marguerite de Lyon",
+              Sponsored Free Scholars: "Marguerite de Lyon, Bumi Fong",
               House: "ATATs"
        }
 }
@@ -115,6 +117,7 @@ Caitilín Inghean Fheichín: {
        relationships: {
           Cadetted to: "Don Tristan von Heidelburg (Ansteorra)",
           Cadet: "Marguerite de Lyon",
+          Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
           House: "Dragoon Guards, ATATs"
        }
 }
@@ -136,6 +139,7 @@ Brian de Moray: {
     relationships: {
         Free Scholar Sponsors: "Kynny, Master Marcellus, and Master Christian",
         Laurel: "Isobel Gildingwater of Ditchingham",
+        Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Jos",
         House: "Gardiner's Company, ATATs"
         }
 }
