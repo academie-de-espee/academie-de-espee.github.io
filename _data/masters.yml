@@ -10,7 +10,7 @@ Aedan Aylwyn: {
 }
 Alan of Gravesend: {
        op_id: 89,
-       location: ?,
+       location: Roxbury Mill,
        date: 5/2/2015,
        event: Spring Crown,
        reign: Logan VII and Esa II,
@@ -21,7 +21,7 @@ Alan of Gravesend: {
 }
 Giacomo Luciano Savior Vincenti di Firenze: {
        op_id: 1330,
-       location: ?,
+       location: Bright Hills,
        date: 5/2/2015,
        event: Spring Crown,
        reign: Logan VII and Esa II,
@@ -54,7 +54,7 @@ Connor Levingestoune: {
 }
 Christopher MacConing: {
        op_id: 748,
-       location: Caer Mear,
+       location: Dun Carraig,
        date: 8/5/2015,
        event: Pennsic War,
        reign: Logan VII and Esa II,
@@ -88,7 +88,7 @@ Flaithri O'Cearnaigh: {
 }
 Christian von Nurnberg: {
        op_id: 737,
-       location: ?,
+       location: Sacred Stone,
        date: 1/9/2016,
        event: Atlantian 12th Night,
        reign: Christoph I and Adelhait I,
@@ -135,7 +135,7 @@ Caitilín Inghean Fheichín: {
 }
 Benjamin Lilje: {
        op_id: 3781,
-       location: Stierbach,
+       location: Sudentorre,
        date: 3/26/2016,
        event: Defending the Gate,
        reign: Christoph I and Adelhait I,
