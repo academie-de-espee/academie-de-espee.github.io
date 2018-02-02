@@ -11,7 +11,6 @@ title: Roster of Masters
    <th> Event </th>
    <th> Reign </th>
    <th> Relationships </th>
-   <th> Miscellaneous </th>
 </tr>
 </thead>
 <tbody>
@@ -49,7 +48,6 @@ title: Roster of Masters
         </ul>
         {% endif %}
     </td>
-    <td> {{ item.misc }} </td>
 </tr>
 {% endfor %}
 </tbody>
