@@ -168,11 +168,16 @@ Jean Claude de Calais:
   date: 3/24/2007
   event: Tir-y-Don Baronial Birthday and Investiture
   monarchs: Ragnarr and Anneke
-Llwyd Aldrydd:
+Llwyd Aldrydd: {
   op_id: 1993
   date: 5/26/2007
   event: Sapphire Joust VII
   monarchs: Valharic and Arielle
+  relationships: {
+       Free Scholar Sponsors: "Master Aedan, Lord Percy, and Lord Roland",
+       Sponsored Free Scholars: "Celric d'Ravelle, Jean Maurice, and Ulfarr Refskegg"
+       }
+}
   fssponsors: Master Aedan, Lord Percy, and Lord Roland
 Elphin ap Daffyd:
   op_id: 3589
