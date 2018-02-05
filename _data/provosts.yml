@@ -375,6 +375,10 @@ Sanada Terasu: {
   date: 3/26/2016
   event: Defending the Gate
   monarchs: Christoph and Adelhait
+  relationships: {
+    Free Scholar Spnsors: "Master Dante, Master Benjamin, and Master Brian",
+    Sponsored Free Scholars: "Sanada Akime, Ffernfael Kymro, Ulfarr Refskegg"
+  }
 }
 Alessandro Andretti: {
   op_id: 7973
