@@ -10,7 +10,6 @@ title: Roster of Provosts
     <th> Event </th>
     <th> Monarch </th>
     <th> Free Scholar Sponsors </th>
-    <th> Miscellaneous </th>
 </tr>
 </thead>
 <tbody>
@@ -36,7 +35,6 @@ title: Roster of Provosts
         </ul>
         {% endif %}
     </td>
-    <td> {{ item.misc }} </td>
 </tr>
 {% endfor %}
 </tbody>
