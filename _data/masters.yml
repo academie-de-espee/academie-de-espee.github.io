@@ -34,7 +34,9 @@ Dante di Pietro: {
        event: 6/20/2015,
        reign: Logan VII and Esa II,
        relationships: {
-              Cadets: "Tassin Navier, Sanada Katsumi"
+              Free Scholar Sponsors: "Master Aedan, Master Connor, Lord Roland",
+              Sponsored Free Scholars: "Ella de Lille, Aedh ua Ruiarc, Gawin Kappler, Tassin Navetier, Gilig von Baden, Sanada Terasu",
+              Students in Fealty: "Tassin Navetier, Sanada Katsumi"
        }
 }
 Connor Levingestoune: {
@@ -155,5 +157,6 @@ Charimmos of Lakadaimonias: {
        event: Pennsic War,
        reign: Cuan VII and Signy I,
        relationships: {
+          Former Cadets: "Seamus MacRae, Dante Falconis, Clydwyn Gwehydd, Dafydd Morrison"
        }
 }
