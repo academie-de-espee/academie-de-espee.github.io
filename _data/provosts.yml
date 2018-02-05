@@ -387,8 +387,11 @@ Torse Hartman: {
   date: 8/10/2016
   event: Pennsic War
   monarchs: Dietrich and Thora
-  fssponsors: Lord Greylond, Master Raphael, Lord Matheu
-  misc: House Condottieri
+  relationships: {
+    Free Scholar Spnsors: "Lord Greylond, Master Raphael, Lord Matheu",
+    Sponsored Free Scholars: "Trian Ó Glesáin"
+  }
+misc: House Condottieri
 }
 Maxamilian Brudder: {
   op_id: 7708
@@ -409,7 +412,7 @@ Cailin Cainindanna: {
   monarchs: Cuan and Signy
   relationships: {
     Free Scholar Sponsors: "Lord Greylond, Master Raphael, Lady Letia",
-    Sponsored Free Scholars: "Trian"
+    Sponsored Free Scholars: "Trian Ó Glesáin"
     }
   misc: House Condottieri
 }
