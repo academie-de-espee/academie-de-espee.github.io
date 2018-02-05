@@ -300,6 +300,8 @@ Wistric Oftun: {
   date: 9/3/2011
   event: Atlantia's 30 Year Celebration
   monarchs: Michael and Seonaid
+  relationships: {
+    Free Scholar Sponsors: "Lord Alejandro, Master Christian, and Master Raphael"    
 }
 Arghylle Buchanan: {
   op_id: 358
