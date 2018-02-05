@@ -195,6 +195,10 @@ Melchior zum grauen Wolf: {
   date: 2/10/2007
   event: Tourney of Ymir
   monarchs: Ragnarr and Anneke
+   relationships: {
+       Free Scholar Sponsors: "Lord Gunther, Master Aedan, and Lady Vyvyan",
+       Sponsored Free Scholars: "Thora, Illaria de Gandia, Ella de Lille"
+       }
 }
 Jean Claude de Calais: {
   op_id: 1661
