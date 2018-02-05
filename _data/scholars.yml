@@ -20,11 +20,11 @@ Rosamund of Newenham:
   misc:
 Adelaide of Roxbury Mill:
   location: Roxbury Mill
-  form:
+  form: Sword
   misc:
 Ishmael Balienier:
   location: Roxbury Mill
-  form:
+  form: Sword
   misc:
 Tibbie Crosier:
   location: Storvik
@@ -89,4 +89,12 @@ Johannes von Eisenberg:
 Raeidun Sigurdardottir:
   location: Cynnabar
   form:
+  misc:
+Roland Shelnut:
+  location: Isenfir
+  form: Sword and Dagger
+  misc: fights for Black Diamond
+Deianira of Rivenstar:
+  location: Storvik
+  form: Sword and Dagger
   misc:
