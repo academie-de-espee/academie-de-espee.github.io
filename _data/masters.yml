@@ -98,6 +98,7 @@ Raphael de la Rosa: {
        event: Atlantian 12th Night,
        reign: Christoph I and Adelhait I,
        relationships: {
+              Free Scholar Sponsors: "Lord Alejandro, Lord Percy, and Lady Vyvyan",
               Cadets: "Dyggvi Hrolfson, Oddbjorg the Unshod, Humfrey Lovett"
        }
 }
