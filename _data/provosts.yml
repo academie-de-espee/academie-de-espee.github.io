@@ -45,6 +45,9 @@ Gerlach Wiesengrund: {
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
+  relationships: {
+    Cadetted to: "Don Blayne atte Wood"
+    }
 }
 Alan of Gravesend: {
   op_id: 89
@@ -301,7 +304,8 @@ Wistric Oftun: {
   event: Atlantia's 30 Year Celebration
   monarchs: Michael and Seonaid
   relationships: {
-    Free Scholar Sponsors: "Lord Alejandro, Master Christian, and Master Raphael"    
+    Free Scholar Sponsors: "Lord Alejandro, Master Christian, and Master Raphael"   
+    }
 }
 Arghylle Buchanan: {
   op_id: 358
@@ -399,7 +403,9 @@ Torse Hartman: {
   monarchs: Dietrich and Thora
   relationships: {
     Free Scholar Spnsors: "Lord Greylond, Master Raphael, Lord Matheu",
-    Sponsored Free Scholars: "Trian Ó Glesáin"
+    Sponsored Free Scholars: "Trian Ó Glesáin",
+    House: "House Condottieri"
+    }
   }
 misc: House Condottieri
 }
@@ -422,9 +428,9 @@ Cailin Cainindanna: {
   monarchs: Cuan and Signy
   relationships: {
     Free Scholar Sponsors: "Lord Greylond, Master Raphael, Lady Letia",
-    Sponsored Free Scholars: "Trian Ó Glesáin"
+    Sponsored Free Scholars: "Trian Ó Glesáin",
+    House: "House Condottieri"
     }
-  misc: House Condottieri
 }
 Drogo Rainulf de Dragonera: {
   op_id: 979
