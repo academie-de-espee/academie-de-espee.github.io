@@ -25,7 +25,17 @@ title: Roster of Provosts
     <td> {{ item.date }} </td>
     <td> {{ item.event }} </td>
     <td> {{ item.monarchs }} </td>
-    <td> {{ item.fssponsors }} </td>
+    <td> {% if item.relationships != null %}
+        <ul style="margin-top:0; margin-bottom:0;">
+        {% assign sorted_rels = item.relationships | sort %}
+        {% for entry in sorted_rels %}
+            {% assign name_rel = entry[0] %}
+            {% assign item_rel = entry[1] %}
+            <li> <b> {{ name_rel }} </b> : {{ item_rel }} </li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+    </td>
     <td> {{ item.misc }} </td>
 </tr>
 {% endfor %}
