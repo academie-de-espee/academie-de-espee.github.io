@@ -1,348 +1,441 @@
-Geoffrey Gamble:
+Geoffrey Gamble: {
   op_id: 1367
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Niall McKennett:
+}
+Niall McKennett: {
   op_id: 2378
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Giacomo Vincenti:
+}
+Giacomo Vincenti: {
   op_id: 1330
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Nathaniel Sharpe:
+}
+Nathaniel Sharpe: {
   op_id: 2372
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Ceridwen ferch Owain:
+}
+Ceridwen ferch Owain: {
   op_id: 719
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Robin MacMorran:
+}
+Robin MacMorran: {
   op_id: 2682
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Padraig Brian Muadhan:
+}
+Padraig Brian Muadhan: {
   op_id: 2459
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Gerlach Wiesengrund:
+}
+Gerlach Wiesengrund: {
   op_id: 1328
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Alan of Gravesend:
+  relationships: {
+    Cadetted to: "Don Blayne atte Wood"
+    }
+}
+Alan of Gravesend: {
   op_id: 89
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Duncan Gregor MacGregor:
+}
+Duncan Gregor MacGregor: {
   op_id: 987
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Robert Bedingfield:
+}
+Robert Bedingfield: {
   op_id: 2652
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Aedan Aylwyn:
+}
+Aedan Aylwyn: {
   op_id: 26
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Vyvyan Broussard:
+}
+Vyvyan Broussard: {
   op_id: 3158
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Philip Bell:
+}
+Philip Bell: {
   op_id: 2496
   date: 4/20/1996
   event: Coronation of Galmr and Katharina
   monarchs: Galmr and Katharina
-Jacques Abaran:
+}
+Jacques Abaran: {
   op_id: 1617
   date: 2/15/1997
   event: Tourney of Ymir
   monarchs: Logan and Arielle
-Isobel Gildingwater of Ditchingham:
+}
+Isobel Gildingwater of Ditchingham: {
   op_id: 1601
   date: 9/27/1997
   event: Academie of the Rapier
   monarchs: Logan and Arielle
-Kirk Dragomani:
+}
+Kirk Dragomani: {
   op_id: 1903
   date: 11/13/1999
   event: Known World Academy of the Rapier
   monarchs: Amalric and Caia
-Gregor Dow McGregor:
+}
+Gregor Dow McGregor: {
   op_id: 1386
   date: 3/25/2000
   event: Running of the Bulls and Baronial Investiture
   monarchs: Amalric and Caia
-Richard ffaukes:
+}
+Richard ffaukes: {
   op_id: 2619
   date: 4/15/2000
   event: Night on the Town V & Investiture
   monarchs: Ragnarr and Kyneburh
-Daemon Broussard:
+}
+Daemon Broussard: {
   op_id: 844
   date: 5/27/2000
   event: Sapphire Joust
   monarchs: Ragnarr and Kyneburh
-Katherine Maunsel:
+}
+Katherine Maunsel: {
   op_id: 1830
   date: 1/13/2001
   event: Atlantian Twelfth Night Masqued Ball
   monarchs: Anton and Emer
-Percival Aldridge:
+}
+Percival Aldridge: {
   op_id: 2481
   date: 1/13/2001
   event: Atlantian Twelfth Night Masqued Ball
   monarchs: Anton and Emer
-Gunther von Drachenburg:
+}
+Gunther von Drachenburg: {
   op_id: 1416
   date: 9/8/2001
   event: Coronation of Galmr and Aryanna
   monarchs: Havordth and Mary Grace
-Roland de Mounteney:
+}
+Roland de Mounteney: {
   op_id: 2701
   date: 8/14/2002
   event: Pennsic War XXXI
   monarchs: Logan and Isabel
-Iskender Bey al-Istanbuli:
+}
+Iskender Bey al-Istanbuli: {
   op_id: 115
   date: 9/7/2002
   event: Royal Hunt (Coronation of Cuan and Padraigin)
   monarchs: Logan and Isabel
-Connor Levingestoune:
+}
+Connor Levingestoune: {
   op_id: 793
   date: 2/15/2003
   event: Ymir
   monarchs: Cuan and Padraigin
-Marcellus Capoziello da Napoli:
+}
+Marcellus Capoziello da Napoli: {
   op_id: 2102
   date: 2/22/2003
   event: Performer's Symposium
   monarchs: Cuan and Padraigin
-William Welwyn:
+}
+William Welwyn: {
   op_id: 3208
   date: 9/4/2004
   event: Coronation of Janos and Rachel
   monarchs: Janos and Rachel
-Rosalind Delamere:
+}
+Rosalind Delamere: {
   op_id: 2712
   date: 2/12/2005
   event: Tourney of Ymir
   monarchs: Janos and Rachel
-Christopher MacConing:
+}
+Christopher MacConing: {
   op_id: 748
   date: 2/12/2005
   event: Tourney of Ymir
   monarchs: Janos and Rachel
-Kynnyth Pyke:
+}
+Kynnyth Pyke: {
   op_id: 842
   date: 6/11/2005
   event: Highland River Melees
   monarchs: Robert and Denise
-Christian von Nurnberg:
+}
+Christian von Nurnberg: {
   op_id: 737
   date: 1/13/2007
   event: Kingdom Twelfth Night
   monarchs: Ragnarr and Anneke
-Melchior zum grauen Wolf:
+}
+Melchior zum grauen Wolf: {
   op_id: 2215
   date: 2/10/2007
   event: Tourney of Ymir
   monarchs: Ragnarr and Anneke
-Jean Claude de Calais:
+   relationships: {
+       Free Scholar Sponsors: "Lord Gunther, Master Aedan, and Lady Vyvyan",
+       Sponsored Free Scholars: "Thora, Illaria de Gandia, Ella de Lille"
+       }
+}
+Jean Claude de Calais: {
   op_id: 1661
   date: 3/24/2007
   event: Tir-y-Don Baronial Birthday and Investiture
   monarchs: Ragnarr and Anneke
-Llwyd Aldrydd:
+}
+Llwyd Aldrydd: {
   op_id: 1993
   date: 5/26/2007
   event: Sapphire Joust VII
   monarchs: Valharic and Arielle
-Elphin ap Daffyd:
+  relationships: {
+       Free Scholar Sponsors: "Master Aedan, Lord Percy, and Lord Roland",
+       Sponsored Free Scholars: "Celric d'Ravelle, Jean Maurice de Calais, and Ulfarr Refskegg"
+       }
+}
+Elphin ap Daffyd: {
   op_id: 3589
   date: 8/25/2007
   event: Sacred Stone Baronial Birthday
   monarchs: Valharic and Arielle
-Rufus Pigboy:
+}
+Rufus Pigboy: {
   op_id: 2749
   date: 1/12/2008
   event: Kingdom Twelfth Night
   monarchs: Logan and Rowan
-Ragnarr Blackhammer:
+}
+Ragnarr Blackhammer: {
   op_id: 2543
   date: 1/12/2008
   event: Kingdom Twelfth Night
   monarchs: Logan and Rowan
-Flaithri O Cearnaigh:
+}
+Flaithri O Cearnaigh: {
   op_id: 4002
   date: 3/22/2008
   event: Defending the Gate/Stierbach Investiture
   monarchs: Logan and Rowan
-Dante di Pietro:
+}
+Dante di Pietro: {
   op_id: 880
   date: 8/5/2008
   event: Pennsic War XXXVII
   monarchs: Sinclair and Kari
-Greylond Crow:
+}
+Greylond Crow: {
   op_id: 1394
   date: 8/6/2008
   event: Pennsic War XXXVII
   monarchs: Sinclair and Kari
-Celric d'Ravelle:
+}
+Celric d'Ravelle: {
   op_id: 715
   date: 2/14/2009
   event: Tourney of Ymir 2009
   monarchs: Jason and Gerhild
-Geoffrey Clwyd:
+}
+Geoffrey Clwyd: {
   op_id: 1312
   date: 4/11/2009
   event: Coronation of Logan and Esa
   monarchs: Logan and Esa
-Dominyk Wolferam:
+}
+Dominyk Wolferam: {
   op_id: 953
   date: 5/23/2009
   event: Sapphire Joust X
   monarchs: Logan and Esa
-Stephen Bridewell:
+}
+Stephen Bridewell: {
   op_id: 2895
   date: 6/13/2009
   event: The Golden Rose Tournament
   monarchs: Logan and Esa
-Bell Phoebe de Givet:
+}
+Bell Phoebe de Givet: {
   op_id: 478
   date: 11/21/2009
   event: Holiday Faire
   monarchs: Vladimir and Kalisa
   provost: false
-Vortigern Faber:
+}
+Vortigern Faber: {
   op_id: 3155
   date: 8/12/2010
   event: Pennsic War XXXIX
   monarchs: Jason and Gerhild
-Raphael de la Rosa:
+}
+Raphael de la Rosa: {
   op_id: 2562
   date: 10/8/2010
   event: War of the Wings V
   monarchs: Bryan and Brianna
-Wistric Oftun:
+}
+Wistric Oftun: {
   op_id: 3789
   date: 9/3/2011
   event: Atlantia's 30 Year Celebration
   monarchs: Michael and Seonaid
-Arghylle Buchanan:
+  relationships: {
+    Free Scholar Sponsors: "Lord Alejandro, Master Christian, and Master Raphael"   
+    }
+}
+Arghylle Buchanan: {
   op_id: 358
   date: 4/14/2012
   event: Spring Coronation
   monarchs: Cuan and Padraigin
-Caitilin Inghean Fheichin:
+}
+Caitilin Inghean Fheichin: {
   op_id: 7049
   date: 8/8/2012
   event: Pennsic War XLI
   monarchs: Bryan and Brianna
-Matheu Herrero de Cadiz:
+}
+Matheu Herrero de Cadiz: {
   op_id: 4343
   date: 4/6/2013
   event: Atlantian Spring Coronation
   monarchs: Vladimir and Kalisa 
-Brian de Morray:
+}
+Brian de Morray: {
   op_id: 3334
   date: 7/31/2013
   event: Pennsic War
   monarchs: Amos and Ysabella
-Benjamin Lilje:
+}
+Benjamin Lilje: {
   op_id: 3781
   date: 3/29/2014
   event: Defending the Gate XIII
   monarchs: Ragnarr and Lynette
-Alric the Mad:
+}
+Alric the Mad: {
   op_id: 3296
   date: 10/18/2014
   event: War of the Wings IX
   monarchs: Michael and Seonaid
-Ilaria de Gandia:
+}
+Ilaria de Gandia: {
   op_id: 4109
   date: 11/22/2014
   event: Holiday Faire
   monarchs: Michael and Seonaid
-Letia Thistelthueyt:
+}
+Letia Thistelthueyt: {
   op_id: 3725
   date: 2/28/2015
   event: Tournament of Ymir
   monarchs: Michael and Seonaid
   fssponsors: Master Connor, Mistress Ceridwen, Lord Percival
-Ysane de la Selle:
+}
+Ysane de la Selle: {
   op_id: 3250
   date: 3/18/2015
   event: Gulf Wars
   monarchs: Michael and Seonaid
-Armand of Caer Mear:
+}
+Armand of Caer Mear: {
   op_id: 3802
   date: 3/20/2015
   event: Gulf Wars
   monarchs: Michael and Seonaid
-Etain of Sutherland:
+}
+Etain of Sutherland: {
   op_id: 1175
   date: 1/9/2016
   event: Twelfth Night
   monarchs: Christoph and Adelhait
-Johann Caldron:
+}
+Johann Caldron: {
   op_id: 1696
   date: 2/27/2016
   event: Ymir
   monarchs: Christoph and Adelhait
-Sanada Terasu:
+}
+Sanada Terasu: {
   op_id: 7086
   date: 3/26/2016
   event: Defending the Gate
   monarchs: Christoph and Adelhait
-Alessandro Andretti:
+  relationships: {
+    Free Scholar Spnsors: "Master Dante, Master Benjamin, and Master Brian",
+    Sponsored Free Scholars: "Sanada Akime, Ffernfael Kymro, Ulfarr Refskegg"
+  }
+}
+Alessandro Andretti: {
   op_id: 7973
   date: 7/31/2013
   event: Pennsic War
   monarchs: (Originally made in Ansteorra)
-Torse Hartman:
+}
+Torse Hartman: {
   op_id: 7587
   date: 8/10/2016
   event: Pennsic War
   monarchs: Dietrich and Thora
-  fssponsors: Lord Greylond, Master Raphael, Lord Matheu
-  misc: House Condottieri
-Maxamilian Brudder:
+  relationships: {
+    Free Scholar Spnsors: "Lord Greylond, Master Raphael, Lord Matheu",
+    Sponsored Free Scholars: "Trian Ó Glesáin",
+    House: "House Condottieri"
+    }
+  }
+misc: House Condottieri
+}
+Maxamilian Brudder: {
   op_id: 7708
   date: 5/14/2016
   event: Hawkwood Baronial Birthday
   monarchs: Dietrich and Thora
-Séamus Ó Maoil Riain:
+}
+Séamus Ó Maoil Riain: {
   op_id: 2789
   date: 2/11/2016
   event: Tournament of Love and Beauty
   monarchs: William and Alyna
-Cailin Cainindanna:
+}
+Cailin Cainindanna: {
   op_id: 7588
   date: 8/7/2017
   event: Pennsic War
   monarchs: Cuan and Signy
-  fssponsors: Lord Greylond, Master Raphael, Lady Letia
-  misc: House Condottieri
-Drogo Rainulf de Dragonera:
+  relationships: {
+    Free Scholar Sponsors: "Lord Greylond, Master Raphael, Lady Letia",
+    Sponsored Free Scholars: "Trian Ó Glesáin",
+    House: "House Condottieri"
+    }
+}
+Drogo Rainulf de Dragonera: {
   op_id: 979
   date: 6/3/2017
   event: Storvik Novice and Unbelt
   monarchs: Cuan VII and Signy I
-  fssponsors:
   misc:
+}
