@@ -14,7 +14,7 @@ title: Roster of Masters
 </tr>
 </thead>
 <tbody>
-{% assign sorted = site.data.masters | sort %}
+{% assign sorted = site.data.masters | sort:date %}
 {% for entry in sorted %}
 {% assign name = entry[0] %}
 {% assign item = entry[1] %}
