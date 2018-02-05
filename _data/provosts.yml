@@ -406,8 +406,6 @@ Torse Hartman: {
     Sponsored Free Scholars: "Trian Ó Glesáin",
     House: "House Condottieri"
     }
-  }
-misc: House Condottieri
 }
 Maxamilian Brudder: {
   op_id: 7708
@@ -437,5 +435,4 @@ Drogo Rainulf de Dragonera: {
   date: 6/3/2017
   event: Storvik Novice and Unbelt
   monarchs: Cuan VII and Signy I
-  misc:
 }
