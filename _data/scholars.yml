@@ -1,16 +1,20 @@
 Colette Vitalis:
+  op_id: 8367
   location: Storvik
   form: Sword and Dagger
   misc: ensign to Master Dominyk
 Ayla Von Dahauua:
+  op_id: 8758
   location: Storvik
   form: Sword and Dagger
   misc:
 Allister Greenbrier:
+  op_id: 8482
   location: Stierbach
   form: Sword and Stick
   misc: House Condottieri
 Alyce de Glaize:
+  op_id: 9229
   location: Lochmere
   form: Sword and Dagger
   misc:
@@ -19,6 +23,7 @@ Rosamund of Newenham:
   form: Sword
   misc:
 Adelaide of Roxbury Mill:
+  op_id: 9095
   location: Roxbury Mill
   form: Sword
   misc:
@@ -27,14 +32,17 @@ Ishmael Balienier:
   form: Sword
   misc:
 Tibbie Crosier:
+  op_id: 7106
   location: Storvik
   form: Cut & Thrust
   misc: authorized April 2008
 Zahira Al-Rumi:
+  op_id: 
   location: Ponte Alto
   form:
   misc:
 Dyggvi Hrolfsson:
+  op_id: 8787
   location: Sacred Stone
   form: Sword and Stick
   misc: cadet to Master Raphael
@@ -43,22 +51,27 @@ Steffan Von Musbach:
   form: Sword and Dagger
   misc:
 Caitilín inghean Uí Ruaidhrí:
+  op_id: 9152
   location: Dun Carraig
   form: Sword and Dagger
   misc: 
 Nicolo Santorio:
+  op_id: 7747
   location: Roxbury Mill
   form: Sword and Targa
   misc: 
 Roland Wodeman:
+  op_id: 7542
   location: Hawkwood
   form: Sword and Short Sword
   misc: Corsair 3rd Class (Corsairium)
 Arias Velarde de Santillana del Mar:
+  op_id: 8929
   location: Stormwall
   form: Sword and Dagger
   misc:
 Caillan Ruffio:
+  op_id: 7517
   location: Black Diamond
   form: Sword and Dagger
   misc:
@@ -67,6 +80,7 @@ Alexios Chrysoloras:
   form: Bolognese sidesword/Cut and Thrust
   misc:
 Erasmus Severinus:
+  op_id: 8139
   location: Highland Foorde
   form: Single Sword
   misc:
@@ -75,10 +89,12 @@ Jacob "Conrad" Muni:
   form:
   misc:
 Francisco de la Torre:
+  op_id: 8942
   location: Hawkwood
   form: Sword and Rodela
   misc: Sailing Master of the Siren's Song (Corsairium)
-Alonzo Falcone':
+Alonzo Falcone:
+op_id: 8490
   location: Black Diamond
   form: Sword and All
   misc:
@@ -87,6 +103,7 @@ Johannes von Eisenberg:
   form: Cut & Thrust
   misc:
 Raeidun Sigurdardottir:
+  op_id: 8907
   location: Cynnabar
   form:
   misc:
