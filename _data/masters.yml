@@ -44,7 +44,7 @@ Connor Levingestoune: {
        event: Pennsic War,
        reign: Logan VII and Esa II,
        relationships: {
-              Sponsored Free Scholars: "Nyvein Dyfnawal"
+              Sponsored Free Scholars: "A lot..."
        }
 }
 Christopher MacConing: {
@@ -107,7 +107,7 @@ Dominyk Wolferam: {
        reign: Christoph I and Adelhait I,
        relationships: {
          Free Scholar Sponsors: "Master Connor, Lord Percy, and Master Chris",
-         Former Student: "Armand",
+         Former Student: "Armand of Caer Mear",
          Ensign: "Colette Vitalis",
          House: "Dragoon Guards"
          }
@@ -121,7 +121,7 @@ Caitilín Inghean Fheichín: {
        relationships: {
           Cadetted to: "Don Tristan von Heidelburg (Ansteorra)",
           Cadet: "Marguerite de Lyon",
-          Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
+          Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
           House: "Dragoon Guards, ATATs"
        }
 }
@@ -144,7 +144,7 @@ Brian de Moray: {
     relationships: {
         Free Scholar Sponsors: "Kynny, Master Marcellus, and Master Christian",
         Laurel: "Isobel Gildingwater of Ditchingham",
-        Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Jos",
+        Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Joscelin d'Outremer",
         House: "Gardiner's Company, ATATs"
         }
 }
