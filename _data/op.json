@@ -42,13 +42,13 @@
 43: {name: Aengus MacPharlain, title: Lord}
 44: {name: "\xC1engus \xD3 Fearghail", title: Lord}
 45: {name: "A\xE9nor d'Anjou", title: Mistress}
-46: {name: Aerathonn the Chaste, title: Baron/Baroness}
+46: {name: Aerathonn the Chaste}
 47: {name: Aerik Harulfsson, title: Sir}
 48: {name: Aerin of the Red Oaks, title: Lady}
-49: {name: Aeron Luranna Frodl, title: Lord/Lady}
+49: {name: Aeron Luranna Frodl}
 50: {name: "\xC6thelfl\xE6d of St\xE6fforda", title: Lady}
 51: {name: Aethelgar Sheldwich, title: Lord}
-52: {name: Aethelind O'Ciardubhain, title: Lord/Lady}
+52: {name: Aethelind O'Ciardubhain}
 53: {name: "\xC6thelwulf Cynricson of Stonegrave", title: Lord}
 54: {name: Aethelwulf Griswold, title: Lord}
 55: {name: Aethelwulf of Malmesbury, title: Lord}
@@ -63,7 +63,7 @@
 64: {name: Ailene O'Bryan, title: Lady}
 66: {name: Ailleann O'Meighan, title: Lady}
 68: {name: Abe Akirakeiko, title: Mistress}
-69: {name: Ainmere Illyrian, title: Lord/Lady}
+69: {name: Ainmere Illyrian}
 70: {name: Ainnir of the Hidden Mountain, title: Lady}
 71: {name: Airbertach Deoraidh, title: Lord}
 72: {name: Aishamau Edgar's daughter, title: Lady}
@@ -178,7 +178,7 @@
 193: {name: Alwyn Feather the Foolish, title: Lord}
 194: {name: Alwyn Kenweard, title: Lord}
 195: {name: Alwynne of Rivenstar, title: Lady}
-196: {name: Alya the Many-Handed, title: Lord/Lady}
+196: {name: Alya the Many-Handed}
 197: {name: Alyce Blood, title: Lady}
 198: {name: Alyna Navarre, title: Lady}
 199: {name: Alyna of Snow Camp, title: Baroness}
@@ -195,12 +195,12 @@
 210: {name: "Amalia K\xFCnne", title: Baroness}
 211: {name: Amalric Blackhart, title: Count}
 214: {name: Maddalena Valeta, title: Lady}
-215: {name: Amber al-Dazar, title: Lord/Lady}
+215: {name: Amber al-Dazar}
 216: {name: Amber Lang, title: Lady}
 217: {name: Amber Roriksdatter, title: Lady}
 218: {name: Ambra Micheli, title: Lady}
 219: {name: Ambrosius Caliensis, title: Lord}
-220: {name: Amica de Leon, title: Lord/Lady}
+220: {name: Amica de Leon}
 221: {name: Amie Sparrow, title: Lady}
 222: {name: Amira of Azuremont, title: Lady}
 223: {name: Ammadeus Vidona, title: Lord}
@@ -218,7 +218,7 @@
 238: {name: Anastasia Volkova, title: Lady}
 239: {name: Anastasiia Zakhar'ina, title: Lady}
 240: {name: Anastasiya Dolgorukova, title: Lady}
-241: {name: Anborn de Montaigne, title: Lord/Lady}
+241: {name: Anborn de Montaigne}
 242: {name: Andela Romier, title: Lady}
 243: {name: Ander Vargskinn, title: Lord}
 244: {name: Anderewe Fouchier of the White Dove, title: Lord}
@@ -311,7 +311,7 @@
 340: {name: Aodhan Doilfin, title: Lord}
 341: {name: "Aodh\xE1n \xD3 Cearbhaill", title: Lord}
 342: {name: Aodhnait of Dun Carraig, title: Lady}
-343: {name: Aoibheil Airgiodbeotha, title: Lord/Lady}
+343: {name: Aoibheil Airgiodbeotha}
 344: {name: "Aoife inghean Roibe\xE1rd ui Ruadh\xE1\xEDn", title: Lady}
 345: {name: "Ao\xEDfe ni Mh\xE1ille", title: Lady}
 346: {name: Aonghus mac Bacastair, title: Lord}
@@ -340,7 +340,7 @@
 371: {name: Ariel of the Marsh, title: Lady}
 372: {name: Arielle the Golden, title: Duchess}
 373: {name: Arkein Steinschleifer, title: Baron}
-375: {name: Arlis Behrendsdohtor, title: Lord/Lady}
+375: {name: Arlis Behrendsdohtor}
 376: {name: Armand Le Charpentier, title: Lord}
 377: {name: Armand MacRobert, title: Lord}
 378: {name: Armand Vozon d'Angoumois, title: Lord}
@@ -348,7 +348,7 @@
 380: {name: "Arnbi\xF8rn Bassi Dansson", title: Master}
 381: {name: "Arnfri\xF0r", title: Lady}
 382: {name: Aron Niedzwiedz, title: Lord}
-383: {name: Artegal of Elswick, title: Lord/Lady}
+383: {name: Artegal of Elswick}
 384: {name: Artem Hawke, title: Lord}
 385: {name: Artemidiore du Coeur Sincere, title: Lord}
 387: {name: Artorius Conchobhar, title: Lord}
@@ -369,10 +369,10 @@
 404: {name: Astil Alysone Sandilands, title: Baron}
 405: {name: Astrid Thorvardsdatter, title: Mistress}
 406: {name: Athalwolf Ironhand, title: Lord}
-407: {name: Atra, title: Lord/Lady}
+407: {name: Atra}
 408: {name: Aubrey Gawen, title: Lord}
 409: {name: Augustus der Ruhige Bar, title: Lord}
-410: {name: Aultain Moire O'Linnala, title: Lord/Lady}
+410: {name: Aultain Moire O'Linnala}
 411: {name: Aureelia ferch Gwalchaved, title: Lady}
 412: {name: Aurelia of Caer Mear, title: Lady}
 413: {name: Auric von Regensburg, title: Lord}
@@ -387,8 +387,8 @@
 423: {name: Avelyn MacGregor, title: Baroness}
 424: {name: Avelyn of Kennington, title: Lady}
 425: {name: Averey Cockes, title: Baroness}
-426: {name: Avraham Harofeh, title: Lord/Lady}
-427: {name: Awilda Haeulfdan, title: Lord/Lady}
+426: {name: Avraham Harofeh}
+427: {name: Awilda Haeulfdan}
 428: {name: Axel of Taavistia, title: Viscount}
 429: {name: Ayesha de Warwick, title: Lady}
 430: {name: Ayisha bint `Ata', title: Lady}
@@ -413,7 +413,7 @@
 453: {name: Bjarki inn stuttskeggi, title: Lord}
 454: {name: Barnabas of White Waters, title: Lord}
 457: {name: Barre FitzRobert of York, title: Baron}
-458: {name: Barrett the Map Maker, title: Lord}
+458: {name: Barrett the Map Maker, title: Baron}
 459: {name: Barry McFadyen, title: Duke}
 460: {name: Bartholomew of Boroughbridge, title: Lord}
 461: {name: Bartola de Rossa, title: Lady}
@@ -445,7 +445,7 @@
 490: {name: Bero Mace Carruthers, title: Lord}
 491: {name: Bertrand de Flammepoing, title: Duke}
 492: {name: Berwyn of Kerry, title: Lord}
-493: {name: Besina da Verona, title: Lord/Lady}
+493: {name: Besina da Verona}
 494: {name: Bessenyei Rozsa, title: Mistress}
 496: {name: Beth of Sudentur, title: Lady}
 497: {name: Betha of Bedford, title: Lady}
@@ -470,7 +470,7 @@
 516: {name: Blaise de Cormeilles, title: Lord}
 517: {name: Blaze of Sark, title: Lord}
 518: {name: Bledri ap Llew, title: Lord}
-519: {name: Bleiddian y Llwynonn, title: Lord/Lady}
+519: {name: Bleiddian y Llwynonn}
 520: {name: Blitha of Wolfhou, title: Mistress}
 521: {name: Bogar the Bright of Newberry, title: Lord}
 522: {name: Bogdan Borodets, title: Lord}
@@ -521,7 +521,7 @@
 573: {name: Brianna O'Dinneen, title: Lady}
 575: {name: Bridget O'Shay, title: Lady}
 576: {name: Brienna Llewellyn Lindsay, title: Mistress}
-577: {name: Brifael of the Drachens, title: Lord/Lady}
+577: {name: Brifael of the Drachens}
 578: {name: "Br\xEDg ingen \xC9rennaigh", title: Mistress}
 579: {name: Brig Kieran, title: Lady}
 580: {name: "Brighd\xEDn n\xED R\xEDoghbhard\xE1in", title: Lady}
@@ -555,19 +555,19 @@
 612: {name: Brychan ap Dafydd, title: Lord}
 613: {name: Bryetor Aison of Devon, title: Viscount}
 614: {name: Margaret Cochrane, title: Baroness}
-615: {name: Bryndyn Llan Llyr, title: Lord/Lady}
+615: {name: Bryndyn Llan Llyr}
 616: {name: Brynhildr Kormaksdottir, title: Lady}
 617: {name: Brynna of Aelfstanbury, title: Lady}
 618: {name: Bubba of Wolfhou, title: Lord}
-619: {name: Buliwulf of the Northlands, title: Lord/Lady}
+619: {name: Buliwulf of the Northlands}
 620: {name: Cadwan Galwiddoe of Redmarch, title: Lord}
 621: {name: Cadwgan Ty Mawr, title: Baron}
-622: {name: Caela, title: Lord/Lady}
+622: {name: Caela}
 623: {name: Caemfind ingen Chobthaig, title: Mistress}
 624: {name: Caia Snowden, title: Countess}
 625: {name: Cailean MacKendrick, title: Lady}
-626: {name: Cainan of Aire Faucon, title: Lord/Lady}
-628: {name: Cair O'Byrne, title: Lord/Lady}
+626: {name: Cainan of Aire Faucon}
+628: {name: Cair O'Byrne}
 629: {name: Cairistiona de Coueran, title: Mistress}
 630: {name: Caiterina inghean ui Chonaill, title: Lady}
 631: {name: Caiterina Nic Chonmeadha, title: Lady}
@@ -585,11 +585,11 @@
 646: {name: Calgaigch MacPhee, title: Lord}
 647: {name: Callistus Gill, title: Master}
 648: {name: Calum Creachadair, title: Master}
-649: {name: Camilla Janina, title: Lord/Lady}
-650: {name: Camillo Guinicelli, title: Lord/Lady}
+649: {name: Camilla Janina}
+650: {name: Camillo Guinicelli}
 651: {name: Camlyn de Skene, title: Lord}
-652: {name: Canneau egh McRuss, title: Lord/Lady}
-654: {name: Caprus ua'Seaghdhe, title: Lord/Lady}
+652: {name: Canneau egh McRuss}
+654: {name: Caprus ua'Seaghdhe}
 655: {name: Cara Marie of Carlisle, title: Countess}
 657: {name: Katheryn M'Kethirryke, title: Lady}
 658: {name: Carissa of Burgundy, title: Duchess}
@@ -754,19 +754,19 @@
 838: {name: Cyndra of Loch, title: Lady}
 839: {name: Cynegyth de Hauteville, title: Lady}
 840: {name: Cynewulf atten Hyrste, title: Lord}
-841: {name: Cynual Tarathalion, title: Lord/Lady}
+841: {name: Cynual Tarathalion}
 842: {name: Cynwrig ap Rhys, title: Master}
 843: {name: Cyriac Grymsdale, title: Lord}
 844: {name: Daemon Broussard, title: Sir}
 845: {name: Daffyd ap Gaelan, title: Lord}
 846: {name: Dafydd ap Gwystl, title: Count}
 847: {name: Dafydd Sean ap Hywel, title: Viscount}
-848: {name: Dagelin Waterbringer, title: Lord/Lady}
-849: {name: Dagmaer or Nautaloek, title: Lord/Lady}
+848: {name: Dagelin Waterbringer}
+849: {name: Dagmaer or Nautaloek}
 850: {name: Dagobert de Gallia, title: Lord}
 851: {name: Dagonet de Marlowe, title: Sir}
 853: {name: Daigen of Berley Court, title: Lady}
-854: {name: Daire of Storvik, title: Lord/Lady}
+854: {name: Daire of Storvik}
 855: {name: Dairenn ingen Chiaragain, title: Lady}
 856: {name: Damian Wolward, title: Lord}
 857: {name: Damiana Morena, title: Lady}
@@ -776,7 +776,7 @@
 861: {name: Damian le Archer, title: Lord}
 862: {name: Damon Argent, title: Baron}
 865: {name: 'Dana Stewart, the witless', title: Lady}
-866: {name: Dananir bint Khalil, title: Lord/Lady}
+866: {name: Dananir bint Khalil}
 867: {name: Daniel Charpentier, title: Lord}
 868: {name: Daniel Davidson, title: Lord}
 869: {name: Daniel Dragonsblood, title: Lord}
@@ -900,7 +900,7 @@
 1000: {name: Dunstan of Manchester, title: Lord}
 1001: {name: Dunstan of Tunbridge, title: Lord}
 1002: {name: Dur of Hidden Mountain, title: Baron}
-1003: {name: Durand de la Berge, title: Lord/Lady}
+1003: {name: Durand de la Berge}
 1004: {name: Eadan ingen Cecht, title: Lady}
 1005: {name: Eadan ni Fhionn Leithe, title: Baroness}
 1006: {name: "\xC9adaoin Chuain na Greine", title: Lady}
@@ -927,13 +927,13 @@
 1028: {name: Efenwealt Wystle, title: Master}
 1029: {name: Egill Gullbjarnarson, title: Lord}
 1030: {name: Egill Liefsson, title: Lord}
-1031: {name: Eian Bahn on Oak's Rue, title: Lord/Lady}
+1031: {name: Eian Bahn on Oak's Rue}
 1032: {name: "Eibhl\xEDn inghean u\xED Chiar\xE1in", title: Lady}
 1033: {name: Eibhlin nic Dhiarmaid, title: Lady}
 1034: {name: Eilis Ballagh, title: Lady}
 1035: {name: Eiluned ferch Gruffydd of Anglesey, title: Lady}
 1036: {name: Eilwen Cyflym, title: Lady}
-1037: {name: Einar Haakonsson, title: Lord/Lady}
+1037: {name: Einar Haakonsson}
 1038: {name: Eirikr Fence Splitter, title: Lord}
 1039: {name: "Eir\xEDkr inn danski", title: Lord}
 1040: {name: "Eithne Nic Dh\xF2mhnuill", title: Lady}
@@ -957,15 +957,15 @@
 1062: {name: Elena Alexander, title: Lady}
 1063: {name: Elena di Salaparuta, title: Lady}
 1065: {name: Elenore Spyrling, title: Lady}
-1066: {name: Elenydd Aliyn of Ellidyr, title: Lord/Lady}
+1066: {name: Elenydd Aliyn of Ellidyr}
 1067: {name: Eleonora Salutati, title: Lady}
 1068: {name: Eleri Vwyn, title: Lady}
-1069: {name: Elerin D'an Coille, title: Lord/Lady}
+1069: {name: Elerin D'an Coille}
 1070: {name: Elewys the Jew, title: Lady}
 1071: {name: Eleyna Bertholmeu, title: Lady}
 1072: {name: Elfwyn of the Silvermoon, title: Lady}
 1073: {name: Eli ben Isaac, title: Lord}
-1074: {name: Elidon Fitzwilliam of Teonar, title: Lord/Lady}
+1074: {name: Elidon Fitzwilliam of Teonar}
 1075: {name: Elien Rosamund, title: Mistress}
 1076: {name: Elisa of Caer Seren, title: Lady}
 1077: {name: Elisabeth MacAlester of Kintyre, title: Mistress}
@@ -1014,7 +1014,7 @@
 1125: {name: Elspeth nic Chormaic, title: Lady}
 1126: {name: Elspeth of Caer Mear, title: Lady}
 1127: {name: Eluned Hwylard, title: Lady}
-1128: {name: Elwyn Tenways, title: Lord/Lady}
+1128: {name: Elwyn Tenways}
 1129: {name: Elyse of Rosehaven, title: Lady}
 1130: {name: Elyssa MacFergus, title: Lady}
 1131: {name: Emelyn Pacok, title: Baroness}
@@ -1043,7 +1043,7 @@
 1156: {name: Erica Poitevin, title: Lady}
 1157: {name: "\xC6lfwynn of Boscastle", title: Lady}
 1158: {name: Erich von Kleinfeld, title: Lord}
-1159: {name: Eridani Blackthorne, title: Lord/Lady}
+1159: {name: Eridani Blackthorne}
 1160: {name: Erik Lang, title: Lord}
 1161: {name: Erik Norton of Helsfjord, title: Baron}
 1162: {name: Erin McCloud, title: Lady}
@@ -1067,7 +1067,7 @@
 1181: {name: Etienne le Forgeron, title: Lord}
 1182: {name: Etxatxu Enequy Jaudonebiquendiosteaco, title: Lord}
 1183: {name: Eunice bas Yosef, title: Lady}
-1184: {name: Evaine Saint Jean de Maurienne, title: Lord/Lady}
+1184: {name: Evaine Saint Jean de Maurienne}
 1185: {name: Evan ap Llywelyn of Caernarfon, title: Lord}
 1186: {name: Evan da Collaureo, title: Master}
 1187: {name: Evan of Nottinghill Coill, title: Lord}
@@ -1080,21 +1080,21 @@
 1194: {name: Eyrick MacGregor, title: Baroness}
 1196: {name: Faithfalin of Cyddlain Downs, title: Lady}
 1197: {name: Fanchion Mountaintamer of Skyehaven, title: Baroness}
-1198: {name: Farid Abd-ul-Wali, title: Lord/Lady}
+1198: {name: Farid Abd-ul-Wali}
 1199: {name: Feilan Skotr, title: Lord}
 1200: {name: Felice of Caer Gelin, title: Lady}
 1201: {name: Felicia Catriona Morgan, title: Lady}
 1202: {name: Felicia of Storvik, title: Lady}
 1203: {name: Felina von Behren, title: Lady}
 1204: {name: Felix del Rey, title: Sir}
-1205: {name: Fenn the Wild, title: Lord/Lady}
+1205: {name: Fenn the Wild}
 1206: {name: Finnech inghean Labhrainn, title: Lady}
 1207: {name: Fergus of Hanna, title: Baron}
 1208: {name: "Fernanda de la For\xEAt", title: Countess}
 1209: {name: Fernando Salazar y Perez, title: Count}
 1211: {name: Fevronia Murometsa, title: Mistress}
 1212: {name: Feyerwary Ersebet, title: Lady}
-1213: {name: Ffolkes FitzWilliam, title: Lord/Lady}
+1213: {name: Ffolkes FitzWilliam}
 1214: {name: Ffrytha O Gaeaf Coeden, title: Lady}
 1215: {name: Findlaech MacAlasdair, title: Master}
 1216: {name: Finn de Kirkpatrick, title: Sir}
@@ -1156,7 +1156,7 @@
 1273: {name: Galen the Traveller, title: Lord}
 1274: {name: Galen Woodwalker, title: Lord}
 1275: {name: Gallagher the Wayward, title: Lord}
-1276: {name: Galliano, title: Lord/Lady}
+1276: {name: Galliano}
 1277: {name: Galmr Ingolfsson, title: Duke}
 1279: {name: Gareth MacBride, title: Lord}
 1280: {name: Gareth Malcolm, title: Lord}
@@ -1173,7 +1173,7 @@
 1292: {name: Gavius Allectus, title: Lord}
 1293: {name: Gawain Kilgore, title: Lord}
 1294: {name: Gee Makbrair, title: Lady}
-1295: {name: Geilus of Aire Faucon, title: Lord/Lady}
+1295: {name: Geilus of Aire Faucon}
 1296: {name: Geldamar le farceur, title: Baron}
 1297: {name: Gelfradus Kunz, title: Lord}
 1298: {name: Geva de Lile, title: Lady}
@@ -1239,7 +1239,7 @@
 1360: {name: Gisella Coeur, title: Lady}
 1361: {name: Giuliana Salviati, title: Mistress}
 1362: {name: Glee of the Abbey, title: Lady}
-1363: {name: Kamiizumi Hirotaro, title: Lord/Lady}
+1363: {name: Kamiizumi Hirotaro}
 1364: {name: Gliadrachan Donnchadh, title: Lady}
 1365: {name: Glynis Gwynedd, title: Baroness}
 1366: {name: "Godefroy L\xE9v\xEAque", title: Lord}
@@ -1328,13 +1328,13 @@
 1456: {name: Gyrth Oldcastle of Ravenspur, title: Duke}
 1457: {name: "Gy\xDFel der Spatz", title: Lady}
 1458: {name: "Gy\xDFel von Sachsen", title: Lady}
-1459: {name: Haarek Stormraven, title: Lord/Lady}
+1459: {name: Haarek Stormraven}
 1461: {name: Hadassah bat Aaron ha-Karai, title: Lady}
 1462: {name: Ha'di the Aspiring, title: Lord}
 1463: {name: Hagar the Black, title: Master}
 1464: {name: Hakim Hassan al-Musafar, title: Lord}
 1466: {name: Halima al-Shafiiyah, title: Lady}
-1467: {name: Hamelin de Skine, title: Lord/Lady}
+1467: {name: Hamelin de Skine}
 1468: {name: Hamish Steart of Appin, title: Lord}
 1469: {name: Hanashi, title: Baron}
 1470: {name: Hannah bat Levi, title: Lady}
@@ -1351,7 +1351,7 @@
 1483: {name: Matsuura Kenshin, title: Lord}
 1484: {name: Heather of Lochraven, title: Lady}
 1485: {name: Heather Skye Storie, title: Lady}
-1487: {name: Heinrich Armberg, title: Lord/Lady}
+1487: {name: Heinrich Armberg}
 1488: {name: Heinrich Kreiner, title: Master}
 1490: {name: Heinrich von Rafinsburch, title: Lord}
 1492: {name: Helen Whitmore, title: Mistress}
@@ -1370,14 +1370,14 @@
 1507: {name: Hilary Fairehaven, title: Mistress}
 1508: {name: Hilary of Keer, title: Lady}
 1509: {name: Hildawulf Werren, title: Lady}
-1511: {name: Hilyn of Darkenwald, title: Lord/Lady}
-1512: {name: Hiro, title: Lord/Lady}
+1511: {name: Hilyn of Darkenwald}
+1512: {name: Hiro}
 1513: {name: Honalura de Warrick, title: Lady}
 1514: {name: Honora le Brun, title: Lady}
 1515: {name: Hossein Ali Qomi, title: Baron}
 1517: {name: Hreodbeorht MacBeath, title: Lord}
 1518: {name: Hrodgar Hohenwolf, title: Lord}
-1519: {name: Hrodr-Navar Hakonsson, title: Lord/Lady}
+1519: {name: Hrodr-Navar Hakonsson}
 1520: {name: "Hr\xF3lfr Brynj\xF3lfsson", title: Lord}
 1521: {name: Hrosvitha von Celle, title: Lady}
 1522: {name: Hrothgar of Crannog Mor, title: Lord}
@@ -1417,7 +1417,7 @@
 1558: {name: Ileana McGowan, title: Lady}
 1560: {name: Ilse Brenner, title: Mistress}
 1561: {name: Ilse Broussard, title: Lady}
-1562: {name: Ilya the Fey, title: Lord/Lady}
+1562: {name: Ilya the Fey}
 1563: {name: Imran Yosuf le Scorpioun, title: Lord}
 1564: {name: "In\xE9s de Avila", title: Baroness}
 1565: {name: "Ingeborg \xED \xDEr\xE1ndheimi", title: Lady}
@@ -1425,7 +1425,7 @@
 1567: {name: Ingvar Erlingsson, title: Baron}
 1568: {name: Ingvild Josefsdatter, title: Mistress}
 1569: {name: Innogen of Clonmel, title: Baroness}
-1570: {name: Ioannes Nikaias, title: Lord/Lady}
+1570: {name: Ioannes Nikaias}
 1572: {name: Irmgard Hasenschlaf, title: Lady}
 1573: {name: "Arn\xF3ra hrafn \xD3l\xE1fsd\xF3ttir", title: Baroness}
 1574: {name: Isabeau de Falconcree, title: Lady}
@@ -1464,7 +1464,7 @@
 1609: {name: Ivan Ivanovich Nemytyi, title: Baron}
 1610: {name: Ivan of Buckston, title: Lord}
 1611: {name: Ivarr Thorgislsson, title: Lord}
-1612: {name: Ivo le Lunatique, title: Lord/Lady}
+1612: {name: Ivo le Lunatique}
 1613: {name: Jack Wright, title: Lord}
 1615: {name: Jacqueline de la Lunde, title: Lady}
 1617: {name: "Jacques Abar\xE1n", title: Lord}
@@ -1472,12 +1472,12 @@
 1619: {name: Jacquetta Edington of Yorkshire, title: Lady}
 1621: {name: Jael Grabow, title: Baroness}
 1622: {name: Jaelle of Armida, title: Mistress}
-1623: {name: Ja'far, title: Lord/Lady}
+1623: {name: Ja'far}
 1624: {name: Jahn of Outman, title: Count}
 1625: {name: "Jaime Alejandro del Halc\xF3n", title: Lord}
 1626: {name: Jaimes the Fair, title: Baron}
 1627: {name: Jaine Elizabeth Parr, title: Lady}
-1628: {name: Jaisan Alais de Navarre, title: Lord/Lady}
+1628: {name: Jaisan Alais de Navarre}
 1629: {name: James ap Llywelyn, title: Lord}
 1630: {name: James Bancoth, title: Lord}
 1631: {name: James Beckett of Westmorland, title: Lord}
@@ -1492,7 +1492,7 @@
 1640: {name: Jamie Amalthea Rowan, title: Lord}
 1641: {name: Jamie de Javaudan, title: Lady}
 1642: {name: Jane Alexandria Fitzpatrick, title: Lady}
-1643: {name: Janek Shiron, title: Lord/Lady}
+1643: {name: Janek Shiron}
 1644: {name: Janina Krakowska, title: Baroness}
 1647: {name: Jared McDonald, title: Lord}
 1648: {name: Jared the Bear, title: Sir}
@@ -1521,15 +1521,15 @@
 1674: {name: Jeneuer Brock, title: Lady}
 1676: {name: Jenna Fairhaven, title: Lady}
 1679: {name: Jenny Lynn of Carlisle, title: Lady}
-1680: {name: Jeremea Gerber, title: Lord/Lady}
-1681: {name: Jeremie of Marinus, title: Lord/Lady}
-1683: {name: Jesse of Crannog Mor, title: Lord/Lady}
+1680: {name: Jeremea Gerber}
+1681: {name: Jeremie of Marinus}
+1683: {name: Jesse of Crannog Mor}
 1684: {name: Jessica ua Brian, title: Lady}
 1685: {name: Jessica Yarrow of Isenfir, title: Lady}
 1686: {name: Jevan of Cornwall, title: Lord}
 1688: {name: Jin Liu Chang, title: Lord}
 1689: {name: Jioreasa of Nimenfeld, title: Lady}
-1690: {name: Jirel ni Cahil, title: Lord/Lady}
+1690: {name: Jirel ni Cahil}
 1691: {name: Joanna of the Singing Threads, title: Lady}
 1692: {name: Joanna Sharpe, title: Lady}
 1693: {name: Jocelyn de Wildhain nah Rosmahil, title: Lady}
@@ -1564,7 +1564,7 @@
 1724: {name: John the Rhymer, title: Baron}
 1725: {name: John the Wanderer, title: Lord}
 1726: {name: John von der Velde, title: Master}
-1727: {name: "J\xF6kull landi Haraldsson", title: Lord/Lady}
+1727: {name: "J\xF6kull landi Haraldsson"}
 1728: {name: Jolene Kensington, title: Lady}
 1729: {name: Jonah M'Coghlane, title: Lord}
 1730: {name: Jonathan Blackbow, title: Lord}
@@ -1615,7 +1615,7 @@
 1784: {name: Kaitlyn O'Tuepin, title: Lady}
 1785: {name: Kaleeb al-Akhdar, title: Baroness}
 1786: {name: Kalilah the Crone, title: Lady}
-1787: {name: Kalilal of Calais, title: Lord/Lady}
+1787: {name: Kalilal of Calais}
 1788: {name: Kallinda, title: Lady}
 1790: {name: Kandice of Windmaster's Hill, title: Lady}
 1791: {name: "Ka\xF0l\xEDn in \xF3arga", title: Lady}
@@ -1677,11 +1677,11 @@
 1851: {name: Kayla of Winchelsea, title: Lady}
 1853: {name: Kaylin von Morgen, title: Lady}
 1854: {name: Kaylun d'Andrade, title: Lord}
-1855: {name: Kazamir of Caer Mear, title: Lord/Lady}
+1855: {name: Kazamir of Caer Mear}
 1856: {name: Kazetani Kiyotora, title: Lady}
 1858: {name: Keana of the Star Eyes, title: Lady}
-1859: {name: Keavon Memnon, title: Lord/Lady}
-1860: {name: Kebukai Ushiri Uonbanjin, title: Lord/Lady}
+1859: {name: Keavon Memnon}
+1860: {name: Kebukai Ushiri Uonbanjin}
 1861: {name: Keelan Mac Raith, title: Lord}
 1862: {name: Keelin Mirymuth, title: Lady}
 1863: {name: Keelin O'Duinn, title: Lady}
@@ -1699,7 +1699,7 @@
 1876: {name: Kendrik of Black Diamond, title: Lord}
 1877: {name: Kenelm Rogan, title: Lord}
 1878: {name: Kenji Yoshimoto, title: Lord}
-1879: {name: Kennegrae Gilchrest, title: Sir/Sir}
+1879: {name: Kennegrae Gilchrest}
 1880: {name: Kenneth MacQuarrie of Tobermory, title: Sir}
 1881: {name: Kennyth Landor of Skye, title: Lord}
 1882: {name: Kenwrec FitzRaymund, title: Lord}
@@ -1709,7 +1709,7 @@
 1886: {name: Katla feilan Stefansdottir, title: Baroness}
 1887: {name: Ketsu Toichi, title: Baron}
 1888: {name: Kevin of Thornbury, title: Master}
-1889: {name: Khadijah Jehan, title: Lord/Lady}
+1889: {name: Khadijah Jehan}
 1890: {name: Khirsten Grenville of Devon, title: Viscountess}
 1891: {name: Chiara of Ironwood, title: Lady}
 1892: {name: Kieran Hunter, title: Sir}
@@ -1724,7 +1724,7 @@
 1902: {name: Kireen Aelfwynn, title: Mistress}
 1903: {name: Kirk Dragomani, title: Lord}
 1904: {name: Kisaiya Zingara, title: Mistress}
-1905: {name: Kjersta of Varvalen, title: Lord/Lady}
+1905: {name: Kjersta of Varvalen}
 1906: {name: Klaus von Trollenberg, title: Count}
 1907: {name: "Klaus z\xFC der Bach", title: Lord}
 1908: {name: Knarlic Wulfherson, title: Count}
@@ -1734,7 +1734,7 @@
 1912: {name: "Konrad der Ruhige B\xE4r", title: Master}
 1913: {name: Konstanz von Bremen, title: Lady}
 1915: {name: Kormack O'Kelly, title: Lord}
-1916: {name: Kormakr Thordarson of Jorvik, title: Lord/Lady}
+1916: {name: Kormakr Thordarson of Jorvik}
 1917: {name: Kostantin Volkovich, title: Baron}
 1918: {name: Krestiia Alla Galychskaia, title: Lady}
 1919: {name: Isibella De Venezia, title: Lady}
@@ -1749,8 +1749,8 @@
 1931: {name: Lachlann Gore, title: Lord}
 1932: {name: Subetai al-Katib, title: Master}
 1933: {name: Laeghaire O Laverty, title: Count}
-1934: {name: Lahyrdyn Lan Llyr, title: Lord/Lady}
-1935: {name: Lakima de la Roche, title: Lord/Lady}
+1934: {name: Lahyrdyn Lan Llyr}
+1935: {name: Lakima de la Roche}
 1936: {name: Larissa Mikhailovna, title: Lady}
 1937: {name: Lars Nilsson, title: Lord}
 1938: {name: Lasair Burke, title: Baroness}
@@ -1765,13 +1765,13 @@
 1949: {name: Learen von Meissen, title: Lady}
 1950: {name: Lecelin of Ravenscroft, title: Baroness}
 1952: {name: Leia di Capraia, title: Viscountess}
-1953: {name: Leif of the Marsh, title: Lord/Lady}
+1953: {name: Leif of the Marsh}
 1954: {name: "Leifr J\xF3hansson", title: Lord}
 1955: {name: Leinhard Germeyn, title: Lord}
 1957: {name: Lena St. Albans, title: Baroness}
 1959: {name: Leofric Godwinsone, title: Lord}
 1960: {name: Leofwynne le Glasyer, title: Lady}
-1962: {name: Leonidas the Chaste, title: Lord/Lady}
+1962: {name: Leonidas the Chaste}
 1963: {name: Leonore of Black Diamond, title: Lady}
 1964: {name: Leonore of Hidden Mountain, title: Lady}
 1965: {name: Lerben of Cambion, title: Lady}
@@ -1791,7 +1791,7 @@
 1982: {name: "Lisette la Bergi\xE8re", title: Lady}
 1983: {name: Lisette la Rouxe, title: Mistress}
 1984: {name: Listra of Hawkwood, title: Lady}
-1988: {name: Liusaidh MacLeoid, title: Lord/Lady}
+1988: {name: Liusaidh MacLeoid}
 1989: {name: Livia Zanna, title: Mistress}
 1990: {name: Livia of Ravenswode, title: Mistress}
 1991: {name: Tommassa Isolona, title: Lady}
@@ -1819,7 +1819,7 @@
 2014: {name: Louise de La Mare, title: Mistress}
 2015: {name: Lourenco Affonso do Capelas, title: Lord}
 2016: {name: Lourene Newberry of House Blackstar, title: Lord}
-2017: {name: Lu, title: Lord/Lady}
+2017: {name: Lu}
 2020: {name: Luce Antony Venus, title: Mistress}
 2021: {name: Luce Urquhart, title: Lady}
 2022: {name: Lucia Bellini, title: Mistress}
@@ -1839,7 +1839,7 @@
 2036: {name: Lynn Chance of Kent, title: Lady}
 2037: {name: Leonardo Capriolo, title: Lord}
 2038: {name: Lyra Blackpool, title: Lady}
-2039: {name: Lyris Wordsmith, title: Lord/Lady}
+2039: {name: Lyris Wordsmith}
 2040: {name: "Mac Con mac Rod\xE1in", title: Baron}
 2042: {name: Mad Dave de Jersaise, title: Lord}
 2043: {name: Maddalena Rondinelli, title: Lady}
@@ -1874,7 +1874,7 @@
 2074: {name: Magnus Tindal, title: Lord}
 2075: {name: Magnus Ulfhedinson, title: Lord}
 2076: {name: Magy Freyser, title: Lady}
-2077: {name: Maham of Elvegast, title: Lord/Lady}
+2077: {name: Maham of Elvegast}
 2078: {name: Maille ingen Bhrain Cadal, title: Lady}
 2080: {name: "M\xE1ire inghean Dh\xFAnch\xE1in mhic Oisdealbhaigh", title: Lady}
 2081: {name: "Margr\xE9t Eyverska", title: Mistress}
@@ -1886,7 +1886,7 @@
 2087: {name: Malcolm MacMalcolm, title: Master}
 2088: {name: Malcolm MacRobert, title: Sir}
 2089: {name: Malfada d'Arbon, title: Lady}
-2090: {name: Malkin Allardson, title: Lord/Lady}
+2090: {name: Malkin Allardson}
 2091: {name: Malkin Grey, title: Mistress}
 2092: {name: Malyn Hughes, title: Lady}
 2094: {name: Manfred Gustsson, title: Baron}
@@ -1939,7 +1939,7 @@
 2151: {name: Mark Feuergeist, title: Lord}
 2152: {name: Mark O Crowly, title: Lord}
 2154: {name: Marlein Magdalena Weber von Rothenburg, title: Lady}
-2155: {name: Marpaly of Darkenbrook, title: Lord/Lady}
+2155: {name: Marpaly of Darkenbrook}
 2156: {name: Marryn Blackgroves, title: Baroness}
 2157: {name: Marsaili Johnston of Lockwood Moss, title: Lady}
 2158: {name: Marsali Fox, title: Lady}
@@ -1950,7 +1950,7 @@
 2164: {name: Martyn Ashton, title: Lord}
 2166: {name: Mary Grace of Gatland, title: Duchess}
 2167: {name: Maryam Jules of Dragon's Trench, title: Lady}
-2168: {name: Masagi, title: Lord/Lady}
+2168: {name: Masagi}
 2169: {name: Mathias Broussard le Caignon, title: Sir}
 2170: {name: Mathias von Oberon, title: Lord}
 2171: {name: Mathieu Chartrain, title: Lord}
@@ -1972,9 +1972,9 @@
 2188: {name: Mavis the Bewildered, title: Lady}
 2189: {name: Max the Minstrel, title: Lord}
 2190: {name: Maximilian Alois von Brandenberg, title: Count}
-2191: {name: Mayven of Elvegast, title: Lord/Lady}
+2191: {name: Mayven of Elvegast}
 2192: {name: "Meadhbh inghean Roibe\xE1rd mhic Dhuibhsh\xEDthe", title: Lady}
-2193: {name: "Meadhbh inghean Thaidhg u\xED Domhnaill", title: Lady}
+2193: {name: "Meadhbh inghean Thaidhg u\xEF\xBF\xBD Domhnaill", title: Lady}
 2194: {name: "Meadhbh inghean u\xED Dhonnabh\xE1in", title: Lady}
 2196: {name: Meagan ferch Rhys of Glynebwy, title: Lady}
 2197: {name: Medb ingen Brain, title: Mistress}
@@ -1998,7 +1998,7 @@
 2221: {name: Melisant Saint-Clair, title: Mistress}
 2222: {name: Melissa of the Misty Mere, title: Baroness}
 2223: {name: Pippa Morosini, title: Lady}
-2224: {name: Mellilah bint Jamil, title: Lord/Lady}
+2224: {name: Mellilah bint Jamil}
 2225: {name: Meltyshsa Rescov, title: Lady}
 2226: {name: Menua of Black Oak Grove, title: Lord}
 2227: {name: Meraiah of Land's End, title: Mistress}
@@ -2008,7 +2008,7 @@
 2231: {name: Merecwen Albeorne, title: Lady}
 2233: {name: Meredith of Caer Gelin, title: Lady}
 2234: {name: Merit of Galyard's Bastion, title: Lord}
-2235: {name: Merloren the Hermit, title: Lord/Lady}
+2235: {name: Merloren the Hermit}
 2237: {name: Maaline Renard, title: Mistress}
 2238: {name: Meuric o'r glyn, title: Lord}
 2239: {name: Mhaire au Siobhlibhan, title: Lady}
@@ -2077,11 +2077,11 @@
 2309: {name: Morgan Faolan, title: Lady}
 2310: {name: Morgan Catriona Bruce, title: Viscountess}
 2311: {name: Morgan Emrys, title: Lord}
-2313: {name: Morgan Fitzwalter of Lithewood, title: Lord/Lady}
-2314: {name: Morgan MacDonald MacCrae, title: Lord/Lady}
+2313: {name: Morgan Fitzwalter of Lithewood}
+2314: {name: Morgan MacDonald MacCrae}
 2315: {name: Morgan Madog ap Cadwaladr, title: Lord}
 2316: {name: Morgan Maguire, title: Lady}
-2318: {name: Morgan of Elvegast, title: Lord/Lady}
+2318: {name: Morgan of Elvegast}
 2320: {name: Morgan Raines, title: Lord}
 2321: {name: Morgan Wainwright, title: Lord}
 2322: {name: Morgan Wolfsinger, title: Baroness}
@@ -2107,12 +2107,12 @@
 2343: {name: Muirgheal inghean Raghailligh mhic Seachnasaigh, title: Lady}
 2344: {name: Meriall Hogaine, title: Lady}
 2345: {name: Khadir bar Yosef ha-Kuzari, title: Baron}
-2346: {name: Muirren Avlluin, title: Lord/Lady}
-2347: {name: Mulle y Gwerrunadd, title: Lord/Lady}
+2346: {name: Muirren Avlluin}
+2347: {name: Mulle y Gwerrunadd}
 2348: {name: Mungo Maglinchie, title: Baron}
 2349: {name: Muriel of Aberdeen, title: Baroness}
 2350: {name: Mustafa al Jabal Tariqi, title: Lord}
-2351: {name: Mya Rhys Faren, title: Lord/Lady}
+2351: {name: Mya Rhys Faren}
 2352: {name: Myfanwy ferch Angharad, title: Lady}
 2353: {name: Myfanwy O'Mwyle ni Cambion, title: Lady}
 2355: {name: Myles of Falkon Hold, title: Baron}
@@ -2158,7 +2158,7 @@
 2404: {name: Njall Thorvaldson, title: Lord}
 2405: {name: Njall Leifsson, title: Lord}
 2406: {name: Njorbjorn Jorgesson, title: Lord}
-2408: {name: Nolendil of Trollingwood, title: Lord/Lady}
+2408: {name: Nolendil of Trollingwood}
 2409: {name: Norman the Boarhunter, title: Lord}
 2410: {name: Nostas'ia Stepanova Kievskaia, title: Lady}
 2411: {name: Novella the Fierce, title: Baroness}
@@ -2184,7 +2184,7 @@
 2431: {name: Olwen the Odd, title: Mistress}
 2432: {name: Ondine the Wanderer, title: Lady}
 2433: {name: "\xD8pi V\xE1li", title: Lord}
-2434: {name: Ordweald the Gray, title: Lord/Lady}
+2434: {name: Ordweald the Gray}
 2435: {name: Oriana of Xylina, title: Mistress}
 2436: {name: "\xD3rlaith Carey", title: Lady}
 2437: {name: Orm of Elvegast, title: Lord}
@@ -2212,7 +2212,7 @@
 2460: {name: "P\xE1draig\xEDn \xD3 hEachach", title: Duchess}
 2461: {name: Pagan Grendel, title: Lord}
 2462: {name: Pagane nic Ghille Fhaolain, title: Lady}
-2463: {name: Pal Folden, title: Lord/Lady}
+2463: {name: Pal Folden}
 2464: {name: Pao Hu Tso, title: Lord}
 2465: {name: Parzifal sans Peur, title: Lord}
 2466: {name: Pascal Brendan Merredy, title: Lord}
@@ -2235,7 +2235,7 @@
 2488: {name: Peter Hawkyns, title: Master}
 2489: {name: Peter Shove, title: Lord}
 2490: {name: Phaedra Maria de Frasso, title: Lady}
-2491: {name: Phaedra of Kirk, title: Lord/Lady}
+2491: {name: Phaedra of Kirk}
 2493: {name: Philena Kyla nir Connell, title: Lady}
 2494: {name: Philip Aleksandrovitch, title: Lord}
 2495: {name: Philip ap Griffith, title: Lord}
@@ -2268,13 +2268,13 @@
 2527: {name: Quhinten de Rath, title: Lord}
 2528: {name: Quinten O'Braun, title: Lord}
 2529: {name: Rabah az-Zafir, title: Master}
-2530: {name: Rabi'ah bint Mustafa, title: Lord/Lady}
+2530: {name: Rabi'ah bint Mustafa}
 2531: {name: Thomas Merrystone, title: Lady}
 2532: {name: Rachel de Johnstone, title: Mistress}
 2533: {name: Rachel Erskine, title: Lady}
 2534: {name: Rachel Wallace, title: Duchess}
 2535: {name: Rae O'Rothain, title: Lady}
-2536: {name: Rafe MacHewen, title: Lord/Lady}
+2536: {name: Rafe MacHewen}
 2537: {name: Rafn Myra, title: Lady}
 2538: {name: Raghnailt inghean Dhuillean, title: Lady}
 2539: {name: Raghnall mac Aodha, title: Lord}
@@ -2305,7 +2305,7 @@
 2569: {name: Raimund Lateiner, title: Baron}
 2570: {name: Raynold of Wharram, title: Lord}
 2571: {name: Rayya bint Badr, title: Lady}
-2572: {name: Reagan of the White Dawn, title: Lord/Lady}
+2572: {name: Reagan of the White Dawn}
 2573: {name: Rebecca des Trois Tours, title: Lady}
 2575: {name: Rebecca of Caer Mear, title: Lady}
 2577: {name: Rebecca the Barefoot, title: Lady}
@@ -2320,7 +2320,7 @@
 2589: {name: Reinhardt von Greifswald, title: Lord}
 2590: {name: Ren Morgan, title: Baroness}
 2591: {name: Renata von Hentzau, title: Lady}
-2592: {name: Rene la Chapelle, title: Lord/Lady}
+2592: {name: Rene la Chapelle}
 2593: {name: Reyna the Dancer, title: Baroness}
 2594: {name: Reynard de la Rochefoucauld, title: Master}
 2595: {name: Reynard de Loudoun, title: Lord}
@@ -2328,9 +2328,9 @@
 2597: {name: Reyne Telarius, title: Lady}
 2598: {name: Rheill of Dun Carraig, title: Lady}
 2599: {name: Rhiall of Wystanesdon, title: Baroness}
-2600: {name: Rhialle the Wanderer, title: Lord/Lady}
+2600: {name: Rhialle the Wanderer}
 2601: {name: Rhian Lyth, title: Lady}
-2602: {name: Rhiannedd Ferch Owain, title: Lord/Lady}
+2602: {name: Rhiannedd Ferch Owain}
 2603: {name: Rhiannon ap Llewellyn, title: Lady}
 2604: {name: Rhiannon Bloodsong, title: Lady}
 2605: {name: Rhiannon Christian, title: Lady}
@@ -2339,7 +2339,7 @@
 2609: {name: Rhiannon of Lindmyr, title: Lady}
 2610: {name: Rhiannon ui Neill, title: Mistress}
 2611: {name: Rhodri ap Hywel, title: Lord}
-2613: {name: Rhonwen of Chesleigh, title: Lord/Lady}
+2613: {name: Rhonwen of Chesleigh}
 2614: {name: Rhyannon Donnachaidh, title: Lady}
 2615: {name: Rhys Terfan Greydragon, title: Master}
 2616: {name: Richard Blakethorn, title: Lord}
@@ -2360,13 +2360,13 @@
 2633: {name: Richard Wyn, title: Master}
 2634: {name: Richenda Bevilacqua, title: Lady}
 2635: {name: Rieinmelt ferch Owain, title: Lady}
-2636: {name: Riley of Kappellenburg, title: Lord/Lady}
+2636: {name: Riley of Kappellenburg}
 2638: {name: Rinaldo Diego, title: Lord}
 2640: {name: Ringer du Chester, title: Lord}
 2641: {name: "Rioc\xE1rd \xD3 Donnghaile", title: Lord}
 2643: {name: "R\xEDoghnach Sl\xE1ine n\xED Chonaill", title: Lady}
 2644: {name: Rivka bat Efraim, title: Lady}
-2645: {name: Rixende de Rouen, title: Lord/Lady}
+2645: {name: Rixende de Rouen}
 2646: {name: Ro von Rhienfranken, title: Lady}
 2647: {name: Roana de Laci, title: Baroness}
 2648: {name: Roana of Falcon Cree, title: Lady}
@@ -2399,23 +2399,23 @@
 2678: {name: Robert Whitcome of Brandywine, title: Lord}
 2679: {name: Roberto di Lupo, title: Lord}
 2680: {name: Robin Christophe Griffaud, title: Lord}
-2681: {name: Robin Crosspatch, title: Lord/Lady}
+2681: {name: Robin Crosspatch}
 2682: {name: Robin MacMorran, title: Baron}
 2683: {name: Robin of Cannock, title: Lord}
 2684: {name: Robin of Mannefeld, title: Master}
 2685: {name: Robin of Secumbe, title: Lord}
-2686: {name: Robin van der Zee, title: Lord/Lady}
+2686: {name: Robin van der Zee}
 2687: {name: Robyn of Pevensey, title: Lord}
 2688: {name: Robyyan Torr d'Elandris, title: Master}
-2689: {name: Roche of Hawkwood, title: Lord/Lady}
+2689: {name: Roche of Hawkwood}
 2690: {name: Roderick Lang, title: Lord}
 2691: {name: Roderick O' Rinne, title: Lord}
 2692: {name: Rodrigo Falcone, title: Sir}
 2693: {name: Rodrigo Hernandez de Toledo, title: Lord}
-2694: {name: Roeun of Tintagel, title: Lord/Lady}
+2694: {name: Roeun of Tintagel}
 2695: {name: Roger de Kymberle, title: Lord}
-2696: {name: Rognvald Stuttskeggr, title: Lord/Lady}
-2697: {name: Rogon Steingesicht, title: Lord/Lady}
+2696: {name: Rognvald Stuttskeggr}
+2697: {name: Rogon Steingesicht}
 2698: {name: Rohern von Rhine, title: Lord}
 2699: {name: Roland d'Amboise, title: Lord}
 2700: {name: Roland de Boscoe, title: Lord}
@@ -2459,7 +2459,7 @@
 2742: {name: Ruadhan Mhor Mhic Doughal, title: Lord}
 2743: {name: Ruaidhri an Cu, title: Master}
 2744: {name: Ruairidh Kensie Scott MacDoughall, title: Lord}
-2745: {name: Rudhraighe O'Hagan, title: Lord/Lady}
+2745: {name: Rudhraighe O'Hagan}
 2746: {name: "Rudolf der Sch\xFCtze", title: Lord}
 2747: {name: Rudolpho of Drachentor, title: Lord}
 2748: {name: Rufus Barbarossa, title: Baron}
@@ -2487,11 +2487,11 @@
 2773: {name: Sarah Lynnette of Carlisle, title: Baroness}
 2775: {name: Sarra bat Moishe, title: Lady}
 2776: {name: Sarra Mary Heryngton, title: Lady}
-2777: {name: Sartak Cisutai Byse, title: Lord/Lady}
-2778: {name: Sasha of Flyntheath, title: Lord/Lady}
+2777: {name: Sartak Cisutai Byse}
+2778: {name: Sasha of Flyntheath}
 2779: {name: Saskia Valkenburg von Slijke, title: Lady}
 2780: {name: Saviya degli Zingari, title: Mistress}
-2782: {name: Schyler Middlebrook, title: Baron/Baroness}
+2782: {name: Schyler Middlebrook}
 2785: {name: Seamus Connachtach, title: Lord}
 2786: {name: Seamus Dubhghlas mac Seumas, title: Lord}
 2787: {name: Seamus McRay, title: Master}
@@ -2511,7 +2511,7 @@
 2803: {name: Sebastiano Sarmiento, title: Lord}
 2804: {name: Selina of Dun Carraig, title: Lady}
 2805: {name: Semeeah Caitlyn, title: Baroness}
-2806: {name: Senga MacBeathain, title: Lord/Lady}
+2806: {name: Senga MacBeathain}
 2807: {name: Seonaid a Lochbuie, title: Lady}
 2808: {name: "Seonaid n\xED Fhionn", title: Duchess}
 2809: {name: Seonaid of Nairn, title: Lady}
@@ -2523,16 +2523,16 @@
 2815: {name: Serena Roese of Stonehaven, title: Lady}
 2816: {name: Serenta of the North, title: Lady}
 2817: {name: Sesilia in heppna, title: Lady}
-2818: {name: Sextus Sertorius Severus, title: Lord/Lady}
-2819: {name: Shalin Azhar, title: Lord/Lady}
+2818: {name: Sextus Sertorius Severus}
+2819: {name: Shalin Azhar}
 2820: {name: Shamus O'Neill, title: Lord}
 2821: {name: Shamus Stewart, title: Lord}
 2822: {name: Shane Stuart of Airth, title: Lord}
-2824: {name: Sharma of Falcon Cree, title: Lord/Lady}
+2824: {name: Sharma of Falcon Cree}
 2825: {name: "Mikael har\xC3\xB0ra\xC3\xB0i", title: Sir}
 2826: {name: Shelby of Sark, title: Lady}
 2827: {name: Sheri Lynn of Emerson Lake, title: Lady}
-2828: {name: Shieh-Mien, title: Lord/Lady}
+2828: {name: Shieh-Mien}
 2829: {name: Shone the Reaver, title: Lord}
 2830: {name: Shoshanna d'Oliphant, title: Lady}
 2832: {name: Shuraaq Yn Chon, title: Lord}
@@ -2601,10 +2601,10 @@
 2898: {name: Stephen Haroldson, title: Lord}
 2901: {name: Stephen the Devious, title: Lord}
 2903: {name: Steve of Border Vale Keep, title: Lord}
-2904: {name: Still Ernst, title: Lord/Lady}
+2904: {name: Still Ernst}
 2905: {name: Strykar Geirhaldsson, title: Sir}
 2906: {name: "Styrbj\xF8rg Ulfethnar", title: Lord}
-2907: {name: Sukazukimori ao Ishido Keremasa, title: Lord/Lady}
+2907: {name: Sukazukimori ao Ishido Keremasa}
 2908: {name: Sulaine Bowdergrave, title: Lord}
 2909: {name: Sunniva Kyrre, title: Mistress}
 2910: {name: Susan Douglas of Andover, title: Mistress}
@@ -2642,7 +2642,7 @@
 2946: {name: Tamara McFinlay, title: Lady}
 2947: {name: Tamara of Caer Gelin, title: Lady}
 2948: {name: Tamara Sharptooth, title: Lady}
-2950: {name: Tammon Dallassar, title: Lord/Lady}
+2950: {name: Tammon Dallassar}
 2951: {name: Tamsin Barker, title: Lady}
 2952: {name: Tancred dello Falco, title: Sir}
 2953: {name: Tancred of Carcassonne, title: Lord}
@@ -2651,7 +2651,7 @@
 2956: {name: Tangwystl ferch Llewelyn, title: Lady}
 2957: {name: Tangwystl ferch Morgan, title: Lady}
 2958: {name: Tankred Bras-de-Fer, title: Lord}
-2959: {name: Tanner of Courci, title: Lord/Lady}
+2959: {name: Tanner of Courci}
 2960: {name: Tannis of Tir-y-Don, title: Mistress}
 2961: {name: Tara ingen Lonen, title: Lady}
 2962: {name: Taras Stefan Karanczay, title: Sir}
@@ -2659,7 +2659,7 @@
 2964: {name: Tarn of No City, title: Lord}
 2965: {name: Tarquin of Assisi, title: Lord}
 2967: {name: Tarrah of Heartwold, title: Lady}
-2968: {name: Tasys Gerasimov, title: Lord/Lady}
+2968: {name: Tasys Gerasimov}
 2969: {name: Tatiana Ivanovna, title: Baroness}
 2970: {name: Teamhair Wyddeles, title: Lady}
 2971: {name: Tearlach the Unwashed, title: Baron}
@@ -2674,9 +2674,9 @@
 2982: {name: Tercelin Bryn Macfairen, title: Lady}
 2983: {name: Terwn of Gwynedd, title: Lady}
 2984: {name: Tessa the Huntress, title: Lady}
-2985: {name: Teunis Mac Donald, title: Lord/Lady}
+2985: {name: Teunis Mac Donald}
 2986: {name: Teza Aubry, title: Lady}
-2987: {name: Thaelgar son of Shannon, title: Lord/Lady}
+2987: {name: Thaelgar son of Shannon}
 2988: {name: Tharasia Danzadora, title: Lady}
 2989: {name: Thelyn of Thanet, title: Lord}
 2990: {name: Theodora Delamore, title: Mistress}
@@ -2748,7 +2748,7 @@
 3065: {name: Tonwen ferch Morien, title: Baroness}
 3066: {name: Tor Olafsson, title: Lord}
 3067: {name: Tor von Butterberg, title: Master}
-3068: {name: Torcan MacCabe, title: Lord/Lady}
+3068: {name: Torcan MacCabe}
 3071: {name: Torill Jarvik, title: Lord}
 3072: {name: Torquil MacTaggart the Steadfast, title: Master}
 3073: {name: Tran of the Singing Woods, title: Lord}
@@ -2764,15 +2764,15 @@
 3083: {name: Tryggvi Grabardr Olsen, title: Master}
 3084: {name: Trystan ap Morgan, title: Lord}
 3085: {name: Trystan Salinas de Ivica, title: Lord}
-3086: {name: Tso Mae, title: Lord/Lady}
+3086: {name: Tso Mae}
 3087: {name: Tsunetomi Todomu, title: Master}
 3088: {name: Tuiren de Lisle, title: Countess}
 3089: {name: Tululan of Falconcree, title: Lord}
 3090: {name: Turgeis Hakonsson, title: Sir}
-3091: {name: Turin Ulfsson, title: Lord/Lady}
+3091: {name: Turin Ulfsson}
 3092: {name: "Turstin F\xEDngin", title: Lord}
 3093: {name: Turvon Kuznetsov, title: Lord}
-3094: {name: Tustan le Blanc, title: Lord/Lady}
+3094: {name: Tustan le Blanc}
 3095: {name: Twila of Wulfshaven, title: Countess}
 3096: {name: Aiulf Boone, title: Baron}
 3097: {name: Tymoteusz Konikokrad, title: Lord}
@@ -2797,7 +2797,7 @@
 3118: {name: Ursula Gilforde, title: Lady}
 3119: {name: Ursula MacVarroun, title: Lady}
 3120: {name: Ursula von Bremen, title: Lady}
-3121: {name: Valdaric of Esdraelon, title: Lord/Lady}
+3121: {name: Valdaric of Esdraelon}
 3122: {name: Valdemar Wendel Bayard, title: Master}
 3123: {name: Valentine Ravenwood, title: Lord}
 3124: {name: Valeria Forgal's Daughter, title: Lady}
@@ -2806,7 +2806,7 @@
 3128: {name: Vebrand of the Iron Hills, title: Lady}
 3129: {name: Veleda of Isenfir, title: Mistress}
 3130: {name: Vels inn Viggladi, title: Lord}
-3131: {name: Vernor von Stulfhausen, title: Lord/Lady}
+3131: {name: Vernor von Stulfhausen}
 3132: {name: Vespacia Capricornica Kareliae, title: Lady}
 3133: {name: Victoria Fitzgerald, title: Lady}
 3134: {name: Victoria of Alfriston, title: Lady}
@@ -2816,7 +2816,7 @@
 3138: {name: Vincetta de Jarvain, title: Viscountess}
 3139: {name: Violante de Sant Sebastian, title: Mistress}
 3140: {name: Violeta Pietra Aldobrandini, title: Lady}
-3142: {name: Vivian of Glannaventia, title: Lord/Lady}
+3142: {name: Vivian of Glannaventia}
 3143: {name: Vlademir, title: Lord}
 3144: {name: Vladimir Davidovich, title: Lord}
 3145: {name: Vladimir Haraldsson, title: Lord}
@@ -2892,7 +2892,7 @@
 3223: {name: Wulff aus dem Sumpf, title: Lord}
 3224: {name: Wulfgar der Krieger, title: Lord}
 3225: {name: Wulfgifu Wadylove of Wokyhole, title: Lady}
-3226: {name: Wulfgul Ironfist, title: Lord/Lady}
+3226: {name: Wulfgul Ironfist}
 3227: {name: Wulfhild of Saxony, title: Lady}
 3228: {name: Wulfhild von Konigsberg, title: Lady}
 3229: {name: Wulfric Adler, title: Lord}
@@ -2924,7 +2924,7 @@
 3257: {name: Zacharius Ferntykylle, title: Lord}
 3258: {name: Zada Byrd, title: Lady}
 3259: {name: Zara Kalida, title: Lady}
-3260: {name: Zillah de Barcelona, title: Lord/Lady}
+3260: {name: Zillah de Barcelona}
 3261: {name: Zita Dominguez, title: Lady}
 3262: {name: Zoe Doukaina Radene, title: Lady}
 3265: {name: Aramon de Cantigny, title: Lord}
@@ -3281,7 +3281,7 @@
 3868: {name: "Jacqueline de Cond\xE9", title: Lady}
 3869: {name: Brynjolfr raudhskeggr, title: Lord}
 3870: {name: Saahira Nashita of Isenfir, title: Lady}
-3872: {name: Keidrych dun Laoghiare, title: Lord/Lady}
+3872: {name: Keidrych dun Laoghiare}
 3874: {name: Quinto Formaggio, title: Lord}
 3875: {name: Laura Graley de la Moore, title: Lady}
 3876: {name: Ox of Caer Mear, title: Lord}
@@ -3432,7 +3432,7 @@
 4122: {name: David ben Leon, title: Lord}
 4125: {name: Morimoto Koryu, title: Master}
 4126: {name: Torgul Steingrimsson, title: Duke}
-4127: {name: Draco of Brockore, title: Lord}
+4127: {name: Draco of Brockore, title: Master}
 4129: {name: Aine ferch Domnhuil ap Rhys, title: Lady}
 4130: {name: Annaliese Lasair Adare, title: Lady}
 4131: {name: Anya of Hancock, title: Lady}
@@ -3474,7 +3474,7 @@
 4179: {name: Cian Conor McQuaid, title: Viscount}
 4180: {name: Catherine Greyeyes, title: Viscountess}
 4181: {name: Daniel de Fluent, title: Lord}
-4182: {name: Myrddin O Gwynntrheullwr Allt, title: Lord/Lady}
+4182: {name: Myrddin O Gwynntrheullwr Allt}
 4183: {name: Celeste Arneux, title: Lady}
 4184: {name: Orendil Aelfwine, title: Lord}
 4185: {name: Lilliane de L'Aleyzanne, title: Lady}
@@ -3489,7 +3489,7 @@
 4196: {name: William Garrett, title: Lord}
 4199: {name: "Od \xDEorgestsson Skallagrimssonar", title: Lord}
 4200: {name: Elvira Pedrosa, title: Lady}
-4201: {name: The Dark Horde, title: Lord/Lady}
+4201: {name: The Dark Horde}
 4202: {name: Madeleine Bynortheweye, title: Mistress}
 4203: {name: Sorcha Crowe, title: Mistress}
 4204: {name: Faye Trees, title: Lady}
@@ -3578,7 +3578,7 @@
 4330: {name: Titus Aurelius Caldus, title: Lord}
 4333: {name: Aedgen MacFaelan, title: Lord}
 4336: {name: Amye Elizabeth Barrington, title: Lady}
-4337: {name: Fergus Fletcher, title: Lord/Lady}
+4337: {name: Fergus Fletcher}
 4338: {name: Merwenna of Rannowe, title: Mistress}
 4339: {name: Eva Brangwyn, title: Lady}
 4340: {name: Reis Brangweyn, title: Lord}
@@ -3592,8 +3592,8 @@
 4349: {name: Evelyn de Trees, title: Lady}
 4351: {name: Boan of Pentamere, title: Lord}
 4353: {name: Darian Gunthersson, title: Lord}
-4354: {name: "Keisha Tr\xF6llslander", title: Viscount/Viscountess}
-4355: {name: Ulric von Wessler, title: Lord/Lady}
+4354: {name: "Keisha Tr\xF6llslander"}
+4355: {name: Ulric von Wessler}
 4356: {name: Vibious Eldridson, title: Lord}
 4357: {name: Isaac De Hugo, title: Master}
 4365: {name: "William de Mont d\u2019Or", title: Lord}
@@ -3601,7 +3601,7 @@
 4372: {name: "R\xEF\xBF\xBDn\xEF\xBF\xBDn \xEF\xBF\xBD Gobhann", title: Baron}
 4375: {name: Margarethe Mandler, title: Lady}
 4376: {name: Lucia Velasquez de Trujillo, title: Lady}
-4378: {name: Severian MacLeod, title: Lord/Lady}
+4378: {name: Severian MacLeod}
 4379: {name: Bella Farinelli, title: Lady}
 4380: {name: Liaden O'Caollaidhe, title: Lady}
 4382: {name: Olivia de Boniface, title: Lady}
@@ -3623,7 +3623,7 @@
 4406: {name: Janyn Fletcher of Lancastreschire, title: Master}
 4407: {name: Godai Katsunaga, title: Master}
 4408: {name: Nina of Persia, title: Lady}
-4409: {name: Rebekah Kleinspielerin, title: Count/Countess}
+4409: {name: Rebekah Kleinspielerin}
 4410: {name: Willem O'Blood, title: Lord}
 4411: {name: Alysandir of Elgin, title: Lord}
 4412: {name: Jacintha of Highland Foorde, title: Lady}
@@ -3667,20 +3667,20 @@
 4471: {name: Aidan Morgana Evans, title: Mistress}
 4491: {name: Bridgit Macha Ruadh, title: Lady}
 4566: {name: Christiana de Haukworth, title: Lady}
-4593: {name: Amathulla Luciano, title: Lord/Lady}
+4593: {name: Amathulla Luciano}
 4711: {name: Ealasaid MacDonald, title: Lady}
 4759: {name: Torin Ertheshert, title: Master}
 5059: {name: Sophia Greifenclau, title: Lady}
 5126: {name: Drin Neth, title: Lady}
 5396: {name: "Eoin Mac \xC9adbh\xE1ird", title: Lord}
-5727: {name: Rebekkah Samuel, title: Lord/Lady}
+5727: {name: Rebekkah Samuel}
 5874: {name: Randall de Gloucester, title: Sir}
-5908: {name: Jason of Border Vale Keep, title: Lord/Lady}
+5908: {name: Jason of Border Vale Keep}
 5921: {name: Will of Wiltshire, title: Master}
 6000: {name: Petronella Lockeheart, title: Lady}
 6108: {name: "Leifr skr\xE1veifa", title: Lord}
 6149: {name: Seanne Alansyn, title: Lord}
-6178: {name: Amelia ingen Torcaill, title: Lord/Lady}
+6178: {name: Amelia ingen Torcaill}
 6179: {name: Kateryne Ferneley, title: Mistress}
 6180: {name: Mateos of Yarnvid, title: Lord}
 6185: {name: Christine of Marinus, title: Lady}
@@ -3688,19 +3688,19 @@
 6203: {name: William Scolari, title: Lord}
 6204: {name: Jdeke von Kolberg, title: Lady}
 6207: {name: Davina DeBruce, title: Lady}
-6208: {name: Jason Redbeard, title: Lord/Lady}
-6211: {name: "Cian mac Ceallach\xE1in hU\xED Dubhlaich", title: Baron}
+6208: {name: Jason Redbeard}
+6211: {name: "Cian mac Ceallach\xE1in hU\xED Dubhlaich", title: Master}
 6213: {name: Jamila bat Hayyim, title: Lady}
 6219: {name: Edric the Wanderer, title: Lord}
 6229: {name: Sara Sinclair Napier, title: Lady}
 6230: {name: "Fjorleif in Rau\xF0a", title: Lady}
 6231: {name: "Arn\xEF\xBF\xBDra in Rau\xEF\xBF\xBDa", title: Lady}
 6232: {name: Olaus Simone Silvano, title: Lord}
-6234: {name: Angeline of the Grove, title: Lord/Lady}
+6234: {name: Angeline of the Grove}
 6244: {name: Olivia Isabelle, title: Lady}
 6245: {name: Emelyn Grenville of Devon, title: Lady}
-6246: {name: Juliana de Chambery, title: Lord/Lady}
-6248: {name: Naila al-Zarqa', title: Lord/Lady}
+6246: {name: Juliana de Chambery}
+6248: {name: Naila al-Zarqa'}
 6253: {name: Charles the Bull, title: Lord}
 6256: {name: Aldyth the Gentle, title: Lady}
 6257: {name: Brynhildr uppsaling Grimkelsdottir, title: Lady}
@@ -3713,18 +3713,18 @@
 6292: {name: Morien MacBain, title: Master}
 6310: {name: Maven Whitlocke, title: Lady}
 6312: {name: Sophia Orange, title: Baroness}
-6313: {name: Maugorn the Stray, title: Lord/Lady}
+6313: {name: Maugorn the Stray}
 6320: {name: Ysoria of Scarborough, title: Lady}
 6335: {name: Benetessa, title: Lady}
 6341: {name: Yenyega de Santurci, title: Baroness}
 6369: {name: Morgan O'Malley, title: Lady}
-6496: {name: Muirinn Donn, title: Lord/Lady}
+6496: {name: Muirinn Donn}
 6510: {name: "Maria von dem M\xC3\xA4useturm", title: Lady}
-6572: {name: Melanie Atte Nunne, title: Lord/Lady}
+6572: {name: Melanie Atte Nunne}
 6625: {name: Maria Sagrario de Tacoronte, title: Lady}
-6634: {name: Milisandia uxor Bran, title: Lord/Lady}
+6634: {name: Milisandia uxor Bran}
 6695: {name: Elizabeth Sabine du Northumberland, title: Lady}
-6775: {name: Alicia of Cambion, title: Lord/Lady}
+6775: {name: Alicia of Cambion}
 6776: {name: Mark McGroyne, title: Lord}
 6793: {name: Violetta Catalina de Bretaingne, title: Lady}
 6813: {name: Konrad von Windmeister Hugel, title: Lord}
@@ -3736,14 +3736,14 @@
 6903: {name: Simon Grimstone, title: Lord}
 6916: {name: Asul bint Hilala, title: Lady}
 6917: {name: Suzanne de Cloptunne, title: Lady}
-6939: {name: Nichola Blackwell, title: Lord/Lady}
+6939: {name: Nichola Blackwell}
 6970: {name: Lucienne de Salina, title: Lady}
-6973: {name: Vittorio Mezzadri, title: Lord/Lady}
+6973: {name: Vittorio Mezzadri}
 6975: {name: Michelle of Roxbury Mill, title: Lady}
-6976: {name: Donal MacLauren of Highland Foorde, title: Lord/Lady}
+6976: {name: Donal MacLauren of Highland Foorde}
 6998: {name: Prudence the Curious, title: Lady}
 6999: {name: Tamura, title: Lady}
-7021: {name: Louie of Tear-Sea's Shore, title: Lord/Lady}
+7021: {name: Louie of Tear-Sea's Shore}
 7022: {name: Paul Lorenson, title: Lord}
 7023: {name: Sadb ingen Chonchobair, title: Lady}
 7024: {name: Aaron of Moorhaven, title: Lord}
@@ -3763,7 +3763,7 @@
 7044: {name: Angus Arran, title: Lord}
 7045: {name: Godfrey York, title: Lord}
 7046: {name: Grimkell Tannason, title: Lord}
-7049: {name: "Caitil\xEF\xBF\xBDn inghean Fheich\xEF\xBF\xBDn", title: Master/Mistress}
+7049: {name: "Caitil\xEF\xBF\xBDn inghean Fheich\xEF\xBF\xBDn"}
 7050: {name: Aeron Harper, title: Master}
 7053: {name: Audrey Brant, title: Lady}
 7054: {name: Thomas Brant of Salem, title: Lord}
@@ -3783,7 +3783,7 @@
 7081: {name: Sabine Berard, title: Lady}
 7085: {name: Sanada Katsumi, title: Lady}
 7086: {name: Sanada Terasu, title: Lord}
-7090: {name: Johannes of Highland Foorde, title: Lord/Lady}
+7090: {name: Johannes of Highland Foorde}
 7092: {name: Osa the Archer, title: Lady}
 7094: {name: Avice Claremond, title: Baroness}
 7096: {name: "Temair ingen Fh\xE1elchon meic Domnaill", title: Lady}
@@ -3808,7 +3808,7 @@
 7132: {name: "Cellach M\xF3r", title: Baroness}
 7134: {name: Elias Forsyth, title: Lord}
 7135: {name: Nikulas Akrapillar, title: Lord}
-7138: {name: "Hj&#491;rr Gu\xF0mundsson", title: Lord/Lady}
+7138: {name: "Hj&#491;rr Gu\xF0mundsson"}
 7144: {name: William Gillecrist Ross, title: Lord}
 7151: {name: Gwenivere of Ponte Alto, title: Lady}
 7156: {name: Brigid Cunningham, title: Lady}
@@ -3816,9 +3816,9 @@
 7158: {name: Gladwyn Barkwith, title: Lord}
 7159: {name: Ronan of Marinus, title: Lord}
 7160: {name: Roland Manderly, title: Lord}
-7161: {name: "Muirenn ingen Marc\xE1in", title: Lord/Lady}
+7161: {name: "Muirenn ingen Marc\xE1in"}
 7162: {name: Elizabet Walkere, title: Lady}
-7165: {name: Giovanna Valori, title: Lord/Lady}
+7165: {name: Giovanna Valori}
 7166: {name: Oda Wlslagre dicta Widoeghe, title: Mistress}
 7167: {name: Nuala of Needwood, title: Mistress}
 7169: {name: Anastasiia Iosifova, title: Lady}
@@ -3826,9 +3826,9 @@
 7180: {name: "\xDEorgautr inn vikverski", title: Lord}
 7182: {name: Weyland Underwood, title: Lord}
 7194: {name: Nathaniel Ravenhill, title: Lord}
-7195: {name: Geoffrey of Needwood, title: Lord/Lady}
-7196: {name: Fen of Needwood Forest, title: Lord/Lady}
-7197: {name: Breccan Albers, title: Lord/Lady}
+7195: {name: Geoffrey of Needwood}
+7196: {name: Fen of Needwood Forest}
+7197: {name: Breccan Albers}
 7199: {name: Izabel de Nedham, title: Lady}
 7208: {name: Mariana Caterina de Lopez y Muntaner, title: Lady}
 7209: {name: Virginia of Wolfholt, title: Lady}
@@ -3836,21 +3836,21 @@
 7212: {name: Eadric Hrothgaresun, title: Sir}
 7216: {name: Roana verch Cadugan ap Reis, title: Lady}
 7222: {name: Catguistl of Tintagol, title: Lady}
-7223: {name: Brandr feilan inn kyrri, title: Lord/Lady}
+7223: {name: Brandr feilan inn kyrri}
 7225: {name: Warren de Schrouebire, title: Lord}
 7228: {name: Elisabeth von Basel, title: Lady}
 7232: {name: Aine ingen Chuimin, title: Baroness}
 7234: {name: Alyna of the Vale, title: Countess}
-7235: {name: "Tamlin \xD3 Dubhghaill", title: Lord/Lady}
+7235: {name: "Tamlin \xD3 Dubhghaill"}
 7236: {name: Arria Marina, title: Lady}
 7237: {name: Fionn MacKonnell, title: Lord}
-7238: {name: Zuzanna Mrva, title: Lord/Lady}
-7240: {name: Violetta Villani, title: Lord/Lady}
+7238: {name: Zuzanna Mrva}
+7240: {name: Violetta Villani}
 7248: {name: Gabriel 'Der Hahn' Von Wolfgang, title: Lord}
 7249: {name: Thamira ha Sopheret, title: Lady}
 7250: {name: Ragnar Leifsson, title: Lord}
 7252: {name: Giuletta del Fede, title: Lady}
-7254: {name: Caillech ingen Alaxandair, title: Lord/Lady}
+7254: {name: Caillech ingen Alaxandair}
 7259: {name: Vincenzo d'Este, title: Lord}
 7264: {name: Eilon bat Miriam, title: Lady}
 7265: {name: Domnall mac Arcill, title: Lord}
@@ -3895,10 +3895,10 @@
 7347: {name: "\xDAlfgeirr Hrafnsson", title: Lord}
 7348: {name: Ludwig Brumser, title: Lord}
 7353: {name: Dreux d'Anjou, title: Lord}
-7354: {name: Veronica Morgan, title: Lord/Lady}
-7356: {name: Ingvarr Einarson, title: Lord/Lady}
+7354: {name: Veronica Morgan}
+7356: {name: Ingvarr Einarson}
 7357: {name: James Carlyle, title: Lord}
-7358: {name: Fletcher ap Ivor, title: Lord/Lady}
+7358: {name: Fletcher ap Ivor}
 7360: {name: Reginald de Beauchamp, title: Lord}
 7361: {name: Brian Symson, title: Lord}
 7364: {name: Ziyad al-'Attar, title: Lord}
@@ -3908,19 +3908,19 @@
 7370: {name: Madeleine Rose de Cardeville, title: Lady}
 7372: {name: Anna Charles of Border Vale Keep, title: Lady}
 7373: {name: Cadfael ap Madoc ap Dafydd, title: Lord}
-7375: {name: Ulfr Rauthfeldarson, title: Lord/Lady}
+7375: {name: Ulfr Rauthfeldarson}
 7378: {name: Wenzel von Ulm, title: Lord}
 7379: {name: Lucian Artz, title: Lord}
 7382: {name: Abran de la Barra, title: Sir}
-7383: {name: Rois Gilbert, title: Lord/Lady}
+7383: {name: Rois Gilbert}
 7387: {name: Tadio de Venezia, title: Lord}
 7394: {name: Aye der Dunkele Rotvogel, title: Lady}
-7414: {name: Asa in svarta, title: Lord/Lady}
+7414: {name: Asa in svarta}
 7433: {name: "B\xE9ibhinn Mhodartha", title: Lady}
 7443: {name: Azzah al-Nadirah, title: Lady}
 7453: {name: Heather Hrafnsdottir, title: Lady}
 7454: {name: 'Benef{s,}e bint Zakariya''', title: Lady}
-7455: {name: Savage Black Wolf, title: Lord/Lady}
+7455: {name: Savage Black Wolf}
 7458: {name: Isabella Dolce Panettiere Bianchi della Luna, title: Lady}
 7461: {name: Elisant Walters, title: Lady}
 7462: {name: Tassin Navetier, title: Lord}
@@ -3929,7 +3929,7 @@
 7492: {name: William Barfoot, title: Lord}
 7493: {name: Mandin Leon, title: Sir}
 7495: {name: Francis Bean, title: Master}
-7497: {name: Apollonia Francesca Maria di Ca, title: Lord/Lady}
+7497: {name: Apollonia Francesca Maria di Ca}
 7503: {name: Devin of Storvik, title: Lady}
 7505: {name: "Caiss\xE9ne ingen Fh\xE1el\xE1in", title: Lady}
 7506: {name: Aneka Siltanen, title: Lady}
@@ -3961,14 +3961,14 @@
 7565: {name: Cradoc Mendwr, title: Lord}
 7566: {name: Lauretta Cwenhild, title: Lady}
 7567: {name: Collette de Paris, title: Lady}
-7574: {name: Elianor Huxley, title: Lord/Lady}
-7575: {name: Juama del Monaco, title: Lord/Lady}
+7574: {name: Elianor Huxley}
+7575: {name: Juama del Monaco}
 7579: {name: Vittoria Cavalieri, title: Lady}
-7586: {name: Oddr Onesocke, title: Lord/Lady}
+7586: {name: Oddr Onesocke}
 7587: {name: Torse Hartman, title: Lord}
 7588: {name: Cailin of Hawkwood, title: Lord}
-7592: {name: Bumba of Attilium, title: Lord/Lady}
-7598: {name: Pippin Marchand, title: Lord/Lady}
+7592: {name: Bumba of Attilium}
+7598: {name: Pippin Marchand}
 7600: {name: Ealasaid inghean Ghriogair, title: Lady}
 7601: {name: Francesca di Corso, title: Lady}
 7602: {name: Ian McGregor, title: Lord}
@@ -3991,19 +3991,19 @@
 7651: {name: Sean Farrer, title: Lord}
 7652: {name: Sybilla de Kent, title: Lady}
 7653: {name: Oswin inn heimski, title: Lord}
-7657: {name: Tariq ibn Khalil, title: Lord/Lady}
+7657: {name: Tariq ibn Khalil}
 7658: {name: Muriel MacArtur, title: Lady}
 7664: {name: Fridrich Narre, title: Lord}
 7665: {name: Bonnie Thaynesdoghter, title: Lady}
 7666: {name: Halima bin Farras Al Misrrya, title: Lady}
-7670: {name: Dearbhail O'Halloran, title: Lord/Lady}
+7670: {name: Dearbhail O'Halloran}
 7674: {name: Gavin of Blackwood, title: Lord}
 7687: {name: Cinnion map Liuelin map Higuel, title: Lord}
-7688: {name: Shizumi Kaijo, title: Lord/Lady}
+7688: {name: Shizumi Kaijo}
 7689: {name: Elena Spycer, title: Lady}
 7690: {name: Alicia Lindsay of Bright Hills, title: Lady}
-7697: {name: Scholastica Joycors, title: Lord/Lady}
-7698: {name: Seraphina Joycors, title: Lord/Lady}
+7697: {name: Scholastica Joycors}
+7698: {name: Seraphina Joycors}
 7700: {name: Edan Lowery, title: Baroness}
 7704: {name: Aveline Scargill, title: Lady}
 7705: {name: Duncan of Mountains Keep, title: Lord}
@@ -4029,29 +4029,29 @@
 7761: {name: Jeffry Thorne, title: Lord}
 7762: {name: Neil Wallace, title: Lord}
 7763: {name: Ethan Adenwaldsson, title: Lord}
-7766: {name: Tyes Amione Defoss, title: Lord/Lady}
+7766: {name: Tyes Amione Defoss}
 7767: {name: Isabelle de Manari, title: Lady}
 7771: {name: Genevieve Dampier de la Marche, title: Baroness}
 7772: {name: Elena Margarida de la Vega y Serrano, title: Lady}
 7776: {name: Ysabel Aranda, title: Lady}
 7780: {name: Beatrice Shirwod, title: Lady}
 7781: {name: David FitzMartin, title: Lord}
-7782: {name: Meleri Athro, title: Lord/Lady}
+7782: {name: Meleri Athro}
 7783: {name: Caitriona MacClane, title: Lady}
 7785: {name: Alan de Nedham, title: Lord}
-7789: {name: Abel ap William, title: Lord/Lady}
+7789: {name: Abel ap William}
 7790: {name: Melina Percavail, title: Lady}
 7791: {name: Aleksei Mikhailovich, title: Sir}
 7792: {name: Kira of Steirbach, title: Lady}
 7793: {name: Marcus de Rath, title: Lord}
 7795: {name: Edward Godale, title: Baron}
-7797: {name: "Theodred \xE6t Rauenesdale", title: Lord/Lady}
+7797: {name: "Theodred \xE6t Rauenesdale"}
 7798: {name: Jora i Holti, title: Lady}
 7799: {name: Siobhan inghean Eamoinn mhic Dhomhnaill, title: Lady}
 7802: {name: Somhairle MacSorley, title: Lord}
 7804: {name: Onora Druinreich, title: Lady}
-7805: {name: "\xC1l\xE6ifr \xC1gautsson", title: Lord/Lady}
-7811: {name: Rob of Isenfir, title: Lord/Lady}
+7805: {name: "\xC1l\xE6ifr \xC1gautsson"}
+7811: {name: Rob of Isenfir}
 7814: {name: Sarra de Vicenza, title: Baroness}
 7816: {name: Andromeda Xanthia, title: Lady}
 7817: {name: Grazia Morgano, title: Lady}
@@ -4060,8 +4060,8 @@
 7823: {name: Alesander Davidson, title: Lord}
 7824: {name: Eoghan O Suileabhain, title: Lord}
 7835: {name: Elizabeth Egweald, title: Lady}
-7844: {name: Salvadora Feramoscha, title: Lord/Lady}
-7845: {name: Seamus Tremayne of Argyll, title: Lord/Lady}
+7844: {name: Salvadora Feramoscha}
+7845: {name: Seamus Tremayne of Argyll}
 7847: {name: Alexander of Ayr, title: Lord}
 7862: {name: Juliana ad aquam, title: Lady}
 7868: {name: Gracia Slay, title: Baroness}
@@ -4071,34 +4071,34 @@
 7881: {name: Ruardi Faconer, title: Lady}
 7885: {name: Andries von Voorburg der Erlund, title: Lord}
 7887: {name: John the Brewer, title: Lord}
-7889: {name: Kaleen Dubin, title: Lord/Lady}
+7889: {name: Kaleen Dubin}
 7893: {name: Yzra Eben Astruc, title: Lady}
 7897: {name: Robert Leftehand of Weymouth, title: Lord}
-7905: {name: Raphael of Wulfshaven, title: Lord/Lady}
+7905: {name: Raphael of Wulfshaven}
 7906: {name: Thorolf the Blak, title: Lord}
 7907: {name: Eliza O'Donegan, title: Viscountess}
 7909: {name: Sofia Dulce di Meo Rinaldi, title: Lady}
-7913: {name: Fia De Almendara, title: Lord/Lady}
-7919: {name: Lucia Thaylur, title: Master/Mistress}
+7913: {name: Fia De Almendara}
+7919: {name: Lucia Thaylur}
 7921: {name: Khiba' bint al-Jabaliyya, title: Lady}
 7922: {name: Angelina Falconis, title: Lady}
 7926: {name: Christina O'Cleary, title: Lady}
-7928: {name: Joie de Bedelle, title: Lord/Lady}
+7928: {name: Joie de Bedelle}
 7929: {name: Jeanette de la Mer, title: Lady}
 7932: {name: Simon Helpe, title: Lord}
-7934: {name: Bjartmarr Hornabrjotr Juzki, title: Lord/Lady}
-7935: {name: Vlad Illiescu, title: Lord/Lady}
+7934: {name: Bjartmarr Hornabrjotr Juzki}
+7935: {name: Vlad Illiescu}
 7936: {name: Giles of Nablus, title: Lord}
 7939: {name: Brighid Dragon Songe, title: Lady}
 7940: {name: Jeremy Zacherl, title: Lord}
 7941: {name: Thomas Brownwell, title: Master}
-7942: {name: Olivia Carlyle, title: Lord/Lady}
-7947: {name: Grim Kell, title: Lord/Lady}
-7949: {name: Stephan of Churchton, title: Lord/Lady}
+7942: {name: Olivia Carlyle}
+7947: {name: Grim Kell}
+7949: {name: Stephan of Churchton}
 7955: {name: Adeline of Burgundy, title: Lady}
 7956: {name: Colin Philippe de Lyon, title: Lord}
 7957: {name: Ezekiel Burgess, title: Lord}
-7959: {name: Frosti of the Darke Horde, title: Lord/Lady}
+7959: {name: Frosti of the Darke Horde}
 7960: {name: "Elena Mar\xEDa Alonso", title: Lady}
 7968: {name: Michael of Heroes Haven, title: Lord}
 7969: {name: Joseph of Heroes Haven, title: Lord}
@@ -4110,20 +4110,20 @@
 7979: {name: Linhart Von Marburg, title: Lord}
 7984: {name: Ruslan Novgorodcev, title: Count}
 7986: {name: Grainne Inghean Ui Cheallaigh, title: Lady}
-7987: {name: Oona of Anglesey, title: Lord/Lady}
+7987: {name: Oona of Anglesey}
 7988: {name: Conrad Muni, title: Lord}
-7989: {name: Aiden of Bright Hills, title: Lord/Lady}
+7989: {name: Aiden of Bright Hills}
 7992: {name: Christopher Logan of Lockley, title: Lord}
 7993: {name: Katherine of the Doves, title: Lady}
 7994: {name: Morgaine Ferguson, title: Lady}
 7995: {name: Hattori Shoujuurou Ieyoshi, title: Lord}
 7997: {name: Ceres Gwen Kildare, title: Lady}
-8000: {name: Archer Bear Horseman of Rockbridge, title: Lord/Lady}
+8000: {name: Archer Bear Horseman of Rockbridge}
 8005: {name: Grim  Kirk of Greymoor, title: Lord}
 8007: {name: "\xEF\xBF\xBD\xEF\xBF\xBDra Hrafnsd\xEF\xBF\xBDttir", title: Lady}
 8008: {name: Layla Al'Alya, title: Lady}
 8009: {name: Alexandria Sangrini, title: Lady}
-8010: {name: Wendy of Attillium, title: Lord/Lady}
+8010: {name: Wendy of Attillium}
 8013: {name: Aethelswithe of Sanderstede, title: Lady}
 8017: {name: Bera in svarta, title: Lady}
 8018: {name: Arnbjorg Karlsdottir, title: Baroness}
@@ -4131,16 +4131,16 @@
 8020: {name: Alys of Roxbury Mill, title: Lady}
 8021: {name: Torvald Bjornson, title: Lord}
 8022: {name: Cameron de Grey, title: Lord}
-8032: {name: Crispin Anthwyr, title: Lord/Lady}
-8033: {name: Ulric von Mainz, title: Lord/Lady}
+8032: {name: Crispin Anthwyr}
+8033: {name: Ulric von Mainz}
 8035: {name: Jon Bjarnarson, title: Lord}
-8036: {name: Kaete MacDavid, title: Lord/Lady}
+8036: {name: Kaete MacDavid}
 8042: {name: Robert Shockley of Avonsford, title: Lord}
-8044: {name: Coblaith of Del Riata, title: Lord/Lady}
+8044: {name: Coblaith of Del Riata}
 8045: {name: Rose McDade, title: Lady}
 8047: {name: Salih of Aksary, title: Master}
 8048: {name: "R\xF3is MacAden", title: Lady}
-8052: {name: Wilhelm der Munech, title: Lord/Lady}
+8052: {name: Wilhelm der Munech}
 8053: {name: "Megan ni Ph\xC3\xA1draig", title: Lady}
 8064: {name: Guiseppe di Luciano, title: Lord}
 8065: {name: Mahala of Sully Cove, title: Lady}
@@ -4149,21 +4149,21 @@
 8078: {name: David of Raven's Cove, title: Lord}
 8079: {name: "R\xEF\xBF\xBDnfr\xEF\xBF\xBD\xEF\xBF\xBDr Hofmansd\xEF\xBF\xBDttir",
   title: Lady}
-8080: {name: Nihani Al-nur, title: Lord/Lady}
+8080: {name: Nihani Al-nur}
 8081: {name: Johanna le Paumer, title: Lady}
 8082: {name: "Agnete K\xF6slin", title: Lady}
 8084: {name: Brian fitz Gerald, title: Lord}
 8085: {name: Ivarr inn Fiskni, title: Lord}
-8086: {name: Naka of Raven's Cove, title: Lord/Lady}
+8086: {name: Naka of Raven's Cove}
 8088: {name: Cordell Howe, title: Lady}
 8091: {name: Emery de Fittun, title: Lady}
 8092: {name: Thora Heri, title: Countess}
-8093: {name: Meryddth ap Llewellyn, title: Lord/Lady}
+8093: {name: Meryddth ap Llewellyn}
 8094: {name: Malik ibn Da'ud al-Rawandi, title: Lord}
 8095: {name: John of the West Woods, title: Lord}
 8096: {name: Thomas of Saint Georges, title: Lord}
 8100: {name: Andres Joyce, title: Lord}
-8101: {name: Sean of Roxbury Mill, title: Lord/Lady}
+8101: {name: Sean of Roxbury Mill}
 8103: {name: "Cormacc ua R\xEDg\xE1in", title: Baron}
 8106: {name: Dafydd Gwynfardd, title: Baron}
 8107: {name: Chiara de'Danielli, title: Baroness}
@@ -4175,49 +4175,49 @@
 8134: {name: Gabriel Olken, title: Lord}
 8135: {name: Matthew Howe, title: Lord}
 8137: {name: Solia Corsali, title: Lady}
-8139: {name: Erasmus Severinus, title: Lord/Lady}
+8139: {name: Erasmus Severinus}
 8140: {name: Sydney Talbot, title: Lady}
-8142: {name: "Ragnveig Snorrad\xF3ttir", title: Master/Mistress}
-8144: {name: Ulfarr Refskegg, title: Lord/Lady}
-8146: {name: Sanada Toshiyasu, title: Lord/Lady}
-8147: {name: Lire du Pre, title: Lord/Lady}
+8142: {name: "Ragnveig Snorrad\xF3ttir"}
+8144: {name: Ulfarr Refskegg}
+8146: {name: Sanada Toshiyasu}
+8147: {name: Lire du Pre}
 8152: {name: Lucinda of Hidden Mountain, title: Lady}
 8153: {name: Eva wen verch Wilim, title: Lady}
 8154: {name: Ieuan ab Einion, title: Lord}
 8156: {name: Eleana Goatherder, title: Lady}
-8161: {name: Rorik of Mountains Keep, title: Lord/Lady}
+8161: {name: Rorik of Mountains Keep}
 8162: {name: "Elizabeth of Sumers\xE6ton", title: Lady}
-8163: {name: "Faol\xEF\xBF\xBDn mac Raghnaill", title: Lord/Lady}
+8163: {name: "Faol\xEF\xBF\xBDn mac Raghnaill"}
 8164: {name: Esa inghean Donnchaidh, title: Lady}
-8165: {name: Skaya of Anglesy, title: Lord/Lady}
+8165: {name: Skaya of Anglesy}
 8170: {name: Juliana da Mestre, title: Mistress}
-8174: {name: Avelina del Dolce, title: Lord/Lady}
+8174: {name: Avelina del Dolce}
 8175: {name: Derek Le Gard, title: Lord}
 8182: {name: Veronica Pasamonte, title: Baroness}
 8184: {name: "\xEF\xBF\xBDsa \xEF\xBF\xBDorarinsdottir", title: Lady}
 8185: {name: Biorn Eldiarnson, title: Lord}
-8187: {name: Cristobal Espada de Avalos, title: Lord/Lady}
+8187: {name: Cristobal Espada de Avalos}
 8188: {name: Eyja Feilan, title: Lady}
 8189: {name: Tessa da Verona, title: Lady}
 8191: {name: Julia of Caer Mear, title: Lady}
 8195: {name: Sanada Akime, title: Lady}
 8197: {name: Wrad of Ce, title: Lord}
-8201: {name: Ragnhildr Ingvarrsdottir, title: Lord/Lady}
+8201: {name: Ragnhildr Ingvarrsdottir}
 8202: {name: Margaret Lad, title: Lady}
-8205: {name: Caran DeBurg, title: Lord/Lady}
+8205: {name: Caran DeBurg}
 8213: {name: Bumi, title: Lord}
 8219: {name: Uriangqadai Cinoajin, title: Sir}
-8221: {name: Ivan Matfeevich Rezansky, title: Master/Mistress}
-8223: {name: Arnvaldr Arnason, title: Lord/Lady}
+8221: {name: Ivan Matfeevich Rezansky}
+8223: {name: Arnvaldr Arnason}
 8224: {name: Rorik of Mountain's Keep, title: Lord}
 8225: {name: Arthur Jerrison, title: Lord}
 8227: {name: Hector of Black Diamond, title: Lord}
 8228: {name: Alain Llewyllyn ap Rhaglan, title: Lord}
-8231: {name: Briget Wulferic, title: Lord/Lady}
-8232: {name: Cwenthryth wine, title: Lord/Lady}
-8233: {name: "J\xE1nos Mih\xE1ly", title: Master/Mistress}
-8241: {name: Alfarinn Valison, title: Lord/Lady}
-8242: {name: Rhiannon of Raven's Cove, title: Lord/Lady}
+8231: {name: Briget Wulferic}
+8232: {name: Cwenthryth wine}
+8233: {name: "J\xE1nos Mih\xE1ly"}
+8241: {name: Alfarinn Valison}
+8242: {name: Rhiannon of Raven's Cove}
 8243: {name: Ivan of House Hedgehog, title: Lord}
 8244: {name: Alaric Messer, title: Lord}
 8247: {name: Aurelia Tepes, title: Lady}
@@ -4234,7 +4234,7 @@
 8289: {name: Emma Dandelion, title: Lady}
 8290: {name: Godwyn Stuart De Lacy, title: Lord}
 8293: {name: Lanea verch Kerrigan, title: Baroness}
-8297: {name: Lothian ap Lyonesse, title: Lord}
+8297: {name: Mark Lothian ap Lyonesse, title: Lord}
 8298: {name: Rheanna Bjarkisdottir, title: Lady}
 8301: {name: Annora De Grasse, title: Lady}
 8302: {name: Miriam d'Hawke, title: Lady}
@@ -4245,18 +4245,18 @@
 8308: {name: Joiha Bugg, title: Lady}
 8309: {name: Aubelet Trapon, title: Lord}
 8312: {name: Marguerite De Lyon, title: Lady}
-8314: {name: Caitriona Beachadoir, title: Lord/Lady}
-8323: {name: Malcolm MacRae, title: Lord/Lady}
+8314: {name: Caitriona Beachadoir}
+8323: {name: Malcolm MacRae}
 8328: {name: "S\xEF\xBF\xBDamus Blaer de Maxwell", title: Lord}
 8329: {name: "M\xC3\xA1ire O Halowrane", title: Lady}
 8331: {name: Albree de Greene, title: Lady}
-8332: {name: Alasdair O Cuinn, title: Lord/Lady}
+8332: {name: Alasdair O Cuinn}
 8334: {name: Tereza Quinones de Toledo, title: Lady}
 8335: {name: Coenred aet Rauenesdale, title: Lord}
 8341: {name: "\xC6sa gyl\xF0ir", title: Lady}
 8342: {name: Solomon Grey, title: Lord}
 8343: {name: Torfin Blod Auga, title: Lord}
-8345: {name: 'Marius Agorius Donatus Minius Germanicus aka: Maximus', title: Lord/Lady}
+8345: {name: 'Marius Agorius Donatus Minius Germanicus aka: Maximus'}
 8355: {name: Scintillia of Darkwater, title: Lady}
 8360: {name: "Elena Mu\xF1os de Palma", title: Lady}
 8361: {name: Anne of Middlegate, title: Lady}
@@ -4281,7 +4281,7 @@
 8420: {name: Madog Hir, title: Lord}
 8421: {name: Aerinndis In Eyverska, title: Lady}
 8422: {name: Jocelyn of Black Diamond, title: Lady}
-8423: {name: Timoth of Black Diamond, title: Lord/Lady}
+8423: {name: Timoth of Black Diamond}
 8424: {name: Aislinn Gildara Breemore, title: Mistress}
 8426: {name: Hrefna i Lundi, title: Lady}
 8430: {name: Maria Robertsdaughter, title: Lady}
@@ -4292,7 +4292,7 @@
 8441: {name: Kadira Zamm-Zamm, title: Lady}
 8442: {name: Tomas de Luna, title: Lord}
 8445: {name: Kimura Aya, title: Lady}
-8450: {name: Douglas Morton, title: Lord/Lady}
+8450: {name: Douglas Morton}
 8455: {name: Wulfric Beornsson, title: Lord}
 8467: {name: Kein MacEwan, title: Duke}
 8468: {name: Sven Randullsson, title: Count}
@@ -4305,19 +4305,19 @@
 8485: {name: Jacob Leicester Field, title: Lord}
 8490: {name: Alonzo Falcone, title: Lord}
 8493: {name: Arwen Silvana, title: Lady}
-8494: {name: Anneke Volund, title: Lord/Lady}
+8494: {name: Anneke Volund}
 8495: {name: "Kolfinna in h\xE1rfagra", title: Lady}
 8499: {name: Alistair Ravenwood, title: Lord}
 8501: {name: Santiago Xavier, title: Lord}
-8502: {name: Cezilia of Macao, title: Lord/Lady}
+8502: {name: Cezilia of Macao}
 8503: {name: Mordred of Highland Foorde, title: Lord}
 8504: {name: Jennifer of Dun Curraig, title: Lady}
-8505: {name: Lee of Stierbach, title: Lord/Lady}
+8505: {name: Lee of Stierbach}
 8506: {name: William Hirst, title: Lord}
-8507: {name: Diana of Windmasters' Hill, title: Lord/Lady}
+8507: {name: Diana of Windmasters' Hill}
 8521: {name: "\xC9ithne ingen R\xF3n\xE1in", title: Lady}
-8523: {name: Durant, title: Lord/Lady}
-8525: {name: Caterina di Paulo, title: Lord/Lady}
+8523: {name: Durant}
+8525: {name: Caterina di Paulo}
 8537: {name: Magnus Ulfson, title: Lord}
 8538: {name: Ciosa di Tommasso, title: Lady}
 8539: {name: Jacqueline, title: Lady}
@@ -4325,9 +4325,9 @@
 8542: {name: Lothar of Atlantia, title: Lord}
 8543: {name: Nyvein Dyfnawal, title: Lady}
 8545: {name: Freug the Herbalist, title: Lady}
-8547: {name: Cedric, title: Lord/Lady}
+8547: {name: Cedric}
 8548: {name: Gawain de Barri, title: Lord}
-8551: {name: Aidan MacDrest, title: Lord/Lady}
+8551: {name: Aidan MacDrest}
 8554: {name: Hiroaki Akiyama, title: Lord}
 8555: {name: Kazuhiko Akiyama, title: Lord}
 8558: {name: Xavier da Corlione, title: Lord}
@@ -4336,16 +4336,16 @@
 8562: {name: Michal Almond de Champagne, title: Mistress}
 8564: {name: Felipe Leon Corazona, title: Lord}
 8565: {name: Gideon ap Stephen, title: Lord}
-8569: {name: Selene O'Cearbhuil of the Black Marsh, title: Lord/Lady}
+8569: {name: Selene O'Cearbhuil of the Black Marsh}
 8571: {name: Thea de Nes, title: Lady}
 8579: {name: Elizabeth Caton, title: Lady}
 8581: {name: Mevanou verch Reys Yriskynit, title: Lady}
 8582: {name: Syele Rose von Dampach, title: Lady}
-8584: {name: Aine d'Alton, title: Lord/Lady}
+8584: {name: Aine d'Alton}
 8598: {name: Giovanna de Aragona, title: Lady}
 8611: {name: Fedor Turovsyn, title: Lord}
 8613: {name: Albrecht Wellman, title: Lord}
-8614: {name: Abigael of Inishowen, title: Lord/Lady}
+8614: {name: Abigael of Inishowen}
 8619: {name: Reynsa Kyferin, title: Lady}
 8622: {name: Galfrid atte Grene, title: Lord}
 8623: {name: Ffernfael Kymro, title: Lord}
@@ -4372,11 +4372,11 @@
 8674: {name: Alexandre' de La Rochelle, title: Lord}
 8675: {name: Charisomos of Lakadaimonias, title: Master}
 8676: {name: Murin Dunn, title: Lady}
-8703: {name: Dallasce Dewayne, title: Lord/Lady}
-8705: {name: Philomene de Lys, title: Lord/Lady}
-8711: {name: Thorkel Odinson, title: Lord/Lady}
+8703: {name: Dallasce Dewayne}
+8705: {name: Philomene de Lys}
+8711: {name: Thorkel Odinson}
 8712: {name: "\xC1lfd\xEDs \xDE\xF3rsd\xF3ttir", title: Lady}
-8713: {name: Leandra di Giuseppe, title: Lord/Lady}
+8713: {name: Leandra di Giuseppe}
 8739: {name: Johan Andersson, title: Lord}
 8740: {name: Elizabeth Engweald, title: Lady}
 8741: {name: Rebecca of Middlegate, title: Lady}
@@ -4392,7 +4392,8 @@
 8766: {name: Hugo von Guthenbach, title: Lord}
 8770: {name: Vytautas Vilkas, title: Lord}
 8771: {name: Ginevra Fiammetta di Silvestri, title: Baroness}
-8782: {name: Thomas De Lockwood, title: Lord/Lady}
+8782: {name: Thomas De Lockwood}
+8787: {name: Dyggvi Hrolfsson, title: Lord}
 8788: {name: Thomas Kilbride, title: Lord}
 8792: {name: Alherin of Preachain, title: Lord}
 8793: {name: Lotharius qui et Segimundus, title: Lord}
@@ -4406,11 +4407,11 @@
 8821: {name: Eadyth Woderose, title: Baroness}
 8823: {name: Mary Elizabeth Brandon, title: Lady}
 8824: {name: Christop Gir, title: Lord}
-8832: {name: Gabriel von Regensburg, title: Lord/Lady}
+8832: {name: Gabriel von Regensburg}
 8833: {name: Eachann de Barde, title: Lord}
 8834: {name: "Arnoddr \xC3\xAD Ongulseyju", title: Lord}
 8835: {name: Sergei of Middleford, title: Lord}
-8837: {name: Tala al-Zahra, title: Lord/Lady}
+8837: {name: Tala al-Zahra}
 8838: {name: Fiore Al-Rumi, title: Lady}
 8845: {name: Alexina Mac Suibhne, title: Lady}
 8846: {name: Clara Brauer, title: Lady}
@@ -4419,79 +4420,78 @@
 8853: {name: Sanada Aya, title: Lady}
 8854: {name: Helena de Berkeley, title: Lady}
 8855: {name: Stoffel die Waeyer, title: Lord}
-8856: {name: Ena inghean Diarmata, title: Lord/Lady}
-8859: {name: Andrea Pellegrini, title: Master/Mistress}
+8856: {name: Ena inghean Diarmata}
+8859: {name: Andrea Pellegrini}
 8889: {name: Tiberius Aufidius Crispus, title: Lord}
 8890: {name: Gabriel d'Acre, title: Lord}
-8891: {name: Asgeir Vigsterkr, title: Lord/Lady}
+8891: {name: Asgeir Vigsterkr}
 8893: {name: Wolfgang von Trier, title: Lord}
-8894: {name: Eberhardt of Mountains Keep, title: Lord/Lady}
+8894: {name: Eberhardt of Mountains Keep}
 8895: {name: Matilda Wynter, title: Lady}
-8902: {name: Vivianne La Fleur, title: Lord/Lady}
-8903: {name: Cara of Raven's Cove, title: Lord/Lady}
-8904: {name: Runa of Serpent and Anvil, title: Lord/Lady}
+8902: {name: Vivianne La Fleur}
+8903: {name: Cara of Raven's Cove}
+8904: {name: Runa of Serpent and Anvil}
 8905: {name: Tatiana Berezetskaia, title: Lady}
 8906: {name: Juan de Rojo, title: Lord}
-8907: {name: Raedun Sigurdsdottir, title: Lord/Lady}
+8907: {name: Raedun Sigurdsdottir}
 8915: {name: Patris de Terra Lepori, title: Lord}
 8929: {name: "Arias Velard\xE9 de Santillana Del Mar", title: Lord}
-8936: {name: Louis Renart, title: Lord/Lady}
+8936: {name: Louis Renart}
 8938: {name: "Annaliese J\xE4ger", title: Baroness}
 8940: {name: Temur Chono Okhin, title: Lord}
-8942: {name: Francisco de la Torre, title: Lord/Lady}
+8942: {name: Francisco de la Torre}
 8945: {name: Birgid O'Donoghue, title: Lady}
 8948: {name: Jack of Windmasters Hill, title: Lord}
 8951: {name: Vadoma, title: Lady}
 8952: {name: Ingegerd Kastanrazi, title: Baroness}
 8957: {name: Gabriel James West, title: Lord}
-8980: {name: Bryn Tannahill of Ponte Alto, title: Lord/Lady}
+8980: {name: Bryn Tannahill of Ponte Alto}
 8985: {name: Alexander de Burdegala, title: Lord}
 8986: {name: Anthoinette Genheimer, title: Lady}
 8988: {name: Brandon D'Arindel, title: Viscount}
-8989: {name: Meghan MacIan of Loch Awe, title: Lord/Lady}
+8989: {name: Meghan MacIan of Loch Awe}
 8990: {name: Merewyn Scharp, title: Lady}
-8991: {name: Rinn, title: Lord/Lady}
+8991: {name: Rinn}
 8993: {name: Esme Bramley, title: Lady}
 8994: {name: Elizabeth Hatter, title: Lady}
-8999: {name: Augustina of Seareach, title: Lord/Lady}
-9000: {name: Celina de Bellmer, title: Lord/Lady}
+8999: {name: Augustina of Seareach}
+9000: {name: Celina de Bellmer}
 9001: {name: Marie Marschalc, title: Lady}
 9002: {name: Tessa di Fera, title: Lady}
 9003: {name: "Brynhildr Ka\xC3\xB0a F\xC3\xB3stra.", title: Lady}
 9004: {name: Daniel of Isenfir, title: Lord}
 9005: {name: Elspet de Blackhall, title: Lady}
 9006: {name: Airik Vatrhorn, title: Lord}
-9008: {name: Harper An Cu, title: Lord/Lady}
+9008: {name: Harper An Cu}
 9009: {name: Stormie Viktorsdottir, title: Lady}
 9011: {name: Aoife, title: Lady}
-9012: {name: Seth of Hawkwood, title: Lord/Lady}
+9012: {name: Seth of Hawkwood}
 9014: {name: Anubh na Preachain, title: Lady}
 9015: {name: Katheryne aff Kringskiep, title: Lady}
-9017: {name: Oddbjorg the Unshod, title: Lord/Lady}
-9027: {name: Dyggvi Hrolfsson, title: Lord}
+9017: {name: Oddbjorg the Unshod}
 9028: {name: "\xEF\xBF\xBD\xEF\xBF\xBDrunn V\xEF\xBF\xBDgad\xEF\xBF\xBDttir", title: Lady}
 9029: {name: Arailt of Dinsmore, title: Lord}
 9030: {name: Cormac MacKenna, title: Lord}
 9031: {name: Elena Norreys, title: Lady}
 9032: {name: Elza Gekht, title: Lady}
-9033: {name: Cambria Van de Varst, title: Lord/Lady}
-9034: {name: Cecelia of Lochmere, title: Lord/Lady}
+9033: {name: Cambria Van de Varst}
+9034: {name: Cecelia of Lochmere}
 9036: {name: "Trian  \xC3\u201C Gles\xC3\xA1in", title: Lord}
 9037: {name: Giovanna of Border Vale Keep, title: Lady}
 9038: {name: Eericka Valdemarsdotter, title: Lady}
-9048: {name: Brigit inghean Mhic Cionaoith, title: Lord/Lady}
+9048: {name: Brigit inghean Mhic Cionaoith}
 9053: {name: Joseph Isenfiri, title: Lord}
 9054: {name: Wolfengyre de la Pegas, title: Lord}
-9056: {name: Nakka Hjort, title: Lord/Lady}
+9056: {name: Nakka Hjort}
 9057: {name: Eryn Meadows, title: Lady}
 9058: {name: Katla Flokadottir, title: Lady}
 9059: {name: Angelo di Marino, title: Lord}
 9063: {name: "\xC3\u017E\xC3\xB3rhild Ro\xC3\xB0marsd\xC3\xB3ttir", title: Lady}
-9065: {name: John Carpenter, title: Lord/Lady}
+9065: {name: John Carpenter}
 9081: {name: Malena of Isenfir, title: Lady}
 9082: {name: Earik MacSkellie, title: Lord}
 9083: {name: "F\xC3\xADona n\xC3\xAD Chiardubh\xC3\xA1in", title: Lady}
-9085: {name: Caitrina inghean Fhearghuis, title: Lord/Lady}
+9085: {name: Caitrina inghean Fhearghuis}
 9088: {name: Valla-Ragna in Spaka, title: Lady}
 9093: {name: Tristan de Roquelaure, title: Lord}
 9095: {name: Adelaide of Roxbury Mill, title: Lady}
@@ -4499,12 +4499,12 @@
 9100: {name: Aesa Vigsterkr, title: Lady}
 9102: {name: "Dav\xC3\xAD\xC3\xB0 Smi\xC3\xB0sson", title: Lord}
 9105: {name: Sanada Tarou Makoto, title: Lord}
-9118: {name: Sven of Stierbach, title: Lord/Lady}
+9118: {name: Sven of Stierbach}
 9122: {name: Darci of Hawkwood, title: Lady}
 9123: {name: Theodore of Caer Mear, title: Lord}
 9125: {name: Iurii Vasilovich, title: Lord}
-9129: {name: Snorri Smedsonn, title: Lord/Lady}
-9130: {name: Knut Bjornsson, title: Lord/Lady}
+9129: {name: Snorri Smedsonn}
+9130: {name: Knut Bjornsson}
 9131: {name: Otto von Der Blau Kraken, title: Lord}
 9138: {name: Urith Verch Earle, title: Lady}
 9143: {name: Lewin de Partone, title: Lord}
@@ -4525,7 +4525,7 @@
 9220: {name: 'Janis of Clan Tannahill ', title: Lady}
 9221: {name: 'Heinrich von Holstein ', title: Lord}
 9229: {name: Alyce de Glaize, title: Lady}
-9263: {name: Amani Ahmad ibn Masha'al al-Sabti al-Dulaymi, title: Lord/Lady}
+9263: {name: Amani Ahmad ibn Masha'al al-Sabti al-Dulaymi}
 9285: {name: "Ellisif Gy\xC3\xB0adottir", title: Lady}
 9286: {name: "Urr\xC4\x81ka al-Tha`labiyya", title: Lady}
 9290: {name: "Vilhj\xEF\xBF\xBDlmr Larensson", title: Lord}
@@ -4540,10 +4540,10 @@
 9364: {name: Rin of Seven Hills, title: Lady}
 9374: {name: Knutr Vakrson, title: Lord}
 9378: {name: Donal Pelwyrm MacLaren, title: Lord}
-9382: {name: Alexandria Magdalena de Luce, title: Lord/Lady}
+9382: {name: Alexandria Magdalena de Luce}
 9384: {name: Reginald Warwick, title: Lord}
 9388: {name: Beatrix Krieger, title: Sir}
-9391: {name: Juliana Foxcroft, title: Master/Mistress}
+9391: {name: Juliana Foxcroft}
 9394: {name: "\xC3\u017Eorfinnr brimill", title: Sir}
 9395: {name: Una Olfuss, title: Princess}
 9397: {name: Geoffrey Hart, title: Lord}
