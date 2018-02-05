@@ -135,6 +135,7 @@ Benjamin Lilje: {
        event: Defending the Gate,
        reign: Christoph I and Adelhait I,
        relationships: {
+              Free Scholar Sponsors: "Master Dominyk, ?, ?",
               House: "Dragoon Guards"
         }
 }
