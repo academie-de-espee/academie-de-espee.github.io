@@ -9,7 +9,7 @@ title: Roster of Provosts
     <th> Date </th>
     <th> Event </th>
     <th> Monarch </th>
-    <th> Free Scholar Sponsors </th>
+    <th> Relationships </th>
 </tr>
 </thead>
 <tbody>
