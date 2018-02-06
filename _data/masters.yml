@@ -89,6 +89,7 @@ Christian von Nurnberg: {
        event: Atlantian 12th Night,
        reign: Christoph I and Adelhait I,
        relationships: {
+              Free Scholar Sponsors: "Sir Daemon, Lord Alejandro, and Lord Vyvyan"
        }
 }
 Raphael de la Rosa: {
@@ -98,7 +99,7 @@ Raphael de la Rosa: {
        event: Atlantian 12th Night,
        reign: Christoph I and Adelhait I,
        relationships: {
-              Free Scholar Sponsors: "Lord Alejandro, Lord Percy, and Lady Vyvyan",
+              Free Scholar Sponsors: "Lord Alejandro, Lord Percy, and Lord Vyvyan",
               Cadets: "Dyggvi Hrolfson, Oddbjorg the Unshod, Humfrey Lovett"
        }
 }
