@@ -224,6 +224,9 @@ Elphin ap Daffyd: {
   date: 8/25/2007,
   event: Sacred Stone Baronial Birthday,
   monarchs: Valharic and Arielle,
+  relationships: {
+       Free Scholar Sponsors: "Baron Robin, Mistress Ceridwen, Baron Duncan"
+       }
 }
 Rufus Pigboy: {
   op_id: 2749,
