@@ -3,7 +3,7 @@ Marguerite de Lyon:
   date: 10/04/2015
   form: Sword and Buckler
   event: Rapier Schola in Aethelmearc
-  sponsors: Master Alessandro, Master Connor, and Maestra Caitilin
+  sponsors: Master Alessandro, Master Connor, Maestra Caitilin
   misc: House Condotierri, cadet to Master Alessandro & Maestra Caitilin
   op_id: 8312
 Linhart Von Marburg:
@@ -13,7 +13,7 @@ Linhart Von Marburg:
   date: 11/22/2014
   form:
   event: Holiday Faire
-  sponsors: Maestero Giacomo, Lord Celric, and Lord Arghylle
+  sponsors: Maestero Giacomo, Lord Celric, Lord Arghylle
   misc: cadet to Maestero Giacomo
 Angeline Falconis:
   location: Lochmere
@@ -21,7 +21,7 @@ Angeline Falconis:
   date: 2014
   form:
   event: Gulf Wars
-  sponsors: Duke Ragnar, Master Richard, and Maestra Caitilin
+  sponsors: Duke Ragnar, Master Richard, Maestra Caitilin
   misc: cadet to Master Tristan & Master Modius of Ansteorra
 Colin McNab:
   op_id: 782
@@ -30,7 +30,7 @@ Colin McNab:
   date: 09/13/2014
   form: 
   event: Battle on the Bay
-  sponsors: Master Alan, Master Connor, and Lord Celric
+  sponsors: Master Alan, Master Connor, Lord Celric
   misc: 
 Gilig von Baden:
   location: Shire of Roxbury Mill
@@ -40,28 +40,28 @@ Aedh Ua Ruaic:
   date: 5/25/13
   form:
   event: Ruby Joust
-  sponsors: Maestro Dante, Master Wistric, and Master Connor
+  sponsors: Maestro Dante, Master Wistric, Master Connor
   misc: 
 Jean Maurice le Marinier:
   location: Marinus
   date: 2012
   form: 
   event: Coronation
-  sponsors: Master Jean Claude, Master Llwyd, and Lord Celric
+  sponsors: Master Jean Claude, Master Llwyd, Lord Celric
   misc: 
 Ella de Lille:
   location: Meridies
   date: 2010
   form:
   event: Defending the Gate
-  sponsors: Maestro Dante, Master Flaithri, and Lord Melchior
+  sponsors: Maestro Dante, Master Flaithri, Lord Melchior
   misc: 
 Symone de la Rochelle:
   location:
   date: 2010
   form:
   event: Chalice of the Sun God
-  sponsors: Master Alan, Maestro Giacomo, and Lord Melchior
+  sponsors: Master Alan, Maestro Giacomo, Lord Melchior
   misc: 
 Turvon Kuznetsov:
 Alyna of the Ilex:
@@ -129,14 +129,14 @@ Gavin Briare:
   date:
   form:
   event:
-  sponsors: Katherine Maunsel, ?, ?
+  sponsors: Lady Katherine, ?, ?
   misc: 
 Giovan Donato:
   location: Buckston-on-Eno
   date:
   form:
   event:
-  sponsors:
+  sponsors: Master Aedan, Mistress Ceridwen, Lord Vyvyan
   misc: 
 Iacopo Attaviano da Vizzi:
 Jack Wright:
@@ -147,7 +147,7 @@ Lucien de la Rochelle:
   date: 2010
   form:
   event: War of the Wings
-  sponsors: Lord Kirk, Lord Elphin, and Lord Melchior
+  sponsors: Lord Kirk, Lord Elphin, Lord Melchior
   misc: 
 Margaret Cameron:
 Marion le Red:
@@ -169,7 +169,7 @@ William Cameron:
   date:
   form:
   event:
-  sponsors: Master Robert, Master Alan, and Lord Percival
+  sponsors: Master Robert, Master Alan, Lord Percival
   misc: 
 Ylsa Broussard:
 Aldemere McRafe:
@@ -177,7 +177,7 @@ Aldemere McRafe:
   date: 11/19/2011
   form:
   event: Holiday Faire
-  sponsors: Lord Celric, Master Dominyk, and Master Raphael
+  sponsors: Lord Celric, Master Dominyk, Master Raphael
   misc: 
 Tassin Navetier:
   op_id: 7462
@@ -186,28 +186,28 @@ Tassin Navetier:
   date: 5/26/13
   form:
   event: Ruby Joust
-  sponsors: Maestro Dante, Master Wistric, and Master Raphael
+  sponsors: Maestro Dante, Master Wistric, Master Raphael
   misc: cadet to Maestro Dante
 Michael Wymarc:
   location: Black Diamond
   date: 2012
   form: 
   event: Holiday Faire
-  sponsors: Master Wistric, Lord Celric, And Master Raphael
+  sponsors: Master Wistric, Lord Celric, Master Raphael
   misc: 
 Marius Belisarius:
   location: Hawkwood
   date: 2012
   form: 
   event: War of the Wings
-  sponsors: Master Raphael, Lord Greylond, and Sir Christian
+  sponsors: Master Raphael, Lord Greylond, Sir Christian
   misc: 
 William Gilchrist Ross:
   location:
   date: 2012
   form:
   event: Night Under the Town
-  sponsors: Mistriss Ceridwen, Master Connor, and Lord Geoffrey
+  sponsors: Mistriss Ceridwen, Master Connor, Lord Geoffrey
   misc: 
 Sinclair Hawkins:
   op_id: 2555
@@ -215,21 +215,21 @@ Sinclair Hawkins:
   date:
   form: 
   event: Coronation
-  sponsors: Duke Ragnar, Maestro Giacomo, and Master Raphael
+  sponsors: Duke Ragnar, Maestro Giacomo, Master Raphael
   misc: 
 Felipe de Pamplona:
   location:
   date: 2011
   form: 
   event: Ymir
-  sponsors: Sir Christian, Lord Elphin and Master Raphael
+  sponsors: Sir Christian, Lord Elphin, Master Raphael
   misc: 
 Jusef:
   location: Black Diamond
   date: 2010
   form: 
   event: Chalice of the Sun God
-  sponsors: Mistriss Ceridwen, Master Marcellus, and Lord Geoffrey
+  sponsors: Mistriss Ceridwen, Master Marcellus, Lord Geoffrey
   misc: 
 Joscelin d'Outremer:
   location: Ponte Alto
