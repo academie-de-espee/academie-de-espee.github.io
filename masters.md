@@ -45,7 +45,7 @@ title: Roster of Masters
     <td> {{ item.reign }} </td>
     <td> {% if item.relationships != null %}
         <ul style="margin-top:0; margin-bottom:0;">
-        {% assign sorted_rels = item.relationships | sort %}
+        {% assign sorted_rels = site.data.provosts[item.relationships] | sort %}
         {% for entry in sorted_rels %}
             {% assign name_rel = entry[0] %}
             {% assign item_rel = entry[1] %}
