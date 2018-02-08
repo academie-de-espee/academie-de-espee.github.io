@@ -31,3 +31,6 @@ nav:
     href: /artwork
   - text: Links
     href: /links
+collections:
+    personas:
+        output: true
