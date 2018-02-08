@@ -21,6 +21,9 @@ Nathaniel Sharpe: {
   date: 4/20/1996,
   event: Coronation of Galmr and Katharina,
   monarchs: Galmr and Katharina,
+  relationships: {
+              House: "Gardiner's Company"
+       }
 }
 Ceridwen ferch Owain: {
   op_id: 719,
@@ -54,6 +57,9 @@ Alan of Gravesend: {
   date: 4/20/1996,
   event: Coronation of Galmr and Katharina,
   monarchs: Galmr and Katharina,
+  relationships: {
+    House: "Gardiner's Company"
+  }
 }
 Duncan Gregor MacGregor: {
   op_id: 987,
@@ -72,6 +78,9 @@ Aedan Aylwyn: {
   date: 4/20/1996,
   event: Coronation of Galmr and Katharina,
   monarchs: Galmr and Katharina,
+  relationships: {
+    Free Scholar Sponsors: "???"
+    }
 }
 Vyvyan Broussard: {
   op_id: 3158,
@@ -156,6 +165,9 @@ Connor Levingestoune: {
   date: 2/15/2003,
   event: Ymir,
   monarchs: Cuan and Padraigin,
+  relationships: {
+              Sponsored Free Scholars: "A lot..."
+       }
 }
 Marcellus Capoziello da Napoli: {
   op_id: 2102,
@@ -180,6 +192,9 @@ Christopher MacConing: {
   date: 2/12/2005,
   event: Tourney of Ymir,
   monarchs: Janos and Rachel,
+  relationships: {
+              House: "Gardiner's Company"
+       }
 }
 Kynnyth Pyke: {
   op_id: 842,
@@ -192,6 +207,9 @@ Christian von Nurnberg: {
   date: 1/13/2007,
   event: Kingdom Twelfth Night,
   monarchs: Ragnarr and Anneke,
+  relationships: {
+              Free Scholar Sponsors: "Sir Daemon, Lord Alejandro, and Lord Vyvyan"
+       }
 }
 Melchior zum grauen Wolf: {
   op_id: 2215,
@@ -251,6 +269,11 @@ Dante di Pietro: {
   date: 8/5/2008,
   event: Pennsic War XXXVII,
   monarchs: Sinclair and Kari,
+  relationships: {
+              Free Scholar Sponsors: "Master Aedan, Master Connor, Sir Roland",
+              Sponsored Free Scholars: "Ella de Lille, Aedh ua Ruiarc, Gawin Kappler, Tassin Navetier, Gilig von Baden, Sanada Terasu",
+              Students in Fealty: "Tassin Navetier, Sanada Katsumi"
+       }
 }
 Greylond Crow: {
   op_id: 1394,
@@ -284,6 +307,13 @@ Dominyk Wolferam: {
   date: 5/23/2009,
   event: Sapphire Joust X,
   monarchs: Logan and Esa,
+  relationships: {
+         Free Scholar Sponsors: "Master Connor, Lord Percy, and Master Chris",
+         Former Student: "Armand of Caer Mear",
+         Sponsored Free Scholars: "Aldemere McRafe, Armand of Caer Mear, Benjamin Lilje",
+         Ensign: "Colette Vitalis",
+         House: "Dragoon Guards"
+         }
 }
 Stephen Bridewell: {
   op_id: 2895,
@@ -312,6 +342,10 @@ Raphael de la Rosa: {
   date: 10/8/2010,
   event: War of the Wings V,
   monarchs: Bryan and Brianna,
+  relationships: {
+              Free Scholar Sponsors: "Lord Alejandro, Lord Percy, and Lord Vyvyan",
+              Cadets: "Dyggvi Hrolfson, Oddbjorg the Unshod, Humfrey Lovett"
+       }
 }
 Wistric Oftun: {
   op_id: 3789,
@@ -336,6 +370,12 @@ Caitilin Inghean Fheichin: {
   date: 8/8/2012,
   event: Pennsic War XLI,
   monarchs: Bryan and Brianna,
+  relationships: {
+          Cadetted to: "Don Tristan von Heidelburg (Ansteorra)",
+          Cadet: "Marguerite de Lyon",
+          Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
+          House: "Dragoon Guards, ATATs"
+       }
 }
 Matheu Herrero de Cadiz: {
   op_id: 4343,
@@ -348,12 +388,22 @@ Brian de Morray: {
   date: 7/31/2013,
   event: Pennsic War,
   monarchs: Amos and Ysabella,
+  relationships: {
+        Free Scholar Sponsors: "Kynny, Master Marcellus, and Master Christian",
+        Laurel: "Isobel Gildingwater of Ditchingham",
+        Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Joscelin d'Outremer",
+        House: "Gardiner's Company, ATATs"
+        }
 }
 Benjamin Lilje: {
   op_id: 3781,
   date: 3/29/2014,
   event: Defending the Gate XIII,
   monarchs: Ragnarr and Lynette,
+   relationships: {
+              Free Scholar Sponsors: "Master Dominyk, ?, ?",
+              House: "Dragoon Guards"
+        }
 }
 Alric the Mad: {
   op_id: 3296,
@@ -421,6 +471,12 @@ Alessandro Andretti: {
   date: 7/31/2013,
   event: Pennsic War,
   monarchs: (Originally made in Ansteorra),
+  relationships: {
+              Cadetted to: "Master Aeron Harper",
+              Cadet: "Marguerite de Lyon",
+              Sponsored Free Scholars: "Marguerite de Lyon, Bumi Fong",
+              House: "ATATs"
+       }
 }
 Torse Hartman: {
   op_id: 7587,
@@ -462,4 +518,13 @@ Drogo Rainulf de Dragonera: {
   date: 6/3/2017,
   event: Storvik Novice and Unbelt,
   monarchs: Cuan VII and Signy I,
+}
+Charimmos of Lakadaimonias: {
+       op_id: 8675,
+       date: 8/7/2009,
+       event: Pennsic War,
+       reign: (Originally made in Northshield),
+       relationships: {
+          Former Cadets: "Seamus MacRae (Outlands), Dante Falconis (Northshield), Clydwyn Gwehydd (Northshield), Dafydd Morrison (Outlands)"
+       }
 }
