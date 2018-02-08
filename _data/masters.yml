@@ -30,8 +30,8 @@ Giacomo Luciano Savior Vincenti di Firenze: {
 Dante di Pietro: {
        op_id: 880,
        location: Caer Mear,
-       date: Stierbach Baronial Birthday,
-       event: 6/20/2015,
+       date: 6/20/2015,
+       event: Stierbach Baronial Birthday,
        reign: Logan VII and Esa II,
        relationships: {
               Free Scholar Sponsors: "Master Aedan, Master Connor, Sir Roland",
