@@ -77,13 +77,15 @@ Constanza de Talavera:
   date:
   form:
   event:
-  sponsors: Lord Percival, ?, ?
+  sponsors: Lord Percival, Mistress Isobel, Lord Vyvyan
   misc: 
 Kenji Yoshimoto:
   location: Lochmere
-  misc: 
+  sponsors: Lord Percival, ?, ?
+  misc:
 Alyce / Alexander Blood:
   location: Bright Hills
+  sponsors: Mistress Isobel, Master Connor, Master Marcellus
   misc: 
 Angharad Melys:
   misc: 
@@ -92,44 +94,52 @@ Anna / Adrian Collins:
   date:
   form:
   event:
-  sponsors:
+  sponsors: Master Robert, ?, ?
   misc: 
 Bastian de la Salle:
   location: Nottinghill Coill
   date:
   form:
   event:
-  sponsors:
+  sponsors: Jacques, Lord Nathanial, Lord Kirk
   misc: 
 Beatrice LaGrave:
+  sponsors: Lord Nathanial, Master Alan, Mistress Isobel
 Bledri Ap Llew:
+  sponsors: Mistress Ceridwen, ?, ?
 Briana of Skye:
+  sponsors: Mistress Isobel, Master Philip, Baron Gregor
 Calledon of Halbourne:
+  sponsors: Lord Vyvyan, Mistress Ceridwen, Lord Gunther
 Corun MacAnndra:
+  sponsors: Master Aedan, Master Alan, Sir Roland
 Donovan Morgan:
+  sponsors: Master Robert, Master Alan, Baron Gregor
 Duarte Negin de los Angeles y Blanco:
 Duncan MacLaren:
+  sponsors: Lord Alejandro, Sir Daemon, Mistress Ceridwen
 Fredrick von Heinrich:
+  sponsors: Lord Percival, Lord Gunther, Master Philip
 Galen of Black Diamond:
   location: Buckston-on-Eno 
   date:
   form:
   event:
-  sponsors:
+  sponsors: Master Gerlach, Baron Gregor, Master Robert
   misc: 
 Gaston du Valmont:
   location: Elvegast
   date:
   form:
   event:
-  sponsors:
+  sponsors: Master Alan, Master Giacomo, Master Philip
   misc: 
 Gavin Briare:
   location: 
   date:
   form:
   event:
-  sponsors: Lady Katherine, ?, ?
+  sponsors: Lady Katherine, Lord Geoffrey, Master Robert
   misc: 
 Giovan Donato:
   location: Buckston-on-Eno
@@ -139,8 +149,11 @@ Giovan Donato:
   sponsors: Master Aedan, Mistress Ceridwen, Lord Vyvyan
   misc: 
 Iacopo Attaviano da Vizzi:
+  sponsors: Mistress Ceridwen, ?, ?
 Jack Wright:
+  sponsors: Lord Nathanial, ?, ?
 Jehan-Franc de Blauvac:
+  sponsors: Master Richard, Master Robert, Lord Nathanial
 Kostantin Volkovitch (Kostka):
 Lucien de la Rochelle:
   location:
@@ -150,20 +163,26 @@ Lucien de la Rochelle:
   sponsors: Lord Kirk, Lord Elphin, Lord Melchior
   misc: 
 Margaret Cameron:
+  sponsors: Lord Gregor, ?, ?
 Marion le Red:
   location: Elvegast
   date:
   form:
   event:
-  sponsors:
+  sponsors: Lord Alejandro, Master Alan, Lord Gunther
   misc: 
 Matilda Grille (Tilly):
+  sponsors: ???
 Orlando de Olivares Y Salazar:
+  sponsors: Master Philip, ?, ?
 Penelope Blood:
-  misc: 
+  sponsors: Mistress Isobel, Lord Gregorie, Master Gerlach
+  misc:
   op_id: 2478
 Thorbrandr Olafsson:
+  sponsors: ???
 Thorgrimr inn Kyrri:
+  sponsors: Lord Percival, ?, ?
 William Cameron:
   location: Caer Mear 
   date:
