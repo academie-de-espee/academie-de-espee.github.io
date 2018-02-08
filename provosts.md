@@ -2,7 +2,7 @@
 title: Roster of Provosts
 ---
 
-<table class="pure-table pure-table-bordered" width="100%">
+<table class="pure-table pure-table-bordered sortable" width="100%">
 <thead>
 <tr>
     <th> Name </th>
@@ -39,3 +39,5 @@ title: Roster of Provosts
 {% endfor %}
 </tbody>
 </table>
+
+<script src="/js/sorttable.js"></script>

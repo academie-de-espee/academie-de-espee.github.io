@@ -2,7 +2,7 @@
 title: Roster of Masters
 ---
 
-<table class="pure-table pure-table-bordered" width="100%">
+<table class="pure-table pure-table-bordered sortable" width="100%">
 <thead>
 <tr>
    <th> Name </th>
@@ -60,3 +60,5 @@ title: Roster of Masters
 </table>
 
 Are you a master?  Do you want your name listed above?  Email [Lord Linhart Von Marburg](mailto:rmauler@gmail.com) or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
+
+<script src="/js/sorttable.js"></script>
