@@ -257,18 +257,27 @@ Greylond Crow: {
   date: 8/6/2008,
   event: Pennsic War XXXVII,
   monarchs: Sinclair and Kari,
+  relationships: {
+    Free Scholar Sponsors: "???",
+    }
 }
 Celric d'Ravelle: {
   op_id: 715,
   date: 2/14/2009,
   event: Tourney of Ymir 2009,
   monarchs: Jason and Gerhild,
+  relationships: {
+    Free Scholar Sponsors: "Master Connor, Duke Ragnar, Master Llwyd",
+    }
 }
 Geoffrey Clwyd: {
   op_id: 1312,
   date: 4/11/2009,
   event: Coronation of Logan and Esa,
   monarchs: Logan and Esa,
+  relationships: {
+    Free Scholar Sponsors: "Lord Percival, ?, ?",
+    }
 }
 Dominyk Wolferam: {
   op_id: 953,
@@ -281,6 +290,9 @@ Stephen Bridewell: {
   date: 6/13/2009,
   event: The Golden Rose Tournament,
   monarchs: Logan and Esa,
+  relationships: {
+    Free Scholar Sponsors: "Lord Percival, Master Giacomo, Master Robert",
+    }
 }
 Bell Phoebe de Givet: {
   op_id: 478,
@@ -315,6 +327,9 @@ Arghylle Buchanan: {
   date: 4/14/2012,
   event: Spring Coronation,
   monarchs: Cuan and Padraigin,
+  relationships: {
+    Free Scholar Sponsors: "Lord Kirk, Jaques, Lord Nathanial",
+    }
 }
 Caitilin Inghean Fheichin: {
   op_id: 7049,
@@ -357,13 +372,18 @@ Letia Thistelthueyt: {
   date: 2/28/2015,
   event: Tournament of Ymir,
   monarchs: Michael and Seonaid,
-  fssponsors: Master Connor, Mistress Ceridwen, Lord Percival,
+  relationships: {
+    Free Scholar Sponsors: "Master Connor, Mistress Ceridwen, Lord Percival"
+    }
 }
 Ysane de la Selle: {
   op_id: 3250,
   date: 3/18/2015,
   event: Gulf Wars,
   monarchs: Michael and Seonaid,
+  relationships: {
+    Free Scholar Sponsors: "Lord Percival, ?, ?"
+    }
 }
 Armand of Caer Mear: {
   op_id: 3802,
@@ -376,6 +396,9 @@ Etain of Sutherland: {
   date: 1/9/2016,
   event: Twelfth Night,
   monarchs: Christoph and Adelhait,
+  relationships: {
+    Free Scholar Sponsors: "Lord Kirk, Lord Alejandro, Lord Percival"
+    }
 }
 Johann Caldron: {
   op_id: 1696,
