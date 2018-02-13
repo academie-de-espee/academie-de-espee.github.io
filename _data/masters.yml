@@ -36,7 +36,8 @@ Dante di Pietro: {
        relationships: {
               Free Scholar Sponsors: "Master Aedan, Master Connor, Sir Roland",
               Sponsored Free Scholars: "Ella de Lille, Aedh ua Ruiarc, Gawin Kappler, Tassin Navetier, Gilig von Baden, Sanada Terasu",
-              Students in Fealty: "Tassin Navetier, Sanada Katsumi"
+              Students in Fealty: "Tassin Navetier, Sanada Katsumi",
+              House: "The Company of the Dragoon Guards"
        }
 }
 Connor Levingestoune: {
@@ -79,7 +80,8 @@ Flaithri O'Cearnaigh: {
        event: Pennsic War,
        reign: Logan VII and Esa II,
        relationships: {
-              Free Scholar Sponsors: "???"
+              Free Scholar Sponsors: "???",
+              House: "The Company of the Dragoon Guards"
        }
 }
 Christian von Nurnberg: {
@@ -100,7 +102,8 @@ Raphael de la Rosa: {
        reign: Christoph I and Adelhait I,
        relationships: {
               Free Scholar Sponsors: "Lord Alejandro, Lord Percy, and Lord Vyvyan",
-              Cadets: "Dyggvi Hrolfson, Oddbjorg the Unshod, Humfrey Lovett"
+              Cadets: "Dyggvi Hrolfson, Oddbjorg the Unshod, Humfrey Lovett",
+              House: "The Company of the Dragoon Guards"
        }
 }
 Dominyk Wolferam: {
@@ -114,7 +117,7 @@ Dominyk Wolferam: {
          Former Student: "Armand of Caer Mear",
          Sponsored Free Scholars: "Aldemere McRafe, Armand of Caer Mear, Benjamin Lilje",
          Ensign: "Colette Vitalis",
-         House: "Dragoon Guards"
+         House: "The Company of the Dragoon Guards"
          }
 }
 Caitilín Inghean Fheichín: {
@@ -127,7 +130,7 @@ Caitilín Inghean Fheichín: {
           Cadetted to: "Don Tristan von Heidelburg (Ansteorra)",
           Cadet: "Marguerite de Lyon",
           Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
-          House: "Dragoon Guards, ATATs"
+          House: "The Company of the Dragoon Guards, ATATs"
        }
 }
 Benjamin Lilje: {
@@ -138,7 +141,7 @@ Benjamin Lilje: {
        reign: Christoph I and Adelhait I,
        relationships: {
               Free Scholar Sponsors: "Master Dominyk, ?, ?",
-              House: "Dragoon Guards"
+              House: "The Company of the Dragoon Guards"
         }
 }
 Brian de Moray: {
