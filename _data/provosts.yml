@@ -235,6 +235,7 @@ Llwyd Aldrydd: {
   relationships: {
        Free Scholar Sponsors: "Master Aedan, Lord Percy, and Sir Roland",
        Sponsored Free Scholars: "Celric d'Ravelle, Jean Maurice de Calais, and Ulfarr Refskegg",
+       House: "The Company of the Dragoon Guards"
        }
 }
 Elphin ap Daffyd: {
@@ -263,6 +264,7 @@ Flaithri O Cearnaigh: {
   date: 3/22/2008,
   event: Defending the Gate/Stierbach Investiture,
   monarchs: Logan and Rowan,
+  House: "The Company of the Dragoon Guards",
 }
 Dante di Pietro: {
   op_id: 880,
@@ -272,7 +274,8 @@ Dante di Pietro: {
   relationships: {
               Free Scholar Sponsors: "Master Aedan, Master Connor, Sir Roland",
               Sponsored Free Scholars: "Ella de Lille, Aedh ua Ruiarc, Gawin Kappler, Tassin Navetier, Gilig von Baden, Sanada Terasu",
-              Students in Fealty: "Tassin Navetier, Sanada Katsumi"
+              Students in Fealty: "Tassin Navetier, Sanada Katsumi",
+              House: "The Company of the Dragoon Guards",
        }
 }
 Greylond Crow: {
@@ -312,7 +315,7 @@ Dominyk Wolferam: {
          Former Student: "Armand of Caer Mear",
          Sponsored Free Scholars: "Aldemere McRafe, Armand of Caer Mear, Benjamin Lilje",
          Ensign: "Colette Vitalis",
-         House: "Dragoon Guards"
+         House: "The Company of the Dragoon Guards"
          }
 }
 Stephen Bridewell: {
@@ -344,7 +347,8 @@ Raphael de la Rosa: {
   monarchs: Bryan and Brianna,
   relationships: {
               Free Scholar Sponsors: "Lord Alejandro, Lord Percy, and Lord Vyvyan",
-              Cadets: "Dyggvi Hrolfson, Oddbjorg the Unshod, Humfrey Lovett"
+              Cadets: "Dyggvi Hrolfson, Oddbjorg the Unshod, Humfrey Lovett",
+              House: "The Company of the Dragoon Guards",
        }
 }
 Wistric Oftun: {
@@ -374,14 +378,14 @@ Caitilin Inghean Fheichin: {
           Cadetted to: "Don Tristan von Heidelburg (Ansteorra)",
           Cadet: "Marguerite de Lyon",
           Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
-          House: "Dragoon Guards, ATATs"
+          House: "The Company of the Dragoon Guards, ATATs"
        }
 }
 Matheu Herrero de Cadiz: {
   op_id: 4343,
   date: 4/6/2013,
   event: Atlantian Spring Coronation,
-  monarchs: Vladimir and Kalisa ,
+  monarchs: Vladimir and Kalisa,
 }
 Brian de Morray: {
   op_id: 3334,
@@ -402,7 +406,7 @@ Benjamin Lilje: {
   monarchs: Ragnarr and Lynette,
    relationships: {
               Free Scholar Sponsors: "Master Dominyk, ?, ?",
-              House: "Dragoon Guards"
+              House: "The Company of the Dragoon Guards"
         }
 }
 Alric the Mad: {
@@ -440,6 +444,10 @@ Armand of Caer Mear: {
   date: 3/20/2015,
   event: Gulf Wars,
   monarchs: Michael and Seonaid,
+  relationships: {
+    Free Scholar Sponsors: "Master Dominyk, ?, ?",
+    House: "The Company of the Dragoon Guards"
+    }
 }
 Etain of Sutherland: {
   op_id: 1175,
@@ -487,8 +495,7 @@ Torse Hartman: {
     Free Scholar Spnsors: "Lord Greylond, Master Raphael, Lord Matheu",
     Sponsored Free Scholars: "Trian Ó Glesáin",
     House: "House Condottieri",
-  },
-  misc: House Condottieri
+  }
 }
 Maxamilian Brudder: {
   op_id: 7708,
