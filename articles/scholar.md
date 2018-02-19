@@ -34,7 +34,7 @@ A side note; once you become a scholar, you (along with everybody else in the Ac
 and display the badge of the Academie d'Espee. Heraldically, this is; Or, two rapiers crossed in saltire sable between
 four roses azure. In plain language, that means two black crossed rapiers (handles at the bottom). In each space of
 the crossed rapiers there's a blue rose. The background is gold. You can see a picture of the badge on the
-[Academie d'Espee website](/artwork). You can put this on anything you like; a tabard, painted on your
+[Academie d'Espee website](/images/ade_badge.gif). You can put this on anything you like; a tabard, painted on your
 mask mesh, on your rapier hood, on your cloak, on your buckler, anywhere!
 
 Who can be a Scholar? ANYONE. Nobleman, peasants, knights, their squires, Spaniards, pirates, gypsies, heavy fighters,
