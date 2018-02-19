@@ -2,12 +2,12 @@ Colette Vitalis:
   op_id: 8367
   location: Storvik
   form: Sword and Dagger
-  misc: ensign to Master Dominyk, Dragoon Guards
+  misc: ensign to Master Dominyk, The Company of the Dragoon Guards
 Ayla Von Dahauua:
   op_id: 8758
   location: Storvik
   form: Sword and Dagger
-  misc:
+  misc: The Company of the Dragoon Guards
 Allister Greenbrier:
   op_id: 8482
   location: Stierbach
@@ -115,3 +115,8 @@ Deianira of Rivenstar:
   location: Storvik
   form: Sword and Dagger
   misc:
+Mathius von Haus Panther:
+  op_id: 
+  location: Cyddlain Downs
+  form: Sword and Dagger
+  misc: 

@@ -4,7 +4,7 @@ Marguerite de Lyon:
   form: Sword and Buckler
   event: Rapier Schola in Aethelmearc
   sponsors: Master Alessandro, Master Connor, Maestra Caitilin
-  misc: House Condotierri, cadet to Master Alessandro & Maestra Caitilin
+  misc: House Condottieri, cadet to Master Alessandro & Maestra Caitilin
   op_id: 8312
 Linhart Von Marburg:
   op_id: 7979
@@ -14,7 +14,7 @@ Linhart Von Marburg:
   form:
   event: Holiday Faire
   sponsors: Maestero Giacomo, Lord Celric, Lord Arghylle
-  misc: cadet to Maestero Giacomo
+  misc: cadet to Maestero Giacomo, The Company of the Dragoon Guards
 Angeline Falconis:
   location: Lochmere
   op_id: 7922
@@ -77,13 +77,15 @@ Constanza de Talavera:
   date:
   form:
   event:
-  sponsors: Lord Percival, ?, ?
+  sponsors: Lord Percival, Mistress Isobel, Lord Vyvyan
   misc: 
 Kenji Yoshimoto:
   location: Lochmere
-  misc: 
+  sponsors: Lord Percival, ?, ?
+  misc: The Company of the Dragoon Guards
 Alyce / Alexander Blood:
   location: Bright Hills
+  sponsors: Mistress Isobel, Master Connor, Master Marcellus
   misc: 
 Angharad Melys:
   misc: 
@@ -92,44 +94,53 @@ Anna / Adrian Collins:
   date:
   form:
   event:
-  sponsors:
+  sponsors: Master Robert, ?, ?
   misc: 
 Bastian de la Salle:
   location: Nottinghill Coill
   date:
   form:
   event:
-  sponsors:
+  sponsors: Jacques, Lord Nathanial, Lord Kirk
   misc: 
 Beatrice LaGrave:
+  sponsors: Lord Nathanial, Master Alan, Mistress Isobel
 Bledri Ap Llew:
+  sponsors: Mistress Ceridwen, ?, ?
 Briana of Skye:
+  sponsors: Mistress Isobel, Master Philip, Baron Gregor
+  misc: The Company of the Dragoon Guards
 Calledon of Halbourne:
+  sponsors: Lord Vyvyan, Mistress Ceridwen, Lord Gunther
 Corun MacAnndra:
+  sponsors: Master Aedan, Master Alan, Sir Roland
 Donovan Morgan:
+  sponsors: Master Robert, Master Alan, Baron Gregor
 Duarte Negin de los Angeles y Blanco:
 Duncan MacLaren:
+  sponsors: Lord Alejandro, Sir Daemon, Mistress Ceridwen
 Fredrick von Heinrich:
+  sponsors: Lord Percival, Lord Gunther, Master Philip
 Galen of Black Diamond:
   location: Buckston-on-Eno 
   date:
   form:
   event:
-  sponsors:
+  sponsors: Master Gerlach, Baron Gregor, Master Robert
   misc: 
 Gaston du Valmont:
   location: Elvegast
   date:
   form:
   event:
-  sponsors:
+  sponsors: Master Alan, Master Giacomo, Master Philip
   misc: 
 Gavin Briare:
   location: 
   date:
   form:
   event:
-  sponsors: Lady Katherine, ?, ?
+  sponsors: Lady Katherine, Lord Geoffrey, Master Robert
   misc: 
 Giovan Donato:
   location: Buckston-on-Eno
@@ -139,8 +150,11 @@ Giovan Donato:
   sponsors: Master Aedan, Mistress Ceridwen, Lord Vyvyan
   misc: 
 Iacopo Attaviano da Vizzi:
+  sponsors: Mistress Ceridwen, ?, ?
 Jack Wright:
+  sponsors: Lord Nathanial, ?, ?
 Jehan-Franc de Blauvac:
+  sponsors: Master Richard, Master Robert, Lord Nathanial
 Kostantin Volkovitch (Kostka):
 Lucien de la Rochelle:
   location:
@@ -150,20 +164,26 @@ Lucien de la Rochelle:
   sponsors: Lord Kirk, Lord Elphin, Lord Melchior
   misc: 
 Margaret Cameron:
+  sponsors: Lord Gregor, ?, ?
 Marion le Red:
   location: Elvegast
   date:
   form:
   event:
-  sponsors:
+  sponsors: Lord Alejandro, Master Alan, Lord Gunther
   misc: 
 Matilda Grille (Tilly):
+  sponsors: ???
 Orlando de Olivares Y Salazar:
+  sponsors: Master Philip, ?, ?
 Penelope Blood:
-  misc: 
+  sponsors: Mistress Isobel, Lord Gregorie, Master Gerlach
+  misc:
   op_id: 2478
 Thorbrandr Olafsson:
+  sponsors: ???
 Thorgrimr inn Kyrri:
+  sponsors: Lord Percival, ?, ?
 William Cameron:
   location: Caer Mear 
   date:
@@ -187,7 +207,7 @@ Tassin Navetier:
   form:
   event: Ruby Joust
   sponsors: Maestro Dante, Master Wistric, Master Raphael
-  misc: cadet to Maestro Dante
+  misc: cadet to Maestro Dante, House Condottieri
 Michael Wymarc:
   location: Black Diamond
   date: 2012
@@ -244,7 +264,7 @@ Bumi:
   form:
   event: Night on the Town
   sponsors: Lord Armand, Master Connor, Master Alessandro
-  misc: House Condottieri, Dragoon Guards
+  misc: House Condottieri, The Company of the Dragoon Guards
 Sanada Akime:
   location: Stierbach
   date: 11/19/2016
@@ -260,7 +280,7 @@ Ffernfael Kymro:
   form:
   event: Holiday Faire
   sponsors: Maestra Caitilin, Lord Terasu, Lord Celric
-  misc: Dragoon Guards
+  misc: The Company of the Dragoon Guards
   op_id: 8623
 Feodosiia Alekseeva zhena:
   location: Sacred Stone
