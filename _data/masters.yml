@@ -142,7 +142,8 @@ Benjamin Lilje: {
        reign: Christoph I and Adelhait I,
        relationships: {
               Free Scholar Sponsors: "Master Dominyk, ?, ?",
-              House: "The Company of the Dragoon Guards"
+              House: "The Company of the Dragoon Guards",
+              Not-House: "ATATs",
         }
 }
 Brian de Moray: {
