@@ -70,7 +70,7 @@ Alessandro Andretti: {
               Cadetted to: "Master Aeron Harper",
               Cadet: "Marguerite de Lyon",
               Sponsored Free Scholars: "Marguerite de Lyon, Bumi Fong",
-              House: "ATATs"
+              Not-House: "ATATs"
        }
 }
 Flaithri O'Cearnaigh: {
@@ -130,7 +130,8 @@ Caitilín Inghean Fheichín: {
           Cadetted to: "Don Tristan von Heidelburg (Ansteorra)",
           Cadet: "Marguerite de Lyon",
           Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
-          House: "The Company of the Dragoon Guards, ATATs"
+          House: "The Company of the Dragoon Guards",
+          Not-House: "ATATs"
        }
 }
 Benjamin Lilje: {
@@ -154,7 +155,8 @@ Brian de Moray: {
         Free Scholar Sponsors: "Kynny, Master Marcellus, and Master Christian",
         Laurel: "Isobel Gildingwater of Ditchingham",
         Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Joscelin d'Outremer",
-        House: "Gardiner's Company, ATATs"
+        House: "Gardiner's Company",
+        Not-House: "ATATs"
         }
 }
 Charimmos of Lakadaimonias: {
