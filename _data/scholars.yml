@@ -2,12 +2,12 @@ Colette Vitalis:
   op_id: 8367
   location: Storvik
   form: Sword and Dagger
-  misc: ensign to Master Dominyk, The Company of the Dragoon Guards
+  misc: ensign to Master Dominyk, The Company of the Dragoon Guards, Not-House ATATs
 Ayla Von Dahauua:
   op_id: 8758
   location: Storvik
   form: Sword and Dagger
-  misc: The Company of the Dragoon Guards
+  misc: The Company of the Dragoon Guards, Not-House ATATs
 Allister Greenbrier:
   op_id: 8482
   location: Stierbach
@@ -26,11 +26,11 @@ Adelaide of Roxbury Mill:
   op_id: 9095
   location: Roxbury Mill
   form: Sword
-  misc:
+  misc: Not-House ATATs
 Ishmael Baleinier:
   location: Roxbury Mill
   form: Sword
-  misc:
+  misc: Not-House ATATs
 Tibbie Crosier:
   op_id: 7106
   location: Storvik
