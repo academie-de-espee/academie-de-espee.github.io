@@ -4,7 +4,7 @@ Marguerite de Lyon:
   form: Sword and Buckler
   event: Rapier Schola in Aethelmearc
   sponsors: Master Alessandro, Master Connor, Maestra Caitilin
-  misc: House Condottieri, cadet to Master Alessandro & Maestra Caitilin
+  misc: House Condottieri, cadet to Master Alessandro & Maestra Caitilin, Not-House ATATs
   op_id: 8312
 Linhart Von Marburg:
   op_id: 7979
@@ -14,7 +14,7 @@ Linhart Von Marburg:
   form:
   event: Holiday Faire
   sponsors: Maestero Giacomo, Lord Celric, Lord Arghylle
-  misc: cadet to Maestero Giacomo, The Company of the Dragoon Guards
+  misc: cadet to Maestero Giacomo, The Company of the Dragoon Guards, Not-House ATATs
 Angeline Falconis:
   location: Lochmere
   op_id: 7922
@@ -22,7 +22,7 @@ Angeline Falconis:
   form:
   event: Gulf Wars
   sponsors: Duke Ragnar, Master Richard, Maestra Caitilin
-  misc: cadet to Don Tristan & Sir Modius of Ansteorra
+  misc: cadet to Don Tristan & Sir Modius of Ansteorra, Not-House ATATs
 Colin McNab:
   op_id: 782
   title: Lord
@@ -62,7 +62,7 @@ Symone de la Rochelle:
   form:
   event: Chalice of the Sun God
   sponsors: Master Alan, Maestro Giacomo, Lord Melchior
-  misc: 
+  misc: Not-House ATATs
 Turvon Kuznetsov:
 Alyna of the Ilex:
   location: Tir-y-don
@@ -264,7 +264,7 @@ Bumi:
   form:
   event: Night on the Town
   sponsors: Lord Armand, Master Connor, Master Alessandro
-  misc: House Condottieri, The Company of the Dragoon Guards
+  misc: House Condottieri, The Company of the Dragoon Guards, Not-House ATATs
 Sanada Akime:
   location: Stierbach
   date: 11/19/2016
@@ -280,7 +280,7 @@ Ffernfael Kymro:
   form:
   event: Holiday Faire
   sponsors: Maestra Caitilin, Lord Terasu, Lord Celric
-  misc: The Company of the Dragoon Guards
+  misc: The Company of the Dragoon Guards, Not-House ATATs
   op_id: 8623
 Feodosiia Alekseeva zhena:
   location: Sacred Stone
@@ -322,7 +322,7 @@ Nyvein Dyfnawal:
  form:
  event: Battle on the Bay
  sponsors: Lord Celric, Maestra Caitilin, Lady Letia
- misc: 
+ misc: Not-House ATATs
  op_id: 
 Trian Ó Glesáin:
   location: Hawkwood
