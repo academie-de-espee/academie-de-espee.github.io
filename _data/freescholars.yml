@@ -333,6 +333,15 @@ Trian Ó Glesáin:
   sponsors: Lord Torse, Lord Cailin, ?
   misc: House Condottieri
   op_id: 9036
+Ulfarr Refskegg:
+  location: Sudentorre
+  date: 6/18/2016
+  title: Lord
+  form:
+  event: Stierbach Baronial Birthday
+  sponsors: Master Flaithri, Lord Terasu, Master Llwyd
+  misc:
+  op_id: 8144
 Gilbert de Châtillon:
    title: Lord
    sponsors: Mistress Etain, Lord Elphin, Lord Greylond, Master Raphael 
