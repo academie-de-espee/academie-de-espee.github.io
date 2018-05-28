@@ -56,13 +56,6 @@ Ella de Lille:
   event: Defending the Gate
   sponsors: Maestro Dante, Master Flaithri, Lord Melchior
   misc: 
-Symone de la Rochelle:
-  location:
-  date: 2010
-  form:
-  event: Chalice of the Sun God
-  sponsors: Master Alan, Maestro Giacomo, Lord Melchior
-  misc: 
 Turvon Kuznetsov:
 Alyna of the Ilex:
   location: Tir-y-don
@@ -199,15 +192,6 @@ Aldemere McRafe:
   event: Holiday Faire
   sponsors: Lord Celric, Master Dominyk, Master Raphael
   misc: 
-Tassin Navetier:
-  op_id: 7462
-  title: Lord
-  location:
-  date: 5/26/13
-  form:
-  event: Ruby Joust
-  sponsors: Maestro Dante, Master Wistric, Master Raphael
-  misc: cadet to Maestro Dante, House Condottieri
 Michael Wymarc:
   location: Black Diamond
   date: 2012

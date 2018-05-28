@@ -165,9 +165,6 @@ Connor Levingestoune: {
   date: 2/15/2003,
   event: Ymir,
   monarchs: Cuan and Padraigin,
-  relationships: {
-              Sponsored Free Scholars: "A lot..."
-       }
 }
 Marcellus Capoziello da Napoli: {
   op_id: 2102,
@@ -387,14 +384,14 @@ Matheu Herrero de Cadiz: {
   event: Atlantian Spring Coronation,
   monarchs: Vladimir and Kalisa,
 }
-Brian de Morray: {
+Brian de Moray: {
   op_id: 3334,
   date: 7/31/2013,
   event: Pennsic War,
   monarchs: Amos and Ysabella,
   relationships: {
-        Free Scholar Sponsors: "Kynny, Master Marcellus, and Master Christian",
-        Laurel: "Isobel Gildingwater of Ditchingham",
+        Free Scholar Sponsors: "Master Kynny, Master Marcellus, and Sir Christian",
+        Laurel: "Mistress Isobel Gildingwater of Ditchingham",
         Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Joscelin d'Outremer",
         House: "Gardiner's Company, ATATs"
         }
@@ -524,7 +521,7 @@ Drogo Rainulf de Dragonera: {
   op_id: 979,
   date: 6/3/2017,
   event: Storvik Novice and Unbelt,
-  monarchs: Cuan VII and Signy I,
+  monarchs: Cuan and Signy,
 }
 Charimmos of Lakadaimonias: {
        op_id: 8675,
@@ -534,4 +531,24 @@ Charimmos of Lakadaimonias: {
        relationships: {
           Former Cadets: "Seamus MacRae (Outlands), Dante Falconis (Northshield), Clydwyn Gwehydd (Northshield), Dafydd Morrison (Outlands)"
        }
+}
+Symone de la Rochelle: {
+    op_id: 7104,
+    date: 4/21/2018,
+    event: Queen's Rapier Champion,
+    monarchs: Dietrich and Una,
+    relationships: {
+        Free Scholar Sponsors: "Master Alan, Maestro Giacomo, Lord Melchior"
+    }
+}
+Tassin Navetier: {
+    op_id: 7462,
+    date: 5/26/2018,
+    event: Ruby Joust,
+    monarchs: Dietrich and Una,
+    relationships: {
+        Free Scholar Sponsors: "Maestro Dante, Master Wistric, Master Raphael",
+        Cadetted to: "Maestro Dante",
+        House: "House Condottieri"
+    }
 }
