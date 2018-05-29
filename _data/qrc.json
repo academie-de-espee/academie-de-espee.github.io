@@ -32,7 +32,8 @@
         {"reign": 71, "opid": [1330]},
         {"reign": 72, "opid": [953]},
         {"reign": 73, "opid": [8213]},
-        {"reign": 74, "opid": [8675]}
+        {"reign": 74, "opid": [8675]},
+        {"reign": 75, "opid": [115]}
         ],
         "King": [
         {"reign": 52, "opid": [2763]},
@@ -45,7 +46,8 @@
     },
     "Cut & Thrust": {
         "King": [
-            {"reign": 71, "opid": [3334]}
+            {"reign": 71, "opid": [3334]},
+            {"reign": 75, "opid": [7973]}
         ]
     }
 }
