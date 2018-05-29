@@ -324,7 +324,7 @@ Ulfarr Refskegg:
   form:
   event: Stierbach Baronial Birthday
   sponsors: Master Flaithri, Lord Terasu, Master Llwyd
-  misc:
+  misc: House Condottieri
   op_id: 8144
 Gilbert de Châtillon:
    title: Lord
@@ -338,3 +338,11 @@ Allister Greenbrier:
   sponsors: Lord Armand, Lord Torse, Master Connor
   misc: House Condottieri
   op_id: 8482
+Tiberius Aufidius Crispus:
+  location: Hawkwood
+  date: 5/19/2018
+  event: Hawkwood's Baronial Birthday
+  form: Single Sword
+  sponsors:
+  misc:
+  op_id: 8889
