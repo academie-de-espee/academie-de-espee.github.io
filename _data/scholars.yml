@@ -22,10 +22,6 @@ Adelaide of Roxbury Mill:
   location: Roxbury Mill
   form: Sword
   misc:
-Ishmael Baleinier:
-  location: Roxbury Mill
-  form: Sword
-  misc:
 Tibbie Crosier:
   op_id: 7106
   location: Storvik
@@ -117,7 +113,7 @@ Mathius von Haus Panther:
   misc: 
 Marbella de Galicia:
   location: Ponte Alto
-  form: Single Sword
+  form: Sword and Stick
   misc:
 Lord Grimkirk ap Greymoor:
   location: Ponte Alto/Stierbach
