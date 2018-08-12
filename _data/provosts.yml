@@ -552,3 +552,14 @@ Tassin Navetier: {
         House: "House Condottieri"
     }
 }
+Bumi Fong: {
+  op_id: 8213,
+  date: 8/5/2018,
+  event: Pennsic War,
+  monarchs: Dietrich and Una,
+  relationships: {
+      Free Scholar Sponsors: "Lord Armand, Master Connor, Master Alessandro",
+      Cadetted to: "Master Alessandro",
+      House: "House Condottieri, The Company of the Dragoon Guards"
+  }
+}
