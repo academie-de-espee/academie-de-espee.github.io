@@ -242,13 +242,6 @@ Joscelin d'Outremer:
   event: Night on the Town
   sponsors: Lady Ilaria, Maestero Giacamo, Master Brian
   misc: 
-Bumi:
-  location: Stierbach
-  date: 4/23/2016
-  form:
-  event: Night on the Town
-  sponsors: Lord Armand, Master Connor, Master Alessandro
-  misc: House Condottieri, The Company of the Dragoon Guards
 Sanada Akime:
   location: Stierbach
   date: 11/19/2016
@@ -354,3 +347,11 @@ Ishmael Baleinier:
   sponsors: Don Aeron, Maestra Caitilin, Lord Torse
   misc:
   op_id: 9407
+Colette Vitalis:
+  location: Storvik
+  date: 8/5/2018
+  event: Pennsic War
+  form: Sword and Stick
+  sponsors: Master Dominyk, Master Brian, Don Aeron
+  misc: ensign to Master Dominyk, The Company of the Dragoon Guards, Grasshopper
+  op_id: 8367
