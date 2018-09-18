@@ -27,11 +27,6 @@ Zahira Al-Rumi:
   location: Ponte Alto
   form:
   misc:
-Dyggvi Hrolfsson:
-  op_id: 8787
-  location: Sacred Stone
-  form: Sword and Stick
-  misc: cadet to Master Raphael
 Steffan Von Musbach:
   location: Caer Mear
   form: Sword and Dagger
@@ -114,3 +109,7 @@ Lord Grimkirk ap Greymoor:
   location: Ponte Alto/Stierbach
   form: Single Sword
   misc: Has held authorizations in Atenveldt, Outlands, Middle, East, Atlantia, since 1983
+Lord Cataldo Querini:
+  location: Isenfir
+  form: 
+  misc: Ensign to Despotes Charimmos, The Company of the Dragoon Guards
