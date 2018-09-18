@@ -16,15 +16,13 @@ Each Blacksword Tournament shall be a single elimination tournament with destruc
 
 ### Information to collect
 
-1. Fighters Name  
-2. Fighter Academie Rank  
- 
+1. Fighters Name
+2. Fighter Academie Rank
    * No Scarf or Blue Scarf – 1  
    * Yellow Scarf – 2  
    * White Scarf – 3  
    * MoD - 4
-   
-3. Home Barony (optional but highly suggested for common names)  
+3. Home Barony (optional but highly suggested for common names)
 4. Each pairing and outcome
 
 ### Reporting Information
