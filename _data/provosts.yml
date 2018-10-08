@@ -563,3 +563,15 @@ Bumi Fong: {
       House: "House Condottieri, The Company of the Dragoon Guards"
   }
 }
+Linhart von Marburg: {
+   op_id: 7979,
+   date: 9/22/2018,
+   event: Battle on the Bay,
+   monarchs: Dietrich and Una,
+  relationships: {
+      Free Scholar Sponsors: "Maestero Giacomo, Lord Celric, Lord Arghylle",
+      Cadetted to: "Master Giacomo",
+      House: "The Company of the Dragoon Guards"
+     }
+ }
+  
