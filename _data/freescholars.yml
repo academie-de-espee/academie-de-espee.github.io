@@ -281,7 +281,7 @@ Humfrey Matthew Lovett:
   form:
   event: Ice Castles
   sponsors: Master Raphael, Sir Christian, Lord Iskender
-  misc: cadet to Master Raphael
+  misc: Man at Arms to Master Raphael
   op_id: 1530
 Nyvein Dyfnawal:
  location: Roxbury Mill
@@ -352,5 +352,13 @@ Dyggvi Hrolfsson:
   event: Return to Crecy V
   form: Sword and Stick
   sponsors: Master Raphael, Mistress Etain, ?
-  misc: Men at Arms to Master Raphael
+  misc: 
   op_id: 8787
+Celestria Alexandre d'Amiens:
+  location: Stierbach
+  date: 10/27/2018
+  event: Queen's Rapier Championship
+  form: Sword and Dagger
+  sponsors: Master Alessandro, Lord Torse, Maestra Caitilin
+  misc: House Condottieri
+  op_id: 8853
