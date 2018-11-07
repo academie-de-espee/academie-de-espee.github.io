@@ -70,7 +70,7 @@ Alessandro Andretti: {
        relationships: {
               Cadetted to: "Master Aeron Harper",
               Cadet: "Marguerite de Lyon, Bumi Fong",
-              Sponsored Free Scholars: "Marguerite de Lyon, Bumi Fong",
+              Sponsored Free Scholars: "Marguerite de Lyon, Bumi Fong, Celestria Alexandre d'Amiens",
               House: "ATATs"
        }
 }
@@ -103,7 +103,7 @@ Raphael de la Rosa: {
        reign: Christoph I and Adelhait I,
        relationships: {
               Free Scholar Sponsors: "Lord Alejandro, Lord Percy, and Lord Vyvyan",
-              Men-at-Arms: "Dyggvi Hrolfson, Oddbjorg the Unshod, Humfrey Lovett",
+              Men-at-Arms: "Oddbjorg the Unshod, Humfrey Lovett",
               House: "The Company of the Dragoon Guards"
        }
 }
@@ -130,7 +130,7 @@ Caitilín Inghean Fheichín: {
        relationships: {
           Cadetted to: "Don Tristan von Heidelburg (Ansteorra)",
           Cadet: "Marguerite de Lyon",
-          Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
+          Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis, Celestria Alexandre d'Amiens",
           House: "The Company of the Dragoon Guards, ATATs"
        }
 }
@@ -152,6 +152,7 @@ Brian de Moray: {
     event: Battle on the Bay,
     reign: Dietrich I and Thora I,
     relationships: {
+        Cadet: "Cailin Cainindanna",
         Free Scholar Sponsors: "Kynny, Master Marcellus, and Master Christian",
         Laurel: "Isobel Gildingwater of Ditchingham",
         Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Joscelin d'Outremer",
@@ -167,5 +168,15 @@ Charimmos of Lakadaimonias: {
        relationships: {
           Ensign: "Cataldo Querini",
           Former Cadets: "Seamus MacRae (Outlands), Dante Falconis (Northshield), Clydwyn Gwehydd (Northshield), Dafydd Morrison (Outlands)"
+       }
+}
+Llwyd Aldrydd: {
+       op_id: 1993,
+       location: Tir-Y-Don,
+       date: 8/6/2018,
+       event: Pennsic War,
+       reign: Dietrich II and Una I,
+       relationships: {
+          House: "The Company of the Dragoon Guards",
        }
 }
