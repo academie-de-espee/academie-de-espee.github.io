@@ -104,7 +104,7 @@ Mathius von Haus Panther:
 Marbella de Galicia:
   location: Ponte Alto
   form: Sword and Stick
-  misc:
+  misc: House Condottieri
 Lord Grimkirk ap Greymoor:
   location: Ponte Alto/Stierbach
   form: Single Sword
@@ -113,3 +113,7 @@ Lord Cataldo Querini:
   location: Isenfir
   form: 
   misc: Ensign to Despotes Charimmos, The Company of the Dragoon Guards
+Lady Elizabeth Taylor:
+  location: Sacred Stone
+  form: 
+  misc: Cadet to Master Giacomo
