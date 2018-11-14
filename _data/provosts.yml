@@ -586,4 +586,10 @@ Linhart von Marburg: {
       House: "The Company of the Dragoon Guards"
      }
  }
-  
+Aeron Harper: {
+   date: 9/11/1999,
+   relationships: {
+      Sponsored Free Scholars: "Ishmael Baleinier, Colette Vitalis",
+      Former Cadet: "Alessandro Andretti"
+     }
+ }
