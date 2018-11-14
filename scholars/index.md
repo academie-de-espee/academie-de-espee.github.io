@@ -27,7 +27,7 @@ title: Roster of Scholars
         <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}">
     {% endif %}
 
-    {{ name }}
+   {{ person.title }} {{ name }}
 
     {% if item.op_id != null %} </a> {% elsif person.op_id != null %} </a> {% endif %}
     </td>
