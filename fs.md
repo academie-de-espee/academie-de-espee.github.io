@@ -23,9 +23,7 @@ title: Roster of Free Scholars
 {% assign person = site.data.people[name] %}
 
 <tr>
-    <td> <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}"> {{ person.title }} {{ name }} </a> </td>
-    <td>
-
+    <td> <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}"> {{ person.title }}
     {% if item.op_id != null %}
         <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}">
     {% elsif person.op_id != null %}
