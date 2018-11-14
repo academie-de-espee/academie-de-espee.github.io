@@ -388,6 +388,9 @@ Matheu Herrero de Cadiz: {
   date: 4/6/2013,
   event: Atlantian Spring Coronation,
   monarchs: Vladimir and Kalisa,
+  relationships: {
+          House: "The Company of the Dragoon Guards"
+       }
 }
 Brian de Moray: {
   op_id: 3334,
@@ -398,7 +401,7 @@ Brian de Moray: {
         Cadets: "Cailin Cainindanna",
         Free Scholar Sponsors: "Master Kynny, Master Marcellus, and Sir Christian",
         Laurel: "Mistress Isobel Gildingwater of Ditchingham",
-        Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Joscelin d'Outremer",
+        Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Joscelin d'Outremer, Colette Vitalis",
         House: "Gardiner's Company, ATATs"
         }
 }
@@ -449,7 +452,7 @@ Armand of Caer Mear: {
   monarchs: Michael and Seonaid,
   relationships: {
     Free Scholar Sponsors: "Master Dominyk, ?, ?",
-    House: "The Company of the Dragoon Guards"
+    House: "House Condottieri"
     }
 }
 Etain of Sutherland: {
@@ -583,4 +586,11 @@ Linhart von Marburg: {
       House: "The Company of the Dragoon Guards"
      }
  }
-  
+Aeron Harper: {
+   op_id: 7050,
+   date: 9/11/1999,
+   relationships: {
+      Sponsored Free Scholars: "Ishmael Baleinier, Colette Vitalis",
+      Former Cadet: "Alessandro Andretti"
+     }
+ }
