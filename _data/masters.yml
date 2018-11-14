@@ -25,7 +25,7 @@ Giacomo Luciano Savior Vincenti di Firenze: {
        reign: Logan VII and Esa II,
        relationships: {
               House: "Gardiner's Company",
-              Cadet: "Elizabeth Taylor"
+              Cadet: "Linhart von Marburg, Elizabeth Taylor"
        }
 }
 Dante di Pietro: {
@@ -37,7 +37,7 @@ Dante di Pietro: {
        relationships: {
               Free Scholar Sponsors: "Master Aedan, Master Connor, Sir Roland",
               Sponsored Free Scholars: "Ella de Lille, Aedh ua Ruiarc, Gawin Kappler, Tassin Navetier, Gilig von Baden, Sanada Terasu",
-              Students in Fealty: "Tassin Navetier, Sanada Katsumi",
+              Cadets: "Tassin Navetier, Sanada Katsumi",
               House: "The Company of the Dragoon Guards"
        }
 }
@@ -69,7 +69,7 @@ Alessandro Andretti: {
        reign: Logan VII and Esa II,
        relationships: {
               Cadetted to: "Master Aeron Harper",
-              Cadet: "Marguerite de Lyon, Bumi Fong",
+              Cadets: "Marguerite de Lyon, Bumi Fong",
               Sponsored Free Scholars: "Marguerite de Lyon, Bumi Fong, Celestria Alexandre d'Amiens",
               House: "ATATs"
        }
@@ -116,7 +116,7 @@ Dominyk Wolferam: {
        relationships: {
          Free Scholar Sponsors: "Master Connor, Lord Percy, and Master Chris",
          Former Student: "Armand of Caer Mear",
-         Sponsored Free Scholars: "Aldemere McRafe, Armand of Caer Mear, Benjamin Lilje",
+         Sponsored Free Scholars: "Aldemere McRafe, Armand of Caer Mear, Benjamin Lilje, Colette Vitalis",
          Ensign: "Colette Vitalis",
          House: "The Company of the Dragoon Guards"
          }
@@ -130,7 +130,7 @@ Caitilín Inghean Fheichín: {
        relationships: {
           Cadetted to: "Don Tristan von Heidelburg (Ansteorra)",
           Cadet: "Marguerite de Lyon",
-          Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis, Celestria Alexandre d'Amiens",
+          Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
           House: "The Company of the Dragoon Guards, ATATs"
        }
 }
