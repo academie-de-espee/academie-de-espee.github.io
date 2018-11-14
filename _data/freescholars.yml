@@ -242,7 +242,7 @@ Sanada Akime:
   misc: House Sanada
   op_id: 8195
 Ffernfael Kymro:
-  location: Storvik
+  location: Roxbury Mill
   date: 11/19/2016
   title: Lord
   form:
@@ -339,7 +339,7 @@ Ishmael Baleinier:
   misc:
   op_id: 9407
 Colette Vitalis:
-  location: Storvik
+  location: Ponte Alto
   date: 8/5/2018
   event: Pennsic War
   form: Sword and Stick
@@ -359,6 +359,6 @@ Celestria Alexandre d'Amiens:
   date: 10/27/2018
   event: Queen's Rapier Championship
   form: Sword and Dagger
-  sponsors: Master Alessandro, Lord Torse, Maestra Caitilin
+  sponsors: Master Alessandro, Lord Torse, Lady Rochelle
   misc: House Condottieri
   op_id: 8853
