@@ -310,7 +310,7 @@ Dominyk Wolferam: {
   relationships: {
          Free Scholar Sponsors: "Master Connor, Lord Percy, and Master Chris",
          Former Student: "Armand of Caer Mear",
-         Sponsored Free Scholars: "Aldemere McRafe, Armand of Caer Mear, Benjamin Lilje",
+         Sponsored Free Scholars: "Aldemere McRafe, Armand of Caer Mear, Benjamin Lilje, Colette Vitalis",
          Ensign: "Colette Vitalis",
          House: "The Company of the Dragoon Guards"
          }
@@ -542,7 +542,8 @@ Symone de la Rochelle: {
     event: Queen's Rapier Champion,
     monarchs: Dietrich and Una,
     relationships: {
-        Free Scholar Sponsors: "Master Alan, Maestro Giacomo, Lord Melchior"
+        Free Scholar Sponsors: "Master Alan, Maestro Giacomo, Lord Melchior",
+        Sponsored Free Scholars: "Celestria Alexandre d'Amiens"
     }
 }
 Tassin Navetier: {
