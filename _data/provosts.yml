@@ -348,7 +348,7 @@ Raphael de la Rosa: {
   monarchs: Bryan and Brianna,
   relationships: {
               Free Scholar Sponsors: "Lord Alejandro, Lord Percy, and Lord Vyvyan",
-              Cadets: "Oddbjorg the Unshod, Humfrey Lovett",
+              Men-at-Arms: "Oddbjorg the Unshod, Humfrey Lovett",
               House: "The Company of the Dragoon Guards",
        }
 }
@@ -476,7 +476,7 @@ Sanada Terasu: {
   event: Defending the Gate,
   monarchs: Christoph and Adelhait,
   relationships: {
-    Free Scholar Spnsors: "Master Dante, Master Benjamin, and Master Brian",
+    Free Scholar Sponsors: "Master Dante, Master Benjamin, and Master Brian",
     Sponsored Free Scholars: "Sanada Akime, Ffernfael Kymro, Ulfarr Refskegg"
   }
 }
