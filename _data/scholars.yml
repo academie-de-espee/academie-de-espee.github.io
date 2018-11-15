@@ -110,10 +110,12 @@ Grimkirk ap Greymoor:
   form: Single Sword
   misc: Has held authorizations in Atenveldt, Outlands, Middle, East, Atlantia, since 1983
 Cataldo Querini:
+  op_id: 9544
   location: Isenfir
   form: 
   misc: Ensign to Despotes Charimmos, The Company of the Dragoon Guards
 Elizabeth Taylor:
+  op_id: 3713
   location: Sacred Stone
   form: 
   misc: Cadet to Master Giacomo
