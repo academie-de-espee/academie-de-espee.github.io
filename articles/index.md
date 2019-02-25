@@ -12,6 +12,13 @@ Here are numerous papers and articles written by members of the Academie d'Espee
 * [The Role Of The Free Scholar](freescholar) - Lord Liam a'Welwyn, Free Scholar
 * [To Be A Scholar](scholar) - Baron Alejandro Mateo Ramirez y Mendoza, Preboste
 
+### Stories of the "Before Times"
+* [First Post!](before-times-intro) - Master Robert Beddingfield, Provost
+* [The First White Scarf Meeting](before-times-first-meeting) - Master Robert Beddingfield, Provost
+* [Provost Stories - Gerlach Wiesengrund, OL, OWSA, Baron](before-times-gerlach) - Master Robert Beddingfield, Provost
+* [Sea Wars, part 1](before-times-seawars-part1) - Master Robert Beddingfield, Provost
+* [Sea Wars, part 2](before-times-seawars-part2) - Master Robert Beddingfield, Provost
+
 ### Various Artwork of the Academie
 * [Closeup of the Provost Scroll](/artwork/scroll)
 * [Arms of the Kingdom of Atlantia](/images/Atlantia.gif)
