@@ -6,15 +6,6 @@ Marguerite de Lyon:
   sponsors: Master Alessandro, Master Connor, Maestra Caitilin
   misc: House Condottieri, cadet to Master Alessandro & Maestra Caitilin
   op_id: 8312
-Linhart Von Marburg:
-  op_id: 7979
-  title: Lord
-  location: Lochmere
-  date: 11/22/2014
-  form:
-  event: Holiday Faire
-  sponsors: Maestero Giacomo, Lord Celric, Lord Arghylle
-  misc: cadet to Maestero Giacomo, The Company of the Dragoon Guards
 Angeline Falconis:
   location: Lochmere
   op_id: 7922
@@ -242,13 +233,6 @@ Joscelin d'Outremer:
   event: Night on the Town
   sponsors: Lady Ilaria, Maestero Giacamo, Master Brian
   misc: 
-Bumi:
-  location: Stierbach
-  date: 4/23/2016
-  form:
-  event: Night on the Town
-  sponsors: Lord Armand, Master Connor, Master Alessandro
-  misc: House Condottieri, The Company of the Dragoon Guards
 Sanada Akime:
   location: Stierbach
   date: 11/19/2016
@@ -258,7 +242,7 @@ Sanada Akime:
   misc: House Sanada
   op_id: 8195
 Ffernfael Kymro:
-  location: Storvik
+  location: Roxbury Mill
   date: 11/19/2016
   title: Lord
   form:
@@ -297,7 +281,7 @@ Humfrey Matthew Lovett:
   form:
   event: Ice Castles
   sponsors: Master Raphael, Sir Christian, Lord Iskender
-  misc: cadet to Master Raphael
+  misc: Man at Arms to Master Raphael
   op_id: 1530
 Nyvein Dyfnawal:
  location: Roxbury Mill
@@ -324,7 +308,7 @@ Ulfarr Refskegg:
   form:
   event: Stierbach Baronial Birthday
   sponsors: Master Flaithri, Lord Terasu, Master Llwyd
-  misc:
+  misc: House Condottieri
   op_id: 8144
 Gilbert de Châtillon:
    title: Lord
@@ -338,3 +322,43 @@ Allister Greenbrier:
   sponsors: Lord Armand, Lord Torse, Master Connor
   misc: House Condottieri
   op_id: 8482
+Tiberius Aufidius Crispus:
+  location: Hawkwood
+  date: 5/19/2018
+  event: Hawkwood's Baronial Birthday
+  form: Single Sword
+  sponsors:
+  misc:
+  op_id: 8889
+Ishmael Baleinier:
+  location: Roxbury Mill
+  date: 6/23/2018
+  event: Storvik Novice
+  form: Single Sword
+  sponsors: Don Aeron, Maestra Caitilin, Lord Torse
+  misc:
+  op_id: 9407
+Colette Vitalis:
+  location: Ponte Alto
+  date: 8/5/2018
+  event: Pennsic War
+  form: Sword and Stick
+  sponsors: Master Dominyk, Master Brian, Don Aeron
+  misc: ensign to Master Dominyk, The Company of the Dragoon Guards, Grasshopper
+  op_id: 8367
+Dyggvi Hrolfsson:
+  location: Sacred Stone
+  date: 6/23/2018
+  event: Return to Crecy V
+  form: Sword and Stick
+  sponsors: Master Raphael, Mistress Etain, ?
+  misc: 
+  op_id: 8787
+Celestria Alexandre d'Amiens:
+  location: Stierbach
+  date: 10/27/2018
+  event: Queen's Rapier Championship
+  form: Sword and Dagger
+  sponsors: Master Alessandro, Lord Torse, Lady Rochelle
+  misc: House Condottieri
+  op_id: 8853

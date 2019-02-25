@@ -1,11 +1,6 @@
-Colette Vitalis:
-  op_id: 8367
-  location: Storvik
-  form: Sword and Stick
-  misc: ensign to Master Dominyk, The Company of the Dragoon Guards, Grasshopper
 Ayla Von Dahauua:
   op_id: 8758
-  location: Storvik
+  location: Roxbury Mill
   form: Sword and Dagger
   misc: The Company of the Dragoon Guards
 Alyce de Glaize:
@@ -22,10 +17,6 @@ Adelaide of Roxbury Mill:
   location: Roxbury Mill
   form: Sword
   misc:
-Ishmael Baleinier:
-  location: Roxbury Mill
-  form: Sword
-  misc:
 Tibbie Crosier:
   op_id: 7106
   location: Storvik
@@ -36,11 +27,6 @@ Zahira Al-Rumi:
   location: Ponte Alto
   form:
   misc:
-Dyggvi Hrolfsson:
-  op_id: 8787
-  location: Sacred Stone
-  form: Sword and Stick
-  misc: cadet to Master Raphael
 Steffan Von Musbach:
   location: Caer Mear
   form: Sword and Dagger
@@ -105,7 +91,7 @@ Raeidun Sigurdardottir:
 Roland Shelnut:
   location: Isenfir
   form: Sword and Dagger
-  misc: fights for Black Diamond
+  misc: intern for The Company of the Dragoon Guards
 Deianira of Rivenstar:
   location: Storvik
   form: Sword and Dagger
@@ -117,9 +103,19 @@ Mathius von Haus Panther:
   misc: 
 Marbella de Galicia:
   location: Ponte Alto
-  form: Single Sword
-  misc:
-Lord Grimkirk ap Greymoor:
+  form: Sword and Stick
+  misc: House Condottieri
+Grimkirk ap Greymoor:
   location: Ponte Alto/Stierbach
   form: Single Sword
   misc: Has held authorizations in Atenveldt, Outlands, Middle, East, Atlantia, since 1983
+Cataldo Querini:
+  op_id: 9544
+  location: Isenfir
+  form: 
+  misc: Ensign to Despotes Charimmos, The Company of the Dragoon Guards
+Elizabeth Taylor:
+  op_id: 3713
+  location: Sacred Stone
+  form: 
+  misc: Cadet to Master Giacomo

@@ -48,7 +48,8 @@
     },
     "Cut & Thrust": {
         "King": [
-            {"reign": 71, "opid": [3334]}
+            {"reign": 71, "opid": [3334]},
+            {"reign": 75, "opid": [7973]}
         ]
     }
 }
