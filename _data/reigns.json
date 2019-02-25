@@ -331,7 +331,7 @@
         "year": "October 5, 2013 (AS 48)"
     }, 
     {
-        "King": "Guillaume Tomas le Lou", 
+        "King": "William Thomas", 
         "Queen": "K\u00e1ra \u00d3l\u00e1fsd\u00f3ttir", 
         "year": "April 5, 2014 (AS 48)"
     }, 
@@ -356,18 +356,28 @@
         "year": "April 2, 2016 (AS 50)"
     }, 
     {
-        "King": "Guillaume Tomas le Lou", 
+        "King": "William Thomas", 
         "Queen": "Alyna of the Vale", 
         "year": "October 1, 2016 (AS 51)"
-    },
+    }, 
     {
         "King": "Cu\u00e1n MacDaige", 
         "Queen": "Signy Heri", 
         "year": "April 1, 2017 (AS 51)"
-    },{
+    }, 
+    {
         "King": "Amos the Pious", 
-        "Queen": "Kara Olafsdottir", 
+        "Queen": "K\u00e1ra \u00d3l\u00e1fsd\u00f3ttir", 
         "year": "October 7, 2017 (AS 52)"
+    }, 
+    {
+        "King": "Dietrich von Stroheim", 
+        "Queen": "Una Olfuss", 
+        "year": "April 7, 2018 (AS 52)"
+    }, 
+    {
+        "King": "Ragnarr Blackhammer", 
+        "Queen": "Lynette Semere", 
+        "year": "October 6, 2018 (AS 53)"
     }
-    
 ]

@@ -6,9 +6,9 @@ At Atlantia's 30 Year Celebration, in AS 46, the Free Scholars of the Academie s
 
 The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Buchanan, and a book provided by Lady Letia Thistelthueyt.  All challenges for the Iron Spike are recorded in the accompanying book.
 
-{{ assign total = 0 }}
-{{ assign defended = 0 }}
-{{ assign holders = 0 }}
+{% assign total = 0 %}
+{% assign defended = 0 %}
+{% assign holders = 0 %}
 
 ## Current Holder
 
