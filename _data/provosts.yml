@@ -499,7 +499,7 @@ Torse Hartman: {
   monarchs: Dietrich and Thora,
   relationships: {
     Free Scholar Spnsors: "Lord Greylond, Master Raphael, Lord Matheu",
-    Sponsored Free Scholars: "Trian Ó Glesáin, Celestria Alexandre d'Amiens",
+    Sponsored Free Scholars: "Trian Ó Glesáin, Celestria Alexandre d'Amiens, Allister Greenbrier, Ishmael Baleinier",
     House: "House Condottieri"
   }
 }
@@ -594,3 +594,14 @@ Aeron Harper: {
       Former Cadet: "Alessandro Andretti"
      }
  }
+Marguerite de Lyon: {
+    op_id: 8312,
+    date: 2/23/2019,
+    event: Tournament of Ymir,
+    monarchs: Ragnarr and Lynette,
+    relationships: {
+      Free Scholar Sponsors: "Master Alessandro, Master Connor, Maestra Caitilin",
+      House: "Condottieri",
+      Cadetted to: "Master Alessandro & Maestra Caitilin"
+     }
+}
