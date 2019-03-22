@@ -74,11 +74,6 @@ Francisco de la Torre:
   location: Hawkwood
   form: Sword and Rodela
   misc: Sailing Master of the Siren's Song (Corsairium)
-Alonzo Falcone:
-  op_id: 8490
-  location: Black Diamond
-  form: Sword and All
-  misc:
 Johannes von Eisenberg:
   location: Caer Mear
   form: Cut & Thrust
@@ -88,10 +83,6 @@ Raeidun Sigurdardottir:
   location: Cynnabar
   form:
   misc:
-Roland Shelnut:
-  location: Isenfir
-  form: Sword and Dagger
-  misc: intern for The Company of the Dragoon Guards
 Deianira of Rivenstar:
   location: Storvik
   form: Sword and Dagger
@@ -114,8 +105,3 @@ Cataldo Querini:
   location: Isenfir
   form: 
   misc: Ensign to Despotes Charimmos, The Company of the Dragoon Guards
-Elizabeth Taylor:
-  op_id: 3713
-  location: Sacred Stone
-  form: 
-  misc: Cadet to Master Giacomo
