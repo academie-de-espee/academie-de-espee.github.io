@@ -30,7 +30,9 @@ If you wish to run a Blacksword at your event or have information to report plea
 
 ### Blacksword Tournaments for 2018/2019 year:
 This will be updated as more tournements are schedualed. 
+* Night on the Town
 * Ruby Joust
+* Storvik Novice
 * Kings Assessment
 
 
