@@ -279,6 +279,15 @@ Dante di Pietro: {
               House: "The Company of the Dragoon Guards"
        }
 }
+Greylond Crow: {
+  op_id: 1394,
+  date: 8/6/2008,
+  event: Pennsic War XXXVII,
+  monarchs: Sinclair and Kari,
+  relationships: {
+    Free Scholar Sponsors: "???",
+    }
+}
 Celric d'Ravelle: {
   op_id: 715,
   date: 2/14/2009,
