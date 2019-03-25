@@ -1,11 +1,3 @@
-Angeline Falconis:
-  location: Lochmere
-  op_id: 7922
-  date: 2014
-  form:
-  event: Gulf Wars
-  sponsors: Duke Ragnar, Master Richard, Maestra Caitilin
-  misc: cadet to Don Tristan & Sir Modius of Ansteorra
 Colin McNab:
   op_id: 782
   title: Lord
@@ -218,13 +210,6 @@ Jusef:
   event: Chalice of the Sun God
   sponsors: Mistriss Ceridwen, Master Marcellus, Lord Geoffrey
   misc: 
-Joscelin d'Outremer:
-  location: Ponte Alto
-  date: 4/23/2016
-  form:
-  event: Night on the Town
-  sponsors: Lady Ilaria, Maestero Giacamo, Master Brian
-  misc: 
 Sanada Akime:
   location: Stierbach
   date: 11/19/2016
@@ -386,7 +371,7 @@ Els von Ascheberg:
   sponsors:
   misc:
   op_id: 
-Rajon (fka Nakka Hjort):
+Rajan (fka Nakka Hjort):
   location: Sacred Stone
   date: 3/23/2019
   event: Defending the Gate
