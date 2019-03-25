@@ -190,3 +190,14 @@ Greylond Crow: {
     Free Scholar Sponsors: "???",
     }
 }
+Aeron Harper: {
+   op_id: 7050,
+   location: Roxbury Mill,
+   date: 3/23/2019,
+   event: Defending the Gate,
+   reign: Ragnarr and Lynette,
+   relationships: {
+      Sponsored Free Scholars: "Ishmael Baleinier, Colette Vitalis",
+      Former Cadet: "Alessandro Andretti"
+     }
+ }
