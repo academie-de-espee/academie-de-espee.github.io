@@ -605,3 +605,22 @@ Marguerite de Lyon: {
       Cadetted to: "Master Alessandro & Maestra Caitilin"
      }
 }
+Angeline Falconis: {
+  op_id: 7922,
+  date: 3/23/2019,
+  event: Defending the Gate,
+  monarchs: Ragnarr and Lynette,
+  relationships: {
+    Free Scholar Sponsors: "Duke Ragnarr, Master Richard, Maestra Caitilin",
+    Formerly Cadetted to: "Master Tristan & Sir Modius of Ansteorra"
+    }
+ }
+"Joscelin d'Outremer": {
+  op_id: 3357,
+  date: 3/23/2019,
+  event: Defending the Gate,
+  monarchs: Ragnarr and Lynette,
+  relationships: {
+   Free Scholar Sponsors: "Baroness Ilaria, Maestero Giacamo, Master Brian"
+   }
+}
