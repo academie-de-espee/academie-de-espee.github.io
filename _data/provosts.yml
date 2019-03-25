@@ -615,7 +615,7 @@ Angeline Falconis: {
     Formerly Cadetted to: "Master Tristan & Sir Modius of Ansteorra"
     }
  }
- "Joscelin d'Outremer": {
+"Joscelin d'Outremer": {
   op_id: 3357,
   date: 3/23/2019,
   event: Defending the Gate,
@@ -623,4 +623,4 @@ Angeline Falconis: {
   relationships: {
    Free Scholar Sponsors: "Baroness Ilaria, Maestero Giacamo, Master Brian"
    }
- }
+}
