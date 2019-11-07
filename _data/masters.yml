@@ -177,7 +177,7 @@ Llwyd Aldrydd: {
        event: Pennsic War,
        reign: Dietrich II and Una I,
        relationships: {
-          House: "The Company of the Dragoon Guards",
+          House: "The Company of the Dragoon Guards"
        }
 }
 Greylond Crow: {
@@ -187,7 +187,7 @@ Greylond Crow: {
   event: Tournament of Ymir,
   reign: Ragnarr and Lynette,
   relationships: {
-    Free Scholar Sponsors: "???",
+    Free Scholar Sponsors: "???"
     }
 }
 Aeron Harper: {
@@ -230,6 +230,6 @@ Celric d'Ravelle: {
    event: Battle on the Bay,
    reign: Christoph II and Adelhait II,
    relationships: {
-      Sponsored Free Scholars: "Colin McNab, Jean Maurice le Marinier, Michael Wymarc, Ffernfael Kymro, Nyvein Dyfnawal, Aidan of Kingswood",
+      Sponsored Free Scholars: "Colin McNab, Jean Maurice le Marinier, Michael Wymarc, Ffernfael Kymro, Nyvein Dyfnawal, Aidan of Kingswood"
      }
  }
