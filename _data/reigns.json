@@ -361,7 +361,7 @@
         "year": "October 1, 2016 (AS 51)"
     }, 
     {
-        "King": "Cu\u00e1n MacDaige", 
+        "King": "Cuan MacDaige", 
         "Queen": "Signy Heri", 
         "year": "April 1, 2017 (AS 51)"
     }, 
@@ -379,5 +379,15 @@
         "King": "Ragnarr Blackhammer", 
         "Queen": "Lynette Semere", 
         "year": "October 6, 2018 (AS 53)"
+    },
+    {
+        "King": "Christoph Krieger", 
+        "Queen": "Adelhait Fuchs", 
+        "year": "April 6, 2019 (AS 53)"
+    },
+    {
+        "King": "Cuan MacDaige", 
+        "Queen": "Signy Henri", 
+        "year": "October 5, 2019 (AS 54)"
     }
 ]
