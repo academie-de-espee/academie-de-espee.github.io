@@ -187,8 +187,7 @@ Greylond Crow: {
   event: Tournament of Ymir,
   reign: Ragnarr and Lynette,
   relationships: {
-    Free Scholar Sponsors: "???"
-    }
+       }
 }
 Aeron Harper: {
    op_id: 7050,
@@ -212,7 +211,7 @@ Torse Hartman: {
       House: "Condotierri"
      }
  }
- Cailin Blackwood: {
+Cailin Blackwood: {
    op_id: 7588,
    location: Storvik,
    date: 8/8/2019,
