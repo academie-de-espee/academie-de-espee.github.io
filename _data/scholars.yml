@@ -2,7 +2,7 @@ Ayla Von Dahauua:
   op_id: 8758
   location: Roxbury Mill
   form: Sword and Dagger
-  misc: The Company of the Dragoon Guards
+  misc: cadet to Master Aeron, The Company of the Dragoon Guards
 Alyce de Glaize:
   op_id: 9229
   location: Lochmere
@@ -35,11 +35,6 @@ Caitilín inghean Uí Ruaidhrí:
   op_id: 9152
   location: Dun Carraig
   form: Sword and Dagger
-  misc: 
-Nicolo Santorio:
-  op_id: 7747
-  location: Roxbury Mill
-  form: Sword and Targa
   misc: 
 Roland Wodeman:
   op_id: 7542
@@ -95,11 +90,6 @@ Grimkirk ap Greymoor:
   location: Ponte Alto/Stierbach
   form: Single Sword
   misc: Has held authorizations in Atenveldt, Outlands, Middle, East, Atlantia, since 1983
-Cataldo Querini:
-  op_id: 9544
-  location: Isenfir
-  form: 
-  misc: Ensign to Despotes Charimmos, The Company of the Dragoon Guards
 Renard Belmont:
   op_id: 9564
   location: Black Diamond
@@ -110,11 +100,6 @@ Pietro Trevisan:
   location: Tir Y Don
   form: Single Sword
   misc:
-Jacques Gonse:
-  op_id: 
-  location: Ponte Alto
-  form: Sword and Dagger
-  misc: Intern to the Company of the Dragoon Guards
 Mawdlen Katherine Morgan:
   op_id:
   location: Ponte Alto
@@ -125,3 +110,13 @@ Erin Taylor:
   location: Storvik
   form:
   misc:
+Blaze Frostell:
+   op_id:
+   location: Storvik
+   form: Single
+   misc:
+Gareth:
+    op_id:
+    location: Ponte Alto
+    form: Single
+    misc: Garnders Company
