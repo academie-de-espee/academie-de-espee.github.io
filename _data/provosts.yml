@@ -624,3 +624,24 @@ Angeline Falconis: {
    Free Scholar Sponsors: "Baroness Ilaria, Maestero Giacamo, Master Brian"
    }
 }
+Gilbert de Châtillon: {
+  op_id: 7869,
+  date: 5/18/2019,
+  event: Hawkwood Baronial Birthday,
+  monarchs: Christoph and Adelhait,
+}
+Aldemere Mac Rafe: {
+  op_id: 105,
+  date: 8/7/2019,
+  event: Pennsic War,
+  monarchs: Christoph and Adelhait,
+}
+Allister Greenbrier: {
+  op_id: 8749,
+  date: 9/21/2019,
+  event: Stierbach Baronial Birthday,
+  monarchs: Christoph and Adelhait,
+  relationships: {
+          House: "House Condotierri"
+       }
+}
