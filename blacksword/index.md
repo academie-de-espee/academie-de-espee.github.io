@@ -28,9 +28,10 @@ Each Blacksword Tournament shall be a single elimination tournament with destruc
 ### Reporting Information
 If you wish to run a Blacksword at your event or have information to report please contact Meredith Horne (SCA Name Marguerite de Lyon) at blacksword@atlantia.sca.org
 
-### Blacksword Tournaments for 2018/2019 year:
-This will be updated as more tournements are schedualed. 
-* Night on the Town
+### Upcoming Blacksword Tournaments for 2018/2019 year:
+This will be updated as more tournements are scheduled. 
+* Hawkwood Baronial Birthday 
 * Ruby Joust
+* Skewered
 * Storvik Novice
 * Kings Assessment
