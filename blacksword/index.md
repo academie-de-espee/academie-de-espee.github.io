@@ -33,5 +33,6 @@ If you wish to run a Blacksword at your event or have information to report plea
 ### Blacksword Tournaments for 2019/2020 year:
 This will be updated as more tournements are schedualed. 
 * Dun Carraig Baronial Birthday 11/9/19
+* Buckston Birthday 11/9/19
 * Silver Chalice 11/23/19
 * Tourney of Mannanan mac Lir 1/25/19
