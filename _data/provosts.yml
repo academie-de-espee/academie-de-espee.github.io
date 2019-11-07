@@ -523,7 +523,7 @@ Cailin Cainindanna: {
   relationships: {
     Cadetted to: "Master Brian de Moray",
     Free Scholar Sponsors: "Lord Greylond, Master Raphael, Lady Letia",
-    Sponsored Free Scholars: "Trian Ó Glesáin, "
+    Sponsored Free Scholars: "Trian Ó Glesáin"
     }
 }
 Drogo Rainulf de Dragonera: {
@@ -613,7 +613,7 @@ Angeline Falconis: {
     Formerly Cadetted to: "Master Tristan & Sir Modius of Ansteorra"
     }
  }
-"Joscelin d'Outremer": {
+Joscelin d'Outremer: {
   op_id: 3357,
   date: 3/23/2019,
   event: Defending the Gate,
@@ -622,7 +622,7 @@ Angeline Falconis: {
    Free Scholar Sponsors: "Baroness Ilaria, Maestero Giacamo, Master Brian"
    }
 }
-"Gilbert de Chatillon": {
+Gilbert de Chatillon: {
   op_id: 7869,
   date: 5/18/2019,
   event: Hawkwood Baronial Birthday,
@@ -631,7 +631,7 @@ Angeline Falconis: {
    Free Scholar Sponsors: "?, ?, ?"
    }
 }
-"Aldemere MacRafe": {
+Aldemere MacRafe: {
   op_id: 105,
   date: 8/7/2019,
   event: Pennsic War,
@@ -641,7 +641,7 @@ Angeline Falconis: {
    House: "Blackspear"
    }
 }
-"Allister Greenbrier": {
+Allister Greenbrier: {
   op_id: 8749,
   date: 9/21/2019,
   event: Stierbach Baronial Birthday,
@@ -650,3 +650,4 @@ Angeline Falconis: {
    Free Scholar Sponsors: "Lord Armand, Master Torse, Master Connor",
    House: "Condottieri"
    }
+}
