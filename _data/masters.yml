@@ -152,7 +152,7 @@ Brian de Moray: {
     event: Battle on the Bay,
     reign: Dietrich I and Thora I,
     relationships: {
-        Cadet: "Cailin Cainindanna",
+        Former Cadet: "Cailin Cainindanna",
         Free Scholar Sponsors: "Kynny, Master Marcellus, and Master Christian",
         Laurel: "Isobel Gildingwater of Ditchingham",
         Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Joscelin d'Outremer, Colette Vitalis",
@@ -177,7 +177,7 @@ Llwyd Aldrydd: {
        event: Pennsic War,
        reign: Dietrich II and Una I,
        relationships: {
-          House: "The Company of the Dragoon Guards",
+          House: "The Company of the Dragoon Guards"
        }
 }
 Greylond Crow: {
@@ -187,8 +187,7 @@ Greylond Crow: {
   event: Tournament of Ymir,
   reign: Ragnarr and Lynette,
   relationships: {
-    Free Scholar Sponsors: "???",
-    }
+       }
 }
 Aeron Harper: {
    op_id: 7050,
@@ -199,5 +198,37 @@ Aeron Harper: {
    relationships: {
       Sponsored Free Scholars: "Ishmael Baleinier, Colette Vitalis",
       Former Cadet: "Alessandro Andretti"
+     }
+ }
+Torse Hartman: {
+   op_id: 7587,
+   location: Stierbach,
+   date: 8/6/2019,
+   event: Pennsic War,
+   reign: Christoph II and Adelhait II,
+   relationships: {
+      Sponsored Free Scholars: "Trian Ó Glesáin, Celestria Alexandre d'Amiens, Allister Greenbrier, Ishmael Baleinier",
+      House: "Condotierri"
+     }
+ }
+Cailin Blackwood: {
+   op_id: 7588,
+   location: Storvik,
+   date: 8/8/2019,
+   event: Pennsic War,
+   reign: Christoph II and Adelhait II,
+   relationships: {
+      Sponsored Free Scholars: "Trian Ó Glesáin, Nicolo Santorio",
+      Cadetted to: "Master Brian de Moray"
+     }
+ }
+Celric d'Ravelle: {
+   op_id: 715,
+   location: Lochmere,
+   date: 9/7/2019,
+   event: Battle on the Bay,
+   reign: Christoph II and Adelhait II,
+   relationships: {
+      Sponsored Free Scholars: "Colin McNab, Jean Maurice le Marinier, Michael Wymarc, Ffernfael Kymro, Nyvein Dyfnawal, Aidan of Kingswood"
      }
  }
