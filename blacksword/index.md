@@ -1,12 +1,12 @@
 ---
 title: Atlantia's Blacksword Competition
 ---
-
+## Blacksword Tournament Contact: Lady Colette Vitalis (blacksword@atlantia.sca.org) (Facebook Messenger)
 Every year Atlantia holds tournaments to demonstrate skill, improvement, and prowess, but the grandest of our tournaments cannot be held within any one event. The Blackswords end amongst the blaze of the summer sun, and are reborn under the first days of fall. The standings from last year cleared like the thick summer air by the first crisp day of autumn. All hold on to their spot by a knife’s edge, a single pass. Some enter to claim that they deserve a shot at immortal glory on the fields of Pennsic. Others enter to test how far their studies have taken them. All leave with the best fights their opponent has to offer.
 
 
 ## Tournament Rules
-The Blacksword Competition is composed of a series of single elimination tournaments held through Atlantia. The results from individual tournaments, including the outcome of each pairing, are aggregated together to create a final score over the course of a Blacksword season. Participants are encouraged to bring their best form and fight in as many tournaments as possible to achieve the highest score.  
+The Blacksword Competition is composed of a series of single elimination tournaments held through Atlantia. The results from individual tournaments, including the outcome of each pairing, are aggregated together to create a final score over the course of a Blacksword season. Participants are encouraged to bring their best form and fight in as many tournaments as possible to achieve the highest score. 
 
 The results of The Blacksword Competition are used by both the Rapier Warlord and individual fighters. Firstly they are used to aid the Warlord in choosing champions at Pennsic and Gulf. For this reason each season begins in the fall after Pennsic and lasts until July the following calendar year. Then the results are posted publicly on the Academie d’Espee page. This allows for individual participants to track their score from year to year and see personal growth.  
 
@@ -14,7 +14,7 @@ Fighting in The Blacksword Competition does not mean one has to participate in C
 
 Each Blacksword Tournament shall be a single elimination tournament with destructive byes.  If both fighters are simultaneously defeated in a bout the bout will be refought once.  If the same outcome is achieved the match is declared a “No Contest” and neither fighter advances to the next round and both fighters receive no points for the round. Fighters do not need to be in the Academie d’Espee nor hail from the kingdom of Atlantia to participate. A critical part of what makes a Blacksword Tournament different from a generic single elimination is the aggregation of the data.  The manner in which this data is aggregated requires the outcome of each pairing and as such if only partial results are reported for a given tournament it cannot be aggregated with the others.  
 
-### Information to collect
+### FOR MOLS: Information to collect + Instructions
 
 1. Fighters Name
 2. Fighter Academie Rank
@@ -25,13 +25,11 @@ Each Blacksword Tournament shall be a single elimination tournament with destruc
 3. Home Barony (optional but highly suggested for common names)
 4. Each pairing and outcome
 
-### Reporting Information
-If you wish to run a Blacksword at your event or have information to report please contact Meredith Horne (SCA Name Marguerite de Lyon) at blacksword@atlantia.sca.org
+Instructions: Record each entrant on a card with 1-3 above. Their Name, Rank, and Barony (optional but preferred). Also give each fighter a number. This will make recording bouts easier later. To begin the tournament, randomly shuffle and pair off. If it's a lot of people, don't worry about pairing. The RMIC will just pull them in sets of 2 off the top. When the fighters come back, record who won on both cards and set the loser aside in a 'dead' pile. If 1 beat 2, record 1-2 on both cards. If 14 beat 35, put 14-35 on both cards, and so on. It is a single elimination, so the loser pile becomes inactive. The winner pile when you receive all cards back in will just be shuffled again and paired off. Repeat until finished. 
 
-### Upcoming Blacksword Tournaments for 2018/2019 year:
-This will be updated as more tournements are scheduled. 
-* Hawkwood Baronial Birthday 
-* Ruby Joust
-* Skewered
-* Storvik Novice
-* Kings Assessment
+### FOR MOLS OR RMICs: Reporting Information
+If you wish to run a Blacksword at your event or have information to report please contact Brittany Lasley (SCA Colette Vitalis) at blacksword@atlantia.sca.org
+
+### Blacksword Tournaments for 2019/2020 year:
+This will be updated as more tournements are schedualed. 
+* Dun Carraig Baronial Birthday 11/9/19
