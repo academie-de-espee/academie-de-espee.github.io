@@ -515,7 +515,7 @@ Séamus Ó Maoil Riain: {
   event: Tournament of Love and Beauty,
   monarchs: William and Alyna,
 }
-Cailin Cainindanna: {
+Cailin Blackwood: {
   op_id: 7588,
   date: 8/7/2017,
   event: Pennsic War,
@@ -523,7 +523,7 @@ Cailin Cainindanna: {
   relationships: {
     Cadetted to: "Master Brian de Moray",
     Free Scholar Sponsors: "Lord Greylond, Master Raphael, Lady Letia",
-    Sponsored Free Scholars: "Trian Ó Glesáin"
+    Sponsored Free Scholars: "Trian Ó Glesáin, Nicolo Santorio"
     }
 }
 Drogo Rainulf de Dragonera: {
