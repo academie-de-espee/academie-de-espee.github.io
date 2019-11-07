@@ -637,7 +637,7 @@ Angeline Falconis: {
   event: Pennsic War,
   monarchs: Christoph II and Adelhait II,
   relationships: {
-   Free Scholar Sponsors: "Master Celric, Master Dominyk, Master Raphael"
+   Free Scholar Sponsors: "Master Celric, Master Dominyk, Master Raphael",
    House: "Blackspear"
    }
 }
@@ -647,7 +647,7 @@ Angeline Falconis: {
   event: Stierbach Baronial Birthday,
   monarchs: Christoph II and Adelhait II,
   relationships: {
-   Free Scholar Sponsors: "Lord Armand, Master Torse, Master Connor"
+   Free Scholar Sponsors: "Lord Armand, Master Torse, Master Connor",
    House: "Condottieri"
    }
 }
