@@ -1,7 +1,10 @@
 ---
 title: Atlantia's Blacksword Competition
 ---
-## Blacksword Tournament Contact: Lady Colette Vitalis (blacksword@atlantia.sca.org) (Facebook Messenger)
+## Blacksword Tournament Contact
+[Lady Colette Vitalis](blacksword@atlantia.sca.org) (Email or Facebook Messenger)
+
+## About
 Every year Atlantia holds tournaments to demonstrate skill, improvement, and prowess, but the grandest of our tournaments cannot be held within any one event. The Blackswords end amongst the blaze of the summer sun, and are reborn under the first days of fall. The standings from last year cleared like the thick summer air by the first crisp day of autumn. All hold on to their spot by a knife’s edge, a single pass. Some enter to claim that they deserve a shot at immortal glory on the fields of Pennsic. Others enter to test how far their studies have taken them. All leave with the best fights their opponent has to offer.
 
 
