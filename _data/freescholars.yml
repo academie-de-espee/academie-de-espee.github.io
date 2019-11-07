@@ -160,13 +160,6 @@ William Cameron:
   sponsors: Master Robert, Master Alan, Lord Percival
   misc: 
 Ylsa Broussard:
-Aldemere McRafe:
-  location: Black Diamond
-  date: 11/19/2011
-  form:
-  event: Holiday Faire
-  sponsors: Lord Celric, Master Dominyk, Master Raphael
-  misc: 
 Michael Wymarc:
   location: Black Diamond
   date: 2012
@@ -287,18 +280,6 @@ Ulfarr Refskegg:
   sponsors: Master Flaithri, Lord Terasu, Master Llwyd
   misc: House Condottieri
   op_id: 8144
-Gilbert de Châtillon:
-   title: Lord
-   sponsors: Mistress Etain, Lord Elphin, Lord Greylond, Master Raphael 
-Allister Greenbrier:
-  location: Stierbach
-  date: 3/24/2018
-  title: Lord
-  form: Sword and Stick
-  event: Night on the Town
-  sponsors: Lord Armand, Lord Torse, Master Connor
-  misc: House Condottieri
-  op_id: 8482
 Tiberius Aufidius Crispus:
   location: Hawkwood
   date: 5/19/2018
@@ -320,7 +301,7 @@ Colette Vitalis:
   date: 8/5/2018
   event: Pennsic War
   form: Sword and Stick
-  sponsors: Master Dominyk, Master Brian, Don Aeron
+  sponsors: Master Dominyk, Master Brian, Master Aeron
   misc: ensign to Master Dominyk, The Company of the Dragoon Guards, Grasshopper
   op_id: 8367
 Dyggvi Hrolfsson:
@@ -353,7 +334,7 @@ Roland Shelnut:
   event: Defending the Gate
   form: Sword and Dagger
   sponsors:
-  misc: intern for The Company of the Dragoon Guards
+  misc: intern for House Blackspear
   op_id:
 Elizabeth Taylor:
   location: Sacred Stone
@@ -372,12 +353,12 @@ Els von Ascheberg:
   misc:
   op_id: 
 Rajan (fka Nakka Hjort):
-  location: Sacred Stone
+  location: Storvik
   date: 3/23/2019
   event: Defending the Gate
   form: 
   sponsors:
-  misc: House Condottieri
+  misc:
   op_id: 9056
 Wilhelm Leopard der Schwarze / Mathius von Haud Panther:
   location: Cyddlain Downs
@@ -387,3 +368,40 @@ Wilhelm Leopard der Schwarze / Mathius von Haud Panther:
   sponsors: Mistress Etain, Master Elphin, Master Raphael
   misc: 
   op_id: 3333
+Marina Wymarc:
+  location: Stierbach
+  date: 4/13/2019
+  event: Night on the Town
+  form: Sword and Dagger
+  sponsors: Lord Terasu, Master Chris, Maestra Caitilin
+  op_id: 3379
+Aidan of Kingswood:
+  location: Tir-Y-Don
+  date: 5/25/2019
+  event: Ruby Joust
+  form: Cut & Thrust
+  sponsors: Master Llwyd, Master Jean, Master Celric
+  op_id: 3444
+Nicolo Santorio:
+  location: Roxbury Mill
+  date: 6/8/2019
+  event: Skewered!
+  form: Sword and Targa
+  sponsors: Master Alessandro, Master Cailin, Master Aeron
+  op_id: 7747
+Cataldo Querini:
+  location: Isenfir
+  date: 6/22/2019
+  event: Old School War Practice
+  form: Cut & Thrust
+  sponsors: Despotes Charimmos, Lord Bumi, Master Llwyd
+  misc: Ensign to Despotes Charimmos, The Company of the Dragoon Guards
+  op_id: 9544
+Marta de Lyon: 
+  location: Lochmere
+  date: 10/5/2019
+  event: Coronation
+  form: Sword and Dagger
+  sponsors: Lord Armand, Lord Linhart, Lord Tassin
+  misc: Head of House Condotierri
+  op_id: 9749
