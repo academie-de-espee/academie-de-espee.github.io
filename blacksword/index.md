@@ -35,7 +35,17 @@ If you wish to run a Blacksword at your event or have information to report plea
 
 ### Blacksword Tournaments for 2019/2020 year:
 This will be updated as more tournements are schedualed. 
+* Rip Rap War 9/14/19
+* Stierbach Baronial Birthday 9/21/19
+* The Wild Hunt 10/12/19
+* War of the Wings 10/19/19
 * Dun Carraig Baronial Birthday 11/9/19
 * Buckston Birthday 11/9/19
 * Silver Chalice 11/23/19
 * Tourney of Mannanan mac Lir 1/25/19
+* Bright Hills Baronial Birthday 2/8/20
+* Nottinghill Coill Baronial Birthday 2/15/20
+* Ymir 45 2/22/20
+* St Paddy's Bloodbath 3/14/20
+* Caer Mear Baronial Birthday 3/21/20
+* Storvik Novice 6/20/20
