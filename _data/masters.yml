@@ -37,8 +37,8 @@ Dante di Pietro: {
        relationships: {
               Free Scholar Sponsors: "Master Aedan, Master Connor, Sir Roland",
               Sponsored Free Scholars: "Ella de Lille, Aedh ua Ruiarc, Gawin Kappler, Tassin Navetier, Gilig von Baden, Sanada Terasu",
-              Cadets: "Tassin Navetier, Sanada Katsumi",
-              House: "The Company of the Dragoon Guards"
+              Cadets: "Tassin Navetier, Sanada Katsumi, Jacques Gonse, Stefan von Musbach",
+              House: "The Company of the Dragoon Guards, Di Pietro School of Defense"
        }
 }
 Connor Levingestoune: {
@@ -81,7 +81,6 @@ Flaithri O'Cearnaigh: {
        event: Pennsic War,
        reign: Logan VII and Esa II,
        relationships: {
-              Free Scholar Sponsors: "???",
               House: "The Company of the Dragoon Guards"
        }
 }
@@ -172,11 +171,13 @@ Charimmos of Lakadaimonias: {
 }
 Llwyd Aldrydd: {
        op_id: 1993,
-       location: Tir-Y-Don,
+       location: Tir-y-Don,
        date: 8/6/2018,
        event: Pennsic War,
        reign: Dietrich II and Una I,
        relationships: {
+          Free Scholar Sponsors: "Master Aedan, Sir Roland, Lord Percy",
+          Sponsored Free Scholars: "Celric d'Ravelle, Jean Maurice le Marinier, Ulfarr Refskegg, Cataldo Querini, Aidan of Kingswood",
           House: "The Company of the Dragoon Guards"
        }
 }
