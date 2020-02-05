@@ -125,3 +125,13 @@ Lucio di Malatesta:
     location: Cyddlan Downs
     form: Cut & Thrust
     misc: Cadet to Don Julien de la Fontaine
+Giavanna:
+    op_id:
+    location: Roxbury Mill
+    form: Rapier and Dagger
+    misc: Intern for The Company of the Dragoon Guards
+Owyn de Wolfe:
+    op_id: 9443
+    location: Sacred Stone
+    form: Rapier and Dagger, Rapier and Stick
+    misc: Student to Baron Iskender Bey al-Istanbuli
