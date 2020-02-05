@@ -651,3 +651,23 @@ Allister Greenbrier: {
    House: "Condottieri"
    }
 }
+Julien de la Fontaine: {
+  op_id: 9977,
+  date: 1/6/2018,
+  event: Citadel Twelfth Night,
+  monarchs: Jaxarticus II and Anna,
+  relationships: {
+   Cadet: "Lucio di Malatesta",
+   Cadetted to: "Master Giacomo Cavalli da Treviso of Caid"
+   }
+}
+Ffernfael Kymro: {
+  op_id: 8623,
+  date: 1/18/2020,
+  event: Kingdom 12th Night,
+  monarchs: Cuan VIII and Signy II,
+  relationships: {
+   House: "The Company of the Dragoon Guards",
+   Free Scholar Sponsors: "Maestra Caitilin, Lord Terasu, Lord Celric"
+   }
+}
