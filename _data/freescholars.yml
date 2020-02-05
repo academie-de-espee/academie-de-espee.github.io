@@ -211,15 +211,6 @@ Sanada Akime:
   sponsors: Lord Terasu, Master Brian, Maestra Caitilin
   misc: House Sanada
   op_id: 8195
-Ffernfael Kymro:
-  location: Roxbury Mill
-  date: 11/19/2016
-  title: Lord
-  form:
-  event: Holiday Faire
-  sponsors: Maestra Caitilin, Lord Terasu, Lord Celric
-  misc: The Company of the Dragoon Guards
-  op_id: 8623
 Feodosiia Alekseeva zhena:
   location: Sacred Stone
   date: 2/25/2017
@@ -412,4 +403,4 @@ Jacques Gonse:
   form: Sword and Dagger
   sponsors: Lord Armand, Lord Linhart, Master Cailin
   misc: The Company of the Dragoon Guards, cadet to Master Dante
-  op_id: 
+  op_id: 9938
