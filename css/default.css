@@ -24,7 +24,7 @@ a:hover {
 
 h1, h2, h3, h4 {
     margin-bottom: 10px;
-    color: #0000CC;
+    color: #3272FC;
 }
 
 p {
@@ -55,7 +55,7 @@ img {
     text-align: left;
     margin: 0 auto;
     min-width: 700px;
-    max-width: 1100px;
+    max-width: 800px;
 }
 
 .hlist {
@@ -142,7 +142,7 @@ img {
 }
 
 #header ul li a {
-    color: #0000CC;
+    color: #3272FC;
     text-decoration: none;
 }
 
