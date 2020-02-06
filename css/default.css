@@ -52,7 +52,7 @@ img {
 }
 
 .margins {
-    text-align: left;
+    text-align: justify;
     margin: 0 auto;
     min-width: 700px;
     max-width: 800px;
