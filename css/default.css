@@ -24,7 +24,7 @@ a:hover {
 
 h1, h2, h3, h4 {
     margin-bottom: 10px;
-    color: #3272FC;
+    color: #1E65FE;
 }
 
 p {
@@ -142,8 +142,10 @@ img {
 }
 
 #header ul li a {
-    color: #3272FC;
+    color: #1E65FE;
     text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
 }
 
 #header ul li a:hover,
