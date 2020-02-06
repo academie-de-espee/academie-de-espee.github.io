@@ -112,8 +112,8 @@ Katherine Maunsel: {
   event: Atlantian Twelfth Night Masqued Ball,
   monarchs: Anton and Emer,
   relationships: {
-    House: "Gardiner's Company"
-    Sponsored Free Scholars: "Gavin, Gunther"
+    House: "Gardiner's Company",
+    Sponsored Free Scholars: "Gavin, Gunther, Costanca"
   }
 }
 Percival Aldridge: {
