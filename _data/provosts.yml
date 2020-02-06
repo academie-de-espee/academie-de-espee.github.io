@@ -111,12 +111,21 @@ Katherine Maunsel: {
   date: 1/13/2001,
   event: Atlantian Twelfth Night Masqued Ball,
   monarchs: Anton and Emer,
+  relationships: {
+    House: "Gardiner's Company"
+    Sponsored Free Scholars: "Gavin, Gunther"
+  }
 }
 Percival Aldridge: {
   op_id: 2481,
   date: 1/13/2001,
   event: Atlantian Twelfth Night Masqued Ball,
   monarchs: Anton and Emer,
+  relationships: {
+    House: "Gardiner's Company",
+    Free Scholar Sponsors: "Master Giacomo, Lord Nathanial, Lord Vyvyan",
+    Sponsored Free Scholars: "Stephen, Ysanne, Etain, Geoffrey C., Letia, Dominyk, Llwyd, Raphael, Chris, Els, Alyna, Constanza, Fredrick, Kenji, Thorgrimr, William C., and who knows who else"
+  }
 }
 Gunther von Drachenburg: {
   op_id: 1416,
