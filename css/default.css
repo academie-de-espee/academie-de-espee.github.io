@@ -24,7 +24,7 @@ a:hover {
 
 h1, h2, h3, h4 {
     margin-bottom: 10px;
-    color: #0000CC;
+    color: #1E65FE;
 }
 
 p {
@@ -52,10 +52,10 @@ img {
 }
 
 .margins {
-    text-align: left;
+    text-align: justify;
     margin: 0 auto;
     min-width: 700px;
-    max-width: 1100px;
+    max-width: 800px;
 }
 
 .hlist {
@@ -142,8 +142,10 @@ img {
 }
 
 #header ul li a {
-    color: #0000CC;
+    color: #1E65FE;
     text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
 }
 
 #header ul li a:hover,
