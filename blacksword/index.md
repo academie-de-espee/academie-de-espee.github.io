@@ -52,5 +52,6 @@ This will be updated as more tournements are schedualed.
 * St Paddy's Bloodbath 3/14/20
 * Raven's Cove Baronial Birthday 3/14/20
 * Caer Mear Baronial Birthday 3/21/20
+* Hidden Mountain Baronial Birthday 3/28/20
 * Defending the Gate 3/28/20
 * Storvik Novice 6/20/20
