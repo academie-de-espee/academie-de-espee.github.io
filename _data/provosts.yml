@@ -459,3 +459,13 @@ Ffernfael Kymro: {
    Free Scholar Sponsors: "Maestra Caitilin, Lord Terasu, Lord Celric"
    }
 }
+Ishmael Baleinier: {
+  op_id: 9407,
+  date: 2/8/2020,
+  event: Bright Hills Baronial Birthday,
+  monarchs: Cuan VIII and Signy II,
+  relationships: {
+   House: "The Company of the Dragoon Guards",
+   Free Scholar Sponsors: "Master Aeron, Maestra Caitilin, Lord Torse"
+   }
+}
