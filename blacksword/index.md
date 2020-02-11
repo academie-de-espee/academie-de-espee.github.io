@@ -3,7 +3,9 @@ title: Atlantia's Blacksword Competition
 ---
 ## Blacksword Tournament Contact
 [Lady Colette Vitalis](blacksword@atlantia.sca.org) (Email or Facebook Messenger) - all Maryland, DC, and Virginia baronies
+
 Central Deputy: [Lord Tiberius Crispus](Chris.bouchonnet@gmail.com) (Email or Facebook Messenger) - Hawkwood, Sacred Stone, Nottinghill Coill
+
 Southern Deputy: [Baron Lochlainn](captjhym@gmail.com) (Email or Facebook Messenger) - Raven's Cove, Hidden Mountain, Windmasters, Border Vale Keep
 
 ## About
