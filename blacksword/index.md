@@ -2,7 +2,9 @@
 title: Atlantia's Blacksword Competition
 ---
 ## Blacksword Tournament Contact
-[Lady Colette Vitalis](blacksword@atlantia.sca.org) (Email or Facebook Messenger)
+[Lady Colette Vitalis](blacksword@atlantia.sca.org) (Email or Facebook Messenger) - all Maryland, DC, and Virginia baronies
+Central Deputy: [Lord Tiberius Crispus](Chris.bouchonnet@gmail.com) (Email or Facebook Messenger) - Hawkwood, Sacred Stone, Nottinghill Coill
+Southern Deputy: [Baron Lochlainn](captjhym@gmail.com) (Email or Facebook Messenger) - Raven's Cove, Hidden Mountain, Windmasters, Border Vale Keep
 
 ## About
 Every year Atlantia holds tournaments to demonstrate skill, improvement, and prowess, but the grandest of our tournaments cannot be held within any one event. The Blackswords end amongst the blaze of the summer sun, and are reborn under the first days of fall. The standings from last year cleared like the thick summer air by the first crisp day of autumn. All hold on to their spot by a knife’s edge, a single pass. Some enter to claim that they deserve a shot at immortal glory on the fields of Pennsic. Others enter to test how far their studies have taken them. All leave with the best fights their opponent has to offer.
@@ -35,17 +37,20 @@ If you wish to run a Blacksword at your event or have information to report plea
 
 ### Blacksword Tournaments for 2019/2020 year:
 This will be updated as more tournements are schedualed. 
-* Rip Rap War 9/14/19
-* Stierbach Baronial Birthday 9/21/19
-* The Wild Hunt 10/12/19
-* War of the Wings 10/19/19
-* Dun Carraig Baronial Birthday 11/9/19
-* Buckston Birthday 11/9/19
-* Silver Chalice 11/23/19
-* Tourney of Mannanan mac Lir 1/25/19
-* Bright Hills Baronial Birthday 2/8/20
+* Rip Rap War 9/14/19 - Winner: Duke Ragnarr
+* Stierbach Baronial Birthday 9/21/19 - Winner: Master Torse
+* The Wild Hunt 10/12/19 - Winner: Lord Armand
+* War of the Wings 10/19/19 - Winner: Master Dominyk
+* Dun Carraig Baronial Birthday 11/9/19 - Winner: Lord fernfael
+* Buckston Birthday 11/9/19 - Winner: Baron Iskender
+* Silver Chalice 11/23/19 - Winner: Lord Matthias
+* Yule Toy Tourney 12/14/19 - Winner: Lord Tiberius
+* Tourney of Mannanan mac Lir 1/25/19 - Winner: Don Julien
+* Bright Hills Baronial Birthday 2/8/20 - Winner: Master Cailin
 * Nottinghill Coill Baronial Birthday 2/15/20
 * Ymir 45 2/22/20
 * St Paddy's Bloodbath 3/14/20
+* Raven's Cove Baronial Birthday 3/14/20
 * Caer Mear Baronial Birthday 3/21/20
+* Defending the Gate 3/28/20
 * Storvik Novice 6/20/20
