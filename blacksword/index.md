@@ -49,11 +49,14 @@ This will be updated as more tournements are schedualed.
 * Yule Toy Tourney 12/14/19 - Winner: Lord Tiberius
 * Tourney of Mannanan mac Lir 1/25/19 - Winner: Don Julien
 * Bright Hills Baronial Birthday 2/8/20 - Winner: Master Cailin
-* Nottinghill Coill Baronial Birthday 2/15/20
+* Nottinghill Coill Baronial Birthday 2/15/20 - Winner: Don Julien
 * Ymir 45 2/22/20
 * St Paddy's Bloodbath 3/14/20
 * Raven's Cove Baronial Birthday 3/14/20
 * Caer Mear Baronial Birthday 3/21/20
 * Hidden Mountain Baronial Birthday 3/28/20
 * Defending the Gate 3/28/20
+* Birthday of the Dragon 4/18/20
+* Tir y Don's Baronial Birthday 4/18/20
+* Hawkwood Baronial Birthday 5/16/20
 * Storvik Novice 6/20/20
