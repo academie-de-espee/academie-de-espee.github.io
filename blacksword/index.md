@@ -57,5 +57,6 @@ This will be updated as more tournements are schedualed.
 * Hidden Mountain Baronial Birthday 3/28/20
 * Defending the Gate 3/28/20
 * Birthday of the Dragon 4/18/20
+* Tir y Don's Baronial Birthday 4/18/20
 * Hawkwood Baronial Birthday 5/16/20
 * Storvik Novice 6/20/20
