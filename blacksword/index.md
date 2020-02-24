@@ -43,14 +43,14 @@ This will be updated as more tournements are schedualed.
 * Stierbach Baronial Birthday 9/21/19 - Winner: Master Torse
 * The Wild Hunt 10/12/19 - Winner: Lord Armand
 * War of the Wings 10/19/19 - Winner: Master Dominyk
-* Dun Carraig Baronial Birthday 11/9/19 - Winner: Lord fernfael
+* Dun Carraig Baronial Birthday 11/9/19 - Winner: Lord Ffernfael
 * Buckston Birthday 11/9/19 - Winner: Baron Iskender
 * Silver Chalice 11/23/19 - Winner: Lord Matthias
 * Yule Toy Tourney 12/14/19 - Winner: Lord Tiberius
 * Tourney of Mannanan mac Lir 1/25/19 - Winner: Don Julien
 * Bright Hills Baronial Birthday 2/8/20 - Winner: Master Cailin
 * Nottinghill Coill Baronial Birthday 2/15/20 - Winner: Don Julien
-* Ymir 45 2/22/20
+* Ymir 45 2/22/20 - Winner: Lord Humfrey
 * St Paddy's Bloodbath 3/14/20
 * Raven's Cove Baronial Birthday 3/14/20
 * Caer Mear Baronial Birthday 3/21/20
