@@ -233,3 +233,14 @@ Celric d'Ravelle: {
       Sponsored Free Scholars: "Colin McNab, Jean Maurice le Marinier, Michael Wymarc, Ffernfael Kymro, Nyvein Dyfnawal, Aidan of Kingswood"
      }
  }
+Letia Thistelthueyt: {
+   op_id: 3725,
+   location: Lochmere,
+   date: 2/22/2020,
+   event: Tournament of Ymir,
+   reign: Cuan and Signy,
+   relationships: {
+      Free Scholar Sponsors: "Master Connor, Mistress Ceridwen, Lord Percival",
+      Student: "Farthegn Keldansson"
+     }
+ }
