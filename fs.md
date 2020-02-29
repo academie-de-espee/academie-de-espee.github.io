@@ -44,6 +44,6 @@ title: Roster of Free Scholars
 </tbody>
 </table>
 
-Are you a freescholar?  Should your name be listed above?  Email [Lord Linhart Von Marburg](mailto:rmauler@gmail.com) or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
+Are you a freescholar?  Facebook message or email [Lady Colette Vitalis](mailto:brittanylasley@gmail.com). Alternative, you can make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
 
 <script src="/js/sorttable.js"></script>
