@@ -7,16 +7,16 @@ The Academie d'Espee exists to promote the practice and enjoyment of period styl
 
 * [General Structure Information](guild)
 * Masters
- * [Roster of Masters](masters)
+  * [Roster of Masters](masters)
 * Provosts
- * [What is a Provost](guidelines)
- * [Roster of Provosts](provosts)
+  * [What is a Provost](guidelines)
+  * [Roster of Provosts](provosts)
 * Free Scholars
- * [What is a Free Scholar](freescholar-2)
- * [Roster of Free Scholars](fs)
+  * [What is a Free Scholar](freescholar-2)
+  * [Roster of Free Scholars](fs)
 * Scholars
- * [What is a Scholar](scholar)
- * [Roster of Scholars](scholars)
+  * [What is a Scholar](scholar)
+  * [Roster of Scholars](scholars)
 
 ## Other sites of Interest
 * [Rapier Marshal's Site](http://rapier.atlantia.sca.org/)
