@@ -9,13 +9,13 @@ The Academie d'Espee exists to promote the practice and enjoyment of period styl
 * Masters
   * [Roster of Masters](masters)
 * Provosts
-  * [What is a Provost](guidelines)
+  * [What is a Provost](articles/guidelines)
   * [Roster of Provosts](provosts)
 * Free Scholars
-  * [What is a Free Scholar](freescholar-2)
+  * [What is a Free Scholar](articles/freescholar-2)
   * [Roster of Free Scholars](fs)
 * Scholars
-  * [What is a Scholar](scholar)
+  * [What is a Scholar](articles/scholar)
   * [Roster of Scholars](scholars)
 
 ## Other sites of Interest
