@@ -5,7 +5,7 @@ The Academie d'Espee exists to promote the practice and enjoyment of period styl
 
 ## Structure of the Academie d'Espee
 
-* [General Structure Information](guild)
+* [General Structure Information](articles/guild)
 * Masters
   * [Roster of Masters](masters)
 * Provosts
