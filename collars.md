@@ -7,5 +7,5 @@ Handing down a collar from an existing master to the newest member of the order 
 These are the chain of legacy thus far (sorted by MOD award order):
 
 {% for collar in site.data.collars %}
-* {% for opid in collar %} {% assign byop = site.data.op[opid] %} {{ byop.name }}{% if forloop.last %}{% else %},{% endif %} {% endfor %}
+* {% for opid in collar %} {% assign byop = site.data.op[opid] %} {{ byop.name }} {% if forloop.last %}{% else %}&rarr;{% endif %} {% endfor %}
 {% endfor  %}
