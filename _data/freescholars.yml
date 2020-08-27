@@ -276,8 +276,8 @@ Tiberius Aufidius Crispus:
   date: 5/19/2018
   event: Hawkwood's Baronial Birthday
   form: Single Sword
-  sponsors:
-  misc:
+  sponsors: Master Raphael, Duke Dietrich, Master Greylond
+  misc: Legion of the Phoenix (household)
   op_id: 8889
 Colette Vitalis:
   location: Ponte Alto
@@ -311,12 +311,12 @@ Alonzo Falcone:
   sponsors:
   misc:  
   op_id: 8490
-Roland Shelnut:
+Roland de Thompson:
   location: Isenfir
   date: 3/23/2019
   event: Defending the Gate
   form: Sword and Dagger
-  sponsors:
+  sponsors: Master Benjamin, Lord Armand, Master Aedan
   misc: intern for House Blackspear
   op_id:
 Elizabeth Taylor:
