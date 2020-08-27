@@ -8,6 +8,7 @@ The Academie d'Espee exists to promote the practice and enjoyment of period styl
 * [General Structure Information](articles/guild)
 * Masters
   * [Roster of Masters](masters)
+  * [Legacy of Collars](collars)
 * Provosts
   * [What is a Provost](articles/guidelines)
   * [Roster of Provosts](provosts)
