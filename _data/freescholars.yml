@@ -161,7 +161,7 @@ William Cameron:
   misc: 
 Ylsa Broussard:
 Michael Wymarc:
-  location: Black Diamond
+  location: Caer Mear
   date: 2012
   form: 
   event: Holiday Faire
@@ -211,7 +211,7 @@ Sanada Akime:
   sponsors: Lord Terasu, Master Brian, Maestra Caitilin
   misc: House Sanada
   op_id: 8195
-Feodosiia Alekseeva zhena:
+Theodosia Alekseeva zhena:
   location: Sacred Stone
   date: 2/25/2017
   form:
@@ -236,7 +236,7 @@ Anthonye Saker:
   misc: 
   op_id:
 Humfrey Matthew Lovett:
-  location: East Kingdom
+  location: Sacred Stone
   date: 1/28/17
   title: 
   form:
@@ -254,7 +254,7 @@ Nyvein Dyfnawal:
  misc: 
  op_id: 
 Trian Ó Glesáin:
-  location: Hawkwood
+  location: Storvik
   date: 8/7/2017
   title: Lord
   form: Sword and Dagger
@@ -320,7 +320,7 @@ Roland Shelnut:
   misc: intern for House Blackspear
   op_id:
 Elizabeth Taylor:
-  location: Sacred Stone
+  location: Lochmere
   date: 2/23/2019
   event: Tournament of Ymir
   form: Sword and Dagger
@@ -328,7 +328,7 @@ Elizabeth Taylor:
   misc: Cadet to Master Giacomo
   op_id: 3713
 Els von Ascheberg:
-  location: Sacred Stone
+  location: Windmasters' Hill
   date: 2/23/2019
   event: Tournament of Ymir
   form:
