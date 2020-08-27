@@ -24,6 +24,7 @@ titles = [
     "Prince",
     "Princess",
     "Dame",
+    "Noble",
 ]
 
 
