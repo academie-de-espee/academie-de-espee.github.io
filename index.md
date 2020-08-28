@@ -21,3 +21,4 @@ The Academie d'Espee exists to promote the practice and enjoyment of period styl
 
 ## Other sites of Interest
 * [Rapier Marshal's Site](http://rapier.atlantia.sca.org/)
+* [Blacksword Tournament Wiki](https://www.wiki.atlantia.sca.org/index.php?title=Blacksword_Tournament)
