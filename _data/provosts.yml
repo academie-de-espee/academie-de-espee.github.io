@@ -463,10 +463,10 @@ Ishmael Baleinier: {
 Tiberius Aufidius Crispus: {
   op_id: 8889,
   date: 9/19/2020,
-  event: Hawkwood's Baronial Birthday,
+  event: "Hawkwood's Baronial Birthday",
   monarchs: Anton and Luned,
   relationships: {
-    Free Scholar Sponsors: "Master Raphael, Duke Dietrich, Master Greylond"
+    Free Scholar Sponsors: "Master Raphael, Duke Dietrich, Master Greylond",
     House: "Legion of the Phoenix"
     }
 }
