@@ -41,11 +41,6 @@ Roland Wodeman:
   location: Hawkwood
   form: Sword and Short Sword
   misc: Corsair 3rd Class (Corsairium)
-Arias Velarde de Santillana del Mar:
-  op_id: 8929
-  location: Stormwall
-  form: Sword and Dagger
-  misc:
 Caillan Ruffio:
   op_id: 7517
   location: Black Diamond
@@ -130,11 +125,6 @@ Giavanna:
     location: Roxbury Mill
     form: Rapier and Dagger
     misc: Intern for The Company of the Dragoon Guards
-Owyn de Wolfe:
-    op_id: 9443
-    location: Sacred Stone
-    form: Rapier and Dagger, Rapier and Stick
-    misc: Student to Baron Iskender Bey al-Istanbuli
 Farthegn Keldansson:
     op_id: 9837
     location: Lochmere
