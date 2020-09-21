@@ -396,3 +396,19 @@ Jacques Gonse:
   sponsors: Lord Armand, Lord Linhart, Master Cailin
   misc: The Company of the Dragoon Guards, cadet to Master Dante
   op_id: 9938
+Owyn de Wolfe:
+   location: Sacred Stone
+   date:
+   event:
+   form: Rapier and Dagger, Rapier and Stick
+   sponsors:
+   misc: Student to Baron Iskender Bey al-Istanbuli
+   op_id: 9443
+Arias Velarde de Santillana del Mar:
+  location: Stormwall
+  date:
+  event:
+  form: Sword and Dagger
+  sponsors:
+  misc:
+  op_id: 8929
