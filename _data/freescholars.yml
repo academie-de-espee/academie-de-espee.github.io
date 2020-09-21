@@ -271,14 +271,6 @@ Ulfarr Refskegg:
   sponsors: Master Flaithri, Lord Terasu, Master Llwyd
   misc: House Condottieri
   op_id: 8144
-Colette Vitalis:
-  location: Ponte Alto
-  date: 8/5/2018
-  event: Pennsic War
-  form: Sword and Stick
-  sponsors: Master Dominyk, Master Brian, Master Aeron
-  misc: ensign to Master Dominyk, The Company of the Dragoon Guards, Grasshopper
-  op_id: 8367
 Dyggvi Hrolfsson:
   location: Sacred Stone
   date: 6/23/2018
@@ -388,3 +380,19 @@ Jacques Gonse:
   sponsors: Lord Armand, Lord Linhart, Master Cailin
   misc: The Company of the Dragoon Guards, cadet to Master Dante
   op_id: 9938
+Owyn de Wolfe:
+   location: Sacred Stone
+   date:
+   event:
+   form: Rapier and Dagger, Rapier and Stick
+   sponsors: Baron Iskender, Duke Ragnarr, and Master Raph
+   misc: Student to Baron Iskender Bey al-Istanbuli
+   op_id: 9443
+Arias Velarde de Santillana del Mar:
+  location: Stormwall
+  date:
+  event:
+  form: Sword and Dagger
+  sponsors: Lord Maxamilian, Master Greylond, and Master Elfin
+  misc:
+  op_id: 8929
