@@ -3180,7 +3180,7 @@
   name: Erlin Pathfinder
   title: Baron
 1167:
-  name: Eshton Spearcrafter
+  name: Ashton Spearcrafter
   title: Baron
 1168:
   name: Esmee Douglas
@@ -3802,7 +3802,7 @@
   name: Grayson Hayes
   title: Lord
 1382:
-  name: Meisterin Greer Jonsdottir
+  name: Greer Jonsdottir
   title: Mistress
 1384:
   name: Gregge the Archer
@@ -8768,7 +8768,7 @@
   title: Lady
 3234:
   name: Wynne ferch Rhodri
-  title: Dame
+  title: Mistress
 3235:
   name: Wystan Roland Sacheverell
   title: Baron
@@ -9958,7 +9958,7 @@
   name: "L\xE6rimo\xF0ir Deirdre O'Bardon"
   title: Mistress
 3867:
-  name: Sindara of the Falconshield
+  name: Sindara Linda Rachael Fessel of the Falconshield
   title: Lady
 3868:
   name: "Jacqueline de Cond\xE9"
@@ -10628,7 +10628,7 @@
   name: Sorcha Crowe
   title: Mistress
 4204:
-  name: Faye de Trees
+  name: Faye Trees
   title: Mistress
 4205:
   name: Guntram Obermann
@@ -12789,7 +12789,7 @@
   name: David of Raven's Cove
   title: Lord
 8079:
-  name: "R\xFAnfr\xED\xF0r Hofmansd\xF3ttir"
+  name: "R\xFAnval\xF0r Hofmann"
   title: Lady
 8080:
   name: Nihani Al-nur
@@ -12888,7 +12888,7 @@
   name: Sydney Talbot
   title: Lady
 8142:
-  name: "Ragnveig Snorrad\xEF\xBF\xBDttir"
+  name: "Ragnveig Snorrad\xF3ttir"
   title: Mistress
 8144:
   name: Ulfarr Refskegg
@@ -13011,7 +13011,7 @@
   title: Lord
 8242:
   name: Rhiannon of Raven's Cove
-  title: Lady
+  title: Baroness
 8243:
   name: Ivan of House Hedgehog
   title: Lord
@@ -13349,7 +13349,7 @@
   name: Eric
   title: Lord
 8542:
-  name: Lothar
+  name: Lothar of Atlantia
   title: Lord
 8543:
   name: Nyvein bat Rav Adam
@@ -13679,7 +13679,7 @@
   title: Noble
 8889:
   name: Tiberius Aufidius Crispus
-  title: Lord
+  title: Baron
 8890:
   name: Gabriel d'Acre
   title: Lord
@@ -13748,7 +13748,7 @@
   name: Brigid O Donoghue
   title: Lady
 8948:
-  name: Jack of Windmasters Hill
+  name: Jeckel Fett
   title: Lord
 8949:
   name: Marjorie inghean Riocaird
@@ -13900,7 +13900,7 @@
   name: Joseph Isenfiri
   title: Lord
 9054:
-  name: Wolfengyre de la Pegas
+  name: Wulfwyn of Black Diamond
   title: Lord
 9057:
   name: Eryn Meadows
@@ -14662,7 +14662,7 @@
   title: Lord
 9977:
   name: Julien de la Fontaine
-  title: Lord
+  title: Master
 9979:
   name: "Beornwyn Bjarnard\xF3ttir"
   title: Lady
@@ -14733,7 +14733,7 @@
   name: Angus de Botha
   title: Lord
 10100:
-  name: "Suzanne de la Fert\xE9"
+  name: "Suzanne de la Fert\xE9 (Maestra)"
   title: Mistress
 10102:
   name: Gary MacAllister

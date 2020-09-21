@@ -244,4 +244,13 @@ Letia Thistelthueyt: {
       Free Scholar Sponsors: "Master Connor, Mistress Ceridwen, Lord Percival",
       Henchman: "Farthegn Keldansson"
      }
- }
+}
+
+Julien de la Fontaine: {
+   op_id: 9977,
+   location: Cydllan Downs,
+   date: 9/19/2020,
+   event: Galicia Court at Castelo Soutomaior,
+   reign: Anton V and Luned IV,
+   relationships: {}
+}

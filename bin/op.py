@@ -15,6 +15,8 @@ titles = [
     "Baroness",
     "Baron",
     "Mistress",
+    "Maestra",
+    "Meisterin",
     "Duke",
     "Viscountess",
     "Viscount",
@@ -27,6 +29,7 @@ titles = [
     "Noble",
 ]
 
+to_remove = ['THL']
 
 def get_title(op_id):
     try:
@@ -47,6 +50,10 @@ def get_title(op_id):
 def do_titles(data):
     for x in data:
         name = data[x]["name"]
+        
+        for remove in to_remove:
+            if name.startswith(remove + " "):
+                name = name[len(remove) :].strip()
 
         for title in titles:
             if name.startswith(title + " "):

@@ -1650,6 +1650,9 @@ Ascelyn Mallery:
 Asgeir Vigsterkr:
   op_id: 8891
   title: Noble
+Ashton Spearcrafter:
+  op_id: 1167
+  title: Baron
 Asim al-Talib:
   op_id: 396
   title: Master
@@ -5171,9 +5174,6 @@ Esa:
 Esa inghean Donnchaidh:
   op_id: 8164
   title: Lady
-Eshton Spearcrafter:
-  op_id: 1167
-  title: Baron
 Esme Bramley:
   op_id: 8993
   title: Lady
@@ -5345,7 +5345,7 @@ Farulf Hepni:
 "Far\xFEegn Keldansson":
   op_id: 9837
   title: Lord
-Faye de Trees:
+Faye Trees:
   op_id: 4204
   title: Mistress
 Fearghus Mac Domhnaill:
@@ -6228,6 +6228,9 @@ Grazia Morgano:
   title: Lady
 "Gra\xE7ia Esperan\xE7a de Sevilla":
   op_id: 1377
+  title: Mistress
+Greer Jonsdottir:
+  op_id: 1382
   title: Mistress
 Gregge the Archer:
   op_id: 1384
@@ -7270,9 +7273,6 @@ Jack Black of Flint:
 Jack Wright:
   op_id: 1613
   title: Lord
-Jack of Windmasters Hill:
-  op_id: 8948
-  title: Lord
 Jackson of Bright Hills:
   op_id: 3885
   title: Lord
@@ -7511,6 +7511,9 @@ Jeanmaire du Domremy:
 Jeanne Tenneur de Bec:
   op_id: 1666
   title: Mistress
+Jeckel Fett:
+  op_id: 8948
+  title: Lord
 Jeffrey McFaul:
   op_id: 1667
   title: Lord
@@ -7918,7 +7921,7 @@ Julien de Montfort:
   title: Lord
 Julien de la Fontaine:
   op_id: 9977
-  title: Lord
+  title: Master
 Julienne fille Gaspard:
   op_id: 3464
   title: Lady
@@ -8886,11 +8889,11 @@ Loric of Lochmere:
 Lorraine McLean of Lockbye:
   op_id: 2010
   title: Lady
-Lothar:
-  op_id: 8542
-  title: Lord
 Lothar Lokinvaldrsson:
   op_id: 2011
+  title: Lord
+Lothar of Atlantia:
+  op_id: 8542
   title: Lord
 Lothar of Chesleigh:
   op_id: 2012
@@ -9824,9 +9827,6 @@ Meghan MacLachlan:
   title: Lady
 Meghan Pengwyn of Wynterwood - DECEASED 6/23/2006:
   op_id: 2208
-  title: Mistress
-Meisterin Greer Jonsdottir:
-  op_id: 1382
   title: Mistress
 Meisterin Johanna von Sudeborn:
   op_id: 1704
@@ -11214,7 +11214,7 @@ Ragnell Gry - DECEASED:
 Ragnhildr Ingvarrsdottir:
   op_id: 8201
   title: Noble
-"Ragnveig Snorrad\xEF\xBF\xBDttir":
+"Ragnveig Snorrad\xF3ttir":
   op_id: 8142
   title: Mistress
 Raibeart Warenne:
@@ -11490,7 +11490,7 @@ Rhiannon of Lindmyr:
   title: Lady
 Rhiannon of Raven's Cove:
   op_id: 8242
-  title: Lady
+  title: Baroness
 Rhiannon ui Neill:
   op_id: 2610
   title: Mistress
@@ -12102,7 +12102,7 @@ R{o,}gnvaldr Arason:
   title: Baron
 "R\xFAna Sk\xF3gad\xF3ttir":
   op_id: 10314
-"R\xFAnfr\xED\xF0r Hofmansd\xF3ttir":
+"R\xFAnval\xF0r Hofmann":
   op_id: 8079
   title: Lady
 "R\xFCdiger Lindun":
@@ -12614,7 +12614,7 @@ Simone de Venezia:
 Simonis Branaina:
   op_id: 2850
   title: Lady
-Sindara of the Falconshield:
+Sindara Linda Rachael Fessel of the Falconshield:
   op_id: 3867
   title: Lady
 "Sindri J\xF3nsson":
@@ -12945,7 +12945,7 @@ Susanne de Darby:
 Suzanne de Cloptunne:
   op_id: 6917
   title: Lady
-"Suzanne de la Fert\xE9":
+"Suzanne de la Fert\xE9 (Maestra)":
   op_id: 10100
   title: Mistress
 "Svana in kyrra Haraldsd\xF3ttir":
@@ -13541,7 +13541,7 @@ Tibbe Crosier:
   title: Lady
 Tiberius Aufidius Crispus:
   op_id: 8889
-  title: Lord
+  title: Baron
 Tiberius of York:
   op_id: 9169
   title: Lord
@@ -14381,9 +14381,6 @@ Winifred merch Ifan:
 Wistric Oftun:
   op_id: 3789
   title: Master
-Wolfengyre de la Pegas:
-  op_id: 9054
-  title: Lord
 Wolfgang Hackbarth:
   op_id: 4420
   title: Lord
@@ -14454,6 +14451,9 @@ Wulfric Beornsson:
 Wulfstan Egweald:
   op_id: 3230
   title: Baron
+Wulfwyn of Black Diamond:
+  op_id: 9054
+  title: Lord
 "Wulfwyn \xC6lfwines dohtor":
   op_id: 3231
   title: Lady
@@ -14468,7 +14468,7 @@ Wynne ferch Gruffud:
   title: Lady
 Wynne ferch Rhodri:
   op_id: 3234
-  title: Dame
+  title: Mistress
 Wystan Roland Sacheverell:
   op_id: 3235
   title: Baron
