@@ -5,6 +5,7 @@ title: Articles
 Here are numerous papers and articles written by members of the Academie d'Espee.  The scope of these articles is broad and many topics are covered.
 
 ### Articles about the Academie
+* [Atlantian Rapier 101](atlantian-rapier-101) - Master Llwyd Aldrydd, Provost
 * [The Academie d'Espee, Order of the White Scarf of Atlantia - A complete history](history) - Master Aedan Aylwyn, Provost
 * [The Atlantian Rapier Guild Structure](guild) - Master Aedan Aylwyn, Provost
 * [Measures for Consideration to the Academie](guidelines)
