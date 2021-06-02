@@ -38,13 +38,13 @@ Anyone can, and should, recommend anyone else for any award. The Crown and the m
 
 #### The Academie d’Espee
 
-The Academie is an Atlantian guild modeled on the historic London Masters of Defense structure. Participation is completely optional. I enjoy and support it for several reasons: it builds esprit de corps (group identity and morale), it makes identification of Atlantians easier in large battles, it gives fencers recognition from their peers, and it marks more experienced fencers who can be asked for advice and training. Each rank within the Academie takes a period inspired oath (see https://www.academiedespee.com/oaths/ ) and wears a brightly colored scarf on their arm. For the lower two Academie ranks, there is no connection to the Crown award system described above. The higher two ranks indicate a Kingdom award and a choice to participate in the Academie.
+The Academie is an Atlantian guild modeled on the historic London Masters of Defense structure. Participation is completely optional. I enjoy and support it for several reasons: it builds esprit de corps (group identity and morale), it makes identification of Atlantians easier in large battles, it gives fencers recognition from their peers, and it marks more experienced fencers who can be asked for advice and training. Each rank within the Academie takes a [period inspired oath](/oaths/) and wears a brightly colored scarf on their arm. For the lower two Academie ranks, there is no connection to the Crown award system described above. The higher two ranks indicate a Kingdom award and a choice to participate in the Academie.
 
 The rank of Scholar is denoted by a blue scarf. Any authorized fencer is invited to join the Academie as a scholar. Those that choose to do so take the scholars oath surrounded by all of the other members of the Academie, are presented their scarf, and congratulated for their accomplishment of successful authorization. We try to make a big deal about it and make our new fencers welcome.
 
 The rank of Free Scholar is denoted by a yellow or gold scarf.  To become a Free Scholar, one is sponsored by three Provosts (see below) of the Academie and takes the Free Scholar’s oath. The rank recognizes fencers who have made significant progress in skill and contributions to fencing. It marks people who have been leading and teaching and are worthy of being emulated. It is not a Kingdom award and does not convey any title. A Free Scholar is not viewed as a student of their sponsors, but rather students of all Provosts. A new Free Scholar is recognized with a “prize” where they fight a representative of the other Academie ranks and all comers who hold their new rank of Free Scholar. This is a celebration and not a test. You can't fail your prize.
 
-![One of my Free Scholar Scarves with my Barony's heraldic dolphin badge](/images/llwyd/Llwyd-FS.gif)
+![One of my Free Scholar Scarves with my Barony's heraldic dolphin badge](/images/llwyd/Llwyd-FS.jpg)
 
 Provosts are people who have received the Order of the White Scarf from the Crown and who choose to take the Provost’s oath to the Academie. Not all white scarves take the oath. My recollection is that three of the current seventy-five recipients of the award are not Provosts. All Atlantian White Scarves (Provost or not) wear a white scarf with a blue center stripe and a blue unicornated sea horse (called “Spike”). Provosts may, in groups of three, make new Free Scholars. Provosts frequently fight a "prize" like new Free Scholars.
 
@@ -52,9 +52,9 @@ Provosts are people who have received the Order of the White Scarf from the Crow
 
 Masters have received the “Order of Defense” award. You will sometimes see people refer to them as “MoDs”. I use “OD” after my name when I am writing something formal. The London Masters of Defense that the Academie is based on had a rank of Master, but the role of the MoDs in the Academie is not completely defined as of this date and there is currently no Master’s oath to the Academie. The regalia of a Master is a white livery collar as shown below.
 
-![My MoD Collar](/images/llwyd/ModCollar.jpg)
+![My MoD Collar](/images/llwyd/MoDCollar.jpg)
 
-Participation in the Academie is completely optional. Most, but not all, Atlantian fencers participate. Not participating does not restrict you from receiving awards from the Crown, holding offices, or participating in fencing in any other way. I’ve detailed my personal standards for each of the Academie ranks and Kingdom awards at http://baronllwyd.org/barsandroles.
+Participation in the Academie is completely optional. Most, but not all, Atlantian fencers participate. Not participating does not restrict you from receiving awards from the Crown, holding offices, or participating in fencing in any other way. I’ve detailed my personal standards for each of the Academie ranks and Kingdom awards at [http://baronllwyd.org/barsandroles](http://baronllwyd.org/barsandroles).
 
 ### Student/Teacher Mentoring
 Some fencers choose to become formal students of other fencers. Those students are most often called "cadets" but could also be "men at arms", "ensigns", or sometimes "scholars", "free scholars", or "provosts' (in other Kingdoms that weren't already using those titles). These relationships are also completely optional and personal. I have a separate article with my thoughts on this topic. Please do not rush into becoming someone's student. Take time to get to know the person and discuss expectations. It can be very rewarding but is not the right option for everyone.
