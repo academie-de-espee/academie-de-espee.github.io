@@ -253,3 +253,35 @@ Julien de la Fontaine: {
   reign: Anton V and Luned IV,
   relationships: {}
 }
+Tassin Navetier: {
+    op_id: 7462,
+    date: 10/24/2020
+    event: Castile Court at Alcazar de Segovia,
+    monarchs: Anton V and Luned IV,
+    relationships: {
+        Free Scholar Sponsors: "Maestro Dante, Master Wistric, Master Raphael",
+        Cadetted to: "Maestro Dante"
+    }
+}
+Baru le Batailier: {
+  op_id: 8213,
+  date: 11/14/2020,
+  event: Leon Court at Castillo de Ponferrada,
+  monarchs: Anton V and Luned IV,
+  relationships: {
+      Free Scholar Sponsors: "Lord Armand, Master Connor, Master Alessandro",
+      Cadetted to: "Master Alessandro",
+      House: "House Condottieri, The Company of the Dragoon Guards"
+  }
+}
+Percival Aldridge: {
+  op_id: 2481,
+  date: 2/12/2022,
+  event: Tournament of Ymir,
+  monarchs: Eckehard and Jane,
+  relationships: {
+    House: "Gardiner's Company",
+    Free Scholar Sponsors: "Master Giacomo, Lord Nathanial, Lord Vyvyan",
+    Sponsored Free Scholars: "Stephen, Ysanne, Etain, Geoffrey C., Letia, Dominyk, Llwyd, Raphael, Chris, Els, Alyna, Constanza, Fredrick, Kenji, Thorgrimr, William C., and who knows who else"
+  }
+}
