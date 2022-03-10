@@ -16,8 +16,8 @@ Nathaniel Sharpe: {
   event: Coronation of Galmr and Katharina,
   monarchs: Galmr and Katharina,
   relationships: {
-              House: "Gardiner's Company"
-       }
+    House: "Gardiner's Company"
+  }
 }
 Ceridwen ferch Owain: {
   op_id: 719,
@@ -469,4 +469,46 @@ Tiberius Aufidius Crispus: {
     Free Scholar Sponsors: "Master Raphael, Duke Dietrich, Master Greylond",
     House: "Legion of the Phoenix"
     }
+}
+Celestria Alexandre d'Amiens: {
+  op_id: 8853,
+  date: 5/1/2021,
+  event: "Spring Crown Tourney",
+  monarchs: Anton and Luned,
+  relationships: {
+    Free Scholar Sponsors: "Master Alessandro, Lord Torse, Lady Rochelle",
+    House: "Condottieri"
+  }
+}
+Humfrey Matthew Lovett: {
+  op_id: 1530,
+  date: 6/26/2021,
+  event: "Coronation",
+  monarchs: Anton and Luned,
+  relationships: {
+    Free Scholar Sponsors: "Master Raphael, Sir Christian, Lord Iskender",
+    Man at Arms to: "Master Raphael"
+  }
+}
+Jacques Gonse: {
+  op_id: 9938,
+  date: 9/25/2021,
+  event: "Battle on the Bay",
+  monarchs: Eckehard and Jane,
+  relationships: {
+    Free Scholar Sponsors: "Lord Armand, Lord Linhart, Master Cailin",
+    House: "The Company of the Dragoon Guards",
+    Cadetted to: "Maestro Dante"
+  }
+}
+Cataldo Querini: {
+  op_id: 9544,
+  date: 1/15/2022,
+  event: "Kingdom 12th Night (virtual)",
+  monarchs: Eckehard and Jane,
+  relationships: {
+    Free Scholar Sponsors: "Despotes Charimmos, Lord Bumi, Master Llwyd",
+    House: "The Company of the Dragoon Guards",
+    Ensign to: "Despotes Charimmos"
+  }
 }

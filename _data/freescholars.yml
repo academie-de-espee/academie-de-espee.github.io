@@ -235,15 +235,15 @@ Anthonye Saker:
   sponsors: Master Marcellus, Sir Christian, Master Jean Claude
   misc: 
   op_id:
-Humfrey Matthew Lovett:
-  location: Sacred Stone
-  date: 1/28/17
-  title: 
-  form:
-  event: Ice Castles
-  sponsors: Master Raphael, Sir Christian, Lord Iskender
-  misc: Man at Arms to Master Raphael
-  op_id: 1530
+#Humfrey Matthew Lovett:
+#  location: Sacred Stone
+#  date: 1/28/17
+#  title: 
+#  form:
+#  event: Ice Castles
+#  sponsors: Master Raphael, Sir Christian, Lord Iskender
+#  misc: Man at Arms to Master Raphael
+#  op_id: 1530
 Nyvein Dyfnawal:
  location: Roxbury Mill
  date: 9/23/17
@@ -279,14 +279,6 @@ Dyggvi Hrolfsson:
   sponsors: Master Raphael, Mistress Etain, ?
   misc: 
   op_id: 8787
-Celestria Alexandre d'Amiens:
-  location: Stierbach
-  date: 10/27/2018
-  event: Queen's Rapier Championship
-  form: Sword and Dagger
-  sponsors: Master Alessandro, Lord Torse, Lady Rochelle
-  misc: House Condottieri
-  op_id: 8853
 Alonzo Falcone:
   location: Black Diamond
   date:
@@ -356,14 +348,6 @@ Nicolo Santorio:
   form: Sword and Targa
   sponsors: Master Alessandro, Master Cailin, Master Aeron
   op_id: 7747
-Cataldo Querini:
-  location: Isenfir
-  date: 6/22/2019
-  event: Old School War Practice
-  form: Cut & Thrust
-  sponsors: Despotes Charimmos, Lord Bumi, Master Llwyd
-  misc: Ensign to Despotes Charimmos, The Company of the Dragoon Guards
-  op_id: 9544
 Marta de Lyon: 
   location: Lochmere
   date: 10/5/2019
@@ -372,14 +356,6 @@ Marta de Lyon:
   sponsors: Lord Armand, Lord Linhart, Lord Tassin
   misc: Head of House Condotierri
   op_id: 9749
-Jacques Gonse:
-  location: Ponte Alto
-  date: 11/9/2019
-  event: Dunn Carraig Baronial Birthday 
-  form: Sword and Dagger
-  sponsors: Lord Armand, Lord Linhart, Master Cailin
-  misc: The Company of the Dragoon Guards, cadet to Master Dante
-  op_id: 9938
 Owyn de Wolfe:
    location: Sacred Stone
    date:
