@@ -1,186 +1,186 @@
 Aedan Aylwyn: {
-       op_id: 26,
-       location: Caer Mear,
-       date: 5/2/2015,
-       event: Spring Crown,
-       reign: Logan VII and Esa II,
-       relationships: {
-              Sponsored Free Scholars: "Corun MacAnndra, Dante di Pietro, Giovan Donato Falconieri, Ysane de la Salle"
-       }
+  op_id: 26,
+  location: Caer Mear,
+  date: 5/2/2015,
+  event: Spring Crown,
+  reign: Logan VII and Esa II,
+  relationships: {
+    Sponsored Free Scholars: "Corun MacAnndra, Dante di Pietro, Giovan Donato Falconieri, Ysane de la Salle"
+  }
 }
 Alan of Gravesend: {
-       op_id: 89,
-       location: Roxbury Mill,
-       date: 5/2/2015,
-       event: Spring Crown,
-       reign: Logan VII and Esa II,
-       relationships: {
-              House: "Gardiner's Company"
-       }
+  op_id: 89,
+  location: Roxbury Mill,
+  date: 5/2/2015,
+  event: Spring Crown,
+  reign: Logan VII and Esa II,
+  relationships: {
+    House: "Gardiner's Company"
+  }
 }
 Giacomo Luciano Savior Vincenti di Firenze: {
-       op_id: 1330,
-       location: Bright Hills,
-       date: 5/2/2015,
-       event: Spring Crown,
-       reign: Logan VII and Esa II,
-       relationships: {
-              House: "Gardiner's Company",
-              Cadets: "Linhart von Marburg, Elizabeth Taylor"
-       }
+  op_id: 1330,
+  location: Bright Hills,
+  date: 5/2/2015,
+  event: Spring Crown,
+  reign: Logan VII and Esa II,
+  relationships: {
+    House: "Gardiner's Company",
+    Cadets: "Linhart von Marburg, Elizabeth Taylor"
+  }
 }
 Dante di Pietro: {
-       op_id: 880,
-       location: Caer Mear,
-       date: 6/20/2015,
-       event: Stierbach Baronial Birthday,
-       reign: Logan VII and Esa II,
-       relationships: {
-              Free Scholar Sponsors: "Master Aedan, Master Connor, Sir Roland",
-              Sponsored Free Scholars: "Ella de Lille, Aedh ua Ruiarc, Gawin Kappler, Tassin Navetier, Gilig von Baden, Sanada Terasu",
-              Cadets: "Tassin Navetier, Sanada Katsumi, Jacques Gonse, Stefan von Musbach",
-              House: "The Company of the Dragoon Guards, Di Pietro School of Defense"
-       }
+  op_id: 880,
+  location: Caer Mear,
+  date: 6/20/2015,
+  event: Stierbach Baronial Birthday,
+  reign: Logan VII and Esa II,
+  relationships: {
+    Free Scholar Sponsors: "Master Aedan, Master Connor, Sir Roland",
+    Sponsored Free Scholars: "Ella de Lille, Aedh ua Ruiarc, Gawin Kappler, Tassin Navetier, Gilig von Baden, Sanada Terasu",
+    Cadets: "Tassin Navetier, Sanada Katsumi, Jacques Gonse, Stefan von Musbach",
+    House: "The Company of the Dragoon Guards, Di Pietro School of Defense"
+  }
 }
 Connor Levingestoune: {
-       op_id: 793,
-       location: Highland Foorde,
-       date: 8/5/2015,
-       event: Pennsic War,
-       reign: Logan VII and Esa II,
-       relationships: {
-              Sponsored Free Scholars: "A lot..."
-       }
+  op_id: 793,
+  location: Highland Foorde,
+  date: 8/5/2015,
+  event: Pennsic War,
+  reign: Logan VII and Esa II,
+  relationships: {
+    Sponsored Free Scholars: "A lot..."
+  }
 }
 Christopher MacConing: {
-       op_id: 748,
-       location: Dun Carraig,
-       date: 8/5/2015,
-       event: Pennsic War,
-       reign: Logan VII and Esa II,
-       relationships: {
-              House: "Gardiner's Company"
-       }
+  op_id: 748,
+  location: Dun Carraig,
+  date: 8/5/2015,
+  event: Pennsic War,
+  reign: Logan VII and Esa II,
+  relationships: {
+    House: "Gardiner's Company"
+  }
 }
 Alessandro Andretti: {
-       op_id: 7973,
-       location: Lochmere,
-       date: 8/5/2015,
-       event: Pennsic War,
-       reign: Logan VII and Esa II,
-       relationships: {
-              Cadetted to: "Master Aeron Harper",
-              Cadets: "Marguerite de Lyon, Bumi Fong",
-              Sponsored Free Scholars: "Marguerite de Lyon, Bumi Fong, Celestria Alexandre d'Amiens",
-              House: "ATATs"
-       }
+  op_id: 7973,
+  location: Lochmere,
+  date: 8/5/2015,
+  event: Pennsic War,
+  reign: Logan VII and Esa II,
+  relationships: {
+    Cadetted to: "Master Aeron Harper",
+    Cadets: "Marguerite de Lyon, Bumi Fong",
+    Sponsored Free Scholars: "Marguerite de Lyon, Bumi Fong, Celestria Alexandre d'Amiens",
+    House: "ATATs"
+  }
 }
 Flaithri O'Cearnaigh: {
-       op_id: 4002,
-       location: Stierbach,
-       date: 8/5/2015,
-       event: Pennsic War,
-       reign: Logan VII and Esa II,
-       relationships: {
-              House: "The Company of the Dragoon Guards"
-       }
+  op_id: 4002,
+  location: Stierbach,
+  date: 8/5/2015,
+  event: Pennsic War,
+  reign: Logan VII and Esa II,
+  relationships: {
+    House: "The Company of the Dragoon Guards"
+  }
 }
 Christian von Nurnberg: {
-       op_id: 737,
-       location: Sacred Stone,
-       date: 1/9/2016,
-       event: Atlantian 12th Night,
-       reign: Christoph I and Adelhait I,
-       relationships: {
-              Free Scholar Sponsors: "Sir Daemon, Lord Alejandro, and Lord Vyvyan"
-       }
+  op_id: 737,
+  location: Sacred Stone,
+  date: 1/9/2016,
+  event: Atlantian 12th Night,
+  reign: Christoph I and Adelhait I,
+  relationships: {
+    Free Scholar Sponsors: "Sir Daemon, Lord Alejandro, and Lord Vyvyan"
+  }
 }
 Raphael de la Rosa: {
-       op_id: 2562,
-       location: Sacred Stone,
-       date: 1/9/2016,
-       event: Atlantian 12th Night,
-       reign: Christoph I and Adelhait I,
-       relationships: {
-              Free Scholar Sponsors: "Lord Alejandro, Lord Percy, and Lord Vyvyan",
-              Men-at-Arms: "Oddbjorg the Unshod, Humfrey Lovett",
-              House: "The Company of the Dragoon Guards"
-       }
+  op_id: 2562,
+  location: Sacred Stone,
+  date: 1/9/2016,
+  event: Atlantian 12th Night,
+  reign: Christoph I and Adelhait I,
+  relationships: {
+    Free Scholar Sponsors: "Lord Alejandro, Magister Percy, and Lord Vyvyan",
+    Men-at-Arms: "Oddbjorg the Unshod, Humfrey Lovett",
+    House: "The Company of the Dragoon Guards"
+  }
 }
 Dominyk Wolferam: {
-       op_id: 953,
-       location: Atlantia,
-       date: 3/16/2016,
-       event: Gulf Wars,
-       reign: Christoph I and Adelhait I,
-       relationships: {
-         Free Scholar Sponsors: "Master Connor, Lord Percy, and Master Chris",
-         Former Student: "Armand of Caer Mear",
-         Sponsored Free Scholars: "Aldemere McRafe, Armand of Caer Mear, Benjamin Lilje, Colette Vitalis",
-         Ensign: "Colette Vitalis",
-         House: "The Company of the Dragoon Guards"
-         }
+  op_id: 953,
+  location: Atlantia,
+  date: 3/16/2016,
+  event: Gulf Wars,
+  reign: Christoph I and Adelhait I,
+  relationships: {
+    Free Scholar Sponsors: "Master Connor, Magister Percy, and Master Chris",
+    Former Student: "Armand of Caer Mear",
+    Sponsored Free Scholars: "Aldemere McRafe, Armand of Caer Mear, Benjamin Lilje, Colette Vitalis",
+    Ensign: "Colette Vitalis",
+    House: "The Company of the Dragoon Guards"
+  }
 }
 Caitilín Inghean Fheichín: {
-       op_id: 7049,
-       location: Lochmere,
-       date: 3/17/2016,
-       event: Gulf Wars,
-       reign: Christoph I and Adelhait I,
-       relationships: {
-          Cadetted to: "Don Tristan von Heidelburg (Ansteorra)",
-          Cadet: "Marguerite de Lyon",
-          Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
-          House: "The Company of the Dragoon Guards, ATATs"
-       }
+  op_id: 7049,
+  location: Lochmere,
+  date: 3/17/2016,
+  event: Gulf Wars,
+  reign: Christoph I and Adelhait I,
+  relationships: {
+    Cadetted to: "Don Tristan von Heidelburg (Ansteorra)",
+    Cadet: "Marguerite de Lyon",
+    Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
+    House: "The Company of the Dragoon Guards, ATATs"
+  }
 }
 Benjamin Lilje: {
-       op_id: 3781,
-       location: Sudentorre,
-       date: 3/26/2016,
-       event: Defending the Gate,
-       reign: Christoph I and Adelhait I,
-       relationships: {
-              Free Scholar Sponsors: "Master Dominyk, ?, ?",
-              House: "The Company of the Dragoon Guards"
-        }
+  op_id: 3781,
+  location: Sudentorre,
+  date: 3/26/2016,
+  event: Defending the Gate,
+  reign: Christoph I and Adelhait I,
+  relationships: {
+    Free Scholar Sponsors: "Master Dominyk, ?, ?",
+    House: "The Company of the Dragoon Guards"
+  }
 }
 Brian de Moray: {
-    op_id: 3334,
-    location: Lochmere,
-    date: 9/3/2016,
-    event: Battle on the Bay,
-    reign: Dietrich I and Thora I,
-    relationships: {
-        Former Cadet: "Cailin Cainindanna",
-        Free Scholar Sponsors: "Kynny, Master Marcellus, and Master Christian",
-        Laurel: "Isobel Gildingwater of Ditchingham",
-        Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Joscelin d'Outremer, Colette Vitalis",
-        House: "Gardiner's Company, ATATs"
-        }
+  op_id: 3334,
+  location: Lochmere,
+  date: 9/3/2016,
+  event: Battle on the Bay,
+  reign: Dietrich I and Thora I,
+  relationships: {
+    Former Cadet: "Cailin Cainindanna",
+    Free Scholar Sponsors: "Kynny, Master Marcellus, and Master Christian",
+    Laurel: "Isobel Gildingwater of Ditchingham",
+    Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Joscelin d'Outremer, Colette Vitalis",
+    House: "Gardiner's Company, ATATs"
+  }
 }
 Charimmos of Lakadaimonias: {
-       op_id: 8675,
-       location: Tir-Y-Don,
-       date: 8/9/2017,
-       event: Pennsic War,
-       reign: Cuan VII and Signy I,
-       relationships: {
-          Ensign: "Cataldo Querini",
-          Former Cadets: "Seamus MacRae (Outlands), Dante Falconis (Northshield), Clydwyn Gwehydd (Northshield), Dafydd Morrison (Outlands)"
-       }
+  op_id: 8675,
+  location: Tir-Y-Don,
+  date: 8/9/2017,
+  event: Pennsic War,
+  reign: Cuan VII and Signy I,
+  relationships: {
+    Ensign: "Cataldo Querini",
+    Former Cadets: "Seamus MacRae (Outlands), Dante Falconis (Northshield), Clydwyn Gwehydd (Northshield), Dafydd Morrison (Outlands)"
+  }
 }
 Llwyd Aldrydd: {
-       op_id: 1993,
-       location: Tir-y-Don,
-       date: 8/6/2018,
-       event: Pennsic War,
-       reign: Dietrich II and Una I,
-       relationships: {
-          Free Scholar Sponsors: "Master Aedan, Sir Roland, Lord Percy",
-          Sponsored Free Scholars: "Celric d'Ravelle, Jean Maurice le Marinier, Ulfarr Refskegg, Cataldo Querini, Aidan of Kingswood",
-          House: "The Company of the Dragoon Guards"
-       }
+  op_id: 1993,
+  location: Tir-y-Don,
+  date: 8/6/2018,
+  event: Pennsic War,
+  reign: Dietrich II and Una I,
+  relationships: {
+    Free Scholar Sponsors: "Master Aedan, Sir Roland, Magister Percy",
+    Sponsored Free Scholars: "Celric d'Ravelle, Jean Maurice le Marinier, Ulfarr Refskegg, Cataldo Querini, Aidan of Kingswood",
+    House: "The Company of the Dragoon Guards"
+  }
 }
 Greylond Crow: {
   op_id: 1394,
@@ -189,70 +189,69 @@ Greylond Crow: {
   event: Tournament of Ymir,
   reign: Ragnarr and Lynette,
   relationships: {
-       }
+  }
 }
 Aeron Harper: {
-   op_id: 7050,
-   location: Roxbury Mill,
-   date: 3/23/2019,
-   event: Defending the Gate,
-   reign: Ragnarr and Lynette,
-   relationships: {
-      Sponsored Free Scholars: "Ishmael Baleinier, Colette Vitalis",
-      Former Cadet: "Alessandro Andretti"
-     }
- }
-Torse Hartman: {
-   op_id: 7587,
-   location: Stierbach,
-   date: 8/6/2019,
-   event: Pennsic War,
-   reign: Christoph II and Adelhait II,
-   relationships: {
-      Sponsored Free Scholars: "Trian Ó Glesáin, Celestria Alexandre d'Amiens, Allister Greenbrier, Ishmael Baleinier",
-      House: "Condotierri"
-     }
- }
-Cailin Blackwood: {
-   op_id: 7588,
-   location: Storvik,
-   date: 8/8/2019,
-   event: Pennsic War,
-   reign: Christoph II and Adelhait II,
-   relationships: {
-      Sponsored Free Scholars: "Trian Ó Glesáin, Nicolo Santorio",
-      Cadetted to: "Master Brian de Moray"
-     }
- }
-Celric d'Ravelle: {
-   op_id: 715,
-   location: Lochmere,
-   date: 9/7/2019,
-   event: Battle on the Bay,
-   reign: Christoph II and Adelhait II,
-   relationships: {
-      Sponsored Free Scholars: "Colin McNab, Jean Maurice le Marinier, Michael Wymarc, Ffernfael Kymro, Nyvein Dyfnawal, Aidan of Kingswood"
-     }
- }
-Letia Thistelthueyt: {
-   op_id: 3725,
-   location: Lochmere,
-   date: 2/22/2020,
-   event: Tournament of Ymir,
-   reign: Cuan VIII and Signy II,
-   relationships: {
-      Free Scholar Sponsors: "Master Connor, Mistress Ceridwen, Lord Percival",
-      Henchman: "Farthegn Keldansson"
-     }
+  op_id: 7050,
+  location: Roxbury Mill,
+  date: 3/23/2019,
+  event: Defending the Gate,
+  reign: Ragnarr and Lynette,
+  relationships: {
+    Sponsored Free Scholars: "Ishmael Baleinier, Colette Vitalis",
+    Former Cadet: "Alessandro Andretti"
+  }
 }
-
+Torse Hartman: {
+  op_id: 7587,
+  location: Stierbach,
+  date: 8/6/2019,
+  event: Pennsic War,
+  reign: Christoph II and Adelhait II,
+  relationships: {
+    Sponsored Free Scholars: "Trian Ó Glesáin, Celestria Alexandre d'Amiens, Allister Greenbrier, Ishmael Baleinier",
+    House: "Condotierri"
+  }
+}
+Cailin Blackwood: {
+  op_id: 7588,
+  location: Storvik,
+  date: 8/8/2019,
+  event: Pennsic War,
+  reign: Christoph II and Adelhait II,
+  relationships: {
+    Sponsored Free Scholars: "Trian Ó Glesáin, Nicolo Santorio",
+    Cadetted to: "Master Brian de Moray"
+  }
+}
+Celric d'Ravelle: {
+  op_id: 715,
+  location: Lochmere,
+  date: 9/7/2019,
+  event: Battle on the Bay,
+  reign: Christoph II and Adelhait II,
+  relationships: {
+    Sponsored Free Scholars: "Colin McNab, Jean Maurice le Marinier, Michael Wymarc, Ffernfael Kymro, Nyvein Dyfnawal, Aidan of Kingswood"
+  }
+}
+Letia Thistelthueyt: {
+  op_id: 3725,
+  location: Lochmere,
+  date: 2/22/2020,
+  event: Tournament of Ymir,
+  reign: Cuan VIII and Signy II,
+  relationships: {
+    Free Scholar Sponsors: "Master Connor, Mistress Ceridwen, Lord Percival",
+    Henchman: "Farthegn Keldansson"
+  }
+}
 Julien de la Fontaine: {
-   op_id: 9977,
-   location: Cydllan Downs,
-   date: 9/19/2020,
-   event: Galicia Court at Castelo Soutomaior,
-   reign: Anton V and Luned IV,
-   relationships: {}
+  op_id: 9977,
+  location: Cydllan Downs,
+  date: 9/19/2020,
+  event: Galicia Court at Castelo Soutomaior,
+  reign: Anton V and Luned IV,
+  relationships: {}
 }
 Tassin Navetier: {
     op_id: 7462,
