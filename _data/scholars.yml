@@ -23,7 +23,7 @@ Tibbie Crosier:
   form: Cut & Thrust
   misc: authorized April 2008
 Zahira Al-Rumi:
-  op_id: 
+  op_id:
   location: Ponte Alto
   form:
   misc:
@@ -35,7 +35,7 @@ Caitilín inghean Uí Ruaidhrí:
   op_id: 9152
   location: Dun Carraig
   form: Sword and Dagger
-  misc: 
+  misc:
 Roland Wodeman:
   op_id: 7542
   location: Hawkwood
@@ -102,32 +102,32 @@ Erin Taylor:
   form:
   misc:
 Blaze Frostell:
-   op_id:
-   location: Storvik
-   form: Single
-   misc:
+  op_id:
+  location: Storvik
+  form: Single
+  misc:
 Gareth:
-    op_id:
-    location: Ponte Alto
-    form: Single
-    misc: Garnders Company
+  op_id:
+  location: Ponte Alto
+  form: Single
+  misc: Garnders Company
 Lucio di Malatesta:
-    op_id:
-    location: Cyddlan Downs
-    form: Cut & Thrust
-    misc: Cadet to Don Julien de la Fontaine
+  op_id:
+  location: Cyddlan Downs
+  form: Cut & Thrust
+  misc: Cadet to Don Julien de la Fontaine
 Giavanna:
-    op_id:
-    location: Roxbury Mill
-    form: Rapier and Dagger
-    misc: Intern for The Company of the Dragoon Guards
+  op_id:
+  location: Roxbury Mill
+  form: Rapier and Dagger
+  misc: Intern for The Company of the Dragoon Guards
 Farthegn Keldansson:
-    op_id: 9837
-    location: Lochmere
-    form: Rapier and Dagger
-    misc: Henchman to Maestra Letia Thistelthueyt
+  op_id: 9837
+  location: Lochmere
+  form: Rapier and Dagger
+  misc: Henchman to Maestra Letia Thistelthueyt
 Lochlainn hua Rigbarddain:
-    op_id: 4278
-    location: Raven's Cove
-    form: Case & C&T
-    misc: Ship Captain in the Corsairium 
+  op_id: 4278
+  location: Raven's Cove
+  form: Case & C&T
+  misc: Ship Captain in the Corsairium
