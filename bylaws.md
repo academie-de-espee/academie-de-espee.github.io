@@ -2,8 +2,7 @@
 title: Bylaws of the Royal  Academie d’Espee of Atlantia
 ---
 
-
-# I. Introduction
+## I. Introduction
 
 The Academie d’Espee (Ad’E) is a guild within the Kingdom of Atlantia that is run by and for the fencers of the Kingdom. Membership in the Academie d’Espee is optional, and open to all fencers within the Kingdom of Atlantia regardless of race, age, gender, religion, sexual orientation, able-ness, persona preference, time period(s) of choice, etc. The guild is based on the historic London Masters of Defense. From the Charter’s Mission Statement:
 
@@ -15,7 +14,7 @@ SCA awards for rapier are the purview of the Crowns and Baronage. The Ad’E rec
 
 These bylaws define how the Academie functions, the roles of members, and a process for proposing and approving changes to the bylaws.
 
-# II. Academie Officers
+## II. Academie Officers
 
 The Academie is led by the *executive council*. The council represents the interests of the full membership of the Ad'E by overseeing its operation and the actions of its appointed officers. The council is made up of members from each of the four Academie fencing ranks: two scholars, one free scholar, one provost, and one distinguished provost. The council will strive for councilors from diverse parts of the Kingdom. Council candidates self-nominate to the Polling Clerk at least two weeks prior to the annual Academie poll on July 1 with each term lasting two years. Academie members of each rank vote on who will represent them from among that rank’s candidates. There is a limit of two consecutive terms before the councilor must take a break. Council members who are promoted in rank may continue to serve the remainder of their term but are expected to continue to communicate with and represent the rank that elected them or resign. The council may appoint replacements (who will complete the current term) for members who have resigned or otherwise cannot serve. 
 
@@ -46,10 +45,10 @@ This officer is not responsible for executing these events but ensuring that a p
 
 **Information Officer:**  Maintains and updates Academie records, documents, and website including curricula, reading lists, rosters and prizes. Maintains roster of teachers and areas of expertise.
 
-# III. Membership Ranks
+## III. Membership Ranks
 There are five ranks within the Academie d’Espee. Each has its own requirements, regalia, oath, and ceremony. Oaths and prizes take place in front of the other members of the Academie who are present.  All members of the Academie are allowed open usage of the Academie’s registered badge: Or, two rapiers crossed in saltire sable between four roses azure.
 
- * [The oath for each rank can be found on the Academie website](oaths)
+ * [The oath for each rank can be found on the Academie website](/oaths)
 
  * Rank *regalia* is most often unique to its recipient and is made by a friend or loved one. Sometimes a piece of regalia may be handed down from an older fencer to a newer one to whom it would be meaningful.
 
@@ -59,30 +58,30 @@ The council may, by unanimous vote, revoke a person's membership in the Ad'E. Pe
 
 To vote in any official Ad’E poll a person must be on the Ad’E membership roster and reside in Atlantia or be considered a resident by treaty.
 
-## A. Scholar
+### A. Scholar
 The rank of *Scholar* is denoted by a blue scarf worn on the upper arm. A Scholar is an authorized fencer in Atlantia who has not achieved a higher Academie rank. To be eligible to become a scholar one must be an authorized fencer in Atlantia and take the Academie’s Scholar’s Oath. An authorized fencer may join the Academie at any event, not just the one where they became authorized. Indeed, they are encouraged to have a reasonable understanding of the Academie before joining which they may not have at the time of their authorization. Having just fought their authorization bouts, moved into the kingdom as an authorized fencer, or joined the Academie, they do not fight an additional prize, although they do take the oath and receive their scarf as described in the section on prizes below. 
 
-## B. Free Scholar
+### B. Free Scholar
 The rank of *Free Scholar* is denoted by a yellow or gold scarf worn on the upper arm. The rank recognizes fencers who have made significant progress in skill and contributions to fencing. It marks people who are emerging leaders and teachers and are worthy of being emulated. The Free Scholar candidate may fight a prize and will take the Academie’s Free Scholar Oath. Free Scholars are expected to support the advancement of Scholars and fencing activities in their local area, as well as work on their own development.
 
 To be recognized as a *Free Scholar* one must be sponsored by three higher ranking members (i.e., *Provosts* or *Distinguished Provosts*) of the Academie who have obtained the good will of the other Provosts/Distinguished Provosts for this recognition.
 
-## C. Provost
+### C. Provost
 The rank of *Provost* may wear the badge of the Ad’E to indicate their membership. The rank recognizes those who have substantial accomplishments in fencing skill, instruction, and  leadership. Provosts are expected to support the instruction and recognition of Scholars and Free Scholars, and fencing activities in their region, as well work on their own development. It marks established leaders who are worthy of being sought out for instruction.They may fight a prize.
 
 To be eligible to become a *Provost* the fencer must have received a Grant level fencing award from any Kingdom, must live in Atlantia and choose to take the Academie’s Provost oath. This rank is separate from the Order of the White Scarf which is granted by the Crown.
 
-## D. Distinguished Provost
+### D. Distinguished Provost
 The rank of *Distinguished Provost* may wear the badge of the Academie to indicate membership.  The rank recognizes those with certain expertise in fencing skill, instruction, and leadership. It marks renowned leaders who are worthy of steering the instruction and advancement of cohorts, or whose contributions to fencing knowledge and activity in Atlantia are singular in depth, novelty, or scope. Distinguished Provosts are expected to be able to support the instruction and recognition of Scholars, Free Scholars, and Provosts, and support fencing activities throughout the Kingdom. They may fight a prize. They may also serve as a sponsor for a Free Scholar. 
 
 To be eligible to be a Distinguished Provost the fencer must have been recognized as a member of the Order of Defense by an SCA Crown in any Kingdom, live in Atlantia, and choose to take the Academie’s Provost Oath (until a Distinguished Provost’s Oath is written). 
 
-## E. Companion
+### E. Companion
 The rank of *Companion* is an honorary rank given to those who have provided significant support to the fencers of Atlantia and who do not hold another Academie rank. Companions may choose to wear a blue scarf just as non-fencing supporters of fencing did at the founding of the Academie. Companions do not hold a seat on the council or vote in its pollings. The selection of Companions is at the discretion of the council. Anyone can nominate a candidate for this recognition by contacting a council member and providing information on the candidate’s contributions.
 
-# IV. Activities of the Academie
+## IV. Activities of the Academie
 
-## A. Prizes
+### A. Prizes
 A senior member of the Academie is responsible for organizing a prize fight. For a new Free Scholar, that organizer should be one of their sponsors. For other ranks, it will be someone from the new rank or higher. The sponsor makes arrangements with the candidate, the Academie, and the rapier marshal in charge of the designated SCA event to schedule time and space. They will also ensure that appropriate regalia, decorations, and a prize box (to collect small gifts, the actual “prize”, for the candidate) will be present. Anyone may contribute to the prize box.
 
 The sponsor announces the prize in advance of the ceremony so that interested friends may travel for the celebration. At the designated time and place, the sponsor will announce the start of the prize, invite all members of the Academie to gather, introduce the candidate and explain the prize process. 
@@ -91,13 +90,13 @@ The candidate will fight a succession of opponents. In increasing rank, they wil
 
 Once the fighting is concluded, the sponsor will again request the attention of the Academie and other interested gentles. Any royalty who are present may be invited at this stage as well. The sponsor administers the oath of the new rank to the candidate. An appropriate friend, loved one, or Royal may then, with approval of the candidate, remove any previous rank scarf and replace it with the new rank’s regalia. Cheers are requested and then the candidate’s new rank-peers are invited to welcome their new member.
 
-## B. Academy of Fence
+### B. Academy of Fence
 The Atlantian Academy of Fence (AAoF) is an event focused on fencing instruction in all its forms. Ideally, it is annual and moves regularly around the Kingdom. Due to its wandering nature, interested hosts shall submit a proposal to the Academie Activities Coordinator for consideration on any available date on the Atlantian Kingdom calendar. The AAoF does not have to be a new, standalone, event; it can be added to an existing event if the fencing instruction content is of sufficient scope. The bid should indicate the site and date of the proposed event. The Academie Activities Coordinator and executive council will review and approve/disapprove the bid. This approval/disapproval only affects the use of the title “Atlantian Academy of Fence” for the event. The financial responsibility and benefit for the event will be entirely held by the sponsoring group; the Ad’E holds no funds.
 
-## C. Support to local groups
+### C. Support to local groups
 The Academie shall facilitate informal sessions where experienced fencers travel or virtually meet with other groups to support their development. This effort is intended to primarily support groups away from major population centers who do not have a sufficient pool of experienced fencers of their own.  Requests and volunteers for these sessions may self-coordinate or work through the Ad’E’s activities coordinator. The Academie shall maintain and publish a list of experienced fencers who are available to share their knowledge and skills either in person or virtually. 
 
-## D. Curricula
+### D. Curricula
 The Academie d’Espee Council will provide a minimum Rapier 101 Core Curriculum that every student of the art of defense is encouraged to learn over the course of their early studies and deepen their understanding of throughout their fencing career. Classes in these topics will be common at AAoF events and local practices. Advanced curricula lists may be submitted to the Information Officer for the Ad’E website for publication, allowing for a clearing house of other curricula. Areas of particular interest include a curriculum for instructors and recommended reading lists.
 
 
