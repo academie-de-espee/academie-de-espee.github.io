@@ -17,4 +17,4 @@ The Academie d’Espee is a guild devoted to the study and support of the Divers
 
 Membership shall be granted to all those who agree to abide by these tenets.
 
-Administration, structure, and any other items pertaining to this guild not herein covered may be addressed and governed in the [Bylaws of this Guild/bylaws]. These Bylaws shall be presented in a public forum and ratified by the members of the Guild.
+Administration, structure, and any other items pertaining to this guild not herein covered may be addressed and governed in the [Bylaws of this Guild](/bylaws). These Bylaws shall be presented in a public forum and ratified by the members of the Guild.
