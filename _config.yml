@@ -17,10 +17,12 @@ defaults:
 nav:
   - text: Index
     href: /
-  - text: Sacred Oaths
-    href: /oaths
+  - text: Charter
+    href: /charter
   - text: Bylaws
     href: /bylaws
+- text: Sacred Oaths
+    href: /oaths
   - text: Rapier Champions
     href: /queens-champions
   - text: Iron Spike
