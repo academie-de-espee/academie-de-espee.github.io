@@ -1,5 +1,5 @@
 ---
-title:Academie d’Espee of Atlantia
+title: Guild Charter
 ---
 
 >We, in representation of the Academie d’Espee of Atlantia, come before You, King and Queen, to request that, by Law and by the Right of the Dread Sovereigns of Majestic and Mighty Atlantia, we be recognized by Royal Charter as a Guild of Atlantia.
