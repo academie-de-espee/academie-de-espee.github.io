@@ -6,27 +6,27 @@ title: Roster of Masters
 <thead>
 <tr>
    <th> Name </th>
-   <th> Date </th>
    <th> Rank </th>
+   <th> Date </th>
 </tr>
 </thead>
 <tbody>
 {% for data in site.data.members %}
 {% assign rank = data[0] %}
-{% assign entries = data[1] %}
+{% assign entries = data[1] | sorted %}
 {% for entry in entries %}
-<tr> 
-	<td> 
+<tr>
+	<td>
     		{% if entry.ael_id != null %}
        			<a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{entry.ael_id}}">
     		{% endif %}
-		{{ entry.name }} 
+		{{ entry.name }}
     		{% if entry.ael_id != null %}
        			</a>
     		{% endif %}
-	</td> 
-	<td> {{ entry.date }} </td> 
-	<td> {{ rank }} </td> 
+	</td>
+	<td> {{ rank }} </td>
+	<td> {{ entry.date }} </td>
 </tr>
 {% endfor %}
 {% endfor %}
