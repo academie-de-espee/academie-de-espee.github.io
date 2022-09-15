@@ -6,6 +6,6 @@ rvm:
 # script: jekyll build && htmlproofer ./_site
 
 install: gem install jekyll
-script: jekyll build
+script: jekyll build --trace
 
 sudo: false

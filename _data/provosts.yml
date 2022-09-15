@@ -10,24 +10,14 @@ Niall McKennett: {
   event: Coronation of Galmr and Katharina,
   monarchs: Galmr and Katharina,
 }
-Giacomo Vincenti: {
-  op_id: 1330,
-  date: 4/20/1996,
-  event: Coronation of Galmr and Katharina,
-  monarchs: Galmr and Katharina,
-  relationships: {
-            House: "Gardiner's Company",
-            Cadets: "Linhart von Marburg, Elizabeth Taylor"
-     }
-}
 Nathaniel Sharpe: {
   op_id: 2372,
   date: 4/20/1996,
   event: Coronation of Galmr and Katharina,
   monarchs: Galmr and Katharina,
   relationships: {
-              House: "Gardiner's Company"
-       }
+    House: "Gardiner's Company"
+  }
 }
 Ceridwen ferch Owain: {
   op_id: 719,
@@ -54,15 +44,6 @@ Gerlach Wiesengrund: {
   monarchs: Galmr and Katharina,
   relationships: {
     Cadetted to: "Don Blayne atte Wood",
-    }
-}
-Alan of Gravesend: {
-  op_id: 89,
-  date: 4/20/1996,
-  event: Coronation of Galmr and Katharina,
-  monarchs: Galmr and Katharina,
-  relationships: {
-    House: "Gardiner's Company"
   }
 }
 Duncan Gregor MacGregor: {
@@ -76,15 +57,6 @@ Robert Bedingfield: {
   date: 4/20/1996,
   event: Coronation of Galmr and Katharina,
   monarchs: Galmr and Katharina,
-}
-Aedan Aylwyn: {
-  op_id: 26,
-  date: 4/20/1996,
-  event: Coronation of Galmr and Katharina,
-  monarchs: Galmr and Katharina,
-  relationships: {
-    Free Scholar Sponsors: "???"
-    }
 }
 Vyvyan Broussard: {
   op_id: 3158,
@@ -139,12 +111,10 @@ Katherine Maunsel: {
   date: 1/13/2001,
   event: Atlantian Twelfth Night Masqued Ball,
   monarchs: Anton and Emer,
-}
-Percival Aldridge: {
-  op_id: 2481,
-  date: 1/13/2001,
-  event: Atlantian Twelfth Night Masqued Ball,
-  monarchs: Anton and Emer,
+  relationships: {
+    House: "Gardiner's Company",
+    Sponsored Free Scholars: "Gavin, Gunther, Costanca"
+  }
 }
 Gunther von Drachenburg: {
   op_id: 1416,
@@ -164,12 +134,6 @@ Iskender Bey al-Istanbuli: {
   event: Royal Hunt (Coronation of Cuan and Padraigin),
   monarchs: Logan and Isabel,
 }
-Connor Levingestoune: {
-  op_id: 793,
-  date: 2/15/2003,
-  event: Ymir,
-  monarchs: Cuan and Padraigin,
-}
 Marcellus Capoziello da Napoli: {
   op_id: 2102,
   date: 2/22/2003,
@@ -188,39 +152,21 @@ Rosalind Delamere: {
   event: Tourney of Ymir,
   monarchs: Janos and Rachel,
 }
-Christopher MacConing: {
-  op_id: 748,
-  date: 2/12/2005,
-  event: Tourney of Ymir,
-  monarchs: Janos and Rachel,
-  relationships: {
-              House: "Gardiner's Company"
-       }
-}
 Kynnyth Pyke: {
   op_id: 842,
   date: 6/11/2005,
   event: Highland River Melees,
   monarchs: Robert and Denise,
 }
-Christian von Nurnberg: {
-  op_id: 737,
-  date: 1/13/2007,
-  event: Kingdom Twelfth Night,
-  monarchs: Ragnarr and Anneke,
-  relationships: {
-              Free Scholar Sponsors: "Sir Daemon, Lord Alejandro, and Lord Vyvyan"
-       }
-}
 Melchior zum grauen Wolf: {
   op_id: 2215,
   date: 2/10/2007,
   event: Tourney of Ymir,
   monarchs: Ragnarr and Anneke,
-   relationships: {
-       Free Scholar Sponsors: "Lord Gunther, Master Aedan, and Lady Vyvyan",
-       Sponsored Free Scholars: "Thora, Illaria de Gandia, Ella de Lille"
-       }
+  relationships: {
+    Free Scholar Sponsors: "Lord Gunther, Master Aedan, and Lady Vyvyan",
+    Sponsored Free Scholars: "Thora, Illaria de Gandia, Ella de Lille"
+  }
 }
 Jean Claude de Calais: {
   op_id: 1661,
@@ -228,25 +174,14 @@ Jean Claude de Calais: {
   event: Tir-y-Don Baronial Birthday and Investiture,
   monarchs: Ragnarr and Anneke,
 }
-Llwyd Aldrydd: {
-  op_id: 1993,
-  date: 5/26/2007,
-  event: Sapphire Joust VII,
-  monarchs: Valharic and Arielle,
-  relationships: {
-       Free Scholar Sponsors: "Master Aedan, Lord Percy, and Sir Roland",
-       Sponsored Free Scholars: "Celric d'Ravelle, Jean Maurice de Calais, and Ulfarr Refskegg",
-       House: "The Company of the Dragoon Guards"
-       }
-}
 Elphin ap Daffyd: {
   op_id: 3589,
   date: 8/25/2007,
   event: Sacred Stone Baronial Birthday,
   monarchs: Valharic and Arielle,
   relationships: {
-       Free Scholar Sponsors: "Baron Robin, Mistress Ceridwen, Baron Duncan"
-       }
+    Free Scholar Sponsors: "Baron Robin, Mistress Ceridwen, Baron Duncan"
+  }
 }
 Rufus Pigboy: {
   op_id: 2749,
@@ -260,43 +195,6 @@ Ragnarr Blackhammer: {
   event: Kingdom Twelfth Night,
   monarchs: Logan and Rowan,
 }
-Flaithri O Cearnaigh: {
-  op_id: 4002,
-  date: 3/22/2008,
-  event: Defending the Gate/Stierbach Investiture,
-  monarchs: Logan and Rowan,
-  House: "The Company of the Dragoon Guards",
-}
-Dante di Pietro: {
-  op_id: 880,
-  date: 8/5/2008,
-  event: Pennsic War XXXVII,
-  monarchs: Sinclair and Kari,
-  relationships: {
-              Free Scholar Sponsors: "Master Aedan, Master Connor, Sir Roland",
-              Sponsored Free Scholars: "Ella de Lille, Aedh ua Ruiarc, Gawin Kappler, Tassin Navetier, Gilig von Baden, Sanada Terasu",
-              Cadets: "Tassin Navetier, Sanada Katsumi",
-              House: "The Company of the Dragoon Guards"
-       }
-}
-Greylond Crow: {
-  op_id: 1394,
-  date: 8/6/2008,
-  event: Pennsic War XXXVII,
-  monarchs: Sinclair and Kari,
-  relationships: {
-    Free Scholar Sponsors: "???",
-    }
-}
-Celric d'Ravelle: {
-  op_id: 715,
-  date: 2/14/2009,
-  event: Tourney of Ymir 2009,
-  monarchs: Jason and Gerhild,
-  relationships: {
-    Free Scholar Sponsors: "Master Connor, Duke Ragnar, Master Llwyd",
-    }
-}
 Geoffrey Clwyd: {
   op_id: 1312,
   date: 4/11/2009,
@@ -304,20 +202,7 @@ Geoffrey Clwyd: {
   monarchs: Logan and Esa,
   relationships: {
     Free Scholar Sponsors: "Lord Percival, ?, ?",
-    }
-}
-Dominyk Wolferam: {
-  op_id: 953,
-  date: 5/23/2009,
-  event: Sapphire Joust X,
-  monarchs: Logan and Esa,
-  relationships: {
-         Free Scholar Sponsors: "Master Connor, Lord Percy, and Master Chris",
-         Former Student: "Armand of Caer Mear",
-         Sponsored Free Scholars: "Aldemere McRafe, Armand of Caer Mear, Benjamin Lilje, Colette Vitalis",
-         Ensign: "Colette Vitalis",
-         House: "The Company of the Dragoon Guards"
-         }
+  }
 }
 Stephen Bridewell: {
   op_id: 2895,
@@ -326,7 +211,7 @@ Stephen Bridewell: {
   monarchs: Logan and Esa,
   relationships: {
     Free Scholar Sponsors: "Lord Percival, Master Giacomo, Master Robert",
-    }
+  }
 }
 Bell Phoebe de Givet: {
   op_id: 478,
@@ -341,27 +226,6 @@ Vortigern Faber: {
   event: Pennsic War XXXIX,
   monarchs: Jason and Gerhild,
 }
-Raphael de la Rosa: {
-  op_id: 2562,
-  date: 10/8/2010,
-  event: War of the Wings V,
-  monarchs: Bryan and Brianna,
-  relationships: {
-              Free Scholar Sponsors: "Lord Alejandro, Lord Percy, and Lord Vyvyan",
-              Men-at-Arms: "Oddbjorg the Unshod, Humfrey Lovett",
-              House: "The Company of the Dragoon Guards",
-       }
-}
-Wistric Oftun: {
-  op_id: 3789,
-  date: 9/3/2011,
-  event: Atlantia's 30 Year Celebration,
-  monarchs: Michael and Seonaid,
-  relationships: {
-    Cadet: "Toki Ima",
-    Free Scholar Sponsors: "Lord Alejandro, Master Christian, and Master Raphael"   ,
-    }
-}
 Arghylle Buchanan: {
   op_id: 358,
   date: 4/14/2012,
@@ -369,19 +233,7 @@ Arghylle Buchanan: {
   monarchs: Cuan and Padraigin,
   relationships: {
     Free Scholar Sponsors: "Lord Kirk, Jaques, Lord Nathanial",
-    }
-}
-Caitilin Inghean Fheichin: {
-  op_id: 7049,
-  date: 8/8/2012,
-  event: Pennsic War XLI,
-  monarchs: Bryan and Brianna,
-  relationships: {
-          Cadetted to: "Don Tristan von Heidelburg (Ansteorra)",
-          Cadet: "Marguerite de Lyon",
-          Sponsored Free Scholars: "Sanada Akime, Maguerite de Lyon, Drogo Rainulf de Dragonera, Ffernfael Kymro, Nyvein Dyfnawal, Angeline Falconis",
-          House: "The Company of the Dragoon Guards, ATATs"
-       }
+  }
 }
 Matheu Herrero de Cadiz: {
   op_id: 4343,
@@ -389,31 +241,8 @@ Matheu Herrero de Cadiz: {
   event: Atlantian Spring Coronation,
   monarchs: Vladimir and Kalisa,
   relationships: {
-          House: "The Company of the Dragoon Guards"
-       }
-}
-Brian de Moray: {
-  op_id: 3334,
-  date: 7/31/2013,
-  event: Pennsic War,
-  monarchs: Amos and Ysabella,
-  relationships: {
-        Cadets: "Cailin Cainindanna",
-        Free Scholar Sponsors: "Master Kynny, Master Marcellus, and Sir Christian",
-        Laurel: "Mistress Isobel Gildingwater of Ditchingham",
-        Sponsored Free Scholars: "Sanada Terasu, Sanada Akime, Joscelin d'Outremer, Colette Vitalis",
-        House: "Gardiner's Company, ATATs"
-        }
-}
-Benjamin Lilje: {
-  op_id: 3781,
-  date: 3/29/2014,
-  event: Defending the Gate XIII,
-  monarchs: Ragnarr and Lynette,
-   relationships: {
-              Free Scholar Sponsors: "Master Dominyk, ?, ?",
-              House: "The Company of the Dragoon Guards"
-        }
+    House: "The Company of the Dragoon Guards"
+  }
 }
 Alric the Mad: {
   op_id: 3296,
@@ -427,15 +256,6 @@ Ilaria de Gandia: {
   event: Holiday Faire,
   monarchs: Michael and Seonaid,
 }
-Letia Thistelthueyt: {
-  op_id: 3725,
-  date: 2/28/2015,
-  event: Tournament of Ymir,
-  monarchs: Michael and Seonaid,
-  relationships: {
-    Free Scholar Sponsors: "Master Connor, Mistress Ceridwen, Lord Percival"
-    }
-}
 Ysane de la Selle: {
   op_id: 3250,
   date: 3/18/2015,
@@ -443,7 +263,7 @@ Ysane de la Selle: {
   monarchs: Michael and Seonaid,
   relationships: {
     Free Scholar Sponsors: "Lord Percival, ?, ?"
-    }
+  }
 }
 Armand of Caer Mear: {
   op_id: 3802,
@@ -453,7 +273,7 @@ Armand of Caer Mear: {
   relationships: {
     Free Scholar Sponsors: "Master Dominyk, ?, ?",
     House: "House Condottieri"
-    }
+  }
 }
 Etain of Sutherland: {
   op_id: 1175,
@@ -462,7 +282,7 @@ Etain of Sutherland: {
   monarchs: Christoph and Adelhait,
   relationships: {
     Free Scholar Sponsors: "Lord Kirk, Lord Alejandro, Lord Percival"
-    }
+  }
 }
 Johann Caldron: {
   op_id: 1696,
@@ -480,29 +300,6 @@ Sanada Terasu: {
     Sponsored Free Scholars: "Sanada Akime, Ffernfael Kymro, Ulfarr Refskegg"
   }
 }
-Alessandro Andretti: {
-  op_id: 7973,
-  date: 7/31/2013,
-  event: Pennsic War,
-  monarchs: (Originally made in Ansteorra),
-  relationships: {
-              Cadetted to: "Master Aeron Harper",
-              Cadet: "Marguerite de Lyon, Bumi Fong",
-              Sponsored Free Scholars: "Marguerite de Lyon, Bumi Fong, Celestria Alexandre d'Amiens",
-              House: "ATATs"
-       }
-}
-Torse Hartman: {
-  op_id: 7587,
-  date: 8/10/2016,
-  event: Pennsic War,
-  monarchs: Dietrich and Thora,
-  relationships: {
-    Free Scholar Spnsors: "Lord Greylond, Master Raphael, Lord Matheu",
-    Sponsored Free Scholars: "Trian Ó Glesáin, Celestria Alexandre d'Amiens, Allister Greenbrier, Ishmael Baleinier",
-    House: "House Condottieri"
-  }
-}
 Maxamilian Brudder: {
   op_id: 7708,
   date: 5/14/2016,
@@ -515,95 +312,43 @@ Séamus Ó Maoil Riain: {
   event: Tournament of Love and Beauty,
   monarchs: William and Alyna,
 }
-Cailin Cainindanna: {
-  op_id: 7588,
-  date: 8/7/2017,
-  event: Pennsic War,
-  monarchs: Cuan and Signy,
-  relationships: {
-    Cadetted to: "Master Brian de Moray",
-    Free Scholar Sponsors: "Lord Greylond, Master Raphael, Lady Letia",
-    Sponsored Free Scholars: "Trian Ó Glesáin",
-    House: "House Condottieri"
-    }
-}
 Drogo Rainulf de Dragonera: {
   op_id: 979,
   date: 6/3/2017,
   event: Storvik Novice and Unbelt,
   monarchs: Cuan and Signy,
 }
-Charimmos of Lakadaimonias: {
-       op_id: 8675,
-       date: 8/7/2009,
-       event: Pennsic War,
-       monarchs: (Originally made in Northshield),
-       relationships: {
-          Ensign: "Cataldo Querini",
-          Former Cadets: "Seamus MacRae (Outlands), Dante Falconis (Northshield), Clydwyn Gwehydd (Northshield), Dafydd Morrison (Outlands)"
-       }
-}
 Symone de la Rochelle: {
-    op_id: 7104,
-    date: 4/21/2018,
-    event: Queen's Rapier Champion,
-    monarchs: Dietrich and Una,
-    relationships: {
-        Free Scholar Sponsors: "Master Alan, Maestro Giacomo, Lord Melchior",
-        Sponsored Free Scholars: "Celestria Alexandre d'Amiens"
-    }
-}
-Tassin Navetier: {
-    op_id: 7462,
-    date: 5/26/2018,
-    event: Ruby Joust,
-    monarchs: Dietrich and Una,
-    relationships: {
-        Free Scholar Sponsors: "Maestro Dante, Master Wistric, Master Raphael",
-        Cadetted to: "Maestro Dante",
-        House: "House Condottieri"
-    }
-}
-Bumi Fong: {
-  op_id: 8213,
-  date: 8/5/2018,
-  event: Pennsic War,
+  op_id: 7104,
+  date: 4/21/2018,
+  event: Queen's Rapier Champion,
   monarchs: Dietrich and Una,
   relationships: {
-      Free Scholar Sponsors: "Lord Armand, Master Connor, Master Alessandro",
-      Cadetted to: "Master Alessandro",
-      House: "House Condottieri, The Company of the Dragoon Guards"
+    Free Scholar Sponsors: "Master Alan, Maestro Giacomo, Lord Melchior",
+    Sponsored Free Scholars: "Celestria Alexandre d'Amiens"
   }
 }
 Linhart von Marburg: {
-   op_id: 7979,
-   date: 9/22/2018,
-   event: Battle on the Bay,
-   monarchs: Dietrich and Una,
+  op_id: 7979,
+  date: 9/22/2018,
+  event: Battle on the Bay,
+  monarchs: Dietrich and Una,
   relationships: {
-      Free Scholar Sponsors: "Maestero Giacomo, Lord Celric, Lord Arghylle",
-      Cadetted to: "Master Giacomo",
-      House: "The Company of the Dragoon Guards"
-     }
- }
-Aeron Harper: {
-   op_id: 7050,
-   date: 9/11/1999,
-   relationships: {
-      Sponsored Free Scholars: "Ishmael Baleinier, Colette Vitalis",
-      Former Cadet: "Alessandro Andretti"
-     }
- }
+    Free Scholar Sponsors: "Maestero Giacomo, Lord Celric, Lord Arghylle",
+    Cadetted to: "Master Giacomo",
+    House: "The Company of the Dragoon Guards"
+  }
+}
 Marguerite de Lyon: {
-    op_id: 8312,
-    date: 2/23/2019,
-    event: Tournament of Ymir,
-    monarchs: Ragnarr and Lynette,
-    relationships: {
-      Free Scholar Sponsors: "Master Alessandro, Master Connor, Maestra Caitilin",
-      House: "Condottieri",
-      Cadetted to: "Master Alessandro & Maestra Caitilin"
-     }
+  op_id: 8312,
+  date: 2/23/2019,
+  event: Tournament of Ymir,
+  monarchs: Ragnarr and Lynette,
+  relationships: {
+    Free Scholar Sponsors: "Master Alessandro, Master Connor, Maestra Caitilin",
+    House: "Condottieri",
+    Cadetted to: "Master Alessandro & Maestra Caitilin"
+  }
 }
 Angeline Falconis: {
   op_id: 7922,
@@ -613,14 +358,125 @@ Angeline Falconis: {
   relationships: {
     Free Scholar Sponsors: "Duke Ragnarr, Master Richard, Maestra Caitilin",
     Formerly Cadetted to: "Master Tristan & Sir Modius of Ansteorra"
-    }
- }
-"Joscelin d'Outremer": {
+  }
+}
+Joscelin d'Outremer: {
   op_id: 3357,
   date: 3/23/2019,
   event: Defending the Gate,
   monarchs: Ragnarr and Lynette,
   relationships: {
-   Free Scholar Sponsors: "Baroness Ilaria, Maestero Giacamo, Master Brian"
-   }
+    Free Scholar Sponsors: "Baroness Ilaria, Maestero Giacamo, Master Brian"
+  }
+}
+Gilbert de Chatillon: {
+  op_id: 7869,
+  date: 5/18/2019,
+  event: Hawkwood Baronial Birthday,
+  monarchs: Christoph II and Adelhait II,
+  relationships: {
+    Free Scholar Sponsors: "?, ?, ?"
+  }
+}
+Aldemere MacRafe: {
+  op_id: 105,
+  date: 8/7/2019,
+  event: Pennsic War,
+  monarchs: Christoph II and Adelhait II,
+  relationships: {
+    Free Scholar Sponsors: "Master Celric, Master Dominyk, Master Raphael",
+    House: "Blackspear"
+  }
+}
+Allister Greenbrier: {
+  op_id: 8749,
+  date: 9/21/2019,
+  event: Stierbach Baronial Birthday,
+  monarchs: Christoph II and Adelhait II,
+  relationships: {
+    Free Scholar Sponsors: "Lord Armand, Master Torse, Master Connor",
+    House: "Condottieri"
+  }
+}
+Julien de la Fontaine: {
+  op_id: 9977,
+  date: 1/6/2018,
+  event: Citadel Twelfth Night,
+  monarchs: Jaxarticus II and Anna,
+  relationships: {
+    Cadet: "Lucio di Malatesta",
+    Cadetted to: "Master Giacomo Cavalli da Treviso of Caid"
+  }
+}
+Ffernfael Kymro: {
+  op_id: 8623,
+  date: 1/18/2020,
+  event: Kingdom 12th Night,
+  monarchs: Cuan VIII and Signy II,
+  relationships: {
+    House: "The Company of the Dragoon Guards",
+    Free Scholar Sponsors: "Maestra Caitilin, Lord Terasu, Lord Celric"
+  }
+}
+Ishmael Baleinier: {
+  op_id: 9407,
+  date: 2/8/2020,
+  event: Bright Hills Baronial Birthday,
+  monarchs: Cuan VIII and Signy II,
+  relationships: {
+    House: "The Company of the Dragoon Guards",
+    Free Scholar Sponsors: "Master Aeron, Maestra Caitilin, Lord Torse"
+  }
+}
+Tiberius Aufidius Crispus: {
+  op_id: 8889,
+  date: 9/19/2020,
+  event: "Hawkwood's Baronial Birthday",
+  monarchs: Anton and Luned,
+  relationships: {
+    Free Scholar Sponsors: "Master Raphael, Duke Dietrich, Master Greylond",
+    House: "Legion of the Phoenix"
+  }
+}
+Celestria Alexandre d'Amiens: {
+  op_id: 8853,
+  date: 5/1/2021,
+  event: "Spring Crown Tourney",
+  monarchs: Anton and Luned,
+  relationships: {
+    Free Scholar Sponsors: "Master Alessandro, Lord Torse, Lady Rochelle",
+    House: "Condottieri"
+  }
+}
+Humfrey Matthew Lovett: {
+  op_id: 1530,
+  date: 6/26/2021,
+  event: "Coronation",
+  monarchs: Anton and Luned,
+  relationships: {
+    Free Scholar Sponsors: "Master Raphael, Sir Christian, Lord Iskender",
+    Man at Arms to: "Master Raphael"
+  }
+}
+Jacques Gonse: {
+  op_id: 9938,
+  date: 9/25/2021,
+  event: "Battle on the Bay",
+  monarchs: Eckehard and Jane,
+  relationships: {
+    Free Scholar Sponsors: "Lord Armand, Lord Linhart, Master Cailin",
+    House: "The Company of the Dragoon Guards",
+    Cadetted to: "Maestro Dante"
+  }
+}
+Cataldo Querini: {
+  op_id: 9544,
+  date: 1/15/2022,
+  event: "Kingdom 12th Night (virtual)",
+  monarchs: Eckehard and Jane,
+  relationships: {
+    Free Scholar Sponsors: "Despotes Charimmos, Lord Bumi, Master Llwyd",
+    House: "The Company of the Dragoon Guards",
+    Ensign to: "Despotes Charimmos"
+  }
 }

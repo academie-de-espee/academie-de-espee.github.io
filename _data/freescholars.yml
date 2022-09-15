@@ -3,34 +3,34 @@ Colin McNab:
   title: Lord
   location: Storvik
   date: 09/13/2014
-  form: 
+  form:
   event: Battle on the Bay
   sponsors: Master Alan, Master Connor, Lord Celric
-  misc: 
+  misc:
 Gilig von Baden:
   location: Shire of Roxbury Mill
-  misc: 
+  misc:
 Aedh Ua Ruaic:
   location: Kappellenberg
   date: 5/25/13
   form:
   event: Ruby Joust
   sponsors: Maestro Dante, Master Wistric, Master Connor
-  misc: 
+  misc:
 Jean Maurice le Marinier:
   location: Marinus
   date: 2012
-  form: 
+  form:
   event: Coronation
   sponsors: Master Jean Claude, Master Llwyd, Lord Celric
-  misc: 
+  misc:
 Ella de Lille:
   location: Meridies
   date: 2010
   form:
   event: Defending the Gate
   sponsors: Maestro Dante, Master Flaithri, Lord Melchior
-  misc: 
+  misc:
 Turvon Kuznetsov:
 Alyna of the Ilex:
   location: Tir-y-don
@@ -38,15 +38,15 @@ Alyna of the Ilex:
   form:
   event: Tir-y-don Baronial Birthday
   sponsors: Lord Iskender, Lord Percival, Master Llwyd
-  misc: 
+  misc:
   op_id: 200
 Constanza de Talavera:
-  location: 
+  location:
   date:
   form:
   event:
   sponsors: Lord Percival, Mistress Isobel, Lord Vyvyan
-  misc: 
+  misc:
 Kenji Yoshimoto:
   location: Lochmere
   sponsors: Lord Percival, ?, ?
@@ -54,23 +54,23 @@ Kenji Yoshimoto:
 Alyce / Alexander Blood:
   location: Bright Hills
   sponsors: Mistress Isobel, Master Connor, Master Marcellus
-  misc: 
+  misc:
 Angharad Melys:
-  misc: 
+  misc:
 Anna / Adrian Collins:
   location: Isenfir
   date:
   form:
   event:
   sponsors: Master Robert, ?, ?
-  misc: 
+  misc:
 Bastian de la Salle:
   location: Nottinghill Coill
   date:
   form:
   event:
   sponsors: Jacques, Lord Nathanial, Lord Kirk
-  misc: 
+  misc:
 Beatrice LaGrave:
   sponsors: Lord Nathanial, Master Alan, Mistress Isobel
 Bledri Ap Llew:
@@ -90,33 +90,33 @@ Duncan MacLaren:
 Fredrick von Heinrich:
   sponsors: Lord Percival, Lord Gunther, Master Philip
 Galen of Black Diamond:
-  location: Buckston-on-Eno 
+  location: Buckston-on-Eno
   date:
   form:
   event:
   sponsors: Master Gerlach, Baron Gregor, Master Robert
-  misc: 
+  misc:
 Gaston du Valmont:
   location: Elvegast
   date:
   form:
   event:
   sponsors: Master Alan, Master Giacomo, Master Philip
-  misc: 
+  misc:
 Gavin Briare:
-  location: 
+  location:
   date:
   form:
   event:
-  sponsors: Lady Katherine, Lord Geoffrey, Master Robert
-  misc: 
+  sponsors: Mistress Katherine, Lord Geoffrey, Master Robert
+  misc:
 Giovan Donato:
-  location: Buckston-on-Eno
+  location:
   date:
   form:
   event:
   sponsors: Master Aedan, Mistress Ceridwen, Lord Vyvyan
-  misc: 
+  misc:
 Iacopo Attaviano da Vizzi:
   sponsors: Mistress Ceridwen, ?, ?
 Jack Wright:
@@ -130,7 +130,7 @@ Lucien de la Rochelle:
   form:
   event: War of the Wings
   sponsors: Lord Kirk, Lord Elphin, Lord Melchior
-  misc: 
+  misc:
 Margaret Cameron:
   sponsors: Lord Gregor, ?, ?
 Marion le Red:
@@ -139,7 +139,7 @@ Marion le Red:
   form:
   event:
   sponsors: Lord Alejandro, Master Alan, Lord Gunther
-  misc: 
+  misc:
 Matilda Grille (Tilly):
   sponsors: ???
 Orlando de Olivares Y Salazar:
@@ -153,63 +153,56 @@ Thorbrandr Olafsson:
 Thorgrimr inn Kyrri:
   sponsors: Lord Percival, ?, ?
 William Cameron:
-  location: Caer Mear 
+  location: Caer Mear
   date:
   form:
   event:
   sponsors: Master Robert, Master Alan, Lord Percival
-  misc: 
+  misc:
 Ylsa Broussard:
-Aldemere McRafe:
-  location: Black Diamond
-  date: 11/19/2011
+Michael Wymarc:
+  location: Caer Mear
+  date: 2012
   form:
   event: Holiday Faire
-  sponsors: Lord Celric, Master Dominyk, Master Raphael
-  misc: 
-Michael Wymarc:
-  location: Black Diamond
-  date: 2012
-  form: 
-  event: Holiday Faire
   sponsors: Master Wistric, Lord Celric, Master Raphael
-  misc: 
+  misc:
 Marius Belisarius:
   location: Hawkwood
   date: 2012
-  form: 
+  form:
   event: War of the Wings
   sponsors: Master Raphael, Lord Greylond, Sir Christian
-  misc: 
+  misc:
 William Gilchrist Ross:
   location:
   date: 2012
   form:
   event: Night Under the Town
   sponsors: Mistriss Ceridwen, Master Connor, Lord Geoffrey
-  misc: 
+  misc:
 Sinclair Hawkins:
   op_id: 2555
   location:
   date:
-  form: 
+  form:
   event: Coronation
   sponsors: Duke Ragnar, Maestro Giacomo, Master Raphael
-  misc: 
+  misc:
 Felipe de Pamplona:
   location:
   date: 2011
-  form: 
+  form:
   event: Ymir
   sponsors: Sir Christian, Lord Elphin, Master Raphael
-  misc: 
+  misc:
 Jusef:
   location: Black Diamond
   date: 2010
-  form: 
+  form:
   event: Chalice of the Sun God
   sponsors: Mistriss Ceridwen, Master Marcellus, Lord Geoffrey
-  misc: 
+  misc:
 Sanada Akime:
   location: Stierbach
   date: 11/19/2016
@@ -218,59 +211,41 @@ Sanada Akime:
   sponsors: Lord Terasu, Master Brian, Maestra Caitilin
   misc: House Sanada
   op_id: 8195
-Ffernfael Kymro:
-  location: Roxbury Mill
-  date: 11/19/2016
-  title: Lord
-  form:
-  event: Holiday Faire
-  sponsors: Maestra Caitilin, Lord Terasu, Lord Celric
-  misc: The Company of the Dragoon Guards
-  op_id: 8623
-Feodosiia Alekseeva zhena:
+Theodosia Alekseeva zhena:
   location: Sacred Stone
   date: 2/25/2017
   form:
   event: Tourney of Ymir
-  sponsors: Master Raphael, Sir Christian, Baron Ghaltai 
-  misc: 
+  sponsors: Master Raphael, Sir Christian, Baron Ghaltai
+  misc:
 Klaus Jager:
   location: Hawkwood
   date: 6/17/17
   form:
   event: Return to Crecy IV
   sponsors: Master Raphael, Lord Greylond, Lord Maximilian
-  misc: 
+  misc:
   op_id: 7540
 Anthonye Saker:
   location: East Kingdom
-  date: 
-  title: 
+  date:
+  title:
   form:
   event: King's Assesment
   sponsors: Master Marcellus, Sir Christian, Master Jean Claude
-  misc: 
+  misc:
   op_id:
-Humfrey Matthew Lovett:
-  location: East Kingdom
-  date: 1/28/17
-  title: 
-  form:
-  event: Ice Castles
-  sponsors: Master Raphael, Sir Christian, Lord Iskender
-  misc: Man at Arms to Master Raphael
-  op_id: 1530
 Nyvein Dyfnawal:
- location: Roxbury Mill
- date: 9/23/17
- title: Lady
- form:
- event: Battle on the Bay
- sponsors: Lord Celric, Maestra Caitilin, Lady Letia
- misc: 
- op_id: 
+  location: Roxbury Mill
+  date: 9/23/17
+  title: Lady
+  form:
+  event: Battle on the Bay
+  sponsors: Lord Celric, Maestra Caitilin, Lady Letia
+  misc:
+  op_id:
 Trian Ó Glesáin:
-  location: Hawkwood
+  location: Storvik
   date: 8/7/2017
   title: Lord
   form: Sword and Dagger
@@ -287,76 +262,32 @@ Ulfarr Refskegg:
   sponsors: Master Flaithri, Lord Terasu, Master Llwyd
   misc: House Condottieri
   op_id: 8144
-Gilbert de Châtillon:
-   title: Lord
-   sponsors: Mistress Etain, Lord Elphin, Lord Greylond, Master Raphael 
-Allister Greenbrier:
-  location: Stierbach
-  date: 3/24/2018
-  title: Lord
-  form: Sword and Stick
-  event: Night on the Town
-  sponsors: Lord Armand, Lord Torse, Master Connor
-  misc: House Condottieri
-  op_id: 8482
-Tiberius Aufidius Crispus:
-  location: Hawkwood
-  date: 5/19/2018
-  event: Hawkwood's Baronial Birthday
-  form: Single Sword
-  sponsors:
-  misc:
-  op_id: 8889
-Ishmael Baleinier:
-  location: Roxbury Mill
-  date: 6/23/2018
-  event: Storvik Novice
-  form: Single Sword
-  sponsors: Don Aeron, Maestra Caitilin, Lord Torse
-  misc:
-  op_id: 9407
-Colette Vitalis:
-  location: Ponte Alto
-  date: 8/5/2018
-  event: Pennsic War
-  form: Sword and Stick
-  sponsors: Master Dominyk, Master Brian, Don Aeron
-  misc: ensign to Master Dominyk, The Company of the Dragoon Guards, Grasshopper
-  op_id: 8367
 Dyggvi Hrolfsson:
   location: Sacred Stone
   date: 6/23/2018
   event: Return to Crecy V
   form: Sword and Stick
   sponsors: Master Raphael, Mistress Etain, ?
-  misc: 
+  misc:
   op_id: 8787
-Celestria Alexandre d'Amiens:
-  location: Stierbach
-  date: 10/27/2018
-  event: Queen's Rapier Championship
-  form: Sword and Dagger
-  sponsors: Master Alessandro, Lord Torse, Lady Rochelle
-  misc: House Condottieri
-  op_id: 8853
 Alonzo Falcone:
   location: Black Diamond
   date:
   event:
   form: Sword and All
   sponsors:
-  misc:  
+  misc:
   op_id: 8490
-Roland Shelnut:
+Roland de Thompson:
   location: Isenfir
   date: 3/23/2019
   event: Defending the Gate
   form: Sword and Dagger
-  sponsors:
-  misc: intern for The Company of the Dragoon Guards
+  sponsors: Master Benjamin, Lord Armand, Master Aedan
+  misc: intern for House Blackspear
   op_id:
 Elizabeth Taylor:
-  location: Sacred Stone
+  location: Lochmere
   date: 2/23/2019
   event: Tournament of Ymir
   form: Sword and Dagger
@@ -364,20 +295,20 @@ Elizabeth Taylor:
   misc: Cadet to Master Giacomo
   op_id: 3713
 Els von Ascheberg:
-  location: Sacred Stone
+  location: Windmasters' Hill
   date: 2/23/2019
   event: Tournament of Ymir
   form:
-  sponsors:
+  sponsors: Lord Percival, ?, ?
   misc:
-  op_id: 
+  op_id:
 Rajan (fka Nakka Hjort):
-  location: Sacred Stone
+  location: Storvik
   date: 3/23/2019
   event: Defending the Gate
-  form: 
+  form:
   sponsors:
-  misc: House Condottieri
+  misc:
   op_id: 9056
 Wilhelm Leopard der Schwarze / Mathius von Haud Panther:
   location: Cyddlain Downs
@@ -385,5 +316,50 @@ Wilhelm Leopard der Schwarze / Mathius von Haud Panther:
   event: Hidden Mountain Baronial Birthday
   form: Sword and Dagger
   sponsors: Mistress Etain, Master Elphin, Master Raphael
-  misc: 
+  misc:
   op_id: 3333
+Marina Wymarc:
+  location: Stierbach
+  date: 4/13/2019
+  event: Night on the Town
+  form: Sword and Dagger
+  sponsors: Lord Terasu, Master Chris, Maestra Caitilin
+  op_id: 3379
+Aidan of Kingswood:
+  location: Tir-Y-Don
+  date: 5/25/2019
+  event: Ruby Joust
+  form: Cut & Thrust
+  sponsors: Master Llwyd, Master Jean, Master Celric
+  op_id: 3444
+Nicolo Santorio:
+  location: Roxbury Mill
+  date: 6/8/2019
+  event: Skewered!
+  form: Sword and Targa
+  sponsors: Master Alessandro, Master Cailin, Master Aeron
+  op_id: 7747
+Marta de Lyon:
+  location: Lochmere
+  date: 10/5/2019
+  event: Coronation
+  form: Sword and Dagger
+  sponsors: Lord Armand, Lord Linhart, Lord Tassin
+  misc: Head of House Condotierri
+  op_id: 9749
+Owyn de Wolfe:
+  location: Sacred Stone
+  date:
+  event:
+  form: Rapier and Dagger, Rapier and Stick
+  sponsors: Baron Iskender, Duke Ragnarr, and Master Raph
+  misc: Student to Baron Iskender Bey al-Istanbuli
+  op_id: 9443
+Arias Velarde de Santillana del Mar:
+  location: Stormwall
+  date:
+  event:
+  form: Sword and Dagger
+  sponsors: Lord Maxamilian, Master Greylond, and Master Elfin
+  misc:
+  op_id: 8929

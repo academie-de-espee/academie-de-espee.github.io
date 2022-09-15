@@ -2,7 +2,7 @@ Ayla Von Dahauua:
   op_id: 8758
   location: Roxbury Mill
   form: Sword and Dagger
-  misc: The Company of the Dragoon Guards
+  misc: cadet to Master Aeron, The Company of the Dragoon Guards
 Alyce de Glaize:
   op_id: 9229
   location: Lochmere
@@ -23,42 +23,28 @@ Tibbie Crosier:
   form: Cut & Thrust
   misc: authorized April 2008
 Zahira Al-Rumi:
-  op_id: 
+  op_id:
   location: Ponte Alto
   form:
   misc:
 Steffan Von Musbach:
   location: Caer Mear
   form: Sword and Dagger
-  misc:
+  misc: cadet to Maestro Dante
 Caitilín inghean Uí Ruaidhrí:
   op_id: 9152
   location: Dun Carraig
   form: Sword and Dagger
-  misc: 
-Nicolo Santorio:
-  op_id: 7747
-  location: Roxbury Mill
-  form: Sword and Targa
-  misc: 
+  misc:
 Roland Wodeman:
   op_id: 7542
   location: Hawkwood
   form: Sword and Short Sword
   misc: Corsair 3rd Class (Corsairium)
-Arias Velarde de Santillana del Mar:
-  op_id: 8929
-  location: Stormwall
-  form: Sword and Dagger
-  misc:
 Caillan Ruffio:
   op_id: 7517
   location: Black Diamond
   form: Sword and Dagger
-  misc:
-Alexios Chrysoloras:
-  location: Charlesbury Crossing
-  form: Bolognese sidesword/Cut and Thrust
   misc:
 Erasmus Severinus:
   op_id: 8139
@@ -95,11 +81,6 @@ Grimkirk ap Greymoor:
   location: Ponte Alto/Stierbach
   form: Single Sword
   misc: Has held authorizations in Atenveldt, Outlands, Middle, East, Atlantia, since 1983
-Cataldo Querini:
-  op_id: 9544
-  location: Isenfir
-  form: 
-  misc: Ensign to Despotes Charimmos, The Company of the Dragoon Guards
 Renard Belmont:
   op_id: 9564
   location: Black Diamond
@@ -110,11 +91,6 @@ Pietro Trevisan:
   location: Tir Y Don
   form: Single Sword
   misc:
-Jacques Gonse:
-  op_id: 
-  location: Ponte Alto
-  form: Sword and Dagger
-  misc: Intern to the Company of the Dragoon Guards
 Mawdlen Katherine Morgan:
   op_id:
   location: Ponte Alto
@@ -125,3 +101,33 @@ Erin Taylor:
   location: Storvik
   form:
   misc:
+Blaze Frostell:
+  op_id:
+  location: Storvik
+  form: Single
+  misc:
+Gareth:
+  op_id:
+  location: Ponte Alto
+  form: Single
+  misc: Garnders Company
+Lucio di Malatesta:
+  op_id:
+  location: Cyddlan Downs
+  form: Cut & Thrust
+  misc: Cadet to Don Julien de la Fontaine
+Giavanna:
+  op_id:
+  location: Roxbury Mill
+  form: Rapier and Dagger
+  misc: Intern for The Company of the Dragoon Guards
+Farthegn Keldansson:
+  op_id: 9837
+  location: Lochmere
+  form: Rapier and Dagger
+  misc: Henchman to Maestra Letia Thistelthueyt
+Lochlainn hua Rigbarddain:
+  op_id: 4278
+  location: Raven's Cove
+  form: Case & C&T
+  misc: Ship Captain in the Corsairium

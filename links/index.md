@@ -2,6 +2,7 @@
 title: Links
 ---
 
+* [Blacksword Tournament](https://www.wiki.atlantia.sca.org/index.php?title=Blacksword_Tournament)
 * [Texts of the Ancient Masters](ancient-masters)
 * [Valuable Sources of Rapier Information](rapier-information)
 * [Rapier Rules for the Known World](rules)
