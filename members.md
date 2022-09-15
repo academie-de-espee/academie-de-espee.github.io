@@ -1,11 +1,12 @@
 ---
-title: Roster of Masters
+
+title: Roster of Members
 ---
 
 <table class="pure-table pure-table-bordered sortable" width="100%">
 <thead>
 <tr>
-   <th> Name </th>
+   <th> Name </
    <th> Rank </th>
    <th> Date </th>
 </tr>
@@ -17,11 +18,12 @@ title: Roster of Masters
 {% for entry in entries %}
 <tr>
 	<td>
-    		{% if entry.ael_id != null %}
-       			<a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{entry.ael_id}}">
+
+    		{% if entry.op_id != null %}
+       			<a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{entry.op_id}}">
     		{% endif %}
 		{{ entry.name }}
-    		{% if entry.ael_id != null %}
+    		{% if entry.op_id != null %}
        			</a>
     		{% endif %}
 	</td>
@@ -33,6 +35,8 @@ title: Roster of Masters
 </tbody>
 </table>
 
-Are you a member of the Academie?  Do you want your name listed above?  Email Lord [Nicolo Santorio](mailto:nicolo.santorio@gmail.com) or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
+
+Are you a member of the Academie?  Use [this Google Form](https://forms.gle/Ti43EFchB72UCxuC8) to join, or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
+
 
 <script src="/js/sorttable.js"></script>
