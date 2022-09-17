@@ -1,12 +1,11 @@
 ---
-
 title: Roster of Members
 ---
 
 <table class="pure-table pure-table-bordered sortable" width="100%">
 <thead>
 <tr>
-   <th> Name </
+   <th> Name </th>
    <th> Rank </th>
    <th> Date </th>
 </tr>
