@@ -50,9 +50,6 @@
       "name": "Lochlainn hua Rigbarddain"
     }, 
     {       
-      "name": "Nicolosa d'Isenfir"
-    }, 
-    {       
       "name": "Ercole de Pavonis"
     }, 
     {       
@@ -210,6 +207,11 @@
       "name": "Nicolo Santorio",
       "op_id": 7747,
       "date": "2019-06-08"
+    }, 
+    {       
+      "name": "Nicolosa d'Isenfir",
+      "op_id": 3971,
+      "date": "2022-11-19"
     }, 
     {       
       "name": "Nyvein bat Rav Adam",
