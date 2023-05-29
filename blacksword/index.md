@@ -39,6 +39,16 @@ Each victory in a Blacksword tournament earns a number of points to the victor e
 
 ## Blacksword Tournament Results
 
+### Blacksword Tournaments for 2022/2023
+War of the Wings 10/15/2022 - Winner: Double-kill between Tiberius Aufidius Crispus and Jacques Gonse
+Swamp Wars 11/12/2022 - Winner:  Armand Schermitore
+Dun Carraig Baronial Birthday 12/10/2022 - Winner:  Tors Hartman
+Bright Hills Baronial Birthday 2/11/2023 - Winner:  Joscelin d'Outremer
+Nottinghill Coill Baronial Birthday 2/11/2023 - Winner:  Mathias dem Haus der Katze Kleine
+Basic Atlantian War Training (BAWT III) 4/21/2023 - Winner:  Jacques Gonse
+Hawkwood Baronial Birthday 5/20/2023 - Winner:  Thorgrimr inn kyrri
+(NOTE:  This season is still in progress)
+
 ### Blacksword Tournaments for 2021/2022
 * Battle on the Bay 9/24/2021 - Winner: Jacques Gonse (NOTE: Individual scores were lost)
 * Tourney of the Silver Chalice 9/25/2021 - Scores and outcome lost
