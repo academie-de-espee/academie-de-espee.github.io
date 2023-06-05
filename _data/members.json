@@ -117,7 +117,28 @@
     }, 
     {       
       "name": "Ava Deinhardt"
+    },
+    {       
+      "name": "Godwin Rutherford"
     }, 
+    {       
+      "name": "James the Archer"
+    }, 
+    {       
+      "name": "Reginald Dormant"
+    }, 
+    {       
+      "name": "Raghnailt inghean Uí Chearbhaill"
+    }, 
+    {       
+      "name": "Zofia Anzelmanka"
+    }, 
+    {       
+      "name": "Abigail of Storvik"
+    }, 
+    {       
+      "name": "Cooper of Roxbury Mill"
+    },
   ],
   "Free Scholar": [
     {       
@@ -238,11 +259,6 @@
       "date": "2019-08-07"
     }, 
     {       
-      "name": "Alric the Mad",
-      "op_id": 3296,
-      "date": "2014-10-18"
-    }, 
-    {       
       "name": "Cataldo Querini",
       "op_id": 9544,
       "date": "2022-01-15"
@@ -266,12 +282,12 @@
       "name": "Elphin ap Dafyd",
       "op_id": 3589,
       "date": "2007-08-25"
-    }, 
+    },
     {       
-      "name": "Ffernfael of Carleon", 
-      "op_id": 8623,
-      "date": "2020-01-18"
-    }, 
+      "name": "Etain of Sutherland",
+      "op_id": 1175,
+      "date": "2016-01-06"
+    }
     {       
       "name": "Geoffrey ap Clywd",
       "op_id": 1312,
@@ -348,10 +364,10 @@
       "date": "2020-09-19"     
     },
     {       
-      "name": "Etain of Sutherland",
-      "op_id": 1175,
-      "date": "2016-01-06"
-    }
+      "name": "Yrsa Eds dottir",
+      "op_id": 3296,
+      "date": "2014-10-18"
+    }, 
   ],
   "Distinguished Provost": [
     {      
@@ -388,6 +404,11 @@
       "name": "Dominyk Wolferam",
       "op_id": 953,
       "date": "2016-03-16"
+    },
+    {       
+      "name": "Ffernfael of Carleon", 
+      "op_id": 8623,
+      "date": "2023-06-03"
     }, 
     {       
       "name": "Geoffrey Gamble",
