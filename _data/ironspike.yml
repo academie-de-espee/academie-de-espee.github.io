@@ -1,4 +1,4 @@
-- name: Armand of Caer Mear
+- name: Armand Schermitore
   defended: 1
 - name: Arghylle Buchanan
   defended: 1
@@ -18,7 +18,7 @@
   defended: 0
 - name: "Matheu Herrero de C\xE1diz"
   defended: 2
-- name: Colin McNab
+- name: Colin MacNab
   defended: 0
 - name: Wistric Oftun
   defended: 4
@@ -30,7 +30,7 @@
   defended: 1
 - name: Torse Hartman
   defended: 2
-- name: Colin McNab
+- name: Colin MacNab
   defended: 0
 - name: Brian de Moray
   defended: 2
@@ -40,7 +40,7 @@
   defended: 0
 - name: Gawin Kappler
   defended: 3
-- name: Cailin of Hawkwood
+- name: Cailin Blackwood
   defended: 20
 - name: Alric the Mad
   defended: 0
@@ -56,7 +56,7 @@
   defended: 2
 - name: Simone de Venezia
   defended: 1
-- name: Feodosiia Alekseeva zhena
+- name: Furia Theodosia
   defended: 0
 - name: Sanada Terasu
   defended: 1
@@ -70,7 +70,7 @@
   defended: 3
 - name: Leifr Skraveifr
   defended: 6
-- name: Ffernfael Kymro
+- name: Ffernuail of Caerleon
   defended: 1
 - name: Joscelin d'Outremer
   defended: 3
@@ -99,4 +99,34 @@
 - name: Bumi
   defended: 1
 - name: Torse Hartman
+  defended: 15
+- name: Bumi	
+  defended: 0
+- name: Armand Schermitore
+  defended: 0
+- name: Celric d'Ravelle
+  defended: 2
+- name: Bumi
+  defended: 13
+- name: Joscelin d'Outremer	
+  defended: 2
+- name: Jacques Gonse	
+  defended: 0
+- name: Cataldo Querini	
+  defended: 0
+- name: Ffernuail of Caerleon	
+  defended: 1
+- name: Bumi	
+  defended: 0
+- name: Torse Hartman	
+  defended: 0
+- name: Ulfarr Refskegg	
+  defended: 5
+- name: Bumi	
   defended: 3
+- name: Jacques Gonse	
+  defended: 13
+- name: Demetrios Argyros	
+  defended: 3
+- name: Ffernuail of Caerleon
+  defended: 0
