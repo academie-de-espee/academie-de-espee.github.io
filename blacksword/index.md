@@ -47,8 +47,7 @@ Each victory in a Blacksword tournament earns a number of points to the victor e
 * Nottinghill Coill Baronial Birthday 2/11/2023 - Winner:  Mathias dem Haus der Katze Kleine
 * Basic Atlantian War Training (BAWT III) 4/21/2023 - Winner:  Jacques Gonse
 * Hawkwood Baronial Birthday 5/20/2023 - Winner:  Thorgrimr inn kyrri
-
-(NOTE:  This season is still in progress)
+* King’s Assessment 7/8/2023 - Winner: Dante de Pietro
 
 ### Blacksword Tournaments for 2021/2022
 * Battle on the Bay 9/24/2021 - Winner: Jacques Gonse (NOTE: Individual scores were lost)
