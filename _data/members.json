@@ -167,11 +167,6 @@
       "date": "2022-04-16"
     }, 
     {       
-      "name": "Demetrios Argyros",
-      "op_id": 11009,
-      "date": "2022-07-09"
-    }, 
-    {       
       "name": "Edward Godale",
       "op_id": 7795,
       "date": "2022-10-14"
@@ -195,11 +190,6 @@
       "name": "Leifr Celricson",
       "op_id": 6108,
       "date": "2022-04-16"
-    }, 
-    {       
-      "name": "Ulfarr Refskegg",
-      "op_id": 8144,     
-      "date": "2016-06-18"
     }, 
     {       
       "name": "Marion le Red",
@@ -251,6 +241,11 @@
       "op_id": 3174,
       "date": "2023-04-01"
     }
+    {       
+      "name": "Yuri Murasaki",
+      "op_id": 10388,
+      "date": "2023-07-08"
+    }
   ],
   "Provost": [
     {       
@@ -277,6 +272,11 @@
       "name": "Costanca Daguiar",
       "op_id": 823,
       "date": "2022-03-26"
+    },
+    {       
+      "name": "Demetrios Argyros",
+      "op_id": 11009,
+      "date": "2023-07-08"
     }, 
     {       
       "name": "Elphin ap Dafyd",
@@ -363,6 +363,11 @@
       "op_id": 8889,
       "date": "2020-09-19"     
     },
+    {       
+      "name": "Ulfarr Refskegg",
+      "op_id": 8144,     
+      "date": "2023-07-08"
+    }, 
     {       
       "name": "Yrsa Eds dottir",
       "op_id": 3296,
