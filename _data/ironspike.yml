@@ -70,7 +70,7 @@
   defended: 3
 - name: Leifr Skraveifr
   defended: 6
-- name: Ffernuail of Caerleon
+- name: Ffernfael of Caerleon
   defended: 1
 - name: Joscelin d'Outremer
   defended: 3
@@ -114,7 +114,7 @@
   defended: 0
 - name: Cataldo Querini	
   defended: 0
-- name: Ffernuail of Caerleon	
+- name: Ffernfael of Caerleon	
   defended: 1
 - name: Bumi	
   defended: 0
@@ -128,5 +128,7 @@
   defended: 13
 - name: Demetrios Argyros	
   defended: 3
-- name: Ffernuail of Caerleon
+- name: Ffernfael of Caerleon
+  defended: 0
+- name: Jacques Gonse	
   defended: 0
