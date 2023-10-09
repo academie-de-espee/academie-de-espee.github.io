@@ -8,6 +8,15 @@ You shall be a true Scholar, teaching others to uphold our traditions, to love t
 
 You shall keep this Scholar's Oath in all things declared unto you in the presence of your brethren of this Academie, on your sacred honor.
 
+## Example of Alternative Text
+
+Henceforth, you will hold to these conditions of our Order, which have been made known to you here, in the presence of your fellow Scholars.
+
+You shall be a true Scholar, teaching others to uphold our traditions, to love truth and knowledge, and to hate falsehood and ignorance, as you and other Scholars do.
+
+You shall always be merciful to any who are true subjects of Atlantia.
+
+You shall keep this Scholar's affirmation in all things declared unto you in the presence of the Scholars of this Academie, on your sacred honor.
 
 ## Ancient (original) Version
 
