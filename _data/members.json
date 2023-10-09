@@ -74,9 +74,6 @@
       "name": "Lucio Malatesta"
     }, 
     {       
-      "name": "Rashida bint Daud"
-    }, 
-    {       
       "name": "Ercole de Pavonis"
     }, 
     {       
@@ -230,6 +227,11 @@
       "name": "Nyvein bat Rav Adam",
       "op_id": 8543,
       "date": "2017-09-23"
+    }, 
+    {       
+      "name": "Rashida al'Zarqa",
+      "op_id": 9712,
+      "date": "2023-09-30"
     }, 
     {       
       "name": "Roland De Thompson ",
