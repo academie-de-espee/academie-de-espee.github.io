@@ -35,9 +35,6 @@
       "name": "Sophia the Orange"
     }, 
     {       
-      "name": "Gerlach Wiesengrund"
-    }, 
-    {       
       "name": "Aurelio Vitrisoni"
     }, 
     {       
@@ -63,9 +60,6 @@
     }, 
     {       
       "name": "Die Fledermaus"
-    }, 
-    {       
-      "name": "Yuri Murasaki"
     }, 
     {       
       "name": "Alan of Wolfhau"
@@ -108,9 +102,6 @@
     }, 
     {       
       "name": "William Cameron"
-    }, 
-    {       
-      "name": "Jean Claude de Calais"
     }, 
     {       
       "name": "Ava Deinhardt"
@@ -164,11 +155,6 @@
       "date": "2022-04-16"
     }, 
     {       
-      "name": "Demetrios Argyros",
-      "op_id": 11009,
-      "date": "2022-07-09"
-    }, 
-    {       
       "name": "Edward Godale",
       "op_id": 7795,
       "date": "2022-10-14"
@@ -192,11 +178,6 @@
       "name": "Leifr Celricson",
       "op_id": 6108,
       "date": "2022-04-16"
-    }, 
-    {       
-      "name": "Ulfarr Refskegg",
-      "op_id": 8144,     
-      "date": "2016-06-18"
     }, 
     {       
       "name": "Marion le Red",
@@ -286,6 +267,11 @@
       "date": "2022-03-26"
     }, 
     {       
+      "name": "Demetrios Argyros",
+      "op_id": 11009,
+      "date": "2023-07-08"
+    }, 
+    {       
       "name": "Elphin ap Dafyd",
       "op_id": 3589,
       "date": "2007-08-25"
@@ -299,6 +285,11 @@
       "name": "Geoffrey ap Clywd",
       "op_id": 1312,
       "date": "2009-04-11"
+    },
+    {       
+      "name": "Gerlach Wiesengrund",
+      "op_id": 1328,
+      "date": "1996-04-20"
     }, 
     {       
       "name": "Ilaria de Gandia",
@@ -319,6 +310,16 @@
       "name": "Jacques Gonse",
       "op_id": 11028,
       "date": "2021-09-25"
+    }, 
+    {       
+      "name": "Jean Claude de Calais",
+      "op_id": 1661,
+      "date": "2007-03-24"
+    }, 
+    {       
+      "name": "Johann Caldron (Coldiron)",
+      "op_id": 1696,
+      "date": "2016-02-27"
     }, 
     {       
       "name": "Joselin d'outremer",
@@ -361,15 +362,15 @@
       "date": "2023-01-21"      
     }, 
     {       
-      "name": "Symone de la Rochelle",
-      "op_id": 7104,
-      "date": "2018-04-21"
-    }, 
-    {       
       "name": "Tiberius Aufidius Crispus",
       "op_id": 8889,
       "date": "2020-09-19"     
     },
+    {       
+      "name": "Ulfarr Refskegg",
+      "op_id": 8144,     
+      "date": "2023-07-08"
+    }, 
     {       
       "name": "Yrsa Eds dottir",
       "op_id": 3296,
@@ -452,5 +453,10 @@
       "op_id": 2562,
       "date": "2016-01-06"
     }
+    {       
+      "name": "Symone de la Rochelle",
+      "op_id": 7104,
+      "date": "2023-05-28"
+    }, 
   ]
 }
