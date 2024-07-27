@@ -13,24 +13,6 @@ Here are numerous papers and articles written by members of the Academie d'Espee
 * [The Role Of The Free Scholar](freescholar) - Lord Liam a'Welwyn, Free Scholar
 * [To Be A Scholar](scholar) - Baron Alejandro Mateo Ramirez y Mendoza, Preboste
 
-### Stories of the "Before Times"
-* [First Post!](before-times-intro) - Master Robert Beddingfield, Provost
-* [The First White Scarf Meeting](before-times-first-meeting) - Master Robert Beddingfield, Provost
-* [Provost Stories - Gerlach Wiesengrund, OL, OWSA, Baron](before-times-gerlach) - Master Robert Beddingfield, Provost
-* [Sea Wars, part 1](before-times-seawars-part1) - Master Robert Beddingfield, Provost
-* [Sea Wars, part 2](before-times-seawars-part2) - Master Robert Beddingfield, Provost
-
-### Various Artwork of the Academie
-* [Closeup of the Provost Scroll](/artwork/scroll)
-* [Arms of the Kingdom of Atlantia](/images/Atlantia.gif)
-* [The Atlantian White Scarf](/images/ws_shrse.gif)
-* [Atlantian WS Badge/Medallion](/images/ws_medallion.gif)
-* [The Academie d'Espee Badge](/images/ade_badge.gif) - by Master Connor Levingstoune
-* [Provosts at Ymir, 2002](/artwork/group-pictures)
-* [The Pledge of the Rapiers](/artwork/poem) - Atlantian Melee Tournament - Pennsic XXV
-* [Sestina of the Rapier Challenge](/artwork/poem3) - Tournament of the Rapier Champions - Pennsic XXV
-* [The Pledge of the Rapiers](/artwork/poem2) - Atlantian Melee Tournament - Pennsic XXVI
-
 ### Articles about rapier
 * [A Letter On Ushering Prizes](usher) - Master Alan Gravesend, Provost and Master Geoffrey Gamble, Provost
 * [Learning To Call Blows](learning-blowcalling) - Lord Kirk Dragomani, Provost
@@ -46,7 +28,6 @@ In order to prepare for war, the Atlantian Rapier Army uses a common set of tact
 * [Concerning Melee Tactics](melee-tactics) - Master Alan Gravesend, and Master Giacomo Vincente
 * [Melee Drills](melee-drills) - Lord Sanada Terasu, Sir Joscelin d'Outremer
 * [Melee Commands](melee-commands) - Master Caitilin Inghean Fheichin
-
 
 ### Humor
 * [A provost's meeting](/humor/provost-meeting) - by Dominyk Wolferam
@@ -69,6 +50,24 @@ In order to prepare for war, the Atlantian Rapier Army uses a common set of tact
 * [London Monster (Templar Knights History)](/humor/templar)
 * [The Next Morning](/images/Don_Scaly_and_the_Herald.jpg) - by J'zel of Ansteorra
 * [Dainty vs. Daring](/images/Dainty_Daring.jpg) - by J'zel of Ansteorra
+
+### Stories of the "Before Times"
+* [First Post!](before-times-intro) - Master Robert Beddingfield, Provost
+* [The First White Scarf Meeting](before-times-first-meeting) - Master Robert Beddingfield, Provost
+* [Provost Stories - Gerlach Wiesengrund, OL, OWSA, Baron](before-times-gerlach) - Master Robert Beddingfield, Provost
+* [Sea Wars, part 1](before-times-seawars-part1) - Master Robert Beddingfield, Provost
+* [Sea Wars, part 2](before-times-seawars-part2) - Master Robert Beddingfield, Provost
+
+### Various Artwork of the Academie
+* [Closeup of the Provost Scroll](/artwork/scroll)
+* [Arms of the Kingdom of Atlantia](/images/Atlantia.gif)
+* [The Atlantian White Scarf](/images/ws_shrse.gif)
+* [Atlantian WS Badge/Medallion](/images/ws_medallion.gif)
+* [The Academie d'Espee Badge](/images/ade_badge.gif) - by Master Connor Levingstoune
+* [Provosts at Ymir, 2002](/artwork/group-pictures)
+* [The Pledge of the Rapiers](/artwork/poem) - Atlantian Melee Tournament - Pennsic XXV
+* [Sestina of the Rapier Challenge](/artwork/poem3) - Tournament of the Rapier Champions - Pennsic XXV
+* [The Pledge of the Rapiers](/artwork/poem2) - Atlantian Melee Tournament - Pennsic XXVI
 
 ### Other articles
 * [The first charges to the Master of Defense](mod-charges) - Their majesties Logan and Esa
