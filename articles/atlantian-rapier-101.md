@@ -65,7 +65,7 @@ The SCA is a history focused group and rapier is a martial art, but we still hav
 The study and teaching of historic martial arts falls in the Arts & Sciences domain rather than the combat marshallate. People receive Arts and Sciences awards for their understanding and teaching of HMA.
 
 ### Cut and Thrust
-Atlantia also has rules for an advanced rapier variant called "Cut and Thrust" or "C&T". The rules are very similar to normal SCA rapier, but a little more armor is required and combatants are allowed to throw controlled percussive cuts that aren't legal in normal rapier. This requires a separate authorization test and that one have been authorized in another SCA combat form for a year.  
+Atlantia also has rules for an advanced rapier variant called "Cut and Thrust" or "C&T". The rules are very similar to normal SCA rapier, but a little more armor is required and combatants are allowed to throw controlled percussive cuts that aren't legal in normal rapier. This requires a separate authorization test.
 
 ### Conclusions
 I hope this has given you an overview of SCA rapier in Atlantia. Please feel free to contact me with any questions so I can help address them and then clarify or add that topic to this article. Also, please feel free to ask your question to your local Free Scholar, White Scarf, or Master of Defense. We're wearing the regalia so people know who to come to with questions.

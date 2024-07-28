@@ -212,8 +212,8 @@ h3.excerpt a {
 
 #footer {
     border-top: 1px solid #ddd;
-    padding-top: 5px;
-    margin: 12px auto;
+    padding-top: 10px;
+    margin: 30px auto auto auto;
     text-align: center;
 }
 

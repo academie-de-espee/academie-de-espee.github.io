@@ -95,9 +95,6 @@
       "name": "Ren-Xing"
     }, 
     {       
-      "name": "Aleksándr Tomašović"
-    }, 
-    {       
       "name": "Renard Belmont"
     }, 
     {       
@@ -129,6 +126,9 @@
     },
     {       
       "name": "Sigrid of Isenfir"
+    },
+    {       
+      "name": "Marcus Blackwell"
     }
   ],
   "Free Scholar": [
@@ -250,11 +250,6 @@
       "date": "2019-08-07"
     }, 
     {       
-      "name": "Cataldo Querini",
-      "op_id": 9544,
-      "date": "2022-01-15"
-    }, 
-    {       
       "name": "Celestria Alexandre d'Amiens",
       "op_id": 8853,
       "date": "2021-05-01"
@@ -302,7 +297,7 @@
     {       
       "name": "Giavanna Fabbri",
       "op_id": 10192,
-      "date": "2022-02-12"
+      "date": "2024-05-18"
     }, 
     {       
       "name": "Ilaria de Gandia",
@@ -387,7 +382,7 @@
     {       
       "name": "Tiberius Aufidius Crispus",
       "op_id": 8889,
-      "date": "2020-09-19"     
+      "date": "2024-04-06"     
     },
     {       
       "name": "Ulfarr Refskegg",
@@ -425,6 +420,11 @@
       "name": "Caitilin ingheah Fheichin",
       "op_id": 7049,
       "date": "2016-03-17"
+    }, 
+    {       
+      "name": "Cataldo Querini",
+      "op_id": 9544,
+      "date": "2024-06-04"
     }, 
     {
       "name": "Celric d'Ravelle",     

@@ -39,6 +39,6 @@ title: Roster of Scholars
 </tbody>
 </table>
 
-Are you a scholar?  Do you want your name listed above?  Facebook message or email [Lady Colette Vitalis](mailto:brittanylasley@gmail.com). Alternative, you can make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
+Are you a scholar?  Do you want your name listed above?  Facebook message or email [Virginie de Champagne](mailto:vvdelaitre@gmail.com). Alternative, you can make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
 
 <script src="/js/sorttable.js"></script>
