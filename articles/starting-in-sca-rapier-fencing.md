@@ -23,7 +23,6 @@ SCA Rapier Fencing is the way in the Society for Create Anachronism to bring the
 We embrace this form of combat in the SCA for its historical roots, fun, and physical fitness blend.
 
 ## Overview of the Local Rapier Community
-
 ### Atlantia
 
 In Atlantia, our rapier community thrives on a foundation of well-defined rules and a commitment to historical authenticity. Governed by the Kingdom Earl Marshal’s Policy and the SCA’s Fencing Marshal’s Handbook, these guidelines ensure safety and historical integrity across all activities. Essential rules include specific conventions for rapier combat, general marshal activities, and combat archery, with special provisions for youth participants and gear appearance to maintain a pre-17th Century look.
@@ -61,7 +60,6 @@ Ymir 2024 by Thomas Bebee
 We will discuss the nature of practices and events further below.
 
 ## Part 1: SCA Rapier Practices
-
 ### Required Age to Get Started
 
 Atlantia offers fencing programs for children and adults governed by specific age-related rules.
@@ -132,8 +130,7 @@ The first personal items to purchase after mandatory protective gear for vulnera
 
 Newcomers should be familiar with the Gold Key for events. An organization or position typically falls under the purview of the local group's Chatelaine. The Gold Key provides garb for events to ensure participants adhere to the appropriate dress code, even if they arrive in casual attire. Availability and variety of garb can vary between groups, so it’s advisable to connect with the Chatelaine for guidance on what is available and appropriate. Information can be found on your local Facebook group and website.
 
-“You're not training against me, but yesterday's you.” 
-— Duke Ragnarr Blackhammer
+“You're not training against me, but yesterday's you.” — Duke Ragnarr Blackhammer
 
 ### On Defining Personal Goals
 
@@ -143,8 +140,7 @@ Setting goals in SCA and fencing depends on what you want to achieve. Considerin
 However, if you're in the northern region and have the luxury of attending three or four weekly practices, you might pick up the basics faster. But be warned that attending more practices can lead to receiving advice from different people, which can be confusing.
 If you're passionate about rapier and want to take it to the next level, you can get matched up with top fencers who can help you create a structured training plan, even taking you as a “cadet” or personal student. This plan may include "homework" to help you improve your skills faster. Thinking about your fencing goals, setting them accordingly, and proceeding at your own pace is essential.
 
-“Practice like you are going on an adventure. 
-Diligently & consistently.” — Master Celric d'Ravelle
+“Practice like you are going on an adventure. Diligently & consistently.” — Master Celric d'Ravelle
 
 Outside of the SCA
 
@@ -154,7 +150,6 @@ Personal experience suggests that HEMA provides opportunities to face various op
 Master Aeron Harper organizes Lord Baltimore’s Challenge, one of the few overlapping events.
 
 ## Part 3: First SCA Events for Rapier Activities
-
 ### Becoming an Authorized Atlantia Fencer
 
 To participate in competitive rapier fencing within the Society for Creative Anachronism (SCA), individuals must first pass a safety test known as an authorization. This process ensures that fencers are familiar with the rules and demonstrate sufficient control to ensure safety during combat. This guide primarily addresses authorization for adult rapier combatants in the Kingdom of Atlantia, though the principles apply broadly across various combat forms and kingdoms.
@@ -166,10 +161,10 @@ Authorizations are typically conducted at every SCA event before the fights comm
 There are several categories of fencing authorization in the SCA, including Light Rapier (Youth), Heavy Rapier —most common, Cut & Thrust Combat (C&T), Rapier Spear, and more. Fencers must authorize each category they wish to participate in.
 
 To prepare for authorization, you should:
-* Read the SCA’s Fencing Marshal’s Handbook, which is Society-wide.
-* Read the Atlantia policies to understand the kingdom's specific rules. Section 3 of the Kingdom Policy covers the Marshal policy, and section 3.12 specifically addresses the Rapier.
-* Participate in at least one mock authorization with local marshals to familiarize yourself with the process and reduce test-day stress.
-* If new to Atlantia, create an account in the Authorization Database of Atlantia to streamline the paperwork process.
+1. Read the SCA’s Fencing Marshal’s Handbook, which is Society-wide.
+1. Read the Atlantia policies to understand the kingdom's specific rules. Section 3 of the Kingdom Policy covers the Marshal policy, and section 3.12 specifically addresses the Rapier.
+1. Participate in at least one mock authorization with local marshals to familiarize yourself with the process and reduce test-day stress.
+1. If new to Atlantia, create an account in the Authorization Database of Atlantia to streamline the paperwork process.
 
 Authorization tests are conducted by marshals and an usher who CANNOT be your regular practice partners. They offer an unbiased assessment of readiness for competitive play. Engaging in mock authorizations at your local practice is highly recommended, as it provides practical experience and insights into the expectations of the actual authorization test.
 
@@ -197,8 +192,7 @@ For a comprehensive list of Rapier activities, consult the MOL Handbook.
 Ruby Joust 2024 by Thomas Bebee
 Kings Assessment 2023 by Thomas Bebee
 
-“There’s always someone better than you. Define your own ‘win’.” 
-— Lord William Mac Dhomhnaill
+“There’s always someone better than you. Define your own ‘win’.” — Lord William Mac Dhomhnaill
 
 Out-of-Kingdom Events
 
