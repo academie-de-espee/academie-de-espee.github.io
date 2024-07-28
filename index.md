@@ -8,6 +8,7 @@ The Royal Academie d'Espee is chartered guild of the Kingdom of Atlantia, and ex
 * [Guild Charter](charter)
 * [Bylaws](bylaws)
 * [Roster of Members](members)
+* [Roster of Masters](masters)
 
 ## Guild Activities
 

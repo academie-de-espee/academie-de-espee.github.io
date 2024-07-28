@@ -48,7 +48,7 @@ This officer is not responsible for executing these events but ensuring that a p
 ## III. Membership Ranks
 There are five ranks within the Academie d’Espee. Each has its own requirements, regalia, oath, and ceremony. Oaths and prizes take place in front of the other members of the Academie who are present.  All members of the Academie are allowed open usage of the Academie’s registered badge: Or, two rapiers crossed in saltire sable between four roses azure.
 
- * [The oath for each rank can be found on the Academie website](/oaths)
+ * [The oath for each rank can be found on this link](/oaths)
 
  * Rank *regalia* is most often unique to its recipient and is made by a friend or loved one. Sometimes a piece of regalia may be handed down from an older fencer to a newer one to whom it would be meaningful.
 
