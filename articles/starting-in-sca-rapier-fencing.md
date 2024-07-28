@@ -30,7 +30,7 @@ Understanding these rules is the first step towards safely and effectively engag
 
 ### Academie d’Espee
 
-“We, in representation of the Academie d’Espee of Atlantia, come before You, King and Queen, to request that, by Law and by the Right of the Dread Sovereigns of Majestic and Mighty Atlantia, we be recognized by Royal Charter as a Guild of Atlantia.”
+"We, in representation of the Academie d’Espee of Atlantia, come before You, King and Queen, to request that, by Law and by the Right of the Dread Sovereigns of Majestic and Mighty Atlantia, we be recognized by Royal Charter as a Guild of Atlantia."
 
 This guild, chartered by the Kingdom of Atlantia, promotes historical rapier combat. Membership begins at the Scholar level, marked by blue scarves, with higher ranks indicated by gold and white scarves for Free Scholars and Provosts, respectively.
 
@@ -44,14 +44,17 @@ The Academie d’Espee aims to enhance skills and camaraderie within the rapier 
 For more details, check out the Academie’s Facebook group.
 
 ### Quick Differences Between Practices And Events
+#### Practices: 
 
-* Practices: Organized by each barony and shire, practices are opportunities to improve skills in a non-competitive environment. 
+Organized by each barony and shire, practices are opportunities to improve skills in a non-competitive environment. 
 
 Local practices can be found through your group's Chatelaine or by checking the online list at Atlantian Practices. However, verifying details via local Facebook groups or Atlantia's Discord server for the most current information is advisable. Unofficial practices may also occur, not governed by SCA rules, and participation is at your discretion. Practices are free and open to all. A waiver is required if you are not an SCA member. You can sign up online when you subscribe if you are already a member.
 
 Ponte Alto SCA Practice, Feb 2024
 
-* Events: Scheduled at specific times throughout the year, events require payment and prior authorization to participate in rapier fencing. They offer a structured opportunity to engage with the broader community and are an excellent place to have fun, gain knowledge, and network. 
+#### Events: 
+
+Scheduled at specific times throughout the year, events require payment and prior authorization to participate in rapier fencing. They offer a structured opportunity to engage with the broader community and are an excellent place to have fun, gain knowledge, and network. 
 
 Events can be found on the Atlantia Calendar. Respecting events' structured and often busier nature is essential, and etiquette suggests that questions for fencers be asked outside active combat times.
 
@@ -92,7 +95,7 @@ However, ensure you have the necessary groin protection and rigid protective gea
 
 Ponte Alto SCA Practice, Oct 2022
 
-“Don't try to "win" practices.” — Noble Sigfrid
+"Don't try to "win" practices." — Noble Sigfrid
 
 ## Part 2: Additional Requirements To Start
 
@@ -100,23 +103,23 @@ To begin training in fencing, a discipline that combines the elements of sport a
 
 ### Mindset Requirements
 
-* Dual Perspective of Fencing: Approach fencing as a competitive sport and a traditional martial art, balancing efficiency and precision in competitions with discipline, respect, and self-improvement.
+1. Dual Perspective of Fencing: Approach fencing as a competitive sport and a traditional martial art, balancing efficiency and precision in competitions with discipline, respect, and self-improvement.
 
-* Commitment to Learning: Adopt a learner’s mindset, valuing continuous improvement and skill acquisition over immediate results. This involves patience, resilience, and openness to feedback, which is essential for growth in Rapier Fencing.
+1. Commitment to Learning: Adopt a learner’s mindset, valuing continuous improvement and skill acquisition over immediate results. This involves patience, resilience, and openness to feedback, which is essential for growth in Rapier Fencing.
 
-* Respect for the Practice: Embrace the etiquette and honor core to martial arts, extending respect to fellow fencers, instructors, and the sport's traditions.
+1. Respect for the Practice: Embrace the etiquette and honor core to martial arts, extending respect to fellow fencers, instructors, and the sport's traditions.
 
-* Goal-Oriented Approach: Set clear, achievable goals for practice and competition to maintain motivation and track progress.
+1. Goal-Oriented Approach: Set clear, achievable goals for practice and competition to maintain motivation and track progress.
 
 ### Practical Requirements
 
-* Physical Fitness: A basic level of physical fitness enhances the agility, strength, and endurance necessary for the sport. If you have any injuries and fitness requirements, talk to your care provider to ensure you can practice this sport.
+1. Physical Fitness: A basic level of physical fitness enhances the agility, strength, and endurance necessary for the sport. If you have any injuries and fitness requirements, talk to your care provider to ensure you can practice this sport.
 
-* Regular Practice: Commit to regular practice sessions in a formal setting under a coach and through independent practice to reinforce techniques and build muscle memory. Higher-level fencers are not obligated to coach or teach classes at practices. However, most of us do it often to serve the Rapier community.
+1. Regular Practice: Commit to regular practice sessions in a formal setting under a coach and through independent practice to reinforce techniques and build muscle memory. Higher-level fencers are not obligated to coach or teach classes at practices. However, most of us do it often to serve the Rapier community.
 
-* Engagement Outside the Fencing Piste: Deepen your connection to the sport by engaging with the fencing community and studying historical techniques and theories.
+1. Engagement Outside the Fencing Piste: Deepen your connection to the sport by engaging with the fencing community and studying historical techniques and theories.
 
-* Feedback and Mentorship: Actively seek input from more experienced fencers and consider mentorship to enhance learning experiences.
+1. Feedback and Mentorship: Actively seek input from more experienced fencers and consider mentorship to enhance learning experiences.
 
 ### First Gear to Acquire
 
@@ -130,19 +133,20 @@ The first personal items to purchase after mandatory protective gear for vulnera
 
 Newcomers should be familiar with the Gold Key for events. An organization or position typically falls under the purview of the local group's Chatelaine. The Gold Key provides garb for events to ensure participants adhere to the appropriate dress code, even if they arrive in casual attire. Availability and variety of garb can vary between groups, so it’s advisable to connect with the Chatelaine for guidance on what is available and appropriate. Information can be found on your local Facebook group and website.
 
-“You're not training against me, but yesterday's you.” — Duke Ragnarr Blackhammer
+"You're not training against me, but yesterday's you." — Duke Ragnarr Blackhammer
 
 ### On Defining Personal Goals
-
-In the SCA
+#### In the SCA
 
 Setting goals in SCA and fencing depends on what you want to achieve. Considering the amount of time and effort you're willing to put in, remember that if you attend one practice a week and don't do much at home, you can authorize in about six months, provided you're in decent shape.
+
 However, if you're in the northern region and have the luxury of attending three or four weekly practices, you might pick up the basics faster. But be warned that attending more practices can lead to receiving advice from different people, which can be confusing.
-If you're passionate about rapier and want to take it to the next level, you can get matched up with top fencers who can help you create a structured training plan, even taking you as a “cadet” or personal student. This plan may include "homework" to help you improve your skills faster. Thinking about your fencing goals, setting them accordingly, and proceeding at your own pace is essential.
 
-“Practice like you are going on an adventure. Diligently & consistently.” — Master Celric d'Ravelle
+If you're passionate about rapier and want to take it to the next level, you can get matched up with top fencers who can help you create a structured training plan, even taking you as a "cadet" or personal student. This plan may include "homework" to help you improve your skills faster. Thinking about your fencing goals, setting them accordingly, and proceeding at your own pace is essential.
 
-Outside of the SCA
+"Practice like you are going on an adventure. Diligently & consistently." — Master Celric d'Ravelle
+
+#### Outside of the SCA
 
 Historical European Martial Arts (HEMA) is a popular alternative for getting more practice time. However, HEMA practices tend to be less uniformly regulated than SCA. For instance, a local HEMA club might require a six-month introductory course in Longsword to be able to fence Rapier, which can be a barrier if that’s not your interest. 
 Personal experience suggests that HEMA provides opportunities to face various opponents. However, HEMA and SCA offer distinct learning experiences with sometimes little overlap, which may only suit some preferences.
@@ -169,8 +173,7 @@ To prepare for authorization, you should:
 Authorization tests are conducted by marshals and an usher who CANNOT be your regular practice partners. They offer an unbiased assessment of readiness for competitive play. Engaging in mock authorizations at your local practice is highly recommended, as it provides practical experience and insights into the expectations of the actual authorization test.
 
 ### Participate in your First Event —What to Expect
-
-Local events
+#### Local events
 
 To stay informed about local rapier activities in Atlantia, consider joining the Academie d’Espee's Facebook group. This public group is a hub for updates and discussions about rapier events within the kingdom. Generally, Rapier fencing activities start after morning court, but it is better to check beforehand. Authorizations often happen in the early morning before the first tourney.
 
@@ -178,7 +181,7 @@ To stay informed about local rapier activities in Atlantia, consider joining the
 When preparing for your first fencing event, the Gold Key is the best place to find clothing that fits you properly. Usually, fencers will advise you on the required equipment before and during the authorization process. You can also borrow gear from your local practice for your first events. You can keep the gear with you for the event weekend and return it afterward.
 
 1. Check-In Process:
-When you arrive at an SCA event, your first step is to check in at the event registration, commonly referred to as “Troll.” Here, you’ll pay the event fee; if you're not a member of the SCA, you must sign a waiver to participate.
+When you arrive at an SCA event, your first step is to check in at the event registration, commonly referred to as "Troll." Here, you’ll pay the event fee; if you're not a member of the SCA, you must sign a waiver to participate.
 
 1. Authorization and Inspection:
 Next, head to the Minister of the List (MoL) table near the fighting field or the check-in area. You must be previously authorized to fight, a process that ensures you understand the rules and safety requirements. Additionally, before you can participate in any combat, a marshal from the field staff will need to inspect your armor and weapons to confirm they meet all safety regulations.
@@ -192,9 +195,9 @@ For a comprehensive list of Rapier activities, consult the MOL Handbook.
 Ruby Joust 2024 by Thomas Bebee
 Kings Assessment 2023 by Thomas Bebee
 
-“There’s always someone better than you. Define your own ‘win’.” — Lord William Mac Dhomhnaill
+"There’s always someone better than you. Define your own ‘win’." — Lord William Mac Dhomhnaill
 
-Out-of-Kingdom Events
+#### Out-of-Kingdom Events
 
 When Atlantia fencers attend events outside their kingdom, they need to remind marshals that they only need to inspect armor to the minimum standards set by the Society. This is because different kingdoms have different rules for various weapon styles. For example, an Atlantia fencer with rapier authorization may be assumed to be certified in a single rapier only, which may not be the case.
 
@@ -254,7 +257,7 @@ With the participation of:
 
 ### Links and additional resources
 
-“Remember, swords are awesome.” — Master Brian De Moray
+"Remember, swords are awesome." — Master Brian De Moray
 
 Official Practices List
 
