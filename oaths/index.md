@@ -16,3 +16,4 @@ Printable business card sized versions of the modern oaths are available [here](
 * [Oath of Fealty](fealty)
 * [Scroll Text for a Provost](scroll-text)
 * [Relevant Atlantian Treaties](treaties)
+* [Legacy of Collars](collars)
