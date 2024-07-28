@@ -182,13 +182,13 @@ To stay informed about local rapier activities in Atlantia, consider joining the
 1. Getting Ready at Home:
 When preparing for your first fencing event, the Gold Key is the best place to find clothing that fits you properly. Usually, fencers will advise you on the required equipment before and during the authorization process. You can also borrow gear from your local practice for your first events. You can keep the gear with you for the event weekend and return it afterward.
 
-2. Check-In Process:
+1. Check-In Process:
 When you arrive at an SCA event, your first step is to check in at the event registration, commonly referred to as “Troll.” Here, you’ll pay the event fee; if you're not a member of the SCA, you must sign a waiver to participate.
 
-3. Authorization and Inspection:
+1. Authorization and Inspection:
 Next, head to the Minister of the List (MoL) table near the fighting field or the check-in area. You must be previously authorized to fight, a process that ensures you understand the rules and safety requirements. Additionally, before you can participate in any combat, a marshal from the field staff will need to inspect your armor and weapons to confirm they meet all safety regulations.
 
-4. Participation:
+1. Participation:
 There are different ways to approach events. You can use them as opportunities to grow personally, without competing against others, or as a chance to challenge yourself and improve your previous performances. 
 The rapier field has two main types of activities: tourneys and melees. Tourneys usually involve one-on-one fights, while melees engage multiple fencers against each other. To participate, it is essential to know the rules of the activity, which may vary from one event to another. The authorization process usually includes familiarizing oneself with the rules and listening to the Marshal in charge on the field. If you have any questions, don't hesitate to ask.
 

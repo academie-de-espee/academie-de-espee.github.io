@@ -15,7 +15,7 @@ defaults:
     - values:
         layout: default
 nav:
-  - text: Index
+  - text: Home
     href: /
   - text: Charter
     href: /charter
