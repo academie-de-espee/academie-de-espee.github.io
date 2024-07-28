@@ -13,7 +13,7 @@ The information provided is for general informational purposes only. We have mad
 * Learn about SCA Rapier Fencing.
 * Get to Know the Local Rapier Community.
 * Recognize Ranks and Roles.
-* Get ready for your first practice(s). 
+* Get ready for your first practice(s).
 * How to participate in Rapier activity at events.
 
 ### What is SCA Rapier Fencing (Kingdom Level)
@@ -23,6 +23,7 @@ SCA Rapier Fencing is the way in the Society for Create Anachronism to bring the
 We embrace this form of combat in the SCA for its historical roots, fun, and physical fitness blend.
 
 ## Overview of the Local Rapier Community
+
 ### Atlantia
 
 In Atlantia, our rapier community thrives on a foundation of well-defined rules and a commitment to historical authenticity. Governed by the Kingdom Earl Marshal’s Policy and the SCA’s Fencing Marshal’s Handbook, these guidelines ensure safety and historical integrity across all activities. Essential rules include specific conventions for rapier combat, general marshal activities, and combat archery, with special provisions for youth participants and gear appearance to maintain a pre-17th Century look.
@@ -44,17 +45,18 @@ The Academie d’Espee aims to enhance skills and camaraderie within the rapier 
 For more details, check out the Academie’s Facebook group.
 
 ### Quick Differences Between Practices And Events
-#### Practices: 
 
-Organized by each barony and shire, practices are opportunities to improve skills in a non-competitive environment. 
+#### Practices
+
+Organized by each barony and shire, practices are opportunities to improve skills in a non-competitive environment.
 
 Local practices can be found through your group's Chatelaine or by checking the online list at Atlantian Practices. However, verifying details via local Facebook groups or Atlantia's Discord server for the most current information is advisable. Unofficial practices may also occur, not governed by SCA rules, and participation is at your discretion. Practices are free and open to all. A waiver is required if you are not an SCA member. You can sign up online when you subscribe if you are already a member.
 
 Ponte Alto SCA Practice, Feb 2024
 
-#### Events: 
+#### Events
 
-Scheduled at specific times throughout the year, events require payment and prior authorization to participate in rapier fencing. They offer a structured opportunity to engage with the broader community and are an excellent place to have fun, gain knowledge, and network. 
+Scheduled at specific times throughout the year, events require payment and prior authorization to participate in rapier fencing. They offer a structured opportunity to engage with the broader community and are an excellent place to have fun, gain knowledge, and network.
 
 Events can be found on the Atlantia Calendar. Respecting events' structured and often busier nature is essential, and etiquette suggests that questions for fencers be asked outside active combat times.
 
@@ -63,6 +65,7 @@ Ymir 2024 by Thomas Bebee
 We will discuss the nature of practices and events further below.
 
 ## Part 1: SCA Rapier Practices
+
 ### Required Age to Get Started
 
 Atlantia offers fencing programs for children and adults governed by specific age-related rules.
@@ -75,7 +78,7 @@ Note that the Kingdom Youth Rapier Marshal, not the Kingdom Rapier Marshal, mana
 
 ### Requirements for Safety
 
-Participants wear protective gear such as masks, gorgets, and other safety equipment to minimize risk during rapier combat. Weapons are tipped with dull blades for added safety, and a team of volunteer marshals oversees all activities to ensure compliance with safety standards. The command "Hold" immediately stops the action if any issue arises, providing assurance and maintaining a safe environment for all fencers. 
+Participants wear protective gear such as masks, gorgets, and other safety equipment to minimize risk during rapier combat. Weapons are tipped with dull blades for added safety, and a team of volunteer marshals oversees all activities to ensure compliance with safety standards. The command "Hold" immediately stops the action if any issue arises, providing assurance and maintaining a safe environment for all fencers.
 
 While accidents can occur, the community takes extensive measures to minimize them, prioritizing the safety and well-being of all participants.
 
@@ -83,7 +86,7 @@ Dun Carraig BB 2023 by Thomas Bebee
 
 ### Injury Prevention and SCA Combat Longevity
 
-Injury prevention is crucial in rapier fencing to ensure participants' safety and the sport's longevity. To avoid common injuries such as strains and impacts, it is necessary to understand body mechanics, wear proper protective gear, and practice correct techniques. 
+Injury prevention is crucial in rapier fencing to ensure participants' safety and the sport's longevity. To avoid common injuries such as strains and impacts, it is necessary to understand body mechanics, wear proper protective gear, and practice correct techniques.
 
 For more information, Master Baru le Bataillier (Bumi) offers a class and videos that are excellent resources for learning effective injury prevention strategies. The class focuses on increasing body awareness, educating about anatomy, providing practical applications for daily activities, and adapting to physical stress. This approach helps fencers enjoy the sport safely and sustainably while improving their skills.
 
@@ -123,7 +126,7 @@ To begin training in fencing, a discipline that combines the elements of sport a
 
 ### First Gear to Acquire
 
-Local fencing practices generally provide loaner gear, but it's beneficial for participants to acquire their equipment for a better and more hygienic experience. 
+Local fencing practices generally provide loaner gear, but it's beneficial for participants to acquire their equipment for a better and more hygienic experience.
 
 The first personal items to purchase after mandatory protective gear for vulnerable areas should be a mask and a gorget, as these are crucial for safety and are not always available to borrow. While swords and other defensive equipment are often available to borrow at practices, having your protective gear, especially items that require frequent cleaning, significantly improves your quality of life.
 
@@ -136,6 +139,7 @@ Newcomers should be familiar with the Gold Key for events. An organization or po
 "You're not training against me, but yesterday's you." — Duke Ragnarr Blackhammer
 
 ### On Defining Personal Goals
+
 #### In the SCA
 
 Setting goals in SCA and fencing depends on what you want to achieve. Considering the amount of time and effort you're willing to put in, remember that if you attend one practice a week and don't do much at home, you can authorize in about six months, provided you're in decent shape.
@@ -148,12 +152,13 @@ If you're passionate about rapier and want to take it to the next level, you can
 
 #### Outside of the SCA
 
-Historical European Martial Arts (HEMA) is a popular alternative for getting more practice time. However, HEMA practices tend to be less uniformly regulated than SCA. For instance, a local HEMA club might require a six-month introductory course in Longsword to be able to fence Rapier, which can be a barrier if that’s not your interest. 
+Historical European Martial Arts (HEMA) is a popular alternative for getting more practice time. However, HEMA practices tend to be less uniformly regulated than SCA. For instance, a local HEMA club might require a six-month introductory course in Longsword to be able to fence Rapier, which can be a barrier if that’s not your interest.
 Personal experience suggests that HEMA provides opportunities to face various opponents. However, HEMA and SCA offer distinct learning experiences with sometimes little overlap, which may only suit some preferences.
 
 Master Aeron Harper organizes Lord Baltimore’s Challenge, one of the few overlapping events.
 
 ## Part 3: First SCA Events for Rapier Activities
+
 ### Becoming an Authorized Atlantia Fencer
 
 To participate in competitive rapier fencing within the Society for Creative Anachronism (SCA), individuals must first pass a safety test known as an authorization. This process ensures that fencers are familiar with the rules and demonstrate sufficient control to ensure safety during combat. This guide primarily addresses authorization for adult rapier combatants in the Kingdom of Atlantia, though the principles apply broadly across various combat forms and kingdoms.
@@ -165,6 +170,7 @@ Authorizations are typically conducted at every SCA event before the fights comm
 There are several categories of fencing authorization in the SCA, including Light Rapier (Youth), Heavy Rapier —most common, Cut & Thrust Combat (C&T), Rapier Spear, and more. Fencers must authorize each category they wish to participate in.
 
 To prepare for authorization, you should:
+
 1. Read the SCA’s Fencing Marshal’s Handbook, which is Society-wide.
 1. Read the Atlantia policies to understand the kingdom's specific rules. Section 3 of the Kingdom Policy covers the Marshal policy, and section 3.12 specifically addresses the Rapier.
 1. Participate in at least one mock authorization with local marshals to familiarize yourself with the process and reduce test-day stress.
@@ -173,6 +179,7 @@ To prepare for authorization, you should:
 Authorization tests are conducted by marshals and an usher who CANNOT be your regular practice partners. They offer an unbiased assessment of readiness for competitive play. Engaging in mock authorizations at your local practice is highly recommended, as it provides practical experience and insights into the expectations of the actual authorization test.
 
 ### Participate in your First Event —What to Expect
+
 #### Local events
 
 To stay informed about local rapier activities in Atlantia, consider joining the Academie d’Espee's Facebook group. This public group is a hub for updates and discussions about rapier events within the kingdom. Generally, Rapier fencing activities start after morning court, but it is better to check beforehand. Authorizations often happen in the early morning before the first tourney.
@@ -187,7 +194,7 @@ When you arrive at an SCA event, your first step is to check in at the event reg
 Next, head to the Minister of the List (MoL) table near the fighting field or the check-in area. You must be previously authorized to fight, a process that ensures you understand the rules and safety requirements. Additionally, before you can participate in any combat, a marshal from the field staff will need to inspect your armor and weapons to confirm they meet all safety regulations.
 
 1. Participation:
-There are different ways to approach events. You can use them as opportunities to grow personally, without competing against others, or as a chance to challenge yourself and improve your previous performances. 
+There are different ways to approach events. You can use them as opportunities to grow personally, without competing against others, or as a chance to challenge yourself and improve your previous performances.
 The rapier field has two main types of activities: tourneys and melees. Tourneys usually involve one-on-one fights, while melees engage multiple fencers against each other. To participate, it is essential to know the rules of the activity, which may vary from one event to another. The authorization process usually includes familiarizing oneself with the rules and listening to the Marshal in charge on the field. If you have any questions, don't hesitate to ask.
 
 For a comprehensive list of Rapier activities, consult the MOL Handbook.
@@ -242,6 +249,7 @@ SCA June University 2024
 ### Thank You Note
 
 With the participation of:
+
 * Magister Percival Aldridge (Percy)
 * Master Armand Schermitore (Armand)
 * Master Jacques Gonse (JG)
