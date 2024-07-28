@@ -23,5 +23,6 @@ Interested in joining the Academie d'Espee? Consult the information below.
 * [Rapier Champions](queens-champions)
 
 ## Other sites of Interest
-* [Kingdom of Atlantia Rapier Marshal's Site](https://marshal.atlantia.sca.org/rapier/)
-* [Blacksword Tournament - Atlantia Wiki](https://www.wiki.atlantia.sca.org/index.php?title=Blacksword_Tournament)
+
+* [Kingdom of Atlantia Rapier Marshal's Site](https://marshal.atlantia.sca.org/rapier/){:target="_blank"}
+* [Blacksword Tournament - Atlantia Wiki](https://www.wiki.atlantia.sca.org/index.php?title=Blacksword_Tournament){:target="_blank"}
