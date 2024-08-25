@@ -284,7 +284,7 @@ Roland de Thompson:
   event: Defending the Gate
   form: Sword and Dagger
   sponsors: Master Benjamin, Lord Armand, Master Aedan
-  misc: intern for House Blackspear
+  misc: Intern for House Blackspear
   op_id:
 Elizabeth Taylor:
   location: Lochmere
@@ -363,7 +363,7 @@ Arias Velarde de Santillana del Mar:
   sponsors: Lord Maxamilian, Master Greylond, and Master Elfin
   misc:
   op_id: 8929
-Aleksándr Tomašović:
+Aleksandr Tomasovič:
   location: Hawkwood
   date: 5/11/2024
   event: Hawkwood Baronial Birthday
@@ -371,3 +371,19 @@ Aleksándr Tomašović:
   sponsors: Master Cataldo Querini, Master Tiberius Aufidius Crispus, and Master Raphael de la Rosa
   misc:
   op_id: 9704
+Roibhilin O Grada:
+  location: Hawkwood
+  date: 5/11/2024
+  event: Hawkwood Baronial Birthday
+  form: Sword and Dagger
+  sponsors: Master Raphael, Master Greylond Crowe, and Master Tiberius Aufidius Crispus
+  misc:
+  op_id: 8942
+Virginie de Champagne:
+  location: Pennsic
+  date: 8/5/2024
+  event: Pennsic LI
+  form: Sword and Dagger
+  sponsors: Master Cailin, Master Bumi, and Master Armand
+  misc:
+  op_id: 12071

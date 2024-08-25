@@ -87,10 +87,7 @@
     }, 
     {       
       "name": "Charles the Bull"
-    }, 
-    {       
-      "name": "Virginie de Champagne"
-    }, 
+    },
     {       
       "name": "Ren-Xing"
     }, 
@@ -138,7 +135,7 @@
       "date": "2013-05-25"
     },
     {       
-    "name": "Aleksándr Tomašović",
+    "name": "Aleksandr Tomasovič",
     "op_id": 9704,
     "date": "2024-05-11"
     }, 
@@ -218,6 +215,11 @@
       "date": "2019-03-23"
     }, 
     {       
+      "name": "Roibhilin O Grada",
+      "op_id": 8942,
+      "date": "2024-05-11"
+    }, 
+    {       
       "name": "Sanada Akime",
       "op_id": 8195,
       "date": "2016-11-19"
@@ -232,6 +234,11 @@
       "op_id": 9708,
       "date": "2021-09-25"
     },
+    {       
+      "name": "Virginie de Champagne",
+      "op_id": 12071,
+      "date": "2024-08-05"
+    }, 
     {       
       "name": "William Mac Dhomhnaill",
       "op_id": 3174,
@@ -248,12 +255,7 @@
       "name": "Aldemere Mac Rafe",
       "op_id": 105,
       "date": "2019-08-07"
-    }, 
-    {       
-      "name": "Celestria Alexandre d'Amiens",
-      "op_id": 8853,
-      "date": "2021-05-01"
-    }, 
+    },  
     {       
       "name": "Ceridwen ferch Owain", 
       "op_id": 719,
@@ -426,6 +428,11 @@
       "op_id": 9544,
       "date": "2024-06-04"
     }, 
+    {       
+      "name": "Celestria Alexandre d'Amiens",
+      "op_id": 8853,
+      "date": "2024-08-04"
+    },
     {
       "name": "Celric d'Ravelle",     
       "op_id": 715,

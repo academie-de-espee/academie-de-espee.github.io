@@ -19,8 +19,8 @@ title: Links - Ancient Masters
 * [Terminology Table from Rapier-1 list](http://www.sonic.net/~willena/TermChart3_02.html)
 * [The Private Schoole of Defense](http://www.thehaca.com/Manuals/FullPSoDtext.htm) - by George Hale (1614)
 * [Pallas Armata - The Gentleman's Armory - Book One, Part One](http://www.thehaca.com/pallas.htm) - (1639)
-* [Pallas Armata - The Gentleman's Armory - Book One, Part Two](http://www.thehaca.com/pallas2.htm) - 1639(
+* [Pallas Armata - The Gentleman's Armory - Book One, Part Two](http://www.thehaca.com/pallas2.htm) - (1639)
 * [Comprehension of Destreza](http://www.thehaca.com/destreza.htm) - by Alvaro Guerra de la Vega (1681)
-* [Introduction to Frederico Ghisliero's Rapier Text](http://www.thehaca.com/essays/Regole.htm] - by Frederico Ghisliero (1587)
+* [Introduction to Frederico Ghisliero's Rapier Text](http://www.thehaca.com/essays/Regole.htm) - by Frederico Ghisliero (1587)
 * [Schoole of the Noble and Worthy Science of Defence](http://www.thehaca.com/swetnam.htm) - by Joeseph Swetnam (1617)
 * [Images from Kunst des Fechten](http://www.thehaca.com/pdf/JoachimMeyer.htm) - by Joachim Meyer (1570)

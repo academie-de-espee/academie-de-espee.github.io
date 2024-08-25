@@ -291,9 +291,6 @@ Linhart Von Marburg: {
   event: Defending the Gate,
   monarchs: Eckehard I & Jane I,
   relationships: {
-    House: "",
-    Free Scholar Sponsors: "",
-    Sponsored Free Scholars: ""
   }
 }
 Ragnarr Blackhammer: {
@@ -302,9 +299,6 @@ Ragnarr Blackhammer: {
   event: Pennsic War,
   monarchs: Cuan IX and Adelhait III,
   relationships: {
-    House: "",
-    Free Scholar Sponsors: "",
-    Sponsored Free Scholars: ""
   }
 }
 Armand Schermitore: {
@@ -313,9 +307,6 @@ Armand Schermitore: {
   event: War of the Wings,
   monarchs: Abran I & Anya I,
   relationships: {
-    House: "",
-    Free Scholar Sponsors: "",
-    Sponsored Free Scholars: ""
   }
 }
 Geoffrey Gamble: {
@@ -324,9 +315,6 @@ Geoffrey Gamble: {
   event: Tournament of Ymir,
   monarchs: Abran I & Anya I,
   relationships: {
-    House: "",
-    Free Scholar Sponsors: "",
-    Sponsored Free Scholars: ""
   }
 }
 Symone de la Rochelle: {
@@ -335,9 +323,6 @@ Symone de la Rochelle: {
   event: Ruby Joust,
   monarchs: Afshin I & Yasamin I,
   relationships: {
-    House: "",
-    Free Scholar Sponsors: "",
-    Sponsored Free Scholars: ""
   }
 }
 Ffernfael of Caerleon: {
@@ -346,31 +331,26 @@ Ffernfael of Caerleon: {
   event: Storvik Novice and Unbelt Tournament,
   monarchs: Afshin I & Yasamin I,
   relationships: {
-    House: "",
-    Free Scholar Sponsors: "",
-    Sponsored Free Scholars: ""
   }
 }
 Jacques Gonse: {
   op_id: 11028,
+  location: Stierbach,
   date: 3/23/2024,
   event: Defending the Gate and Barony of Stierbach Investiture,
   monarchs: Ragnarr VI and Mary Isabel I,
   relationships: {
-    House: "",
-    Free Scholar Sponsors: "",
-    Sponsored Free Scholars: ""
+    Free Scholar Sponsors: "Lord Armand, Lord Linhart, Master Cailin",
+    Cadetted to: "Maestro Dante"
   }
 }
 Joscelin d'Outremer: {
   op_id: 3357,
+  location: Stierbach,
   date: 3/23/2024,
   event: Defending the Gate and Barony of Stierbach Investiture,
   monarchs: Ragnarr VI and Mary Isabel I,
   relationships: {
-    House: "",
-    Free Scholar Sponsors: "",
-    Sponsored Free Scholars: ""
   }
 }
 Cataldo Querini: {
@@ -379,19 +359,23 @@ Cataldo Querini: {
   event: Spring Coronation,
   monarchs: Ragnarr VI and Mary Isabel I,
   relationships: {
-    House: "",
-    Free Scholar Sponsors: "",
-    Sponsored Free Scholars: ""
   }
 }
 Tiberius Aufidius Crispus: {
   op_id: 8889,
+  location: Hawkwood,
   date: 5/11/2024,
   event: Hawkwood Baronial Birthday,
   monarchs: Christoph III and Adelhait IV,
   relationships: {
-    House: "",
-    Free Scholar Sponsors: "",
-    Sponsored Free Scholars: ""
+  }
+}
+Celestria Alexandre d'Amiens: {
+  op_id: 8853,
+  location: Pennsic,
+  date: 4/8/2024,
+  event: Pennsic LI,
+  monarchs: Christoph III and Adelhait IV,
+  relationships: {
   }
 }
