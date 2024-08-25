@@ -150,11 +150,12 @@ img {
 
 p img {
   display: inline;
-  margin: 0;
+  margin: 10px 0;
   padding: 0;
   vertical-align: middle;
   text-align: center;
   border: none;
+  max-width: 800px;
 }
 
 pre, code {
