@@ -269,35 +269,36 @@ With the participation of:
 
 "Remember, swords are awesome." — Master Brian De Moray
 
-#### Official Practices List
+[Official Practices List](https://marshal.atlantia.sca.org/practices/){:target="_blank"}
 
-* General SCA Resources
-* SCA Homepage
-* SCA Kingdom Lookup
-* Welcome to the SCA
+#### General SCA Resources
+
+* [SCA Homepage](https://www.sca.org/){:target="_blank"}
+* [SCA Kingdom Lookup](https://sca.org/kingdom_lookup.html){:target="_blank"}
+* [Welcome to the SCA](https://welcome.sca.org/){:target="_blank"}
 
 #### Rapier Combat and Atlantia Specific Links
 
-* SCA Rapier Combat Resources
-* Kingdom of Atlantia Official Site
-* Atlantia Kingdom Marshal’s Office - Rapier Combat
-* Atlantia Kingdom Marshal’s Office - Practices
-* Atlantia Governing Documents
+* [SCA Rapier Combat Resources](https://www.sca.org/resources/martial-activities/rapier-combat/){:target="_blank"}
+* [Kingdom of Atlantia Official Site](https://atlantia.sca.org/){:target="_blank"}
+* [Atlantia Kingdom Marshal’s Office - Rapier Combat](https://marshal.atlantia.sca.org/rapier/){:target="_blank"}
+* [Atlantia Kingdom Marshal’s Office - Practices](https://marshal.atlantia.sca.org/practices/){:target="_blank"}
+* [Atlantia Governing Documents](https://atlantia.sca.org/officers/seneschal/governing-documents/){:target="_blank"}
 
 #### Academie d’Espee Links
 
-* Academie d’Espee Official Site
-* Academie d’Espee on Facebook Group - A community group for members of the * Academie d’Espee guild.
+* [Academie d’Espee Official Site](https://www.academiedespee.com/){:target="_blank"}
+* Academie d’Espee on [Facebook Group](https://www.facebook.com/groups/AcademiedEspee){:target="_blank"} - A community group for members of the * Academie d’Espee guild.
 
 #### Additional Resources
 
-* MOL Handbook - Ministers of the List Handbook
-* Guidelines on Becoming an Authorized Rapier Fighter
-* Information on Youth Combat
-* Pennsic War
-* Gulf Wars
-* Lord Baltimore’s Challenge
-* The Awards of the Kingdom of Atlantia
-* Ask a question to Bumi about sports injuries
+* [MOL Handbook](https://mol.atlantia.sca.org/wp-content/uploads/2023/05/MoLHandbook20200205.pdf){:target="_blank"} - Ministers of the List Handbook
+* Guidelines on [Becoming an Authorized Rapier Fighter](https://marshal.atlantia.sca.org/procedures/rapier-authorization/){:target="_blank"}
+* Information on [Youth Combat](https://marshal.atlantia.sca.org/youth-combat/)
+* [Pennsic War](https://www.pennsicwar.org/){:target="_blank"}
+* [Gulf Wars](https://www.gulfwars.org/){:target="_blank"}
+* [Lord Baltimore’s Challenge](https://lordbaltimoreschallenge.com/){:target="_blank"}
+* [The Awards of the Kingdom of Atlantia](https://op.atlantia.sca.org/awards.php){:target="_blank"}
+* [Ask a question to Bumi about sports injuries](https://www.speakpipe.com/BumiBus){:target="_blank"}
 
 *Updated on Jun 2, 2024.*
