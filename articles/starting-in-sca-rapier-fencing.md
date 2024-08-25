@@ -324,4 +324,4 @@ With the participation of:
 * [The Awards of the Kingdom of Atlantia](https://op.atlantia.sca.org/awards.php){:target="_blank"}
 * [Ask a question to Bumi about sports injuries](https://www.speakpipe.com/BumiBus){:target="_blank"}
 
-*Updated on Jun 2, 2024.*
+*Updated on Aug 25, 2024.*
