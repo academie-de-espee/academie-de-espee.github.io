@@ -2,13 +2,13 @@
 title: Starting in SCA Rapier Fencing
 ---
 
+![Fencers](/images/starting-sca-rapier/sca_rapier_atlantia_10.jpg)
+
 ## Introduction
 
 Welcome to "Starting in SCA Rapier Fencing," written by Lady Virginie de Champagne for SCA June University 2024. This class is designed to help newcomers navigate SCA Rapier Fencing, providing all the necessary information and resources to get started. It was created with the participation of Masters of Defense and the Order of the White Scarf.
 
 *The information provided is for general informational purposes only. We have made every effort to ensure its accuracy, but we do not make any representations or warranties about the information's completeness, accuracy, reliability, or availability. Any reliance you place on such information is strictly at your own risk. We will not be liable for any losses or damages caused by using our content. If you have any concerns, please seek professional advice.*
-
-![Fencers](/images/starting-sca-rapier/sca_rapier_atlantia_10.jpg)
 
 ### Class Goals
 

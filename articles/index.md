@@ -5,6 +5,7 @@ title: Articles
 Here are numerous papers and articles written by members of the Academie d'Espee.  The scope of these articles is broad and many topics are covered.
 
 ### Articles about the Academie
+
 * [Atlantian Rapier 101](atlantian-rapier-101) - Master Llwyd Aldrydd, Provost
 * [The Academie d'Espee, Order of the White Scarf of Atlantia - A complete history](history) - Master Aedan Aylwyn, Provost
 * [The Atlantian Rapier Guild Structure](guild) - Master Aedan Aylwyn, Provost
@@ -14,6 +15,8 @@ Here are numerous papers and articles written by members of the Academie d'Espee
 * [To Be A Scholar](scholar) - Baron Alejandro Mateo Ramirez y Mendoza, Preboste
 
 ### Articles about rapier
+
+* [Starting in SCA Rapier Fencing](starting-in-sca-rapier-fencing.md) - Lady Virginie de Champagne, Free Scholar
 * [A Letter On Ushering Prizes](usher) - Master Alan Gravesend, Provost and Master Geoffrey Gamble, Provost
 * [Learning To Call Blows](learning-blowcalling) - Lord Kirk Dragomani, Provost
 * [Why Do We Calibrate?](why-do-we-calibrate) - Lord Kirk Dragomani, Provost
@@ -23,6 +26,7 @@ Here are numerous papers and articles written by members of the Academie d'Espee
 * [It's Just A Scratch](just-a-scratch) - Lord Kirk Dragomani, Provost
 
 ### Articles related to rapier melee in Atlantia
+
 In order to prepare for war, the Atlantian Rapier Army uses a common set of tactics, drills, and commands to allow flexibility within units.
 
 * [Concerning Melee Tactics](melee-tactics) - Master Alan Gravesend, and Master Giacomo Vincente
@@ -30,6 +34,7 @@ In order to prepare for war, the Atlantian Rapier Army uses a common set of tact
 * [Melee Commands](melee-commands) - Master Caitilin Inghean Fheichin
 
 ### Humor
+
 * [A provost's meeting](/humor/provost-meeting) - by Dominyk Wolferam
 * [Dragoons: A parody](/humor/dragoons) - By Dominyk Wolferam
 * [Don Tivar's Top 10 Rules](/humor/tivar) - by Don Tivar Moondragon
@@ -52,6 +57,7 @@ In order to prepare for war, the Atlantian Rapier Army uses a common set of tact
 * [Dainty vs. Daring](/images/Dainty_Daring.jpg) - by J'zel of Ansteorra
 
 ### Stories of the "Before Times"
+
 * [First Post!](before-times-intro) - Master Robert Beddingfield, Provost
 * [The First White Scarf Meeting](before-times-first-meeting) - Master Robert Beddingfield, Provost
 * [Provost Stories - Gerlach Wiesengrund, OL, OWSA, Baron](before-times-gerlach) - Master Robert Beddingfield, Provost
@@ -59,6 +65,7 @@ In order to prepare for war, the Atlantian Rapier Army uses a common set of tact
 * [Sea Wars, part 2](before-times-seawars-part2) - Master Robert Beddingfield, Provost
 
 ### Various Artwork of the Academie
+
 * [Closeup of the Provost Scroll](/artwork/scroll)
 * [Arms of the Kingdom of Atlantia](/images/Atlantia.gif)
 * [The Atlantian White Scarf](/images/ws_shrse.gif)
@@ -70,12 +77,14 @@ In order to prepare for war, the Atlantian Rapier Army uses a common set of tact
 * [The Pledge of the Rapiers](/artwork/poem2) - Atlantian Melee Tournament - Pennsic XXVI
 
 ### Other articles
+
 * [The first charges to the Master of Defense](mod-charges) - Their majesties Logan and Esa
 * [Atlantia's Master of Defense Ceremony](mod-ceremony) - A template for the ceremony for elivation to the Order of Defense
 * [The Art of Eloquence](art-of-eloquence) - Lord Kirk Dragomani, Provost
 * [How To Sharpen Other Knives And Not Lose Your Own Edge](how-to-teach) - Lord Kirk Dragomani, Provost
 
 ### Outside Articles
+
 Here are numerous papers and articles written by gentles from outside of the fair Kingdom of Atlantia, gathered these articles from a number of different sources.  Most of these are not available elsewhere, others seem to be sporadic in their availability or ease of being found.
 
 * [A Treatise Concerning Leg Wounds](leg-wounds) - by Don Aubrey de Baudricourt and Lord Joachim van den Has
