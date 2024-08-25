@@ -8,6 +8,8 @@ Welcome to "Starting in SCA Rapier Fencing," written by Lady Virginie de Champag
 
 *The information provided is for general informational purposes only. We have made every effort to ensure its accuracy, but we do not make any representations or warranties about the information's completeness, accuracy, reliability, or availability. Any reliance you place on such information is strictly at your own risk. We will not be liable for any losses or damages caused by using our content. If you have any concerns, please seek professional advice.*
 
+![Fencers](/images/starting-sca-rapier/sca_rapier_atlantia_10.jpg)
+
 ### Class Goals
 
 * Learn about SCA Rapier Fencing.
@@ -18,6 +20,8 @@ Welcome to "Starting in SCA Rapier Fencing," written by Lady Virginie de Champag
 
 ### What is SCA Rapier Fencing (Kingdom Level)
 
+![SCA](/images/starting-sca-rapier/sca_rapier_atlantia_2.png)
+
 SCA Rapier Fencing is the way in the Society for Create Anachronism to bring the thrilling swordplay from before 1600 A.D to life. It's not just about swinging swords; it's about diving into history, getting a great workout, and having a blast with friends. Whether dueling one-on-one or battling it out in massive melees, we like the freedom and variety of this vibrant sport.
 
 We embrace this form of combat in the SCA for its historical roots, fun, and physical fitness blend.
@@ -26,11 +30,15 @@ We embrace this form of combat in the SCA for its historical roots, fun, and phy
 
 ### Atlantia
 
+![Atlantia](/images/starting-sca-rapier/sca_rapier_atlantia_1.png)
+
 In Atlantia, our rapier community thrives on a foundation of well-defined rules and a commitment to historical authenticity. Governed by the Kingdom Earl Marshal’s Policy and the SCA’s Fencing Marshal’s Handbook, these guidelines ensure safety and historical integrity across all activities. Essential rules include specific conventions for rapier combat, general marshal activities, and combat archery, with special provisions for youth participants and gear appearance to maintain a pre-17th Century look.
 
 Understanding these rules is the first step towards safely and effectively engaging in SCA Rapier Fencing. **Our community is supportive and dynamic, and we welcome all who wish to explore the art of historical fencing.**
 
 ### Academie d’Espee
+
+![AcademiedEspee](/images/starting-sca-rapier/sca_rapier_atlantia_4.png)
 
 "We, in representation of the Academie d’Espee of Atlantia, come before You, King and Queen, to request that, by Law and by the Right of the Dread Sovereigns of Majestic and Mighty Atlantia, we be recognized by Royal Charter as a Guild of Atlantia."
 
@@ -43,7 +51,7 @@ The Academie d’Espee aims to enhance skills and camaraderie within the rapier 
 * Develop ceremonial recognition of advancements within the Academie d’Espee.
 * Coordinate activities that contribute to Atlantia in varied and impactful ways.
 
-For more details, check out the Academie’s Facebook group.
+For more details, check out the [Academie’s Facebook group](https://www.facebook.com/groups/AcademiedEspee){:target="_blank"}.
 
 ### Quick Differences Between Practices And Events
 
@@ -53,6 +61,7 @@ Organized by each barony and shire, practices are opportunities to improve skill
 
 Local practices can be found through your group's Chatelaine or by checking the online list at Atlantian Practices. However, verifying details via local Facebook groups or Atlantia's Discord server for the most current information is advisable. Unofficial practices may also occur, not governed by SCA rules, and participation is at your discretion. **Practices are free and open to all. A waiver is required if you are not an SCA member.** You can sign up online when you subscribe if you are already a member.
 
+![PonteAlto](/images/starting-sca-rapier/sca_rapier_atlantia_3.jpg)
 Ponte Alto SCA Practice, Feb 2024
 
 #### Events
@@ -61,6 +70,7 @@ Scheduled at specific times throughout the year, events require payment and prio
 
 Events can be found on the Atlantia Calendar. Respecting events' structured and often busier nature is essential, and etiquette suggests that questions for fencers be asked outside active combat times.
 
+![Ymir2024](/images/starting-sca-rapier/sca_rapier_atlantia_6.jpg)
 Ymir 2024 by Thomas Bebee
 
 We will discuss the nature of practices and events further below.
@@ -83,6 +93,7 @@ Participants wear protective gear such as masks, gorgets, and other safety equip
 
 **While accidents can occur, the community takes extensive measures to minimize them, prioritizing the safety and well-being of all participants.**
 
+![DubCarraigBB2023](/images/starting-sca-rapier/sca_rapier_atlantia_5.jpg)
 Dun Carraig BB 2023 by Thomas Bebee
 
 ### Injury Prevention and SCA Combat Longevity
@@ -97,9 +108,10 @@ For your initial practice, come dressed in comfortable athletic wear, including 
 
 However, ensure you have the necessary groin protection and rigid protective gear for vulnerable areas, as combatants are responsible for their safety equipment. These protective gear are not available for borrowing and are necessary for safety when practicing with a sword. However, the first session often emphasizes footwork and blade techniques, so it's okay if you don't have it for the initial practice.
 
+![PonteAlto2022](/images/starting-sca-rapier/sca_rapier_atlantia_8.jpg)
 Ponte Alto SCA Practice, Oct 2022
 
-"Don't try to "win" practices." — Noble Sigfrid
+*"Don't try to "win" practices."* — Noble Sigfrid
 
 ## Part 2: Additional Requirements To Start
 
@@ -131,13 +143,18 @@ Local fencing practices generally provide loaner gear, but it's beneficial for p
 
 The first personal items to purchase after mandatory **protective gear for vulnerable areas** should be **a mask** and **a gorget**, as these are crucial for safety and are not always available to borrow. While swords and other defensive equipment are often available to borrow at practices, having your protective gear, especially items that require frequent cleaning, significantly improves your quality of life.
 
-* Protective Gear for Vulnerable Areas (Balaur Fencing Chest Protector)
-* Fencing Mask and Hood (Racaire's Workshop)
-* Fencing Gorget (That Gal’s Gorgets)
+![ChestProtector](/images/starting-sca-rapier/sca_rapier_atlantia_7.png)
+Protective Gear for Vulnerable Areas (Balaur Fencing Chest Protector)
+
+![FencingMask](/images/starting-sca-rapier/sca_rapier_atlantia_12.png)
+Fencing Mask and Hood (Racaire's Workshop)
+
+![FencingGorget](/images/starting-sca-rapier/sca_rapier_atlantia_9.png)
+Fencing Gorget (That Gal’s Gorgets)
 
 Newcomers should be familiar with the **Gold Key** for events. An organization or position typically falls under the purview of the local group's Chatelaine. The Gold Key provides garb for events to ensure participants adhere to the appropriate dress code, even if they arrive in casual attire. Availability and variety of garb can vary between groups, so it’s advisable to connect with the Chatelaine for guidance on what is available and appropriate. Information can be found on your local Facebook group and website.
 
-"You're not training against me, but yesterday's you." — Duke Ragnarr Blackhammer
+*"You're not training against me, but yesterday's you."* — Duke Ragnarr Blackhammer
 
 ### On Defining Personal Goals
 
@@ -149,7 +166,7 @@ However, if you're in the northern region and have the luxury of attending three
 
 If you're passionate about rapier and want to take it to the next level, you can get matched up with top fencers who can help you create a structured training plan, even taking you as a "cadet" or personal student. This plan may include "homework" to help you improve your skills faster. Thinking about your fencing goals, setting them accordingly, and proceeding at your own pace is essential.
 
-"Practice like you are going on an adventure. Diligently & consistently." — Master Celric d'Ravelle
+*"Practice like you are going on an adventure. Diligently & consistently."* — Master Celric d'Ravelle
 
 #### Outside of the SCA
 
@@ -164,6 +181,7 @@ Master Aeron Harper organizes **Lord Baltimore’s Challenge**, one of the few o
 
 To participate in competitive rapier fencing within the Society for Creative Anachronism (SCA), individuals must first pass a safety test known as an **authorization**. This process ensures that fencers are familiar with the rules and demonstrate sufficient control to ensure safety during combat. This guide primarily addresses authorization for adult rapier combatants in the Kingdom of Atlantia, though the principles apply broadly across various combat forms and kingdoms.
 
+![SwamWars2022](/images/starting-sca-rapier/sca_rapier_atlantia_11.jpg)
 Swamp Wars 2022 by Thomas Bebee
 
 Authorizations are typically conducted at every SCA event before the fights commence, and some local practices may also organize special authorization days. It’s important to note that authorization cannot be completed at Pennsic anymore, so fencers planning to attend must be authorized beforehand.
@@ -200,10 +218,13 @@ The rapier field has two main types of activities: tourneys and melees. Tourneys
 
 For a comprehensive list of Rapier activities, consult the MOL Handbook.
 
+![RubyJoust2024](/images/starting-sca-rapier/sca_rapier_atlantia_13.jpg)
 Ruby Joust 2024 by Thomas Bebee
+
+![KingsAssessment2023](/images/starting-sca-rapier/sca_rapier_atlantia_14.jpg)
 Kings Assessment 2023 by Thomas Bebee
 
-"There’s always someone better than you. Define your own ‘win’." — Lord William Mac Dhomhnaill
+*"There’s always someone better than you. Define your own ‘win’."* — Lord William Mac Dhomhnaill
 
 #### Out-of-Kingdom Events
 
@@ -212,6 +233,8 @@ When Atlantia fencers attend events outside their kingdom, they need to remind m
 Familiarizing yourself with the local rules regarding valid blows is crucial. Some kingdoms allow tip cuts, which can be unexpected if you are unprepared for them. Understanding these local nuances is essential to ensure safety and compliance during the event.
 
 Two major out-of-Kingdom events where Atlantia fencers often participate are **Pennsic (Slippery Rock, PA) and Gulf War (Lumberton, MS)**. These gatherings provide excellent opportunities to experience the broader SCA combat community and test your skills against various opponents.
+
+![PennsicWar2023](/images/starting-sca-rapier/sca_rapier_atlantia_15.jpg)
 
 ### Recognize your peers on the Field
 
@@ -267,7 +290,7 @@ With the participation of:
 
 ### Links and additional resources
 
-"Remember, swords are awesome." — Master Brian De Moray
+*"Remember, swords are awesome."* — Master Brian De Moray
 
 [Official Practices List](https://marshal.atlantia.sca.org/practices/){:target="_blank"}
 
