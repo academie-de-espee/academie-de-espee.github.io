@@ -2,7 +2,7 @@
 title: Bylaws of the Royal  Academie d’Espee of Atlantia
 ---
 
-[Proposed updates for 2024](2024-09-20-Final-Proposal-Draft-Academie-Bylaw-changes-to-share.pdf)
+[Proposed updates for 2024](/pdf/2024-09-20-Final-Proposal-Draft-Academie-Bylaw-changes-to-share.pdf)
 
 ## I. Introduction
 
