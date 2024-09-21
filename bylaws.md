@@ -2,6 +2,8 @@
 title: Bylaws of the Royal  Academie d’Espee of Atlantia
 ---
 
+[Proposed updates for 2024](2024-09-20-Final-Proposal-Draft-Academie-Bylaw-changes-to-share.pdf)
+
 ## I. Introduction
 
 The Academie d’Espee (Ad’E) is a guild within the Kingdom of Atlantia that is run by and for the fencers of the Kingdom. Membership in the Academie d’Espee is optional, and open to all fencers within the Kingdom of Atlantia regardless of race, age, gender, religion, sexual orientation, able-ness, persona preference, time period(s) of choice, etc. The guild is based on the historic London Masters of Defense. From the Charter’s Mission Statement:
