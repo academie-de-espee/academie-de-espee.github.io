@@ -1,3 +1,35 @@
+Alyna of the Ilex:
+  location: Tir-y-don
+  date: 2007
+  form:
+  event: Tir-y-don Baronial Birthday
+  sponsors: Lord Iskender, Lord Percival, Master Llwyd
+  misc:
+  op_id: 200
+Ella de Lille:
+  location: Meridies
+  date: 2010
+  form:
+  event: Defending the Gate
+  sponsors: Maestro Dante, Master Flaithri, Lord Melchior
+  misc:
+Gilig von Baden:
+  location: Shire of Roxbury Mill
+  misc:
+Jean Maurice le Marinier:
+  location: Marinus
+  date: 01/10/2012
+  form:
+  event: Coronation
+  sponsors: Master Jean Claude, Master Llwyd, Lord Celric
+  misc:
+Aedh Ua Ruaic:
+  location: Kappellenberg
+  date: 05/25/2013
+  form:
+  event: Ruby Joust
+  sponsors: Maestro Dante, Master Wistric, Master Connor
+  misc:
 Colin McNab:
   op_id: 782
   title: Lord
@@ -7,39 +39,7 @@ Colin McNab:
   event: Battle on the Bay
   sponsors: Master Alan, Master Connor, Lord Celric
   misc:
-Gilig von Baden:
-  location: Shire of Roxbury Mill
-  misc:
-Aedh Ua Ruaic:
-  location: Kappellenberg
-  date: 5/25/13
-  form:
-  event: Ruby Joust
-  sponsors: Maestro Dante, Master Wistric, Master Connor
-  misc:
-Jean Maurice le Marinier:
-  location: Marinus
-  date: 2012
-  form:
-  event: Coronation
-  sponsors: Master Jean Claude, Master Llwyd, Lord Celric
-  misc:
-Ella de Lille:
-  location: Meridies
-  date: 2010
-  form:
-  event: Defending the Gate
-  sponsors: Maestro Dante, Master Flaithri, Lord Melchior
-  misc:
 Turvon Kuznetsov:
-Alyna of the Ilex:
-  location: Tir-y-don
-  date: 2007
-  form:
-  event: Tir-y-don Baronial Birthday
-  sponsors: Lord Iskender, Lord Percival, Master Llwyd
-  misc:
-  op_id: 200
 Constanza de Talavera:
   location:
   date:

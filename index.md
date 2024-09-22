@@ -13,6 +13,7 @@ Interested in joining the Academie d'Espee? Consult the information below.
 ## Guild Members
 
 * [Roster of Members](members)
+* [Roster of Free Scholars](fs)
 * [Roster of Provosts](provosts)
 * [Roster of Masters](masters)
 
