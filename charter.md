@@ -7,6 +7,7 @@ title: Guild Charter
 The Academie d’Espee is a guild devoted to the study and support of the Diverse Arts of Defense in Atlantia. The guild’s core ideal is that through practice, scholarship, and camaraderie, we will enhance the experience of those in Atlantia who engage in the Noble Arts of Defense. 
 
 In furtherance of this core ideal, the Academie d’Espee will:
+
 * Provide all levels of student with opportunities to train, provide and receive feedback, and practice historically informed techniques. 
 
 * Promote communication of and about the Arts of Defense in Atlantia and foster Inclusion therewithin.
@@ -19,6 +20,6 @@ Membership shall be granted to all those who agree to abide by these tenets.
 
 Administration, structure, and any other items pertaining to this guild not herein covered may be addressed and governed in the [Bylaws of this Guild](/bylaws). These Bylaws shall be presented in a public forum and ratified by the members of the Guild.
 
--- 
+--
 
 [printable version](/artwork/ade-charter-printable.pdf)
