@@ -65,7 +65,7 @@ Each victory in a Blacksword tournament earns a number of points to the victor e
 ### Blacksword Tournaments for 2019/2020 year:
 
 * Rip Rap War 9/14/19 - Winner: Duke Ragnarr
-* Stierbach Baronial Birthday 9/21/19 - Winner: Master Torse
+* Stierbach Baronial Birthday 9/21/19 - Winner: Master Tors Hartman
 * The Wild Hunt 10/12/19 - Winner: Lord Armand
 * War of the Wings 10/19/19 - Winner: Master Dominyk
 * Dun Carraig Baronial Birthday 11/9/19 - Winner: Lord Ffernfael
