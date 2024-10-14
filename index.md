@@ -23,6 +23,10 @@ Interested in joining the Academie d'Espee? Consult the information below.
 * [Blacksword Tournament](blacksword)
 * [Rapier Champions](queens-champions)
 
+## Newest Articles
+
+* [Starting in SCA Rapier Fencing](articles/starting-in-sca-rapier-fencing/)
+
 ## Other sites of Interest
 
 * [Kingdom of Atlantia Rapier Marshal's Site](https://marshal.atlantia.sca.org/rapier/)

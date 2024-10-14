@@ -117,6 +117,6 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
 </tbody>
 </table>
 
-Have you had the honor of holding the Iron Spike?  Should your name be listed above?  Email [Brian de Moray](mailto:bmc@shmoo.com) or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
+Have you had the honor of holding the Iron Spike?  Should your name be listed above?  Email [Lady Virginie de Champagne](mailto:vvdelaitre@gmail.com) or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
 
 <script src="/js/sorttable.js"></script>

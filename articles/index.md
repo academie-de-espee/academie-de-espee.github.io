@@ -2,7 +2,7 @@
 title: Articles
 ---
 
-Here are numerous papers and articles written by members of the Academie d'Espee.  The scope of these articles is broad and many topics are covered.
+Here are numerous papers and articles written by members of the Academie d'Espee.  The scope of these articles is broad and many topics are covered. Do you want to post an article? Are you a member?  Email [Lady Virginie de Champagne](mailto:vvdelaitre@gmail.com) to get published!
 
 ### Articles about the Academie
 

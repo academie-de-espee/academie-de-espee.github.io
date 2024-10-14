@@ -95,9 +95,6 @@
       "name": "Renard Belmont"
     }, 
     {       
-      "name": "William Cameron"
-    }, 
-    {       
       "name": "Ava Deinhardt"
     },
     {       
@@ -126,6 +123,9 @@
     },
     {       
       "name": "Marcus Blackwell"
+    },
+    {
+      "name": "Alan MacFarlane"
     }
   ],
   "Free Scholar": [
@@ -160,7 +160,7 @@
       "date": ""
     },
     {       
-    "name": "Aylisia De Olivieri",
+    "name": "Aylisia De Oliveri",
     "op_id": 11876,
     "date": "2023-11-18"
     }, 
@@ -435,6 +435,10 @@
       "name": "Ulfarr Refskegg",
       "op_id": 8144,     
       "date": "2023-07-08"
+    }, 
+    {       
+      "name": "William Cameron",
+      "op_id": 3178
     }, 
     {       
       "name": "Yrsa Eds dottir",
