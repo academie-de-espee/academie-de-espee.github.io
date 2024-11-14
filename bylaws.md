@@ -1,9 +1,7 @@
 ---
 title: Bylaws of the Royal  Academie d’Espee of Atlantia
 ---
-
-* [Proposed updates for 2024](/pdf/2024-09-20-Final-Proposal-Draft-Academie-Bylaw-changes-to-share.pdf)
-* [Vote on the proposed bylaw updates (closes 2024-11-04)](https://forms.gle/xD7yrdEbd1qhRr817)
+As voted on by the members and enacted by the council on the Eighth of November, Anno Societatis LIX (11/8/2024)
 
 ## I. Introduction
 
@@ -21,9 +19,9 @@ These bylaws define how the Academie functions, the roles of members, and a proc
 
 The Academie is led by the *executive council*. The council represents the interests of the full membership of the Ad'E by overseeing its operation and the actions of its appointed officers. The council is made up of members from each of the four Academie fencing ranks: two scholars, one free scholar, one provost, and one distinguished provost. The council will strive for councilors from diverse parts of the Kingdom. Council candidates self-nominate to the Polling Clerk at least two weeks prior to the annual Academie poll on July 1 with each term lasting two years. Academie members of each rank vote on who will represent them from among that rank’s candidates. There is a limit of two consecutive terms before the councilor must take a break. Council members who are promoted in rank may continue to serve the remainder of their term but are expected to continue to communicate with and represent the rank that elected them or resign. The council may appoint replacements (who will complete the current term) for members who have resigned or otherwise cannot serve. 
 
-The council will meet in person or virtually at least twice a year: before Unevent and before the annual July polling. The council is responsible for appointing the officers listed below and working with those officers to make corresponding decisions (e.g. bid approval). The council also selects and awards the honorary “Companion of the Academie” rank.  Individual council members are responsible for representing and communicating with their rank-peers. Social media channels and email lists will be used for this communication. As social media applications evolve the council will announce the primary platforms that it will use for communication.
+The council will meet in person or virtually at least twice a year: before Unevent and before the annual July polling. The council also selects and awards the honorary “Companion of the Academie” rank.  Individual council members are responsible for representing and communicating with their rank-peers.  They will act as Ombudsmen. In this capacity they are responsible for ensuring issues raised to the Academie are taken for action and the resolution communicated to the applicant. This person is not responsible for resolving these issues. Not all issues raised will be either appropriate or possible to be resolved by the Academie but in those cases the applicant will be informed. Social media channels and email lists will be used for this communication. As social media applications evolve the council will announce the primary platforms that it will use for communication.
 
-The Academie has several offices that are appointed by the council. These roles may be filled by council members but do not have to be. These officers may be replaced at will by the council and at minimum should be reviewed following each council election. When appropriate, all officers may appoint regional deputies to assist them or the council may specify regional officers itself. (e.g. there could be one ombudsman, one with a single regional deputy, one with multiple regional deputies, or there could just be regional ombudsmen. This will be decided by the council commensurate with the level of work.)
+The Academie council has several tasks that it can either action directly or appoint officers to handle. These roles may be filled by council members but do not have to be. These officers may be replaced at will by the council and at minimum should be reviewed following each council election. When appropriate, all officers may appoint regional deputies to assist them or the council may specify regional officers itself. (e.g. there could be one ombudsman, one with a single regional deputy, one with multiple regional deputies, or there could just be regional ombudsmen. This will be decided by the council commensurate with the level of work.)
 
 **Bylaws and Polling Clerk:** Maintains this document and oversees formulation of change proposals (see section V). They also run the annual Academie poll which will include:
 
@@ -45,8 +43,6 @@ With approval of the council, a mid-year polling may be held in January to adjud
 1. Prizes: A prize is a ceremonial demonstration of fencing skill where the candidate fights a representative from each Academie rank plus all interested fencers that hold their new rank. A prize is a celebration and cannot be failed. Members are encouraged to contribute to the pageantry of prizes and the celebration of the achievement recognized by the prize. 
 1. Informal training events such as a focus session at a particular group's practice.
 This officer is not responsible for executing these events but ensuring that a point of contact is appointed and facilitates communication about the events to the Academie at large. The Academie is dependent on volunteers from its membership to initiate, plan, and run these events.
-
-**Ombudsman:** Point of contact for anyone needing assistance with Rapier activities or issues within Atlantia that fall outside the purview of the Marshallate. Academie members may also contact their rank’s representative on the council or any other council member. The Ombudsman can be viewed as the Ad'E's help desk. Members can contact them with issues and the Ombudsman will assist in finding the appropriate contacts to address those issues. This officer is responsible for ensuring issues raised to the Academie are taken for action and the resolution communicated to the applicant. This person is not responsible for resolving these issues. Not all issues raised will be either appropriate or possible to be resolved by the Academie but in those cases the applicant will be informed.
 
 **Information Officer:**  Maintains and updates Academie records, documents, and website including curricula, reading lists, rosters and prizes. Maintains roster of teachers and areas of expertise.
 
@@ -106,13 +102,15 @@ Once the fighting is concluded, the sponsor will again request the attention of 
 
 The Atlantian Academy of Fence (AAoF) is an event focused on fencing instruction in all its forms. Ideally, it is annual and moves regularly around the Kingdom. Due to its wandering nature, interested hosts shall submit a proposal to the Academie Activities Coordinator for consideration on any available date on the Atlantian Kingdom calendar. The AAoF does not have to be a new, standalone, event; it can be added to an existing event if the fencing instruction content is of sufficient scope. The bid should indicate the site and date of the proposed event. The Academie Activities Coordinator and executive council will review and approve/disapprove the bid. This approval/disapproval only affects the use of the title “Atlantian Academy of Fence” for the event. The financial responsibility and benefit for the event will be entirely held by the sponsoring group; the Ad’E holds no funds.
 
+In addition to the AAoF the Academie will encourage and facilitate classes at the University of Atlantia and other events.
+
 ### C. Support to local groups
 
 The Academie shall facilitate informal sessions where experienced fencers travel or virtually meet with other groups to support their development. This effort is intended to primarily support groups away from major population centers who do not have a sufficient pool of experienced fencers of their own.  Requests and volunteers for these sessions may self-coordinate or work through the Ad’E’s activities coordinator. The Academie shall maintain and publish a list of experienced fencers who are available to share their knowledge and skills either in person or virtually. 
 
-### D. Curricula
+### D. Resources
 
-The Academie d’Espee Council will provide a minimum Rapier 101 Core Curriculum that every student of the art of defense is encouraged to learn over the course of their early studies and deepen their understanding of throughout their fencing career. Classes in these topics will be common at AAoF events and local practices. Advanced curricula lists may be submitted to the Information Officer for the Ad’E website for publication, allowing for a clearing house of other curricula. Areas of particular interest include a curriculum for instructors and recommended reading lists.
+The Academie d’Espee Council will facilitate access to Rapier related resources through its website. These resources range from information on a Rapier 101 Core Curriculum to more advanced topics such as period fencing techniques and information on local practices. Material on these topics and other related topics will be provided by volunteers common at AAoF events and local practices. Additional material may be submitted to the Information Officer for the Ad’E website for posting, allowing for a clearing house of other curricula. Areas of particular interest include a curriculum for instructors and recommended reading lists.
 
 ## V. Process for amending the bylaws
 
@@ -130,3 +128,5 @@ Proposals to change these bylaws may be made by any member of the Academie. They
 This proposal will go through review, feedback, and updating by an increasingly large pool of people: the bylaws team, the full process team, the royals, and then the full Academie membership. Once the bylaw proposal is complete, it will be locked to further change and published for final review and discussion. A polling will be scheduled for one week after that publication to ratify or not that baseline set of bylaws.
 
 These bylaws will be deemed ratified once supported by a majority of the Academie members who voted in a one week long electronic polling. Initial council members will be elected on a separate polling shortly after ratification and will be replaced on the even/odd year schedule specified in section II, meaning that some will serve for one year before their seat is re-polled. It is expected that mid-year pollings to possibly modify these bylaws may be warranted during their first year or two.
+
+[Text of the Initial Bylaws] (/bylawsinitial)
