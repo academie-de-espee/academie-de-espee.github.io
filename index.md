@@ -5,9 +5,6 @@ The Royal Academie d'Espee is chartered guild of the Kingdom of Atlantia, and ex
 
 Interested in joining the Academie d'Espee? Consult the information below.
 
-* [Proposed updates to the guild bylaws for 2024](/pdf/2024-09-20-Final-Proposal-Draft-Academie-Bylaw-changes-to-share.pdf)
-* [Vote on the proposed bylaw updates (closes 2024-11-04)](https://forms.gle/xD7yrdEbd1qhRr817)
-
 ## Structure of the Academie d'Espee
 
 * [Guild Charter](charter)
@@ -16,9 +13,6 @@ Interested in joining the Academie d'Espee? Consult the information below.
 ## Guild Members
 
 * [Roster of Members](members)
-* [Roster of Free Scholars](fs)
-* [Roster of Provosts](provosts)
-* [Roster of Masters](masters)
 
 ## Guild Activities
 
