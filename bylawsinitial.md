@@ -1,4 +1,4 @@
-This document is the first version of the Academie's bylaws, enacted by King Eckehard Thurn and Queen Jane Alexandria Fitzpatrick on the second day of April, Anno Societatis LVI (4/2/2024).  It is preserved hear for the Academie's records.
+This document is the first version of the Academie's bylaws, enacted by King Eckehard Thurn and Queen Jane Alexandria Fitzpatrick on the second day of April, Anno Societatis LVI (4/2/2022).  It is preserved hear for the Academie's records.
 
 ---
 title: Bylaws of the Royal Academie d’Espee of Atlantia
