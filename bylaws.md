@@ -129,4 +129,4 @@ This proposal will go through review, feedback, and updating by an increasingly 
 
 These bylaws will be deemed ratified once supported by a majority of the Academie members who voted in a one week long electronic polling. Initial council members will be elected on a separate polling shortly after ratification and will be replaced on the even/odd year schedule specified in section II, meaning that some will serve for one year before their seat is re-polled. It is expected that mid-year pollings to possibly modify these bylaws may be warranted during their first year or two.
 
-[Text of the Initial Bylaws] (/bylawsinitial)
+[Text of the Initial Bylaws](/bylawsinitial)
