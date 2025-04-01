@@ -394,7 +394,7 @@ Allister Greenbrier: {
   event: Stierbach Baronial Birthday,
   monarchs: Christoph II and Adelhait II,
   relationships: {
-    Free Scholar Sponsors: "Lord Armand, Master Torse, Master Connor",
+    Free Scholar Sponsors: "Lord Armand, Master Tors, Master Connor",
     House: "Condottieri"
   }
 }
@@ -425,7 +425,7 @@ Ishmael Baleinier: {
   monarchs: Cuan VIII and Signy II,
   relationships: {
     House: "The Company of the Dragoon Guards",
-    Free Scholar Sponsors: "Master Aeron, Maestra Caitilin, Lord Torse"
+    Free Scholar Sponsors: "Master Aeron, Maestra Caitilin, Lord Tors"
   }
 }
 Tiberius Aufidius Crispus: {
@@ -444,7 +444,7 @@ Celestria Alexandre d'Amiens: {
   event: "Spring Crown Tourney",
   monarchs: Anton and Luned,
   relationships: {
-    Free Scholar Sponsors: "Master Alessandro, Lord Torse, Lady Rochelle",
+    Free Scholar Sponsors: "Master Alessandro, Lord Tors, Lady Rochelle",
     House: "Condottieri"
   }
 }

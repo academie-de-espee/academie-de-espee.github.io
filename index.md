@@ -13,14 +13,16 @@ Interested in joining the Academie d'Espee? Consult the information below.
 ## Guild Members
 
 * [Roster of Members](members)
-* [Roster of Provosts](provosts)
-* [Roster of Masters](masters)
 
 ## Guild Activities
 
 * [The Iron Spike](iron-spike)
 * [Blacksword Tournament](blacksword)
 * [Rapier Champions](queens-champions)
+
+## Newest Articles
+
+* [Starting in SCA Rapier Fencing](articles/starting-in-sca-rapier-fencing/)
 
 ## Other sites of Interest
 

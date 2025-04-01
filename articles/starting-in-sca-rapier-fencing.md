@@ -325,3 +325,7 @@ With the participation of:
 * [Ask a question to Bumi about sports injuries](https://www.speakpipe.com/BumiBus)
 
 *Updated on Aug 25, 2024.*
+
+--
+
+[printable version](/pdf/Starting in SCA Rapier Fencing_booklet_08252024_web.pdf)

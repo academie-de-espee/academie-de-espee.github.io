@@ -95,9 +95,6 @@
       "name": "Renard Belmont"
     }, 
     {       
-      "name": "William Cameron"
-    }, 
-    {       
       "name": "Ava Deinhardt"
     },
     {       
@@ -126,6 +123,9 @@
     },
     {       
       "name": "Marcus Blackwell"
+    },
+    {
+      "name": "Alan MacFarlane"
     }
   ],
   "Free Scholar": [
@@ -133,6 +133,11 @@
       "name": "Aedh Ua Ruairc",
       "op_id": 7368,
       "date": "2013-05-25"
+    },
+    {       
+      "name": "Aha de Isenfir",
+      "op_id": 0,
+      "date": "2024-09-14"
     },
     {       
     "name": "Aleksandr Tomasovič",
@@ -148,12 +153,27 @@
       "name": "Alyna of the Ilex",
       "op_id": 200,
       "date": "2007-03-23"
-    }, 
+    },
     {       
-    "name": "Aylisia De Olivieri",
+      "name": "Anthonye Saker",
+      "op_id": 333,
+      "date": ""
+    },
+    {       
+    "name": "Aylisia De Oliveri",
     "op_id": 11876,
     "date": "2023-11-18"
     }, 
+    {       
+      "name": "Azza al-Shiraziyya",
+      "op_id": 434,
+      "date": "2024-02-24"
+    }, 
+    {       
+      "name": "Brian de Isenfir",
+      "op_id": 0,
+      "date": "2024-09-14"
+    },
     {       
       "name": "Caillan Ruffio",
       "op_id": 7517,
@@ -172,12 +192,27 @@
     {       
       "name": "Furia Theodosia",
       "op_id": 7545,
-      "date": "2017-02-25"
+      "date": "2016-03-23"
+    }, 
+    {       
+      "name": "Giovan Donado",
+      "op_id": 1349,
+      "date": ""
+    }, 
+    {       
+      "name": "Jean Maurice le Marinier",
+      "op_id": 3908,
+      "date": "2012-10-01"
     }, 
     {       
       "name": "Leifr Celricson",
       "op_id": 6108,
       "date": "2022-04-16"
+    }, 
+    {       
+      "name": "Lochlainn hua Rigbarddain",
+      "op_id": 4278,
+      "date": ""
     }, 
     {       
       "name": "Marion le Red",
@@ -200,10 +235,15 @@
       "date": "2019-03-23"
     }, 
     {       
-      "name": "Nicolosa d'Isenfir",
+      "name": "Nicolosa de Misura",
       "op_id": 3971,
       "date": "2022-11-19"
     }, 
+    {       
+      "name": "Philip Jeger",
+      "op_id": 2763,
+      "date": "2007-01-13"
+    },
     {       
       "name": "Rashida al'Zarqa",
       "op_id": 9712,
@@ -219,6 +259,11 @@
       "op_id": 8942,
       "date": "2024-05-11"
     }, 
+    {       
+      "name": "Sage de Isenfir",
+      "op_id": 0,
+      "date": "2024-14-9"
+    },
     {       
       "name": "Sanada Akime",
       "op_id": 8195,
@@ -390,6 +435,10 @@
       "name": "Ulfarr Refskegg",
       "op_id": 8144,     
       "date": "2023-07-08"
+    }, 
+    {       
+      "name": "William Cameron",
+      "op_id": 3178
     }, 
     {       
       "name": "Yrsa Eds dottir",

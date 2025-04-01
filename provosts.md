@@ -40,4 +40,6 @@ title: Roster of Provosts
 </tbody>
 </table>
 
+Are you a provost?  Do you want your name listed above?  Email [Lady Virginie de Champagne](mailto:vvdelaitre@gmail.com) or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
+
 <script src="/js/sorttable.js"></script>
