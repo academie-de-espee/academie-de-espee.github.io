@@ -39,34 +39,40 @@ Each victory in a Blacksword tournament earns a number of points to the victor e
 
 ## Blacksword Tournament Results
 
-### Blacksword Tournaments for 2022/2023
-* War of the Wings 10/15/2022 - Winner: Double-kill between Tiberius Aufidius Crispus and Jacques Gonse
+### Blacksword Tournaments for 2024/2025 year:
+
+### Blacksword Tournaments for 2023/2024 year:
+* Yule Toy Tourney 12/14/2024 - Winner:  Cailean MacQueen
+* Yule Revel 12/21/2024 - Winner:  Master Brian de Moray
+
+### Blacksword Tournaments for 2022/2023 year:
+* War of the Wings 10/15/2022 - Winner:  Double-kill between Tiberius Aufidius Crispus and Jacques Gonse
 * Swamp Wars 11/12/2022 - Winner:  Armand Schermitore
 * Dun Carraig Baronial Birthday 12/10/2022 - Winner:  Tors Hartman
 * Bright Hills Baronial Birthday 2/11/2023 - Winner:  Joscelin d'Outremer
 * Nottinghill Coill Baronial Birthday 2/11/2023 - Winner:  Mathias dem Haus der Katze Kleine
 * Basic Atlantian War Training (BAWT III) 4/21/2023 - Winner:  Jacques Gonse
 * Hawkwood Baronial Birthday 5/20/2023 - Winner:  Thorgrimr inn kyrri
-* King’s Assessment 7/8/2023 - Winner: Dante de Pietro
+* King’s Assessment 7/8/2023 - Winner:  Dante de Pietro
 
-### Blacksword Tournaments for 2021/2022
+### Blacksword Tournaments for 2021/2022 year:
 * Battle on the Bay 9/24/2021 - Winner: Jacques Gonse (NOTE: Individual scores were lost)
 * Tourney of the Silver Chalice 9/25/2021 - Scores and outcome lost
-* 47th Tournament of Ymir 2/11/2022 - Winner: Jacques Gonse
-* Ruby Joust 05/28/22 - Winner: Double-kill between Jacques Gonse and Brian de Moray
-* Storvik Novice and Unbelt Tournament 7/9/2022 - Winner: Jacques Gonse
+* 47th Tournament of Ymir 2/11/2022 - Winner:  Jacques Gonse
+* Ruby Joust 05/28/22 - Winner:  Double-kill between Jacques Gonse and Brian de Moray
+* Storvik Novice and Unbelt Tournament 7/9/2022 - Winner:  Jacques Gonse
 
 ### Blacksword Tournaments for 2019/2020 year:
 * Rip Rap War 9/14/19 - Winner: Duke Ragnarr
-* Stierbach Baronial Birthday 9/21/19 - Winner: Master Torse
-* The Wild Hunt 10/12/19 - Winner: Lord Armand
-* War of the Wings 10/19/19 - Winner: Master Dominyk
-* Dun Carraig Baronial Birthday 11/9/19 - Winner: Lord Ffernfael
-* Buckston Birthday 11/9/19 - Winner: Baron Iskender
-* Silver Chalice 11/23/19 - Winner: Lord Mathias
-* Yule Toy Tourney 12/14/19 - Winner: Lord Tiberius
-* Tourney of Mannanan mac Lir 1/25/19 - Winner: Don Julien
-* Bright Hills Baronial Birthday 2/8/20 - Winner: Master Cailin
-* Nottinghill Coill Baronial Birthday 2/15/20 - Winner: Don Julien
-* Ymir 45 2/22/20 - Winner: Lord Humfrey
-* Raven’s Cove Baronial Birthday 3/14/20 - Winner: m’Lord Christopher of Ravens Cove
+* Stierbach Baronial Birthday 9/21/19 - Winner:  Master Torse
+* The Wild Hunt 10/12/19 - Winner:  Lord Armand
+* War of the Wings 10/19/19 - Winner:  Master Dominyk
+* Dun Carraig Baronial Birthday 11/9/19 - Winner:  Lord Ffernfael
+* Buckston Birthday 11/9/19 - Winner:  Baron Iskender
+* Silver Chalice 11/23/19 - Winner:  Lord Mathias
+* Yule Toy Tourney 12/14/19 - Winner:  Lord Tiberius
+* Tourney of Mannanan mac Lir 1/25/19 - Winner:  Don Julien
+* Bright Hills Baronial Birthday 2/8/20 - Winner:  Master Cailin
+* Nottinghill Coill Baronial Birthday 2/15/20 - Winner:  Don Julien
+* Ymir 45 2/22/20 - Winner:  Lord Humfrey
+* Raven’s Cove Baronial Birthday 3/14/20 - Winner:  m’Lord Christopher of Ravens Cove
