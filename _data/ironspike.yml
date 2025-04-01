@@ -28,7 +28,7 @@
   defended: 3
 - name: Alric the Mad
   defended: 1
-- name: Torse Hartman
+- name: Tors Hartman
   defended: 2
 - name: Colin MacNab
   defended: 0
@@ -98,7 +98,7 @@
   defended: 0
 - name: Bumi
   defended: 1
-- name: Torse Hartman
+- name: Tors Hartman
   defended: 15
 - name: Bumi	
   defended: 0
@@ -118,7 +118,7 @@
   defended: 1
 - name: Bumi	
   defended: 0
-- name: Torse Hartman	
+- name: Tors Hartman	
   defended: 0
 - name: Ulfarr Refskegg	
   defended: 5
@@ -131,4 +131,6 @@
 - name: Ffernfael of Caerleon
   defended: 0
 - name: Jacques Gonse	
+  defended: 0
+- name: Bumi	
   defended: 0

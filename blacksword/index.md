@@ -3,10 +3,12 @@ title: The Blacksword Tournament
 ---
 
 ## About
+
 Every year Atlantia holds tournaments to demonstrate skill, improvement, and prowess, but the grandest of our tournaments cannot be held within any one event. The Blackswords end amongst the blaze of the summer sun, and are reborn under the first days of fall. The standings from last year cleared like the thick summer air by the first crisp day of autumn. All hold on to their spot by a knife’s edge, a single pass. Some enter to claim that they deserve a shot at immortal glory on the fields of Pennsic. Others enter to test how far their studies have taken them. All leave with the best fights their opponent has to offer.
 
 ## Tournament Rules
-The Blacksword Competition is composed of a series of single elimination tournaments held through Atlantia. The results from individual tournaments, including the outcome of each pairing, are aggregated together to create a final score over the course of a Blacksword season. Participants are encouraged to bring their best form and fight in as many tournaments as possible to achieve the highest score. 
+
+The Blacksword Competition is composed of a series of single elimination tournaments held through Atlantia. The results from individual tournaments, including the outcome of each pairing, are aggregated together to create a final score over the course of a Blacksword season. Participants are encouraged to bring their best form and fight in as many tournaments as possible to achieve the highest score.
 
 The results of The Blacksword Competition are used by both the Rapier Warlord and individual fighters. Firstly they are used to aid the Warlord in choosing champions at Pennsic and Gulf. For this reason each season begins in the fall after Pennsic and lasts until July the following calendar year. Then the results are posted publicly on the Academie d’Espee page. This allows for individual participants to track their score from year to year and see personal growth.  
 
@@ -32,9 +34,11 @@ Record the following information for each fighter on a card:
 To begin the tournament, randomly shuffle and pair off. If it’s a lot of people, don’t worry about pairing. The RMIC will just pull them in sets of 2 off the top. When the fighters come back, record who won on both cards and set the loser aside in a ‘dead’ pile. If 1 beat 2, record 1-2 on both cards. If 14 beat 35, put 14-35 on both cards, and so on. It is a single elimination, so the loser pile becomes inactive. The winner pile when you receive all cards back in will just be shuffled again and paired off. Repeat until finished.
 
 ### FOR MOLS OR RMICs: Reporting Information
-If you wish to run a Blacksword at your event or have outcomes to report, please contact Nicolo Santorio at blacksword@marshal.atlantia.sca.org
+
+If you wish to run a Blacksword at your event or have outcomes to report, please contact Nicolo Santorio at [blacksword@marshal.atlantia.sca.org](mailto:blacksword@marshal.atlantia.sca.org)
 
 ### Scoring and Aggregation
+
 Each victory in a Blacksword tournament earns a number of points to the victor equal to their opponent's rank represented as a number from 1 to 4, as described in the MOL instructions above. Points are earned for every victory, even if the fighter doesn't win the tournament itself. Losses do not affect accumulated points. At the end of a season, the coordinator totals up the points of all fighters that participated, and provides a list of the top ten to the rapier warlord. The coordinator may optionally calculate the fighters' average scores from all of the Blacksword tournaments they participated in.
 
 ## Blacksword Tournament Results
@@ -45,7 +49,7 @@ Each victory in a Blacksword tournament earns a number of points to the victor e
 * Ymir 50 2/22/2025 - Winner:  Iskender Bey al-Istanbuli
 
 ### Blacksword Tournaments for 2022/2023 year:
-* War of the Wings 10/15/22 - Winner:  Double-kill between Tiberius Aufidius Crispus and Jacques Gonse
+* War of the Wings 10/15/2022 - Winner:  Double-kill between Tiberius Aufidius Crispus and Jacques Gonse
 * Swamp Wars 11/12/2022 - Winner:  Armand Schermitore
 * Dun Carraig Baronial Birthday 12/10/2022 - Winner:  Tors Hartman
 * Bright Hills Baronial Birthday 2/11/2023 - Winner:  Joscelin d'Outremer
