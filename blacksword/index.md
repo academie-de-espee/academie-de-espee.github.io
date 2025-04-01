@@ -43,12 +43,12 @@ Each victory in a Blacksword tournament earns a number of points to the victor e
 
 ## Blacksword Tournament Results
 
-### Blacksword Tournaments for 2024/2025 year:
+### Blacksword Tournaments for 2024/2025 season:
 * Yule Toy Tourney 12/14/2024 - Winner:  Cailean MacQueen
 * Yule Revel 12/21/2024 - Winner:  Brian de Moray
 * Ymir 50 2/22/2025 - Winner:  Iskender Bey al-Istanbuli
 
-### Blacksword Tournaments for 2022/2023 year:
+### Blacksword Tournaments for 2022/2023 season:
 * War of the Wings 10/15/2022 - Winner:  Double-kill between Tiberius Aufidius Crispus and Jacques Gonse
 * Swamp Wars 11/12/2022 - Winner:  Armand Schermitore
 * Dun Carraig Baronial Birthday 12/10/2022 - Winner:  Tors Hartman
@@ -58,14 +58,14 @@ Each victory in a Blacksword tournament earns a number of points to the victor e
 * Hawkwood Baronial Birthday 5/20/2023 - Winner:  Thorgrimr inn kyrri
 * King’s Assessment 7/8/2023 - Winner:  Dante de Pietro
 
-### Blacksword Tournaments for 2021/2022 year:
+### Blacksword Tournaments for 2021/2022 season:
 * Battle on the Bay 9/24/2021 - Winner:  Jacques Gonse (NOTE: Individual scores were lost)
 * Tourney of the Silver Chalice 9/25/2021 - Scores and outcome lost
 * 47th Tournament of Ymir 2/11/2022 - Winner:  Jacques Gonse
 * Ruby Joust 05/28/2022 - Winner:  Double-kill between Jacques Gonse and Brian de Moray
 * Storvik Novice and Unbelt Tournament 7/9/2022 - Winner:  Jacques Gonse
 
-### Blacksword Tournaments for 2019/2020 year:
+### Blacksword Tournaments for 2019/2020 season:
 * Rip Rap War 9/14/2019 - Winner: Duke Ragnarr
 * Stierbach Baronial Birthday 9/21/2019 - Winner:  Master Torse
 * The Wild Hunt 10/12/2019 - Winner:  Lord Armand
