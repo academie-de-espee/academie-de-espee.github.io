@@ -119,17 +119,11 @@
       "name": "Cooper of Roxbury Mill"
     },
     {       
-      "name": "Sigrid of Isenfir"
-    },
-    {       
       "name": "Marcus Blackwell"
     },
     {
       "name": "Alan MacFarlane"
-    },
-    {    
-      "name": "Jackie Hansen"
-    }  
+    }
   ],
   "Free Scholar": [
     {       
@@ -238,11 +232,6 @@
       "date": "2019-03-23"
     }, 
     {       
-      "name": "Nicolosa de Misura",
-      "op_id": 3971,
-      "date": "2022-11-19"
-    }, 
-    {       
       "name": "Philip Jeger",
       "op_id": 2763,
       "date": "2007-01-13"
@@ -291,11 +280,6 @@
       "name": "William Mac Dhomhnaill",
       "op_id": 3174,
       "date": "2023-04-01"
-    },
-    {
-      "name": "Yuri Murasaki",
-      "op_id": 10388,
-      "date": "2023-07-08"
     }
   ],
   "Provost": [
@@ -447,6 +431,21 @@
       "name": "Yrsa Eds dottir",
       "op_id": 3296,
       "date": "2014-10-18"
+    },
+    {       
+      "name": "Nicolosa de Misura",
+      "op_id": 3971,
+      "date": "2025-02-22"
+    },
+    {       
+      "name": "Sigrid of Isenfir",
+      "op_id": 11779,
+      "date": "2025-02-22"
+    },
+    {
+      "name": "Yuri Murasaki",
+      "op_id": 10388,
+      "date": "2025-05-04"
     }
   ],
   "Distinguished Provost": [
@@ -544,6 +543,11 @@
       "name": "Symone de la Rochelle",
       "op_id": 7104,
       "date": "2023-05-28"
+    }
+    {
+      "name": "Tiberius Aufidius Crispus",
+      "op_id": 8889,
+      "date": "2024-05-11"
     }
   ]
 }
