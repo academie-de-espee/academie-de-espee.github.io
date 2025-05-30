@@ -83,7 +83,7 @@ In order to prepare for war, the Atlantian Rapier Army uses a common set of tact
 * [The Art of Eloquence](art-of-eloquence) - Lord Kirk Dragomani, Provost
 * [How To Sharpen Other Knives And Not Lose Your Own Edge](how-to-teach) - Lord Kirk Dragomani, Provost
 
-### Outside Articles
+### Outside articles
 
 Here are numerous papers and articles written by gentles from outside of the fair Kingdom of Atlantia, gathered these articles from a number of different sources.  Most of these are not available elsewhere, others seem to be sporadic in their availability or ease of being found.
 
