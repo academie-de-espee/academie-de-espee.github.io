@@ -35,7 +35,7 @@ title: Roster of Members
 </table>
 
 
-Are you a member of the Academie?  Use [this Google Form](https://forms.gle/Ti43EFchB72UCxuC8) to join, send an email to [Lady Virginie de Champagne](mailto:vvdelaitre@gmail.com), or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
+Are you a new member of the Academie or have recently changed rank?  Send an email to [Lady Virginie de Champagne](mailto:vvdelaitre@gmail.com), or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
 
 
 <script src="/js/sorttable.js"></script>
