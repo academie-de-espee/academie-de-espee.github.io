@@ -101,9 +101,6 @@
       "name": "Godwin Rutherford"
     }, 
     {       
-      "name": "James the Archer"
-    }, 
-    {       
       "name": "Reginald Dormant"
     }, 
     {       
@@ -126,6 +123,12 @@
     },
     {
       "name": "Alan MacFarlane"
+    },
+    {       
+      "name": "Azza al-Shiraziyya"
+    },
+    {
+      "name": "Johann of Isenfir"
     }
   ],
   "Free Scholar": [
@@ -163,12 +166,7 @@
     "name": "Aylisia De Oliveri",
     "op_id": 11876,
     "date": "2023-11-18"
-    }, 
-    {       
-      "name": "Azza al-Shiraziyya",
-      "op_id": 434,
-      "date": "2024-02-24"
-    }, 
+    },
     {       
       "name": "Brian de Isenfir",
       "op_id": 0,
@@ -188,17 +186,17 @@
       "name": "Edward Godale",
       "op_id": 7795,
       "date": "2022-10-14"
-    }, 
-    {       
-      "name": "Furia Theodosia",
-      "op_id": 7545,
-      "date": "2016-03-23"
-    }, 
+    },  
     {       
       "name": "Giovan Donado",
       "op_id": 1349,
       "date": ""
     }, 
+    {       
+      "name": "James the Archer",
+      "op_id": 9904,
+      "date": "2025-05-17"
+    },
     {       
       "name": "Jean Maurice le Marinier",
       "op_id": 3908,
@@ -265,16 +263,6 @@
       "date": "2016-11-19"
     },
     {       
-      "name": "Sigfrid",
-      "op_id": 11779,
-      "date": "2023-11-18"
-    },
-    {       
-      "name": "Talia de Morales",
-      "op_id": 9708,
-      "date": "2021-09-25"
-    },
-    {       
       "name": "Virginie de Champagne",
       "op_id": 12071,
       "date": "2024-08-05"
@@ -307,11 +295,6 @@
       "date": "2023-07-08"
     }, 
     {       
-      "name": "Elphin ap Dafyd",
-      "op_id": 3589,
-      "date": "2007-08-25"
-    },
-    {       
       "name": "Etain of Sutherland",
       "op_id": 1175,
       "date": "2016-01-06"
@@ -321,6 +304,11 @@
       "op_id": 9837,     
       "date": "2024-04-06"
     }, 
+    {       
+      "name": "Furia Theodosia",
+      "op_id": 7545,
+      "date": "2025-05-04"
+    },
     {       
       "name": "Geoffrey ap Clywd",
       "op_id": 1312,
@@ -342,34 +330,9 @@
       "date": "2014-11-22"
     }, 
     {       
-      "name": "Ishmael Stedfast Reed",
-      "op_id": 9407,
-      "date": "2020-02-08"
-    }, 
-    {       
-      "name": "Iskender Bey al-Istanbuli",
-      "op_id": 115,
-      "date": "2002-09-07"
-    }, 
-    {       
-      "name": "Jean Claude de Calais",
-      "op_id": 1661,
-      "date": "2007-03-24"
-    },
-    {       
       "name": "Jane (Jenny) Trent",
       "op_id": 5150,
       "date": "1989-12-02"
-    },
-    {       
-      "name": "Johann Caldron (Coldiron)",
-      "op_id": 1696,
-      "date": "2016-02-27"
-    }, 
-    {       
-      "name": "Joselin d'outremer",
-      "op_id": 3357,
-      "date": "2019-03-23"
     }, 
     {       
       "name": "Marcellus Capoziello da Napoli",
@@ -397,6 +360,11 @@
       "date": "2023-02-11"
     }, 
     {       
+      "name": "Nicolosa de Misura",
+      "op_id": 3971,
+      "date": "2025-02-22"
+    },
+    {       
       "name": "Nyvein bat Rav Adam",
       "op_id": 8543,
       "date": "2024-03-02"
@@ -412,14 +380,19 @@
       "date": "2017-02-11"
     }, 
     {       
+      "name": "Sigrid of Isenfir",
+      "op_id": 11779,
+      "date": "2025-02-22"
+    },
+    {       
       "name": "Steffan Glüer von Musbach",
       "op_id": 9091,
       "date": "2023-01-21"      
-    }, 
+    },
     {       
-      "name": "Tiberius Aufidius Crispus",
-      "op_id": 8889,
-      "date": "2024-04-06"     
+      "name": "Talia de Morales",
+      "op_id": 9708,
+      "date": "2025-31-05"
     },
     {       
       "name": "Ulfarr Refskegg",
@@ -434,16 +407,6 @@
       "name": "Yrsa Eds dottir",
       "op_id": 3296,
       "date": "2014-10-18"
-    },
-    {       
-      "name": "Nicolosa de Misura",
-      "op_id": 3971,
-      "date": "2025-02-22"
-    },
-    {       
-      "name": "Sigrid of Isenfir",
-      "op_id": 11779,
-      "date": "2025-02-22"
     },
     {
       "name": "Yuri Murasaki",
@@ -473,7 +436,7 @@
       "date": "2020-11-14"
     }, 
     {
-      "name": "Caitilin ingheah Fheichin",
+      "name": "Caitilin Inghean Fheichin",
       "op_id": 7049,
       "date": "2016-03-17"
     }, 
@@ -498,14 +461,14 @@
       "date": "2016-03-16"
     },
     {       
-      "name": "Ffernfael of Carleon", 
+      "name": "Elphin ap Dafyd",
+      "op_id": 3589,
+      "date": "2025-03-29"
+    },
+    {       
+      "name": "Ffernfael of Caerleon", 
       "op_id": 8623,
       "date": "2023-06-03"
-    }, 
-    {       
-      "name": "Geoffrey Gamble",
-      "op_id": 1367,
-      "date": "2023-02-18"
     }, 
     {
       "name": "Giacomo Luciano Saviour Vincènti di Firenze",
@@ -513,12 +476,37 @@
       "date": "2015-05-02"
     },
     {       
+      "name": "Iskender Bey al-Istanbuli",
+      "op_id": 115,
+      "date": "2025-03-01"
+    },
+    {       
+      "name": "Ishmael Stedfast Reed",
+      "op_id": 9407,
+      "date": "2025-03-29"
+    },
+    {       
       "name": "Jacques Gonse",
       "op_id": 11028,
       "date": "2024-03-23"
     }, 
+    {       
+      "name": "Jean Claude de Calais",
+      "op_id": 1661,
+      "date": "2025-05-24"
+    },
+    {       
+      "name": "Johann Caldron (Coldiron)",
+      "op_id": 1696,
+      "date": "2024-08-05"
+    },
+    {       
+      "name": "Joscelin d’Outremer",
+      "op_id": 3357,
+      "date": "2024-03-23"
+    }, 
     {
-      "name": "Letia Thistlethwyt",
+      "name": "Letia Thistelthueyt",
       "op_id": 3725,
       "date": "2020-02-12"
     }, 
