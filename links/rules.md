@@ -4,9 +4,8 @@ title: Links - Rapier Rules for the Known World
 
 ## Our rules
 
-* [SCA Rapier Handbook](http://sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf)
-* [Appendix 5 - Current approved blades list](http://sca.org/officers/marshal/docs/rapier/bladetypes.pdf)
-* [Atlantia](http://rapier.atlantia.sca.org/rules/)
+* [SCA Rapier Handbook](https://www.sca.org/wp-content/uploads/2024/01/Fencing-Marshals-Handbook_Jan2024.pdf)
+* [Atlantia](https://marshal.atlantia.sca.org/rapier/)
 
 ## Other Kingdoms
 
