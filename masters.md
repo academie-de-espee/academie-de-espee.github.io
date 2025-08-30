@@ -25,9 +25,9 @@ title: Roster of Masters
   <td>
      
     {% if item.op_id != null %}
-       <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}">
+       <a href="https://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}">
     {% elsif person.op_id != null %}
-       <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}">
+       <a href="https://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}">
     {% endif %}
     
     {% if byop.title != null %} 

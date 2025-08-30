@@ -34,7 +34,7 @@ to_remove = ['THL']
 def get_title(op_id):
     try:
         text = requests.get(
-            "http://op.atlantia.sca.org/op_ind.php?atlantian_id=%d" % op_id
+            "https://op.atlantia.sca.org/op_ind.php?atlantian_id=%d" % op_id
         ).text
         soup = BeautifulSoup(text, "html.parser")
         p = soup.find_all("p")[6]
@@ -91,7 +91,7 @@ def missing_titles(data):
     return data
 
 
-text = requests.get("http://op.atlantia.sca.org/atlantian_op.php").text
+text = requests.get("https://op.atlantia.sca.org/atlantian_op.php").text
 # with open('/tmp/atlantian_op.php', 'r') as fh:
 #    text = fh.read()
 soup = BeautifulSoup(text, "html.parser")
@@ -109,7 +109,7 @@ for link in table.find_all("a"):
 
 people = do_titles(people)
 
-text = requests.get("http://op.atlantia.sca.org/roa.php?printable=1").text
+text = requests.get("https://op.atlantia.sca.org/roa.php?printable=1").text
 # with open('/tmp/roa.php?printable=1', 'r') as fh:
 #    text = fh.read()
 soup = BeautifulSoup(text, "html.parser")

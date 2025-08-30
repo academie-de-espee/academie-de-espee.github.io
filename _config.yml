@@ -3,7 +3,7 @@ name: Academie d'Espee
 description: Kingdom of Atlantia
 sass:
     style: :compressed
-url: http://www.academiedespee.com/
+url: https://www.academiedespee.com/
 highlighter: rouge
 markdown: kramdown
 excerpt_separator: <!-- more -->

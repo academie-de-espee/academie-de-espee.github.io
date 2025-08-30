@@ -20,7 +20,7 @@ title: Roster of Provosts
     {% if item.provost == false %} {% continue %} {% endif %}
     {% assign person = site.data.op[item.op_id] %}
 <tr>
-    <td> <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}"> {{ person.title }} {{ name }} </a> </td>
+    <td> <a href="https://op.atlantia.sca.org/op_ind.php?atlantian_id={{item.op_id}}"> {{ person.title }} {{ name }} </a> </td>
     <td> {{ item.date }} </td>
     <td> {{ item.event }} </td>
     <td> {{ item.monarchs }} </td>

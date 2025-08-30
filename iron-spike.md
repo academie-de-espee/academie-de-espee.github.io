@@ -16,7 +16,7 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
 {% assign name = latest.name %}
 {% assign person = site.data.people[name] %}
 
-{% if person.op_id != null %} <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}"> {% endif %}
+{% if person.op_id != null %} <a href="https://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}"> {% endif %}
 {{ person.title }} {{ name }}
 {% if person.op_id != null %} </a> {% endif %}
 
@@ -44,7 +44,7 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
 <tr>
     <td> {{ forloop.index }} </td>
     <td>
-    {% if person.op_id != null %} <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}"> {% endif %}
+    {% if person.op_id != null %} <a href="https://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}"> {% endif %}
     {{ person.title }} {{ item.name }}
     {% if person.op_id != null %} </a> {% endif %}
     </td>
@@ -79,7 +79,7 @@ The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Bu
         {% assign person = site.data.people[name] %}
         <tr>
             <td>
-            {% if person.op_id != null %} <a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}"> {% endif %}
+            {% if person.op_id != null %} <a href="https://op.atlantia.sca.org/op_ind.php?atlantian_id={{person.op_id}}"> {% endif %}
             {{ person.title }} {{ name }}
             {% if person.op_id != null %} </a> {% endif %}
             </td>

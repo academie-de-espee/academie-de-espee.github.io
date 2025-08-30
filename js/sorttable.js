@@ -2,7 +2,7 @@
   SortTable
   version 2
   7th April 2007
-  Stuart Langridge, http://www.kryogenix.org/code/browser/sorttable/
+  Stuart Langridge, https://www.kryogenix.org/code/browser/sorttable/
 
   Instructions:
   Download this file
@@ -11,7 +11,7 @@
   Click on the headers to sort
 
   Thanks to many, many people for contributions and suggestions.
-  Licenced as X11: http://www.kryogenix.org/code/browser/licence.html
+  Licenced as X11: https://www.kryogenix.org/code/browser/licence.html
   This basically means: do what you want with it.
 */
 
@@ -169,7 +169,7 @@ sorttable = {
     for (var i=0; i<table.tBodies[0].rows.length; i++) {
       text = sorttable.getInnerText(table.tBodies[0].rows[i].cells[column]);
       if (text != '') {
-        if (text.match(/^-?[£$¤]?[\d,.]+%?$/)) {
+        if (text.match(/^-?[ï¿½$ï¿½]?[\d,.]+%?$/)) {
           return sorttable.sort_numeric;
         }
         // check for a date: dd/mm/yyyy or dd/mm/yy
@@ -303,7 +303,7 @@ sorttable = {
 
   shaker_sort: function(list, comp_func) {
     // A stable sort function to allow multi-level sorting of data
-    // see: http://en.wikipedia.org/wiki/Cocktail_sort
+    // see: https://en.wikipedia.org/wiki/Cocktail_sort
     // thanks to Joseph Nahmias
     var b = 0;
     var t = list.length - 1;
@@ -371,7 +371,7 @@ window.onload = sorttable.init;
 // written by Dean Edwards, 2005
 // with input from Tino Zijdel, Matthias Miller, Diego Perini
 
-// http://dean.edwards.name/weblog/2005/10/add-event/
+// https://dean.edwards.name/weblog/2005/10/add-event/
 
 function dean_addEvent(element, type, handler) {
 	if (element.addEventListener) {
@@ -439,11 +439,11 @@ fixEvent.stopPropagation = function() {
   this.cancelBubble = true;
 }
 
-// Dean's forEach: http://dean.edwards.name/base/forEach.js
+// Dean's forEach: https://dean.edwards.name/base/forEach.js
 /*
 	forEach, version 1.0
 	Copyright 2006, Dean Edwards
-	License: http://www.opensource.org/licenses/mit-license.php
+	License: https://www.opensource.org/licenses/mit-license.php
 */
 
 // array-like enumeration
