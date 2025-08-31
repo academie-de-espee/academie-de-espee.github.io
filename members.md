@@ -19,7 +19,7 @@ title: Roster of Members
 	<td>
 
     		{% if entry.op_id != null %}
-       			<a href="sop.atlantia.sca.org/op_ind.php?atlantian_id={{entry.op_id}}">
+       			<a href="http://op.atlantia.sca.org/op_ind.php?atlantian_id={{entry.op_id}}">
     		{% endif %}
 		{{ entry.name }}
     		{% if entry.op_id != null %}

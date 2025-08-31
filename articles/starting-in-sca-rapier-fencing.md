@@ -51,7 +51,7 @@ The Academie d’Espee aims to enhance skills and camaraderie within the rapier 
 * Develop ceremonial recognition of advancements within the Academie d’Espee.
 * Coordinate activities that contribute to Atlantia in varied and impactful ways.
 
-For more details, check out the [Academie’s Facebook group](https://www.facebook.com/groups/AcademiedEspee).
+For more details, check out the [Academie’s Facebook group](https://www.facebook.com/groups/608693275816448).
 
 ### Quick Differences Between Practices And Events
 
@@ -311,7 +311,7 @@ With the participation of:
 #### Academie d’Espee Links
 
 * [Academie d’Espee Official Site](https://www.academiedespee.com/)
-* Academie d’Espee on [Facebook Group](https://www.facebook.com/groups/AcademiedEspee) - A community group for members of the * Academie d’Espee guild.
+* Academie d’Espee on [Facebook Group](https://www.facebook.com/groups/608693275816448) - A community group for members of the * Academie d’Espee guild.
 
 #### Additional Resources
 

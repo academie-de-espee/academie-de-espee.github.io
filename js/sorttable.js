@@ -2,7 +2,7 @@
   SortTable
   version 2
   7th April 2007
-  Stuart Langridge, https://www.kryogenix.org/code/browser/sorttable/
+  Stuart Langridge, http://www.kryogenix.org/code/browser/sorttable/
 
   Instructions:
   Download this file
@@ -11,7 +11,7 @@
   Click on the headers to sort
 
   Thanks to many, many people for contributions and suggestions.
-  Licenced as X11: https://www.kryogenix.org/code/browser/licence.html
+  Licenced as X11: http://www.kryogenix.org/code/browser/licence.html
   This basically means: do what you want with it.
 */
 
@@ -371,7 +371,7 @@ window.onload = sorttable.init;
 // written by Dean Edwards, 2005
 // with input from Tino Zijdel, Matthias Miller, Diego Perini
 
-// https://dean.edwards.name/weblog/2005/10/add-event/
+// http://dean.edwards.name/weblog/2005/10/add-event/
 
 function dean_addEvent(element, type, handler) {
 	if (element.addEventListener) {
@@ -439,11 +439,11 @@ fixEvent.stopPropagation = function() {
   this.cancelBubble = true;
 }
 
-// Dean's forEach: https://dean.edwards.name/base/forEach.js
+// Dean's forEach: http://dean.edwards.name/base/forEach.js
 /*
 	forEach, version 1.0
 	Copyright 2006, Dean Edwards
-	License: https://www.opensource.org/licenses/mit-license.php
+	License: http://www.opensource.org/licenses/mit-license.php
 */
 
 // array-like enumeration
