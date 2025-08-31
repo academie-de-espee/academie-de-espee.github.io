@@ -2,6 +2,8 @@
 title: Links - Merchants
 ---
 
+Some of the links below are presently broken. We are working to restore them, and thank you for your patience.
+
 * [Darkwood Armories](https://www.darkwoodarmory.com/)
 * Scottie Armory (Link not available)
 * [Syke's Sutlery](https://www.sykesutler.com/)

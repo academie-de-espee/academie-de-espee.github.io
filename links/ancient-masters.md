@@ -2,10 +2,12 @@
 title: Links - Ancient Masters
 ---
 
+Some of the links below are presently broken. We are working to restore them, and thank you for your patience.
+
 * [Paradoxes of Defense](https://www.pbm.com/~lindahl/paradoxes.html) - by George Silver (1599)
 * [Brief Instructions](https://www.pbm.com/~lindahl/brief.html) - by George Silver (1599)
-* His Practise, The First Book - by Vincentio Saviolo (1595) (Link not available)
-* His True Arte of Defence - by Giacomo Di Grassi (1594) (Link not available)
+* His Practise, The First Book - by Vincentio Saviolo (1595) <!-- (http://www.cs.unc.edu/~hudson/saviolo/) -->(Link not available)
+* His True Arte of Defence - by Giacomo Di Grassi (1594) <!-- (http://www.cs.unc.edu/~hudson/digrassi/) -->(Link not available)
 * [Traite D'Escrime](http://jan.ucc.nau.edu/~wew/fencing/lovino.html) - by Gio. Antonio Lovino (1580)
 * [Weapon Seizures](http://jan.ucc.nau.edu/~wew/fencing/seizures.html) - by Achille Marozzo (1536)
 * [The Book of the Courtier](https://darkwing.uoregon.edu/~rbear/courtier/courtier.html) - Trans. by Sir Thomas Hoby (1561)
@@ -14,9 +16,9 @@ title: Links - Ancient Masters
 * [The Four Dialogues of True Skill](https://jan.ucc.nau.edu/~wew/fencing/caranza.html) - by Jeronimo de Caranza (1569)
 * [Dell'arte di scrimia](https://jan.ucc.nau.edu/~wew/fencing/agrippa/agrippa_illus.html) - by Giovannia Dell'Agocchie (1572)
 * [Traite Contenant les Secrets du Premier Livre sur l'Espee Seule etc](https://jan.ucc.nau.edu/~wew/fencing/didier.htm) - by Sainct Didier (1573)
-* New Kunstliches Fechtbuch - by Jakob Sutor (1617)  (Link not available)
+* New Kunstliches Fechtbuch - by Jakob Sutor (1617) <!-- (http://fs.spinfo.uni-koeln.de/~dieke/Sutor/) -->(Link not available)
 * [The Teachings of Marozzo](https://jan.ucc.nau.edu/~wew/other/gr/)
-* Terminology Table from Rapier-1 list  (Link not available)
+* Terminology Table from Rapier-1 list <!-- (http://www.sonic.net/~willena/TermChart3_02.html) -->(Link not available)
 * [The Private Schoole of Defense](http://www.thehaca.com/Manuals/FullPSoDtext.htm) - by George Hale (1614)
 * [Pallas Armata - The Gentleman's Armory - Book One, Part One](http://www.thehaca.com/pallas.htm) - (1639)
 * [Pallas Armata - The Gentleman's Armory - Book One, Part Two](http://www.thehaca.com/pallas2.htm) - (1639)

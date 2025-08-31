@@ -2,6 +2,8 @@
 title: Other Places to Visits
 ---
 
+Some of the links below are presently broken. We are working to restore them, and thank you for your patience.
+
 * [Society for Creative Anachronism](https://www.sca.org)
 * [Kingdom of Atlantia](https://atlantia.sca.org/)
 * [Kingdom Arms Test](http://www.hevanet.com/russell/kingtest.html)
