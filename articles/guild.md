@@ -2,7 +2,7 @@
 title: The Atlantian Rapier Guild Structure
 ---
 
-The Atlantian "guild" structure is loosely modeled after that of the London Master's of Defense.  It has gone through several changes from its inception and is a mix of completely unofficial "internal" rankings and a Kingdom level armigerous award.  Each rank is denoted by the wearing of a scarf, usually around the left shoulder or upper arm.  As most of this is completely unofficial, no one is required to participate but there is currently an extremely high level of involvement amongst all authorized rapier fighters.
+The Atlantian "guild" structure is loosely modeled after that of the London Master's of Defense <!-- (http://www.iceweasel.org/lmod.html) -->.  It has gone through several changes from its inception and is a mix of completely unofficial "internal" rankings and a Kingdom level armigerous award.  Each rank is denoted by the wearing of a scarf, usually around the left shoulder or upper arm.  As most of this is completely unofficial, no one is required to participate but there is currently an extremely high level of involvement amongst all authorized rapier fighters.
 
 Note that these are not titles but ranks.  Thus in proper use, they would appear *after* a gentle's name and not before.  If you want to be formal, I would be addressed as "Baron Aedan Aylwyn, Provost" and not "Provost Aedan" (and in my case, please NEVER "Don Aedan").
 
