@@ -11,7 +11,7 @@ Some of the links below are presently broken. We are working to restore them, an
 
 ## Other Kingdoms
 
-* Aethelmearc (Link not available)
+* Aethelmearc <!-- (http://www.aerapier.org/AE%20fencing%20policies%20-%20Sept%202008.pdf) -->(Link not available)
 * [Ansteorra](https://marshal.ansteorra.org/handbook/Complete%20Participant%27s%20Handbook%20Aug%202008.pdf)
 * [An Tir](https://antirsca.sharepoint.com/sites/library/Documents/Forms/AllItems.aspx?id=%2Fsites%2Flibrary%2FDocuments%2FMarshallate%20%20Public%20Web%20Documents%2FRapier%2FAnTir%5FBook%5Fof%5FRapier%5FCombat%2Epdf&parent=%2Fsites%2Flibrary%2FDocuments%2FMarshallate%20%20Public%20Web%20Documents%2FRapier&p=true&ga=1)
 * [Artemesia](http://www.artemisia.sca.org/marshallate/marshal.htm#rapier)
@@ -21,7 +21,7 @@ Some of the links below are presently broken. We are working to restore them, an
 * [Drachenwald](https://drachenwald.sca.org/offices/fencing-marshal/files/fencing_rules.pdf)
 * [Ealdormere](http://drive.google.com/file/d/1h9ONfxRS4wni7SicQHaeMAB-CyiTR917/view?usp=sharing)
 * [East Kingdom](https://rapier.eastkingdom.org/east-kingdom-rapier-combat-rules/)
-* Gleann Abhann (Link not available)
+* Gleann Abhann <!-- (http://www.gleannabhannrapier.org/rules.html) -->(Link not available)
 * [Lochac](https://marshalwiki.sca.org.nz/wiki/index.php?title=Fencing:Fencing_Combat_Handbook)
 * [Meridies](http://www.freewebs.com/rapier/newrules/index.html)
 * [Middle Kingdom](http://news.midrealm.info/Marshal/index.php?option=com_docman&task=cat_view&gid=50&Itemid=26)
