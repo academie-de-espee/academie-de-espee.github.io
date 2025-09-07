@@ -54,7 +54,7 @@ Masters have received the “Order of Defense” award. You will sometimes see p
 
 ![My MoD Collar](/images/llwyd/MoDCollar.jpg)
 
-Participation in the Academie is completely optional. Most, but not all, Atlantian fencers participate. Not participating does not restrict you from receiving awards from the Crown, holding offices, or participating in fencing in any other way. I’ve detailed my personal standards for each of the Academie ranks and Kingdom awards at [http://baronllwyd.org/barsandroles](http://baronllwyd.org/barsandroles).
+Participation in the Academie is completely optional. Most, but not all, Atlantian fencers participate. Not participating does not restrict you from receiving awards from the Crown, holding offices, or participating in fencing in any other way. I’ve detailed my personal standards for each of the Academie ranks and Kingdom awards at [https://baronllwyd.org/barsandroles](https://baronllwyd.org/barsandroles).
 
 ### Student/Teacher Mentoring
 Some fencers choose to become formal students of other fencers. Those students are most often called "cadets" but could also be "men at arms", "ensigns", or sometimes "scholars", "free scholars", or "provosts' (in other Kingdoms that weren't already using those titles). These relationships are also completely optional and personal. I have a separate article with my thoughts on this topic. Please do not rush into becoming someone's student. Take time to get to know the person and discuss expectations. It can be very rewarding but is not the right option for everyone.

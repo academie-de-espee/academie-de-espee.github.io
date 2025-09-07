@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-a = requests.get("http://op.atlantia.sca.org/monarchs.php?printable=1&").content
+a = requests.get("https://op.atlantia.sca.org/monarchs.php?printable=1&").content
 soup = BeautifulSoup(a, "html.parser")
 table = soup("table")[0]
 tr = table.findAll("tr", recursive=False)[0]

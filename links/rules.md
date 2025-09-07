@@ -2,6 +2,8 @@
 title: Links - Rapier Rules for the Known World
 ---
 
+Some of the links below are presently broken. We are working to restore them, and thank you for your patience.
+
 ## Our rules
 
 * [SCA Rapier Handbook](https://www.sca.org/wp-content/uploads/2024/01/Fencing-Marshals-Handbook_Jan2024.pdf)
@@ -9,18 +11,18 @@ title: Links - Rapier Rules for the Known World
 
 ## Other Kingdoms
 
-* [Aethelmearc](http://www.aerapier.org/AE%20fencing%20policies%20-%20Sept%202008.pdf)
-* [Ansteorra](http://marshal.ansteorra.org/handbook/Complete%20Participant%27s%20Handbook%20Aug%202008.pdf)
-* [An Tir](http://www.antir.sca.org/Pubs/Rapier/Rapier_Rules_2007.pdf)
+* Aethelmearc <!-- (http://www.aerapier.org/AE%20fencing%20policies%20-%20Sept%202008.pdf) -->(Link not available)
+* [Ansteorra](https://marshal.ansteorra.org/handbook/Complete%20Participant%27s%20Handbook%20Aug%202008.pdf)
+* [An Tir](https://antirsca.sharepoint.com/sites/library/Documents/Forms/AllItems.aspx?id=%2Fsites%2Flibrary%2FDocuments%2FMarshallate%20%20Public%20Web%20Documents%2FRapier%2FAnTir%5FBook%5Fof%5FRapier%5FCombat%2Epdf&parent=%2Fsites%2Flibrary%2FDocuments%2FMarshallate%20%20Public%20Web%20Documents%2FRapier&p=true&ga=1)
 * [Artemesia](http://www.artemisia.sca.org/marshallate/marshal.htm#rapier)
 * [Atenveldt](http://www.atenveldt.org/LinkClick.aspx?fileticket=b%2b6TjLkaxKA%3d&tabid=82&mid=1396)
 * [Caid](http://marshal.sca-caid.org/pubs/r-handbook-20070602.pdf)
 * [Calontir](https://docs.google.com/document/d/1sKrvfIF0I5WfOkTKGUs34w48-_A4A2Hcxk1ebYvRcvM)
-* [Drachenwald](http://www.drachenwald.sca.org/files/marshal/fencing/DW_Fencerules_2007_V1.pdf)
-* [Ealdormere](http://www.ealdormere.ca/Books/Rapier%20Handbook0v4-highlight.pdf)
-* [East Kingdom](http://rapier.eastkingdom.org/DocumentCache/EK_Rapier_Rules_2008_FINAL.pdf)
-* [Gleann Abhann](http://www.gleannabhannrapier.org/rules.html)
-* [Lochac](http://sca.org.au/rapier/Lochac_Rapier_Combat_Manual_v3-0.pdf)
+* [Drachenwald](https://drachenwald.sca.org/offices/fencing-marshal/files/fencing_rules.pdf)
+* [Ealdormere](http://drive.google.com/file/d/1h9ONfxRS4wni7SicQHaeMAB-CyiTR917/view?usp=sharing)
+* [East Kingdom](https://rapier.eastkingdom.org/east-kingdom-rapier-combat-rules/)
+* Gleann Abhann <!-- (http://www.gleannabhannrapier.org/rules.html) -->(Link not available)
+* [Lochac](https://marshalwiki.sca.org.nz/wiki/index.php?title=Fencing:Fencing_Combat_Handbook)
 * [Meridies](http://www.freewebs.com/rapier/newrules/index.html)
 * [Middle Kingdom](http://news.midrealm.info/Marshal/index.php?option=com_docman&task=cat_view&gid=50&Itemid=26)
 * [Northshield](http://web.northshield.org/officers/marshal/rapier/rapierhb.pdf)
