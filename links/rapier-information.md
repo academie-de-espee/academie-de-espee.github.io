@@ -2,8 +2,6 @@
 title: Links - Rapier Information
 ---
 
-Some of the links below are presently broken. We are working to restore them, and thank you for your patience.
-
 * [Realistic Blow Calling](https://www.academiedespee.com/articles/realistic-blow-calling/) - by Iolo FitzOwen and Christian Richard Dupre <!-- Old link (http://www.geocities.com/Area51/8370/wounds.html) - by Don Giovanni di Fiamma -->
 * [History of the Rapier](http://web.wpi.edu/academics/me/IMDC/IQP%20Website/IQPReports/2012-2013/IQP_History_of_the_Rapier.pdf) - by Robert Correa, Andrew Daudelin, Mark Fitzgibbon, and Eric Ostrom <!-- Old link (http://www.unm.edu/~shrike/rapier/histrap.html) - by Don Terrance the Arcane -->
 * [Elizabethan Fencing](http://jan.ucc.nau.edu/~wew/fencing.html) - by Master Gwylym ab Owain Tatershal
