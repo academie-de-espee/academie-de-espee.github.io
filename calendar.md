@@ -32,6 +32,10 @@ Do you want to advertise an event? Are you a member? Email [Lady Virginie de Cha
   *Apex, NC (Canton of Buckston-on-Eno)*  
   [Link to Fencing Activities](https://buckston.windmastershill.org/buckston-birthday-2025/#martial-comps)
 
+* **November 18, 6:30 PM – Monthly Open Council Meeting**  
+  *Academie d'Espee (Online)*  
+  Link available on the [Rapier Email List](https://groups.google.com/a/group.atlantia.sca.org/g/rapier) and the Atlantia Rapier Discord server.
+
 * **November 8 – Fall Crown Tournament**  
   *Courtland, VA (Barony of Marinus)*  
   [Link to Fencing Activities](https://atlantia.sca.org/calendar/)
