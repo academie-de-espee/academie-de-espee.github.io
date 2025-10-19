@@ -6,10 +6,12 @@ Here you will find the upcoming events where the members of the Academie d'Espee
 
 Do you want to advertise an event? Are you a member? Email [Lady Virginie de Champagne](mailto:vvdelaitre@gmail.com) to have your event published.
 
+---
+
 ### Winter 2025
 
-* **December 20, 2025 — Storvik Yule Revel** (Last event of the year)
-  *Cheverley, MD (Barony of Storvik)*
+* **December 20, 2025 – Storvik Yule Revel** *(Last event of the year)*  
+  *Cheverley, MD (Barony of Storvik)*  
 
 * **December 16, 2025 – 6:30 PM – Monthly Open Council Meeting**  
   *Academie d'Espee (Online)*  
@@ -17,13 +19,14 @@ Do you want to advertise an event? Are you a member? Email [Lady Virginie de Cha
 
 * **December 13, 2025 – Yule Toy Tourney**  
   *Pickens, SC (Barony of Nottinghill Coill)*  
+  [Link to Fencing Activities](https://atlantia.sca.org/calendar/)
 
 ---
 
 ### Fall 2025
 
-* **December 6, 2025 — Unevent 2025**
-  *Virtual (Kingdom of Atlantia)*
+* **December 6, 2025 – Unevent 2025**  
+  *Virtual (Kingdom of Atlantia)*  
 
 * **November 22, 2025 – Holiday Faire**  
   *Fredericksburg, VA (Barony of Stierbach)*  
@@ -33,12 +36,9 @@ Do you want to advertise an event? Are you a member? Email [Lady Virginie de Cha
   *Apex, NC (Canton of Buckston-on-Eno)*  
   [Link to Fencing Activities](https://buckston.windmastershill.org/buckston-birthday-2025/#martial-comps)
 
-* **November 18, 2025 – 6:30 PM – Monthly Open Council Meeting**  
-  *Academie d'Espee (Online)*  
-  Link available on the [Rapier Email List](https://groups.google.com/a/group.atlantia.sca.org/g/rapier) and the Atlantia Rapier Discord server.
-
 * **November 8, 2025 – Fall Crown Tournament**  
-  *Courtland, VA (Barony of Marinus)*
+  *Courtland, VA (Barony of Marinus)*  
+  [Link to Fencing Activities](https://atlantia.sca.org/calendar/)
 
 * **November 1, 2025 – A Festival of Bones**  
   *Nanjemoy, MD (Barony of Dun Carraig)*  
@@ -54,7 +54,9 @@ Do you want to advertise an event? Are you a member? Email [Lady Virginie de Cha
 
 * **October 11–19, 2025 – War of the Wings**  
   *Harmony, NC (Barony of Sacred Stone)*  
-  [Link to Fencing Activities](https://warofthewings.atlantia.sca.org/martial-activity/rapier-combat/) The Academie d'Espee hosted a hospitality tent on the fencing field.  *Academie Contact: Baroness Azza al-Shiraziyya*
+  [Link to Fencing Activities](https://warofthewings.atlantia.sca.org/martial-activity/rapier-combat/)  
+  The Academie d'Espee hosted a hospitality tent on the fencing field.  
+  *Academie Contact: Baroness Azza al-Shiraziyya*
 
 * **September 21, 2025 – University of Atlantia: Academie d’Espee Roundtable**  
   *Lynchburg, VA (Barony of Seven Hills / Online)*  
