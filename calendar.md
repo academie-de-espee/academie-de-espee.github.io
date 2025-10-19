@@ -6,22 +6,18 @@ Here you will find the upcoming events where the members of the Academie d'Espee
 
 Do you want to advertise an event? Are you a member? Email [Lady Virginie de Champagne](mailto:vvdelaitre@gmail.com) to have your event published.
 
----
-
 ### Winter 2025
 
 * **December 20 – Storvik Yule Revel** *(Last event of the year)*  
   *Cheverley, MD (Barony of Storvik)*  
 
-* **December 16 – 6:30 PM – Monthly Open Council Meeting**  
+* **December 16, 6:30 PM – Monthly Open Council Meeting**  
   *Academie d'Espee (Online)*  
   Link available on the [Rapier Email List](https://groups.google.com/a/group.atlantia.sca.org/g/rapier) and the Atlantia Rapier Discord server.
 
 * **December 13 – Yule Toy Tourney**  
   *Pickens, SC (Barony of Nottinghill Coill)*  
   [Link to Fencing Activities](https://atlantia.sca.org/calendar/)
-
----
 
 ### Fall 2025
 
@@ -48,7 +44,7 @@ Do you want to advertise an event? Are you a member? Email [Lady Virginie de Cha
   *Old Fort, NC (Canton of Haukesgate)*  
   [Link to Fencing Activities](https://sites.google.com/view/hawkwoodmemento/martial-activities)
 
-* **October 21 – 6:30 PM – Monthly Open Council Meeting**  
+* **October 21, 6:30 PM – Monthly Open Council Meeting**  
   *Academie d'Espee (Online)*  
   Link available on the [Rapier Email List](https://groups.google.com/a/group.atlantia.sca.org/g/rapier) and the Atlantia Rapier Discord server.
 
@@ -62,7 +58,7 @@ Do you want to advertise an event? Are you a member? Email [Lady Virginie de Cha
   *Lynchburg, VA (Barony of Seven Hills / Online)*  
   Online Academie Roundtable Discussion.
 
-* **September 16 – 6:30 PM – Monthly Open Council Meeting**  
+* **September 16, 6:30 PM – Monthly Open Council Meeting**  
   *Academie d'Espee (Online)*  
   See the Rapier Email List for meeting summary and updates.  
 
