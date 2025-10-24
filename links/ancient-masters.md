@@ -2,8 +2,6 @@
 title: Links - Ancient Masters
 ---
 
-Some of the links below are presently broken. We are working to restore them, and thank you for your patience.
-
 * [Paradoxes of Defense](https://www.pbm.com/~lindahl/paradoxes.html) - by George Silver (1599)
 * [Brief Instructions](https://www.pbm.com/~lindahl/brief.html) - by George Silver (1599)
 * [His Practise, The First Book](https://quod.lib.umich.edu/e/eebo2/A11537.0001.001?rgn=main;view=fulltext) - by Vincentio Saviolo (1595) <!-- Old link (http://www.cs.unc.edu/~hudson/saviolo/) -->

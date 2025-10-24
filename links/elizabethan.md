@@ -2,8 +2,6 @@
 title: Links - The Elizabethan Period
 ---
 
-Some of the links below are presently broken. We are working to restore them, and thank you for your patience.
-
 * [A Compendium of Common Knowledge about Elizabethan Times](https://www.elizabethan.org/compendium/home.html) <!-- Old link (http://renaissance.dm.net/compendium) -->
 <!-- * [A guide for Elizabethan-Jacobian Studies - Warfare and Weaponry](http://www.personal.psu.edu/faculty/p/e/peg5/weapons.html) -->
 * [Elizabethan Costuming Page](http://www.elizabethancostume.net/index.html) <!-- Old link (http://www.dnaco.net/~aleed/corsets/general.html) -->

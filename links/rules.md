@@ -2,8 +2,6 @@
 title: Links - Rapier Rules for the Known World
 ---
 
-Some of the links below are presently broken. We are working to restore them, and thank you for your patience.
-
 ## Our rules
 
 * [SCA Rapier Handbook](https://www.sca.org/wp-content/uploads/2024/01/Fencing-Marshals-Handbook_Jan2024.pdf)
