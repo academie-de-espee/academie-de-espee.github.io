@@ -9,9 +9,6 @@ Interested in joining the Academie d'Espee? Consult the information below.
 
 * [Guild Charter](charter)
 * [Bylaws](bylaws)
-
-## Guild Members
-
 * [Roster of Members](members)
 
 ## Guild Activities
@@ -20,9 +17,10 @@ Interested in joining the Academie d'Espee? Consult the information below.
 * [Blacksword Tournament](blacksword)
 * [Rapier Champions](queens-champions)
 
-## Newest Articles
+## Guild Resources
 
 * [Starting in SCA Rapier Fencing](articles/starting-in-sca-rapier-fencing/)
+* [Merch & Merchants List](links/merchants.md)
 
 ## Other sites of Interest
 
