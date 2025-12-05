@@ -31,7 +31,7 @@ For questions regarding a specific event, please contact the Academie’s design
   *Trenton, NC (Barony of Nimenefeld)*
   This year 12th Night will held a "Rapier Noblesse Oblige" tournament. [Link to Fencing Activites](https://www.12thnight.atlantia.sca.org/arts-sciences/activities-games/rapier-noblesse-oblige/)
 
-* **December 20 – Storvik Yule Revel**
+* **December 20 – Storvik Yule Revel (Canceled)**
   *Cheverley, MD (Barony of Storvik)*
 
 * **December 16, 6:30 PM – Monthly Open Council Meeting**  
