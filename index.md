@@ -27,4 +27,5 @@ Interested in joining the Academie d'Espee? Consult the information below.
 ## Other sites of Interest
 
 * [Kingdom of Atlantia Rapier Marshal's Site](https://marshal.atlantia.sca.org/rapier/)
+* [Atlantia Rapier Email List](https://groups.google.com/a/group.atlantia.sca.org/g/rapier)
 * [Blacksword Tournament - Atlantia Wiki](https://www.wiki.atlantia.sca.org/index.php?title=Blacksword_Tournament)
