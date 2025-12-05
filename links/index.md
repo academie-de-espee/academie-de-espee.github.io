@@ -9,6 +9,6 @@ title: Links
 * [Information on the Elizabethan Period](elizabethan)
 * [Other Websites To Visit](other-places)
 
-### External Links
+## External Links
 
 * [Blacksword Tournament - Atlantia Wiki](https://www.wiki.atlantia.sca.org/index.php?title=Blacksword_Tournament)

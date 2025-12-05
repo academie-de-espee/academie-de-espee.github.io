@@ -8,7 +8,7 @@ Do you want to advertise an event? Are you a member? Email [Lady Virginie de Cha
 
 For questions regarding a specific event, please contact the Academie’s designated Point of Contact (POC) listed for that event.
 
-### Winter 2025
+## Winter 2025
 
 * **January 31 — Midwinters Revel: The Way of the Pilgrim**
   *Lothian, MD (Barony of Lochemere)*
@@ -42,7 +42,7 @@ For questions regarding a specific event, please contact the Academie’s design
   *Pickens, SC (Barony of Nottinghill Coill)*  
   [Link to Fencing Activities](https://atlantia.sca.org/calendar/)
 
-### Fall 2025
+## Fall 2025
 
 * **December 6 – Unevent 2025**
   *Virtual (Kingdom of Atlantia)*
