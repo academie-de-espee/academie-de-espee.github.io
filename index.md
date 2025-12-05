@@ -20,7 +20,7 @@ Interested in joining the Academie d'Espee? Consult the information below.
 ## Guild Resources
 
 * [Starting in SCA Rapier Fencing](articles/starting-in-sca-rapier-fencing/)
-* [Merch & Merchants List](links/merchants.md)
+* [Merch & Merchants List](links/merchants)
 
 ## Other sites of Interest
 
