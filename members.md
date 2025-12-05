@@ -35,7 +35,7 @@ title: Roster of Members
 </table>
 
 
-Are you a new member of the Academie or have recently changed rank?  Send an email to [Lady Virginie de Champagne](mailto:vvdelaitre@gmail.com), or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
+Are you a new member of the Academie or have recently changed rank?  [Fill this form](https://forms.gle/Xyj8HFtUp5W8F2oy7), or make a [pull request](https://github.com/academie-de-espee/academie-de-espee.github.io/pulls).
 
 
 <script src="/js/sorttable.js"></script>
