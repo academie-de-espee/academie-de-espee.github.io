@@ -10,6 +10,13 @@ For questions regarding a specific event, please contact the Academie’s design
 
 ## Winter 2025
 
+* **February 7-8 — Winter University 2026**
+  *Kingdom of Atlantia*
+  [Register you class before January 18](https://university.atlantia.sca.org/teach.php)
+
+* **February 7 — Bright Hills Baronial Birthday**
+  *Manchester MD (Barony of Bright Hills)*
+
 * **January 31 — Midwinters Revel: The Way of the Pilgrim**
   *Lothian, MD (Barony of Lochemere)*
 
