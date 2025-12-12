@@ -12,7 +12,8 @@
       "name": "Alan of Wolfhau"
     },
     {
-      "name": "Aodh Adendra Marland"
+      "name": "Aodh Adendra Marland",
+      "op_id": 339
     },
     {
       "name": "Aurelio Vitrisoni",
@@ -52,6 +53,7 @@
     },
     {
       "name": "Duana Nicdreóilin",
+      "op_id": 12902,
       "date": "2025-11-01"
     },
     {
@@ -106,19 +108,22 @@
       "name": "Juan De Zaragosa"
     },
     {
-      "name": "Lucio Malatesta"
+      "name": "Lucio Malatesta",
+      "op_id": 10379
     },
     {
       "name": "Marcus Blackwell"
     },
     {
-      "name": "Marcus Octavius"
+      "name": "Marcus Octavius",
+      "op_id": 2108
     },
     {
       "name": "Melusha Iskrenovna"
     },
     {
-      "name": "Nezhka Orshinaia"
+      "name": "Nezhka Orshinaia",
+      "op_id": 9481
     },
     {
       "name": "Owyn De Wolfe",
@@ -126,6 +131,7 @@
     },
     {
       "name": "Pepin de Bourgogne",
+      "op_id": 4208,
       "date": "2002-02-15"
     },
     {
@@ -140,7 +146,8 @@
       "name": "Ren-Xing"
     },
     {
-      "name": "Renard Belmont"
+      "name": "Renard Belmont",
+      "op_id": 9564
     },
     {
       "name": "Rodrigo Hernandez de Toledo",
@@ -163,7 +170,8 @@
       "name": "Tibbie Crosier"
     },
     {
-      "name": "Volckhart von Landshut"
+      "name": "Volckhart von Landshut",
+      "op_id": 11622
     },
     {
       "name": "Zofia Anzelmanka",
@@ -197,8 +205,7 @@
     },
     {
       "name": "Anthonye Saker",
-      "op_id": 333,
-      "date": ""
+      "op_id": 333
     },
     {
       "name": "Aylisia De Oliveri",
@@ -207,6 +214,7 @@
     },
     {
       "name": "Blaze Frostell",
+      "op_id": 11045,
       "date": "2024-04-20"
     },
     {
@@ -230,8 +238,7 @@
     },
     {
       "name": "Giovan Donado",
-      "op_id": 1349,
-      "date": ""
+      "op_id": 1349
     },
     {
       "name": "James the Archer",
@@ -293,7 +300,7 @@
       "date": "2024-05-11"
     },
     {
-      "name": "Roland De Thompson ",
+      "name": "Roland De Thompson",
       "op_id": 9562,
       "date": "2019-03-23"
     },
@@ -330,6 +337,7 @@
     },
     {
       "name": "Caitilín inghean Uí Ruaidhrí",
+      "op_id": 9152,
       "date": "2025-06-21"
     },
     {
@@ -393,7 +401,7 @@
       "date": "2003-02-22"
     },
     {
-      "name": "Marguerite de Lyon ",
+      "name": "Marguerite de Lyon",
       "op_id": 8312,
       "date": "2019-02-23"
     },
@@ -436,11 +444,6 @@
       "name": "Sigrid of Isenfir",
       "op_id": 11779,
       "date": "2025-02-22"
-    },
-    {
-      "name": "Steffan Glüer von Musbach",
-      "op_id": 9091,
-      "date": "2023-01-21"
     },
     {
       "name": "Talia de Morales",
@@ -594,7 +597,8 @@
       "date": "2016-01-06"
     },
     {
-      "name": "Steffan Gluer von Musbach",
+      "name": "Steffan Glüer von Musbach",
+      "op_id": 9091,
       "date": "2025-09-13"
     },
     {
