@@ -10,20 +10,20 @@ For questions regarding a specific event, please contact the Academie’s design
 
 ## Winter 2025
 
-* **February 7-8 — Winter University 2026**
+* **February 7-8 — Winter University 2026**  
   *Kingdom of Atlantia*
   [Register you class before January 18](https://university.atlantia.sca.org/teach.php)
 
-* **February 7 — Bright Hills Baronial Birthday**
+* **February 7 — Bright Hills Baronial Birthday**  
   *Manchester MD (Barony of Bright Hills)*
 
-* **January 31 — Midwinters Revel: The Way of the Pilgrim**
+* **January 31 — Midwinters Revel: The Way of the Pilgrim**  
   *Lothian, MD (Barony of Lochemere)*
 
-* **January 31 — Epics of the Stone**
+* **January 31 — Epics of the Stone**  
   *Winston-Salem, NC (Barony of Sacred Stone)*
 
-* **January 24 — Ice Castles 2026/Legend of Yuki-Onna**
+* **January 24 — Ice Castles 2026/Legend of Yuki-Onna**  
   *Lynchburg, VA (Barony of Black Diamond)*
   [Link to the Fencing Activities](https://blackdiamond.atlantia.sca.org/rapier-combat/)
 
@@ -31,14 +31,14 @@ For questions regarding a specific event, please contact the Academie’s design
   *Academie d'Espee (Online)*  
   Link available on the [Rapier Email List](https://groups.google.com/a/group.atlantia.sca.org/g/rapier) and the Atlantia Rapier Discord server.
 
-* **January 17 — Nottinghill Coill Baronial Birthday XLVI**
+* **January 17 — Nottinghill Coill Baronial Birthday XLVI**  
   *Bennettsville, SC (Barony of Nottinghill Coill)*
 
-* **January 10 – Atlantian 12th Night**
+* **January 10 – Atlantian 12th Night**  
   *Trenton, NC (Barony of Nimenefeld)*
   This year 12th Night will held a "Rapier Noblesse Oblige" tournament. [Link to Fencing Activites](https://www.12thnight.atlantia.sca.org/arts-sciences/activities-games/rapier-noblesse-oblige/)
 
-* **December 20 – Storvik Yule Revel (Canceled)**
+* **December 20 – Storvik Yule Revel (Canceled)**  
   *Cheverley, MD (Barony of Storvik)*
 
 * **December 16, 6:30 PM – Monthly Open Council Meeting**  
@@ -51,7 +51,7 @@ For questions regarding a specific event, please contact the Academie’s design
 
 ## Fall 2025
 
-* **December 6 – Unevent 2025**
+* **December 6 – Unevent 2025**  
   *Virtual (Kingdom of Atlantia)*
   [Link to the official schedule](https://unevent.atlantia.sca.org/wp-content/uploads/2025/11/Unevent-2025-schedule-final.pdf)
 
