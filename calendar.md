@@ -10,22 +10,27 @@ For questions regarding a specific event, please contact the Academie’s design
 
 ## Winter 2025
 
+* **February 14 – Celebration Theodora**  
+  *Richmond, VA (Barony of Caer Mear)*  
+
+* **February 14 – Tourney of Manannan mac Lir XLIV**  
+  *Harleyville, SC (Canton of Tear-Sea's Shore)*  
+  [Link to Fencing Activities](https://atlantia.sca.org/event/?event_id=68057917)
+
 * **February 7-8 — Winter University 2026**  
   *Kingdom of Atlantia*  
-  [Register you class before January 18](https://university.atlantia.sca.org/teach.php)  
+  [Link to pre-register](https://university.atlantia.sca.org/) Pre-registration is optional this year, but recommended.
 
 * **February 7 — Bright Hills Baronial Birthday**  
   *Manchester MD (Barony of Bright Hills)*  
-
-* **January 31 — Midwinters Revel: The Way of the Pilgrim**  
-  *Lothian, MD (Barony of Lochemere)*  
+  Fencing activities have not yet be confirmed.
 
 * **January 31 — Epics of the Stone**  
   *Winston-Salem, NC (Barony of Sacred Stone)*  
+  [Link to Fencing Activities](https://atlantia.sca.org/event/?event_id=68e2c4a5)
 
-* **January 24 — Ice Castles 2026/Legend of Yuki-Onna**  
+* **January 24 — Ice Castles 2026/Legend of Yuki-Onna (Canceled)**  
   *Lynchburg, VA (Barony of Black Diamond)*  
-  [Link to the Fencing Activities](https://blackdiamond.atlantia.sca.org/rapier-combat/)  
 
 * **January 20, 6:30 PM – Monthly Open Council Meeting**  
   *Academie d'Espee (Online)*  
