@@ -4,7 +4,7 @@ title: Iron Spike
 
 At Atlantia's 30 Year Celebration, in AS 46, the Free Scholars of the Academie started a new tradition for Atlantian rapier called the Iron Spike.  Following in tradition similar to the Iron Ring of numerous kingdoms, the Iron Spike is a token that must be worn by the holder at SCA events.  The holder should accept up to 3 challenges per day at official events that allow fighting, where the the victor of 3 of 5 passes gains the honor of holding the Iron Spike.
 
-The Iron Spike was made by Lord Benjamin Lilje, and comes with a box Arghylle Buchanan, and a book provided by Lady Letia Thistelthueyt.  All challenges for the Iron Spike are recorded in the accompanying book.
+The Iron Spike was forged by Solvar and its chain was made by Lord (now Master) Benjamin Lilje,comes with a box crafted by Arghylle Buchanan, and a book hand bound by Lady (now Magistra) Letia Thistelthueyt.  All challenges for the Iron Spike are recorded in the accompanying book.
 
 {% assign total = 0 %}
 {% assign defended = 0 %}
