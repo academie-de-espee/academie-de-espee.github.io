@@ -48,7 +48,6 @@ In order to prepare for war, the Atlantian Rapier Army uses a common set of tact
 * [Top 20 Reasons Why...](/humor/top-20)
 * [Top 10 Reasons Why Rapier Is Not A Sport](/humor/top-ten-reasons)
 * [Dead Cadet Sketch](/humor/dead-cadet.htm)
-* [Why Fencing Is Better Than Sex](/humor/better-than-sex)
 * [I do not want this schlager sword](/humor/schlager-sword) - by Lady Caitlin Deirdre of Errelyn
 * [Wear Armor - a lesson for fighting](/humor/wear-armor)
 * [Drink Water - a lesson for Pennsic](/humor/drink-water)
