@@ -21,6 +21,8 @@ Interested in joining the Academie d'Espee? Consult the information below.
 ## Guild Resources
 
 * [Starting in SCA Rapier Fencing](articles/starting-in-sca-rapier-fencing/)
+* [2026/08 Poll Representatives and Bylaws](poll)
+* [Meeting Notes](meetings)
 * [Merch & Merchants List](links/merchants)
 
 ## Other sites of Interest
