@@ -39,10 +39,6 @@
       "date": "2025-05-17"
     },
     {
-      "name": "Brian de Isenfir",
-      "date": "2024-09-14"
-    },
-    {
       "name": "Charles the Bull",
       "op_id": 6253
     },
@@ -180,10 +176,6 @@
       "date": "2026-01-10"
     },
     {
-      "name": "Sage de Isenfir",
-      "date": "2024-09-14"
-    },
-    {
       "name": "Sayyida Khaula bint Isma'il ibn Mujahid al-Zarqa'"
     },
     {
@@ -310,6 +302,11 @@
       "date": "2025-06-21"
     },
     {
+      "name": "Owain O Amroth",
+      "op_id": 12723,
+      "date": "2026-11-21"
+    },
+    {
       "name": "Philip Jeger",
       "op_id": 2763,
       "date": "2007-01-13"
@@ -318,6 +315,11 @@
       "name": "Rashida al'Zarqa",
       "op_id": 9712,
       "date": "2023-09-30"
+    },
+    {
+      "name": "Rhys ap Madog o Amroth",
+      "op_id": 12724,
+      "date": "2026-11-21"
     },
     {
       "name": "Roibhilin O Grada",
