@@ -11,6 +11,7 @@ Here are numerous papers and articles written by members of the Academie d'Espee
 * [The Atlantian Rapier Guild Structure](guild) - Master Aedan Aylwyn, Provost
 * [Measures for Consideration to the Academie](guidelines)
 * [The Free Scholar: A Not So Comprehensive Look](freescholar-2) - Baron Gerlach Wiesengrund, Provost
+* [The Queen's Scarf](queens-scarf) - Master Cailin Blackwood
 * [The Role Of The Free Scholar](freescholar) - Lord Liam a'Welwyn, Free Scholar
 * [To Be A Scholar](scholar) - Baron Alejandro Mateo Ramirez y Mendoza, Preboste
 
