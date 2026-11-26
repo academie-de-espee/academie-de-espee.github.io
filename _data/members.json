@@ -2,6 +2,7 @@
   "Scholar": [
     {
       "name": "Aha de Isenfir",
+      "op_id": 12685,
       "date": "2024-09-14"
     },
     {
@@ -54,10 +55,6 @@
       "op_id": 11853
     },
     {
-      "name": "Die Fledermaus",
-      "op_id": 9457
-    },
-    {
       "name": "Duana Nicdreóilin",
       "op_id": 12902,
       "date": "2025-11-01"
@@ -65,10 +62,6 @@
     {
       "name": "Edwin Munro",
       "op_id": 11645
-    },
-    {
-      "name": "Eldreda of Lochmere",
-      "op_id": 9591
     },
     {
       "name": "Ellerete LaHouliere",
@@ -84,10 +77,6 @@
     {
       "name": "Freydis Rodmarsdottir",
       "op_id": 9981
-    },
-    {
-      "name": "Gabriel Leoson",
-      "op_id": 11219
     },
     {
       "name": "Godwin Rutherford",
@@ -119,10 +108,6 @@
     {
       "name": "Juan de Zaragoza",
       "op_id": 8906
-    },
-    {
-      "name": "Lucio Malatesta",
-      "op_id": 10379
     },
     {
       "name": "Marcus Blackwell"
@@ -210,19 +195,9 @@
       "date": "2013-05-25"
     },
     {
-      "name": "Aleksandr Tomasovič",
-      "op_id": 9704,
-      "date": "2024-05-11"
-    },
-    {
       "name": "Alonzo Falcone",
       "op_id": 8490,
       "date": "2019-01-19"
-    },
-    {
-      "name": "Alyna of the Ilex",
-      "op_id": 200,
-      "date": "2007-03-23"
     },
     {
       "name": "Anthonye Saker",
@@ -254,8 +229,18 @@
       "date": "2019-02-23"
     },
     {
+      "name": "Gabriel Leoson",
+      "op_id": 11219,
+      "date": "2026-11-07"
+    },
+    {
       "name": "Giovan Donado",
       "op_id": 1349
+    },
+    {
+      "name": "Iván Mezey",
+      "op_id": 9457,
+      "date": "2026-10-14"
     },
     {
       "name": "James the Archer",
@@ -332,6 +317,11 @@
       "date": "2016-11-19"
     },
     {
+      "name": "Tatsukawa Takeo",
+      "op_id": 8809,
+      "date": "2026-05-23"
+    },
+    {
       "name": "Virginie de Champagne",
       "op_id": 12071,
       "date": "2024-08-05"
@@ -342,6 +332,16 @@
       "name": "Aldemere Mac Rafe",
       "op_id": 105,
       "date": "2019-08-07"
+    },
+    {
+      "name": "Aleksandr Tomasovič",
+      "op_id": 9704,
+      "date": "2026-07-11"
+    },
+    {
+      "name": "Alyna of the Ilex",
+      "op_id": 200,
+      "date": "2026-05-02"
     },
     {
       "name": "Arias Velarde",
@@ -367,6 +367,11 @@
       "name": "Demetrios Argyros",
       "op_id": 11009,
       "date": "2023-07-08"
+    },
+    {
+      "name": "Eldreda of Lochmere",
+      "op_id": 9591,
+      "date": "2026-10-24"
     },
     {
       "name": "Etain of Sutherland",
@@ -409,14 +414,14 @@
       "date": "1989-12-02"
     },
     {
+      "name": "Lucio Malatesta",
+      "op_id": 10379,
+      "date": "2025-12-13"
+    },
+    {
       "name": "Marcellus Capoziello da Napoli",
       "op_id": 2102,
       "date": "2003-02-22"
-    },
-    {
-      "name": "Marguerite de Lyon",
-      "op_id": 8312,
-      "date": "2019-02-23"
     },
     {
       "name": "Melchior zum grauen Wolf",
@@ -459,7 +464,7 @@
       "date": "2017-02-11"
     },
     {
-      "name": "Sigrid of Isenfir",
+      "name": "Siegfried von Hamburg",
       "op_id": 11779,
       "date": "2025-02-22"
     },
@@ -467,11 +472,6 @@
       "name": "Talia de Morales",
       "op_id": 9708,
       "date": "2025-05-31"
-    },
-    {
-      "name": "Tiberius Aufidius Crispus *oath pending*",
-      "op_id": 8889,
-      "date": "2024-05-11"
     },
     {
       "name": "Ulfarr Refskegg",
@@ -610,6 +610,11 @@
       "date": "2018-08-06"
     },
     {
+      "name": "Marguerite de Lyon",
+      "op_id": 8312,
+      "date": "2026-04-04"
+    },
+    {
       "name": "Percival Aldridge",
       "op_id": 2481,
       "date": "2022-02-12"
@@ -628,6 +633,11 @@
       "name": "Symone de la Rochelle",
       "op_id": 7104,
       "date": "2023-05-28"
+    },
+    {
+      "name": "Tiberius Aufidius Crispus *oath pending*",
+      "op_id": 8889,
+      "date": "2024-05-11"
     }
   ]
 }
