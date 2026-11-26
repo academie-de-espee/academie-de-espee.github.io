@@ -15,6 +15,7 @@ Interested in joining the Academie d'Espee? Consult the information below.
 ## Guild Activities
 
 * [The Iron Spike](iron-spike)
+* [Brass Spike](https://docs.google.com/document/d/1RZ1pvP1u2QVELHwav-qDaD-dvELfpBV9B6W9zVrb9Fg/edit?tab=t.0)
 * [Blacksword Tournament](blacksword)
 * [Rapier Champions](queens-champions)
 
