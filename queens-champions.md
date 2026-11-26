@@ -32,7 +32,7 @@ For many years, Atlantian royalty have looked to rapier champions to support and
 
 <tr>
     <td> {{ item.reign }} </td>
-    <td> <a href='https://op.atlantia.sca.org/awards_by_reign.php?reign_id={{item.reign}}'>{{ site.data.reigns[item.reign]['year'] }}</a></td>
+    <td> <a href='https://op.atlantia.sca.org/op_awards_by_reign.php?reign_id={{item.reign}}'>{{ site.data.reigns[item.reign]['year'] }}</a></td>
     <td> {{ site.data.reigns[item.reign][reign_type] }} </td>
     <td>
     {% for i in item.opid %}
